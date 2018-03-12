@@ -1,23 +1,24 @@
 {
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
-        "1520631876": [
+        "1520891210": [
+            "crazydeals.pl",
             "dokumenty-office365.pl",
             "grupa7j.pl",
             "ipo.pl",
             "jbofilm.pl",
             "kino.pecetowiec.pl",
             "lubin.pl",
-            "newsf24.pl",
+            "newsf24.pl"
+        ],
+        "to_test": [
             "sportpl.tv",
             "streamsport.cc",
             "tvtoss.me",
             "vsport.in",
             "vstrim.pl",
             "www.bayern.munchen.pl",
-            "xxx-tube-24.pl"
-        ],
-        "to_test": [
-            "crazydeals.pl"
+            "xxx-tube-24.pl",
+            "blogmobility.pl"
         ]
     }
 }
