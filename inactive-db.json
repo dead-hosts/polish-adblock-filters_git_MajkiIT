@@ -24,11 +24,17 @@
             "kino.pecetowiec.pl",
             "livemecz.*",
             "lubin.pl",
-            "newsf24.pl"
+            "newsf24.pl",
+            "piwniczkamemow.pl",
+            "przemysl.info.pl",
+            "redir.atmcdn.pl*swf",
+            "reseton.pl",
+            "sat-elita.net.pl",
+            "sportpl.tv",
+            "static*jelonka.com",
+            "streamsport.cc"
         ],
         "to_test": [
-            "sportpl.tv",
-            "streamsport.cc",
             "vsport.in",
             "vstrim.pl",
             "www.bayern.munchen.pl",
