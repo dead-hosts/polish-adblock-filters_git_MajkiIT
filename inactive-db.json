@@ -32,13 +32,16 @@
             "sat-elita.net.pl",
             "sportpl.tv",
             "static*jelonka.com",
-            "streamsport.cc"
-        ],
-        "to_test": [
+            "streamsport.cc",
+            "videos-.jwpsrv.com",
+            "vidoza*.github.io",
             "vsport.in",
             "vstrim.pl",
+            "webcamera.*",
             "www.bayern.munchen.pl",
-            "xxx-tube-24.pl",
+            "xxx-tube-24.pl"
+        ],
+        "to_test": [
             "*cda.pl"
         ]
     }
