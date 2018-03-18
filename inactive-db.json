@@ -36,16 +36,16 @@
             "sportpl.tv",
             "static*jelonka.com",
             "streamsport.cc",
-            "torrentos.com.pl"
-        ],
-        "to_test": [
+            "torrentos.com.pl",
             "videos-.jwpsrv.com",
             "vidoza*.github.io",
             "vsport.in",
             "vstrim.pl",
             "webcamera.*",
             "www.bayern.munchen.pl",
-            "xxx-tube-24.pl",
+            "xxx-tube-24.pl"
+        ],
+        "to_test": [
             "*cda.pl"
         ]
     }
