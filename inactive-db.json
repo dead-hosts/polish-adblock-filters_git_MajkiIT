@@ -26,9 +26,8 @@
             "komediowo.pl",
             "livemecz.*",
             "lubin.pl",
-            "newsf24.pl"
-        ],
-        "to_test": [
+            "newsf24.pl",
+            "perepele.pl",
             "piwniczkamemow.pl",
             "przemysl.info.pl",
             "redir.atmcdn.pl*swf",
@@ -37,6 +36,9 @@
             "sportpl.tv",
             "static*jelonka.com",
             "streamsport.cc",
+            "torrentos.com.pl"
+        ],
+        "to_test": [
             "videos-.jwpsrv.com",
             "vidoza*.github.io",
             "vsport.in",
