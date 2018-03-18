@@ -15,9 +15,7 @@
             "cozadzien.pl",
             "crazydeals.pl",
             "dokumenty-office365.pl",
-            "dpcdn.pl"
-        ],
-        "to_test": [
+            "dpcdn.pl",
             "glogow.pl",
             "go.stirshakead.com",
             "goodrtmp.com",
@@ -25,9 +23,12 @@
             "ipo.pl",
             "jbofilm.pl",
             "kino.pecetowiec.pl",
+            "komediowo.pl",
             "livemecz.*",
             "lubin.pl",
-            "newsf24.pl",
+            "newsf24.pl"
+        ],
+        "to_test": [
             "piwniczkamemow.pl",
             "przemysl.info.pl",
             "redir.atmcdn.pl*swf",
