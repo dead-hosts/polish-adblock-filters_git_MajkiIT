@@ -15,11 +15,11 @@
             "crazydeals.pl",
             "dokumenty-office365.pl",
             "dpcdn.pl",
-            "*cda.pl"
+            "*cda.pl",
+            "glogow.pl",
+            "go.stirshakead.com"
         ],
         "to_test": [
-            "glogow.pl",
-            "go.stirshakead.com",
             "goodrtmp.com",
             "grupa7j.pl",
             "ipo.pl",
