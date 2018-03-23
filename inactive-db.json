@@ -1,24 +1,15 @@
 {
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
-        "1521755280": [
-            ".tradedoubler.com",
-            "aleefuun.pl",
-            "allegrostatic.pl",
-            "alltube.pl|whostreams.net|dekoder.ws",
-            "auto.pl",
-            "av-cdn-*.wpimg.pl",
+        "1521841740": [
             "businessclick.*",
             "cdnv.gazeta.pl",
             "click.aliexpress.com",
             "config.sensic.net",
-            "crazydeals.pl",
-            "dokumenty-office365.pl",
-            "*cda.pl",
+            "dpcdn.pl",
             "glogow.pl",
             "go.stirshakead.com",
             "goodrtmp.com",
-            "grupa7j.pl",
-            "dpcdn.pl"
+            "grupa7j.pl"
         ],
         "to_test": [
             "ipo.pl",
@@ -44,7 +35,16 @@
             "vstrim.pl",
             "webcamera.*",
             "www.bayern.munchen.pl",
-            "xxx-tube-24.pl"
+            "xxx-tube-24.pl",
+            ".tradedoubler.com",
+            "aleefuun.pl",
+            "allegrostatic.pl",
+            "alltube.pl|whostreams.net|dekoder.ws",
+            "auto.pl",
+            "av-cdn-*.wpimg.pl",
+            "crazydeals.pl",
+            "dokumenty-office365.pl",
+            "*cda.pl"
         ]
     }
 }
