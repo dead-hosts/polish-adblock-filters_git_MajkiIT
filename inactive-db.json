@@ -14,7 +14,11 @@
             "crazydeals.pl",
             "dokumenty-office365.pl",
             "dpcdn.pl",
-            "glogow.pl"
+            "glogow.pl",
+            "*cda.pl",
+            "go.stirshakead.com",
+            "goodrtmp.com",
+            "grupa7j.pl"
         ],
         "to_test": [
             "ipo.pl",
@@ -40,11 +44,7 @@
             "vstrim.pl",
             "webcamera.*",
             "www.bayern.munchen.pl",
-            "xxx-tube-24.pl",
-            "go.stirshakead.com",
-            "goodrtmp.com",
-            "grupa7j.pl",
-            "*cda.pl"
+            "xxx-tube-24.pl"
         ]
     }
 }
