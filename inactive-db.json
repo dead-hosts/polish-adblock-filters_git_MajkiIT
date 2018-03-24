@@ -17,7 +17,8 @@
             "auto.pl",
             "av-cdn-*.wpimg.pl",
             "crazydeals.pl",
-            "dokumenty-office365.pl"
+            "dokumenty-office365.pl",
+            "aleefuun.pl"
         ],
         "to_test": [
             "ipo.pl",
