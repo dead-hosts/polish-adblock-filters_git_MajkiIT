@@ -26,3 +26,7 @@
 0.0.0.0 alltube.pl|whostreams.net|dekoder.ws 
 0.0.0.0 av-cdn-*.wpimg.pl 
 0.0.0.0 businessclick.* 
+0.0.0.0 *cda.pl 
+0.0.0.0 .tradedoubler.com 
+0.0.0.0 av-cdn-*.wpimg.pl 
+0.0.0.0 businessclick.* 
