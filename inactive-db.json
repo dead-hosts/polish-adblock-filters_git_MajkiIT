@@ -17,7 +17,8 @@
             "config.sensic.net",
             "crazydeals.pl",
             "dokumenty-office365.pl",
-            "dpcdn.pl"
+            "dpcdn.pl",
+            "grupa7j.pl"
         ],
         "to_test": [
             "ipo.pl",
@@ -43,8 +44,7 @@
             "vstrim.pl",
             "webcamera.*",
             "www.bayern.munchen.pl",
-            "xxx-tube-24.pl",
-            "grupa7j.pl"
+            "xxx-tube-24.pl"
         ]
     }
 }
