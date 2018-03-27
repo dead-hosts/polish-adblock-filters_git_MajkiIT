@@ -1,8 +1,8 @@
 {
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
-        "number_of_down": 61,
-        "number_of_invalid": 24,
-        "number_of_tested": 4151,
-        "number_of_up": 4066
+        "number_of_down": 71,
+        "number_of_invalid": 28,
+        "number_of_tested": 4841,
+        "number_of_up": 4742
     }
 }
