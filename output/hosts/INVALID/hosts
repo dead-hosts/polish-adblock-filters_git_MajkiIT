@@ -1,15 +1,12 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Tue 27 Mar 19:03:36 UTC 2018 
+# Date of generation: Thu 05 Apr 22:04:28 UTC 2018 
 
 0.0.0.0 *cda.pl 
 0.0.0.0 .tradedoubler.com 
 0.0.0.0 av-cdn-*.wpimg.pl 
 0.0.0.0 businessclick.* 
-0.0.0.0 *cda.pl 
-0.0.0.0 .tradedoubler.com 
-0.0.0.0 av-cdn-*.wpimg.pl 
-0.0.0.0 businessclick.* 
-0.0.0.0 *cda.pl 
-0.0.0.0 .tradedoubler.com 
-0.0.0.0 av-cdn-*.wpimg.pl 
-0.0.0.0 businessclick.* 
+0.0.0.0 livemecz.* 
+0.0.0.0 redir.atmcdn.pl*swf 
+0.0.0.0 static*jelonka.com 
+0.0.0.0 videos-.jwpsrv.com 
+0.0.0.0 vidoza*.github.io 
