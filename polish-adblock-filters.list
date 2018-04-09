@@ -17,7 +17,7 @@ Github
 License:
 Copyright
 Najnowsza
-v.2018040702
+v.2018040905
 !
 !
 list
@@ -36,7 +36,7 @@ _baner/980x200
 /banery/*980x100
 _banery/980x200
 /banery/*980x90
-/banery/$image,domain=oknoserwis.pl|sps24.pl
+/banery/$image,domain=oknoserwis.pl|sps24.pl|www.chojnice.com
 /*300x300$image,domain=portalgwiazd.pl
 /content-generator/published/frame/generate?*frameId=*&placementId=*&guid=
 ://*.*/banery_foto/$image,domain=ki24.info|portalplock.pl|faktypilskie.pl|ddtorun.pl|ddwloclawek.pl|koronowo.net.pl|zyciesiedleckie.pl
@@ -148,7 +148,7 @@ pl
 ~wirtualnemedia.pl,~radekcholewinski.pl,~github.com
 ~zso53.pl,~katywroclawskie.pl,~rozklad-pkp.pl,~gwarant.czest.pl,~sukniaonline.pl
 popkiller.pl,tygodnikpodhalanski.pl,cnc.info.pl
-mclista.pl,bialystokonline.pl
+mclista.pl,bialystokonline.pl,ewgt.com.pl
 ~sloworegionu.pl,~4active.eu,~valida.pl,~foodprint.pl
 !
 !9
@@ -369,6 +369,7 @@ budnet.pl
 bukowskilider.pl
 bukowskilider.pl
 bukowskilider.pl
+bukowskilider.pl
 businessinsider.com.pl
 businessjournal.pl
 businessjournal.pl
@@ -409,7 +410,7 @@ centrumdruku3d.pl
 centrumxp.pl
 centrumxp.pl
 cgm.pl
-chamskie.pl
+chamskie.pl,psychiczni.pl
 chamskie.pl
 chamsko.pl
 chamsko.pl
@@ -428,6 +429,7 @@ chnnews.pl
 chojna24.pl
 chojna24.pl
 chojna24.pl
+chojnice.com
 chojnow.pl
 chomikuj.pl
 chomikuj.pl
@@ -494,6 +496,8 @@ czasdzieci.pl
 czateria.interia.pl
 czestochowanews.pl
 czestochowskie24.pl
+czluchow.com.pl
+czluchow.com.pl
 czyliwiesz.pl
 dania-dietetyczne.pl
 darkwarez.pl
@@ -518,6 +522,8 @@ dentoforum.pl
 deon.pl
 di.com.pl
 di.com.pl
+dieroten.pl
+dieroten.pl
 digi-tv.pl
 digi-tv.pl
 digi-tv.pl,satkurier.pl
@@ -535,6 +541,7 @@ dobra-mama.pl
 dobramama.pl,tablety.pl,elektroda.pl
 dobrastacja.pl
 dobrewiadomosci.net.pl
+dodajauto.pl
 dodajzdjecie.funfootball.pl
 dogry.pl
 dogry.pl
@@ -827,6 +834,7 @@ geoforum.pl
 gieldaigospodarka.pl
 gieldaigospodarka.pl
 gizchina.com.pl
+gizycko.info.pl
 glamrap.pl
 glamrap.pl
 glokalna.pl
@@ -846,6 +854,7 @@ gloswielkopolski.pl
 gloswagrowiecki.pl
 glucholazyonline.com.pl
 goal.pl,ligapolska.pl,zarabiam.com,rzeczkrotoszynska.pl,40ton.net
+godealla.pl
 goldenline.pl
 goleniowska.com
 gomoney.pl
@@ -944,6 +953,9 @@ ideagrafika.pl
 ideas2action.pl
 iitvx.pl
 igostyn.pl,ikalisz.pl,iostrowwlkp.pl,ijarocin.pl,ipleszew.pl
+igrit.pl
+igrit.pl
+igrit.pl
 ikamien.pl
 iknurow.pl
 iknurow.pl
@@ -1040,6 +1052,8 @@ jdtech.pl
 jdtech.pl
 jdtech.pl
 jdtech.pl
+jedrzejowska.net
+jedrzejowska.net
 jelonka.com
 jelonka.com
 jelonka.com,swidniczka.com,walbrzyszek.com
@@ -1117,7 +1131,6 @@ kresy.pl
 kresy.pl
 kresy.pl
 kresy.pl
-kresy.pl
 krknews.pl
 krs-online.com.pl
 krs-online.com.pl
@@ -1125,6 +1138,7 @@ krs-pobierz.pl
 kryptoholik.pl
 kryptoraport.pl
 krytykapolityczna.pl
+krzesla-biurowe.pl
 kulturaonline.pl
 kupbilet.pl
 kurier-bielski.cnm.pl
@@ -1201,7 +1215,7 @@ lubartow24.pl
 lubimyczytac.pl
 lubin.pl
 lubin.pl
-lubiehrubie.pl
+lubiehrubie.pl,hrubie.pl
 lubin.pl
 lublin112.pl
 lublin112.pl
@@ -1689,6 +1703,7 @@ portalplock.pl
 portalsamorzadowy.pl
 portalsremski.pl
 portaltatrzanski.com
+posshop.pl
 postawnaswoim.pl,forum.tweaks.pl,androidhacksgames.com,mobilegameshack4u.com,zarabiam.com,solarkurier.pl,miniskrypt.hubaiitv.pl,swirtv.czo.pl,pewnapozyczka.pl,precyl.com,przeklej.org,club4you.pl,darmowetv.pl,forum.vwgolf.pl,szuman.eu,audiostereo.pl,ogloszenia.gazeta.ie,legio24.pl,sdcv.pl,jajamioasfalt.pl,dostawcy-internetu.pl,forum.bukmacherskie.com,nasze.fm,lovekrakow.pl,mh24.pl,faktykonopne.pl,lajfy.com,disco-polo.info,pokemon-go.pl,gazeta-wiesci.pl,polskaniepodlegla.pl,lpg-forum.pl,kuszotv.pl,meczelive.tv,tablety.pl,polskatimes.pl,gazetakrakowska.pl,nacjonalista.pl,ostrowiecnews.pl,medianarodowe.com,prawy.pl,hobby-elektronika.eu,lowiczanin.info
 potplayerclub.pl
 powiatowa.info
@@ -1728,7 +1743,7 @@ profilook.pl
 profil.wp.pl
 programosy.pl
 progressforpoland.com
-progressforpoland.com,cyfrowaekonomia.pl
+progressforpoland.com,cyfrowaekonomia.pl,expresselblag.pl
 prokapitalizm.pl
 promise.com.pl
 prostaekonomia.pl
@@ -2093,12 +2108,12 @@ teleshow.wp.pl,gwiazdy.wp.pl,facet.wp.pl,kobieta.wp.pl,film.wp.pl,tech.wp.pl
 telewizjapolska24.pl
 telewizjarepublika.pl
 telewizjarepublika.pl
+telewizjarepublika.pl
 telewizor.eu
 telewizor.eu
 telewizor.eu
 temat.info,bitcoin-online.pl
 temi.pl
-tenisklub.pl
 tenisklub.pl
 terazgrodkow24.pl,prawapolityka.pl
 terazgrodkow24.pl,ziemialimanowska.pl,onalubi.pl,niestatystyczny.pl,centrumaut.pl
@@ -2156,7 +2171,7 @@ tvnwarszawa.tvn24.pl
 tvp.info
 tvp.pl
 tv.rp.pl
-tvsudecka.pl,tczewska.pl,slowopodlasia.pl,bydgoszcz.com,tvswinoujscie.pl,tygodnikoko.pl,tv-wschod.pl,inowroclaw.info.pl,korsosanockie.pl,supertydzien.pl
+tvsudecka.pl,tczewska.pl,slowopodlasia.pl,bydgoszcz.com,tvswinoujscie.pl,tygodnikoko.pl,tv-wschod.pl,inowroclaw.info.pl,korsosanockie.pl,supertydzien.pl,lokalnatelewizja.pl
 tvsudecka.pl
 tvkstella.pl
 tvswinoujscie.pl
@@ -2192,6 +2207,7 @@ tychy.info
 tygodnik.szczytno.pl
 tygodnik-krapkowicki.info
 tygodnik-krapkowicki.info
+tygodnik-rolniczy.pl
 tygodniknarodowy.pl
 tygodnikpodlaski.pl
 tygodnikpowszechny.pl
@@ -2347,7 +2363,6 @@ www.booclick.pl
 www.booclick.pl
 www.booclick.pl
 www.booclick.pl
-www.booclick.pl
 www.brief.pl
 ~www.cba.pl,cba.pl
 www.ceneo.pl
@@ -2359,6 +2374,9 @@ www.cenynaswiecie.pl
 www.cenynaswiecie.pl
 www.cenynaswiecie.pl
 www.cenynaswiecie.pl
+www.cire.pl
+www.cire.pl
+www.cire.pl
 www.chwaszczyno.pl
 www.chwaszczyno.pl
 www.ckm.pl
@@ -2798,10 +2816,7 @@ zywiecinfo.pl
 ||reklamy.s3.amazonaws.com/bcg/$image
 ||rek.www.wp.pl^
 ||repostuj.pl/static/repostujpl/arrow_right.jpg$domain=repostuj.pl
-||reseton.net/static/player/*/vast.js$script
-||reseton.pl/static/player/*/vast.js$script
 ||rtbnowads.com/$script
-||sat-elita.net.pl/images/site_banner_
 ||satkurier.pl/getRandomBanner
 ||satkurier.pl/laravel/banery/
 ||sekabet105.com/*banners*/$subdocument
@@ -2890,6 +2905,7 @@ zywiecinfo.pl
 ||wp.pl/staticad/$xmlhttprequest
 ||wp.com/niestatystyczny.pl/wp-content/uploads/*/tlo$image,domain=niestatystyczny.pl
 ||wp.com/luzyce.info/wp-content/uploads/20*/*/*.gif$image
+||wychowawcy.pl/hosting_plikow/$image
 ||www1.advice.movie.advlab.pl$object,domain=get.x-link.pl
 ||www.24opole.pl/cimg/$image
 ||www.24opole.pl/dimg/$image
@@ -2936,6 +2952,7 @@ zywiecinfo.pl
 ||www.strefawalkingdead.pl/graf/$image
 ||www.suwalki24.pl/admaster/$image
 ||www.suwalki24.pl/_uploads/*/ban_$image
+||www.suwalki.info/flash/$image
 ||www.tv.pl/images/$image,domain=www.zakumaj.pl
 ||www.uniejow.net.pl/p4banners/baner/$image,object
 ||www.viva-tv.pl/assets/gemius-*.swf$object
@@ -2964,7 +2981,7 @@ zywiecinfo.pl
 /^(http|https):\/\/www\.portel\.pl\/(?!pasaz)[-a-z0-9A-Z_%$&+=[\].]{1,200}\/[-a-z0-9A-Z_%$&+=[\]/.]{2,200}.(html|htm)/$subdocument,domain=www.portel.pl
 /^(http|https):\/\/www\.wp\.pl\/[a-zA-Z0-9-_]{50,}/$popup,domain=www.wp.pl
 /^https:\/\/[a-z]{2,14}\.wp\.pl\/[a-zA-Z0-9_-]{200,}/$script,domain=profil.wp.pl|poczta.o2.pl|nowy.tlen.pl|poczta.wp.pl
-/^https:\/\/[a-z]{2,14}\.wp\.pl\/[a-zA-Z0-9_-]{450,}/$script,domain=kafeteria.pl|twojeip.wp.pl|czat.wp.pl|wawalove.pl|niewiarygodne.pl|komorkomania.pl|pogoda.wp.pl|dladzieci.pl|dzieci.pl|gadzetomania.pl|sport.wp.pl|topnews.wp.pl|odkrywcy.pl|katalog.wp.pl|kultura.wp.pl|fotoblogia.pl|avent-ugrow.wp.pl|pudelek.pl|pudelekx.pl|nerwica.com|forum.abczdrowie.pl|pytamy.pl|ranking.abczdrowie.pl
+/^https:\/\/[a-z]{2,14}\.wp\.pl\/[a-zA-Z0-9_-]{450,}/$script,domain=kafeteria.pl|twojeip.wp.pl|czat.wp.pl|wawalove.pl|niewiarygodne.pl|komorkomania.pl|pogoda.wp.pl|dladzieci.pl|dzieci.pl|gadzetomania.pl|sport.wp.pl|topnews.wp.pl|odkrywcy.pl|katalog.wp.pl|kultura.wp.pl|fotoblogia.pl|avent-ugrow.wp.pl|pudelek.pl|pudelekx.pl|nerwica.com|forum.abczdrowie.pl|pytamy.pl|ranking.abczdrowie.pl|profil.tlen.pl
 /^https:\/\/eku24.net\/images\/slajdy\/(?!zyczenia)[a-z]{3,10}\/[a-zA-Z0-9_-]{10,50}\.jpg/$image
 /\/[0-9a-zA-Z]{5,7}\_(?!adaptiveresize)[a-z]{12,17}\_[0-9]{3,3}\x[0-9]{3,3}\.jpg$/$image,domain=www.pcworld.pl
 /^(http|https):\/\/a-o.ninja\/[\w\d]{5,10}\.js\?[a-z]{2,5}/$script
@@ -2991,7 +3008,6 @@ zywiecinfo.pl
 @@||cdntvn.pl/adscript.js$xmlhttprequest
 @@||cloud.ideabank.pl/js/libs/angular-google-plus.js$script,domain=cloud.ideabank.pl
 @@||czytadelko.pl/js/show_ads.js$script,domain=czytadelko.pl
-@@|data:text$popup,domain=cda-x.pl
 @@||diff3.smartadserver.com/diff/$object,domain=get.x-link.pl
 @@||dot.wp.pl/redir?SN=facebook_o2
 @@||emisja.contentstream.pl/_/jsonapi/?prefix=adart$domain=rmf24.pl
@@ -3239,7 +3255,6 @@ zw.pl
 @@||fm.tuba.pl^$xmlhttprequest,domain=fm.tuba.pl
 @@||gapl.hit.gemius.pl/gemiuslib.js$script,domain=auto-swiat.pl|businessinsider.com.pl|fakt.pl|forbes.pl|komputerswiat.pl|noizz.pl|onet.pl|plejada.pl|vod.pl
 @@||gapl.hit.gemius.pl/gplayer.js$script,domain=auto-swiat.pl|businessinsider.com.pl|fakt.pl|forbes.pl|komputerswiat.pl|noizz.pl|onet.pl|plejada.pl|vod.pl
-@@||grupa7j.pl/joomla/images/my/gallery_advert/$image,domain=grupa7j.pl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=games.cdn.famobi.com|grydladzieci.pl|fm.tuba.pl|wp.pl|player.pl
 @@||imged.pl/subframe/js/*/adblock-advertisement.js$script
 @@||istotne.pl^$generichide
@@ -3358,7 +3373,6 @@ sportsbox.pro
 sportsbox.pro
 tvtoss.com
 typertv.com.pl
-vsport.in
 worldsport.me
 worldsport.pro
 worldsport.pro
@@ -3385,8 +3399,6 @@ xyz,mecz.tv,ipilka.info
 ||pollster.pl^$third-party
 ||skrotymeczow.pl/media/$image
 ||smart.idmnet.pl^$third-party
-||vsport.in/ban1$image
-||vsport.in/pasek$image
 !
 !20
 ||ocs-pl.oktawave.com/v1/AUTH_2887234e-384a-4873-8bc5-405211db13a2/spidersweb/2017/12/audi-380.jpg$image
@@ -3435,7 +3447,6 @@ autocentrum.pl,demotywatory.pl,dziennik.pl,facetemjestem.pl,gala.pl,garnek.pl,gr
 ||facewatch.borec.cz^
 ||sprawdzikk.v0r.org^
 ||konkursikowo.pl^
-||potwierdzoneinfo.pl^
 ||wydawca.lead.network^
 ||kolor.oq.pl^
 ||samnumer.pl^
@@ -3470,9 +3481,9 @@ pl
 /^(http|https):\/\/[a-z.]{5,10}\.[a-z]{2,4}\/[a-z.]{3,7}\?[a-zA-Z0-9=&%-.]{100,250}/$popup,domain=centrum-dramy.pl|a-o.ninja|alltube.tv|alltube.pl|hentai-online.pl|centrum-mangi.ninja
 /^(http|https):\/\/[a-z]{5,10}\.com\/[a-zA-Z0-9+]{80,}/$subdocument,domain=embed.nowvideo.sx|cloudtime.to|darmowa-telewizja.info
 /^(http|https):\/\/[a-z.-]{5,30}\/client\?party/$script,domain=openkatalog.com
-/^(http|https):\/\/[a-zA-Z0-9]{5,10}\.[a-z]{2,10}\/[a-zA-Z0-9?_=&-.%]{50,70}/$subdocument,script,popup,domain=filmtu.pl|dekoder.ws|darmowa-tv.pl|cda-x.pl|tele-wizja.is|widestream.io
+/^(http|https):\/\/[a-zA-Z0-9]{5,10}\.[a-z]{2,10}\/[a-zA-Z0-9?_=&-.%]{50,70}/$subdocument,script,popup,domain=filmtu.pl|dekoder.ws|darmowa-tv.pl|cdax.online|tele-wizja.is|widestream.io
 /^(http|https):\/\/[a-zA-Z0-9]{5,15}\.(com|net)\/[a-z]{4,10}\/[0-9a-z.?=%A-Z-&]{60,100}/$script,popup,domain=dekoder.ws|veecast.net|darmowa-tv.pl
-/^(http|https):\/\/[a-zA-Z.0-9]{7,}\.(com|bid|info)\/[a-zA-Z]{1,}\.js/$script,domain=devil-torrents.pl|electro-torrent.pl|vidlox.tv|segos.es|fileone.tv|fili.tv|streamango.com|nasze-kino.online|vidto.pl|raptu.com|rapidvideo.com|vidfile.net|sharevideo.pl|sharing-box.cloud|vidstream.xyz|dragon-ball-super.ga|openkatalog.ml|dragon-ball-super.ga|nasze-kino.tv|kino123.pl|boxfilm.pl|cloudupload.co|allonline.pl|openload.co|cda-x.pl|dekoder.ws|abcast.net|darmowa-tv.pl|veecast.net|a-o.ninja|castto.me|centrum-dramy.pl|hentai-online.pl|centrum-mangi.ninja|openkatalog.com|shinden.pl|tele-wizja.is|ekinomaniak.tv|tele-wizja.ru|hqq.watch|whostreams.net|seriale-po-polsku.pl|virpe.com
+/^(http|https):\/\/[a-zA-Z.0-9]{7,}\.(com|bid|info)\/[a-zA-Z]{1,}\.js/$script,domain=devil-torrents.pl|electro-torrent.pl|vidlox.tv|segos.es|fileone.tv|fili.tv|streamango.com|nasze-kino.online|vidto.pl|raptu.com|rapidvideo.com|vidfile.net|sharevideo.pl|sharing-box.cloud|vidstream.xyz|dragon-ball-super.ga|openkatalog.ml|dragon-ball-super.ga|nasze-kino.tv|kino123.pl|boxfilm.pl|cloudupload.co|allonline.pl|openload.co|cdax.online|dekoder.ws|abcast.net|darmowa-tv.pl|veecast.net|a-o.ninja|castto.me|centrum-dramy.pl|hentai-online.pl|centrum-mangi.ninja|openkatalog.com|shinden.pl|tele-wizja.is|ekinomaniak.tv|tele-wizja.ru|hqq.watch|whostreams.net|seriale-po-polsku.pl|virpe.com
 /^(http|https):\/\/(?!youtube)[a-zA-Z0-9.]{5,20}\.com\/watch\?key=/$popup
 /^http:\/\/p[0-9]{6,10}\.[a-z]{5,10}\.com\/itab\/[a-z?=A-Z_0-9&]{10,}Zippyshare\.com[a-z0-9A-Z%.'-]{5,}/$popup
 /wp-content/plugins/wp-words-links-change/*$script,domain=businesstraveller.pl
@@ -3664,6 +3675,7 @@ money.pl
 @@||wpolityce24.pl/imgcache/300x250/*/uploads/news/$image
 kafeteria.pl
 @@/tagcommander/$script,domain=account.ubisoft.com
+@@/app\.erpxt\.[a-z]{2,3}\/Scripts\/Code\//
 @@||erpxt.pl/Scripts/Code/
 !
 !37
@@ -3816,7 +3828,7 @@ www.dobreprogramy.pl
 www.dobreprogramy.pl
 !
 !43
-spidersweb.pl
+spidersweb.pl,topagrar.pl
 !
 !44
 sport.pl
