@@ -17,7 +17,7 @@ Github
 License:
 Copyright
 Najnowsza
-v.2018040905
+v.2018041004
 !
 !
 list
@@ -433,6 +433,7 @@ chojnice.com
 chojnow.pl
 chomikuj.pl
 chomikuj.pl
+chorzowianin.pl
 chozoba.pl
 chroma.pl
 chrzanowski24.pl
@@ -507,6 +508,7 @@ datapremiery.pl
 dbpolska.net
 dbpolska.net
 dbpolska.net
+ddbelchatow.pl
 ddtorun.pl,ddwloclawek.pl
 ddtorun.pl,ddwloclawek.pl
 ddtorun.pl,ddwloclawek.pl
@@ -587,6 +589,7 @@ echodnia.eu
 echodnia.eu
 efilmy.tv
 egami-image.com
+eholiday.pl
 eglobalcentral.pl
 e-fvat.pl
 e-grajewo.pl
@@ -611,6 +614,7 @@ e-kursy-walut.pl
 elblag.net
 elblag.net
 elblag.net
+elektroda.pl
 elektroda.pl
 elektroda.pl
 elektroda.pl
@@ -674,6 +678,8 @@ eurogamer.pl
 eurogamer.pl
 eurogamer.pl
 evertiq.pl,tenisklub.pl
+e-warzywnictwo.pl
+e-warzywnictwo.pl
 e-widuchowa.pl
 expresselblag.pl
 expressilustrowany.pl
@@ -708,6 +714,7 @@ fcinter.pl
 fechallenge.com
 fechallenge.com
 filesdark.com
+fileland.pl
 fili.tv,fili.cc
 fili.tv,fili.cc
 fili.tv,fili.cc
@@ -900,6 +907,7 @@ gry-online.pl
 gry-online.poszkole.pl
 gry-online.poszkole.pl
 gry-online.pl
+grylogiczne.biz.pl
 gsmmaniak.pl,acermaniak.pl,activemaniak.pl,agdmaniak.pl,appmaniak.pl,blogomaniak.pl,fotomaniak.pl,gizmaniak.pl,luxmaniak.pl,mobimaniak.pl,tabletmaniak.pl
 gsmmaniak.pl
 gsmmaniak.pl
@@ -918,6 +926,7 @@ halogorlice.info
 halogorlice.info
 halogorlice.info
 halogorlice.info
+handballnews.pl
 handballnews.pl
 hdtv.com.pl
 hdtv.com.pl
@@ -1160,8 +1169,10 @@ laczynaspasja.pl
 lajfy.com
 lajfy.com
 lajfy.com
+laskonline.pl
 lawka.pl
 lawka.pl
+lebork24.info
 leczna24.pl
 leftlane.pl
 legalniewsieci.pl
@@ -1232,6 +1243,7 @@ lulek.tv
 lwowecki.info
 lwypolnocy.pl
 mackozer.myapple.pl
+magazif.com
 magazynbasista.pl,gieldaigospodarka.pl,crazynauka.pl
 magazyngitarzysta.pl
 magazynt3.pl
@@ -1289,6 +1301,7 @@ mgsm.pl
 mh24.pl
 mh24.pl
 mh24.pl,jaw.pl
+miasto-info.pl
 miastoiludzie.pl
 miastoiludzie.pl,swiatoze.pl,zarabiamykase.com.pl
 miastokolobrzeg.pl
@@ -1530,6 +1543,7 @@ oknoserwis.pl
 onlinekredyty.pl
 onepiece.com.pl
 onet.pl
+onlinesudoku.pl
 open.fm
 open.fm
 opinie.wp.pl
@@ -1544,6 +1558,7 @@ optyczne.pl
 optyczne.pl
 originals24.pl
 oscarrak.pl
+ostrowiecnr1.pl
 ostrowiecnews.pl
 ostrodanews.pl
 ostrowmaz.com
@@ -1657,6 +1672,8 @@ pogoda.dziennik.pl
 pogoda.onet.pl
 poki.pl
 polacywewloszech.com
+police24.pl
+police24.pl
 polnocna.tv
 poloniairlandia.pl
 polscygracze.pl
@@ -2210,6 +2227,7 @@ tygodnik-krapkowicki.info
 tygodnik-rolniczy.pl
 tygodniknarodowy.pl
 tygodnikpodlaski.pl
+tygodnikponidzia.pl
 tygodnikpowszechny.pl
 tygodniksanocki.pl
 tygodniksanocki.pl
@@ -2344,6 +2362,9 @@ wterenie.pl,szczecinek.com
 wterenie.pl
 wtkplay.pl
 wyspiarzniebieski.pl
+www.3trzy3.pl
+www.3trzy3.pl
+www.3trzy3.pl
 www2.payback.pl
 www2.payback.pl
 www2.payback.pl
@@ -2580,6 +2601,7 @@ zywiecinfo.pl
 ||apps5.space/$script
 ||aptekacentrum.lublin.pl/images/*1920x1080.jpg$image
 ||autotrader.pl/Resources/Images/credit-agricole/$image
+||atrexpress.com.pl/fileadmin/user_upload/grafika/baner$image
 ||avanti24.pl/pub/ips/$subdocument
 ||avanti.fashion/pub/ips/$subdocument
 ||baje.pl/rotator/show.php
@@ -2927,8 +2949,10 @@ zywiecinfo.pl
 ||www.goal.pl/ban/$image
 ||www.grymel.pl/image/subpages/*bg*.jpg$image
 ||www.js.pl/promo/iframenew.php$subdocument
+||www.infoarchitekta.pl/promocja/$image
 ||www.koscian.net/photos/adv_
 ||www.kupbon.pl/banner/$image,domain=rzeszowiak.pl
+||www.laskonline.pl/banery-reklamowe/$image
 ||www.locomobit.pl/media/sn/banner_$image
 ||www.locomobit.pl/right_mm.php$object
 ||www.maratonypolskie.pl/logo/20*/$image
@@ -3465,6 +3489,7 @@ pl
 !
 !27
 ||electro-torrent.pl/over*.js$script
+||electro-torrent.pl/java_klappe.js$script
 ||69oxt4q05.com^
 ||b54m4qbmt0b9.com^
 ||follofop.com/$subdocument,popup
@@ -3669,6 +3694,7 @@ money.pl
 !
 !36
 @@/index.php?url=$xmlhttprequest,domain=alltube.pl|alltube.tv
+@@/js/tracking/$script,domain=www.olx.pl
 @@||partneragdrtv.com.pl/temp/adrotator_filemanager/$image
 @@||reklama.gazeta.pl^$image,font,script
 @@||rentcars.pl/build/js/user-tracking.js?psv=11$script
@@ -3688,7 +3714,7 @@ kafeteria.pl
 ambassador24.pl
 autofakty.pl
 bielskiedrogi.pl
-bieznie-treningowe.pl,inforiders.pl
+bieznie-treningowe.pl,inforiders.pl,paleosmak.pl
 blogprezesa.pl,kryptowaluty.info.pl,litecoin.pl
 blogujmy24.pl,tarnow.in
 businesstraveller.pl
