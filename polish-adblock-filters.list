@@ -17,7 +17,7 @@ Github
 License:
 Copyright
 Najnowsza
-v.2018041106
+v.2018041204
 !
 !
 list
@@ -47,7 +47,7 @@ _banery/980x200
 .gomoney.pl/article
 /images/banner/$image,domain=2x45.info
 \//$image,domain=strzelecopolski.pl|kabaret.tworzymyhistorie.pl|pch24.pl|skijumping.pl|rawicz24.pl|wiadomoscihandlowe.pl|wagaciezka.com
-/\/(images|img|data)\/banners\//$image,object,domain=tsk24.pl|wschodnik.pl|nowawrzesnia.pl|glucholazyonline.com.pl|informacjelokalne.pl|muzyczneradio.com.pl|tvrep.pl|chwaszczyno.pl|msfera.pl|tygodnik-krapkowicki.info|darkplanet.pl|wroclawskiejedzenie.pl|magazyngitarzysta.pl|przegladkoninski.pl
+/\/(images|img|data|uploads)\/banners\//$image,object,domain=tsk24.pl|wschodnik.pl|nowawrzesnia.pl|glucholazyonline.com.pl|informacjelokalne.pl|muzyczneradio.com.pl|tvrep.pl|chwaszczyno.pl|msfera.pl|tygodnik-krapkowicki.info|darkplanet.pl|wroclawskiejedzenie.pl|magazyngitarzysta.pl|przegladkoninski.pl|radiopoznan.fm
 .pl/*/adds/
 .pl/*/ads/
 pl
@@ -143,7 +143,7 @@ pl
 ~przegladsportowy.pl,~playpuls.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,~gry-online.pl,~tv6.com.pl,~trojmiasto.pl,~otomoto.pl,pl
 ~przegladsportowy.pl,~playpuls.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,~gry-online.pl,~tv6.com.pl,~trojmiasto.pl,~otomoto.pl,~medonet.pl,pl
 ~timeanddate.com,~sanalmarket.com.tr
-~uk,~elton.com.ua,~alexbranding.com,~unitheme.net,~konsoleigry.pl,~megadyskont.pl
+~uk,~kraken.com,~elton.com.ua,~alexbranding.com,~unitheme.net,~konsoleigry.pl,~megadyskont.pl
 ~wuxiaworld.com,~uzywane.com,~przegladsportowy.pl,~crunchyroll.com,~nationalgeographic.com,~wpolityce.pl,~box.com,~hardcorowo.pl,~gumtree.com,~hulu.com,com,~filmweb.pl,pl
 ~wirtualnemedia.pl,~radekcholewinski.pl,~github.com
 ~zso53.pl,~katywroclawskie.pl,~rozklad-pkp.pl,~gwarant.czest.pl,~sukniaonline.pl
@@ -256,6 +256,7 @@ autocentrum.pl
 autodoradca.pl
 autofascynacje.pl
 auto.pl
+autokult.pl
 auto-swiat.pl,biala24.pl,trodatreleases.com
 autotrader.pl
 atssi.pl
@@ -378,7 +379,7 @@ businesswomanlife.pl
 businesswomanlife.pl
 businesswomanlife.pl
 bytomski.pl
-bzdura.pl
+bzdura.pl,gospodarkapodkarpacka.pl
 bzdura.pl
 cadblog.pl
 cannabisnews.pl
@@ -877,6 +878,7 @@ gorzowianin.com
 gorzowianin.com
 gosc.pl
 gosc.pl
+gospodarkapodkarpacka.pl
 gowork.pl
 gowork.pl
 gowork.pl
@@ -1038,6 +1040,8 @@ jablonka.info
 jadarhobby.pl
 jagiellonia.net
 jagodnik.pl
+jagodnik.pl
+jagodnik.pl
 jaka-komorka.pl
 jaka-komorka.pl
 jakdojade.pl
@@ -1161,6 +1165,7 @@ kurierlubelski.pl,panoramafirm.pl,farmer.pl
 kurierlubelski.pl
 kurier-nakielski.pl
 kurnik.pl
+korso.pl
 kuszotv.pl
 kutno.net.pl
 kwejk.pl
@@ -1455,6 +1460,7 @@ nczas.com
 ndie.pl
 ndie.pl
 ndie.pl
+ndie.pl
 next.gazeta.pl
 newsbook.pl
 newsbook.pl
@@ -1506,6 +1512,7 @@ nowodworski24.pl
 nowosci-mp3.eu
 nowaruda.pl
 nowaruda.info
+nowyoutsourcing.pl
 nowy.tlen.pl
 nowy.tlen.pl
 novekino.pl
@@ -1658,6 +1665,7 @@ plportal.pl
 plusforum.pl
 plusliga.pl
 poczta.gazeta.pl
+poczta.o2.pl
 poczta.onet.pl
 poczta.onet.pl
 poczta.onet.pl
@@ -1673,6 +1681,7 @@ pogoda.dziennik.pl
 pogoda.onet.pl
 poki.pl
 polacywewloszech.com
+police24.pl
 police24.pl
 police24.pl
 polnocna.tv
@@ -3586,10 +3595,6 @@ www.wp.pl
 www.wp.pl
 www.wp.pl
 www.wp.pl
-sportowefakty.wp.pl
-sportowefakty.wp.pl
-sportowefakty.wp.pl
-sportowefakty.wp.pl
 !
 pilot.wp.pl
 pilot.wp.pl
@@ -3775,7 +3780,7 @@ rynekinwestycji.pl
 rytmklawiatury.pl,chelmno.com.pl
 slupca.pl
 smartage.pl
-smartage.pl,wronieckibazar.pl,mobirank.pl,historykon.pl,wolnekonopie.org
+smartage.pl,wronieckibazar.pl,mobirank.pl,historykon.pl,wolnekonopie.org,korso.pl
 stacja-tluszcz.pl
 stopnadwadze.pl
 stopnadwadze.pl
