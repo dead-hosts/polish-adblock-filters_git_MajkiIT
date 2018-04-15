@@ -17,7 +17,7 @@ Github
 License:
 Copyright
 Najnowsza
-v.2018041301
+v.2018041506
 !
 !
 list
@@ -166,7 +166,7 @@ mclista.pl,bialystokonline.pl,ewgt.com.pl
 24pr.pl
 24wspolnota.pl
 300polityka.pl
-300polityka.pl,meczyki.pl,polskapilka24.net
+300polityka.pl,meczyki.pl,polskapilka24.net,pepsieliot.com
 3dwpraktyce.pl
 40ton.net
 4clubbers.com.pl
@@ -225,8 +225,6 @@ anime-centrum.pl
 antyweb.pl
 antyweb.pl
 antyweb.pl
-!antyweb.pl
-!antyweb.pl
 antyweb.pl
 anyfiles.pl
 anyfiles.pl
@@ -237,6 +235,7 @@ a-o.ninja
 a-o.ninja
 apynews.pl
 astratex.pl
+astronomia24.com
 astropolis.pl
 audiklub.org
 audiostereo.pl
@@ -253,6 +252,7 @@ augustyna.pl
 augustyna.pl
 autocentrum.pl
 autocentrum.pl
+automatyka.pl
 autodoradca.pl
 autofascynacje.pl
 auto.pl
@@ -921,6 +921,7 @@ gwiazdybasketu.pl
 gwint24.pl
 gwarek.com.pl
 gwiazdor.pl
+hack.pl
 haker.com.pl
 halamadrid.pl
 halamadrid.pl
@@ -1433,6 +1434,7 @@ nacjonalista.pl
 naekranie.pl
 naekranie.pl
 naekranie.pl
+!naekranie.pl
 naekranie.pl
 naklo24.pl
 nakolei.pl
@@ -1787,6 +1789,7 @@ prv.pl
 prv.pl
 przedszkola.edu.pl
 przegladoponiarski.pl
+przegladpiaseczynski.pl
 przegladkoninski.pl
 przegladsportowy.pl
 przegladsportowy.pl
@@ -1993,6 +1996,7 @@ sokolka.tv
 sokolka.tv
 speedtest.pl
 speedtest.pl
+spidersweb.pl
 spidersweb.pl
 spidersweb.pl
 spidersweb.pl
@@ -2652,6 +2656,7 @@ zywiecinfo.pl
 ||czasdzieci.home.pl/mailingi/iframe/$subdocument,domain=czasdzieci.pl
 ||czasdzieci.pl/adurl.php$popup
 ||czasdzieci.pl/_j/ad_$script
+||damdaj.pl$subdocument
 ||datalandhobby.pl/photos/gallery/$image
 ||dfp.gazeta.pl/c.servlet?cn=dfpreferrer&cv=DIRECT$xmlhttprequest,domain=www.plotek.pl
 ||disqusads.com^
@@ -3238,7 +3243,7 @@ www.plotek.pl
 www.ps4forum.pl
 vitalia.pl
 vorek.pl,shinden.pl
-vorek.pl
+vorek.pl,gry-planszowe.pl
 z4y.pl
 zamow-reklame.pl
 zetchilli.pl
@@ -3306,6 +3311,7 @@ zw.pl
 @@||mmorpg.org.pl^$generichide
 @@||myao.adocean.pl/files/js/ado.js$script,domain=planeta.fm
 @@||mybank.pl^$generichide
+@@||a-o.ninja/nevergiveafuck-ad-right.js$script
 @@||noizz.pl^$generichide
 @@||oglaszamy24.pl/js-css/reklamy/bannery/google_ads/ad/banner/adv.js$script
 @@||onet.hit.gemius.pl/*/redot.js$script,domain=auto-swiat.pl|businessinsider.com.pl|fakt.pl|forbes.pl|komputerswiat.pl|noizz.pl|onet.pl|plejada.pl|vod.pl
@@ -3347,6 +3353,7 @@ zw.pl
 !17
 cosplayjav.pl
 istotne.pl
+gry-planszowe.pl
 kurnik.pl
 mybank.pl
 mybank.pl
@@ -3866,6 +3873,7 @@ forum.dobreprogramy.pl
 forum.dobreprogramy.pl
 forum.dobreprogramy.pl
 forum.dobreprogramy.pl
+www.dobreprogramy.pl
 www.dobreprogramy.pl
 www.dobreprogramy.pl
 www.dobreprogramy.pl
