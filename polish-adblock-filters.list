@@ -17,7 +17,7 @@ Github
 License:
 Copyright
 Najnowsza
-v.2018041707
+v.2018041811
 !
 !
 list
@@ -230,9 +230,6 @@ anyfiles.pl
 anyfiles.pl
 anyfiles.pl
 anyfiles.pl
-a-o.ninja
-a-o.ninja
-a-o.ninja
 apynews.pl
 astratex.pl
 astronomia24.com
@@ -1431,6 +1428,7 @@ my-navia.pl
 mysqlperformanceblog.com
 nacjonalista.pl
 nacjonalista.pl
+naekranie.pl
 naekranie.pl
 naekranie.pl
 naekranie.pl
@@ -3028,10 +3026,11 @@ zywiecinfo.pl
 /^https:\/\/[a-z]{2,14}\.wp\.pl\/[a-zA-Z0-9_-]{450,}/$script,domain=kafeteria.pl|twojeip.wp.pl|czat.wp.pl|wawalove.pl|niewiarygodne.pl|komorkomania.pl|pogoda.wp.pl|dladzieci.pl|dzieci.pl|gadzetomania.pl|sport.wp.pl|topnews.wp.pl|odkrywcy.pl|katalog.wp.pl|kultura.wp.pl|fotoblogia.pl|avent-ugrow.wp.pl|pudelek.pl|pudelekx.pl|nerwica.com|forum.abczdrowie.pl|pytamy.pl|ranking.abczdrowie.pl|profil.tlen.pl
 /^https:\/\/eku24.net\/images\/slajdy\/(?!zyczenia)[a-z]{3,10}\/[a-zA-Z0-9_-]{10,50}\.jpg/$image
 /\/[0-9a-zA-Z]{5,7}\_(?!adaptiveresize)[a-z]{12,17}\_[0-9]{3,3}\x[0-9]{3,3}\.jpg$/$image,domain=www.pcworld.pl
-/^(http|https):\/\/a-o.ninja\/[\w\d]{5,10}\.js\?[a-z]{2,5}/$script
 /^https:\/\/v\.wpimg\.pl\/[a-zA-Z0-9]{90,100}/$image,domain=money.pl
 /^http:\/\/www\.filmweb\.pl\/[\w\W]{400,500}/$script
 /^https:\/\/[a-z.]{2,17}\.wp\.pl\/[a-zA-Z0-9_-]{450,}/$popup,domain=www.wp.pl
+/^https:\/\/cont[1-7]\.naekranie\.pl\/wp-content\/uploads\/[0-9]{4,4}\/[0-9]{2,2}\/[\w]{20,30}\.jpg/$image
+/^(http|https):\/\/a-o.ninja\/[\w\d]{5,10}\.js\?[a-z]{2,5}/$script
 !
 !12
 @@||adocean-pl.hit.gemius.pl/*/url=http://sport.tvp.pl/$popup,other
@@ -3136,7 +3135,6 @@ wpworld.pl,windowsowo.pl
 12zawodnik.pl
 24opole.pl
 24gliwice.pl,wyborkierowcow.pl,kino123.pl
-a-o.ninja
 adtaily.pl
 allekoszyk.pl
 androidbeztajemnic.com
@@ -3160,6 +3158,7 @@ gazetakrakowska.pl
 gragieldowa.pl
 ikorektor.pl
 imged.pl
+infoship.pl,infoair.pl,infobike.pl,infotram.pl,inforail.pl,transinfo.pl,infobus.pl
 ipon.pl
 istotne.pl
 jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,4free.waw.pl,imeds.pl
@@ -3277,13 +3276,16 @@ zw.pl
 !
 !16
 @@/adframe.js$script,domain=kobieceporady.pl
+@@/.*ad*/$image,domain=www.pcworld.pl
+@@/ads.js$script,domain=a-o.ninja
 @@/popunder*.js$script,domain=a-o.ninja
-@@/^(https|http):\/\/a-o\.ninja\/[\w\W]{20,100}\.js/$script
+@@/^(https|http):\/\/a-o\.ninja\/[\w\W]{30,200}\.js/$script
 @@ads$image,domain=rapidgrab.pl
-@@/adsense.js$script,domain=biznesforum.pl|optyczne.pl
+@@/adsense.js$script,domain=biznesforum.pl|optyczne.pl|a-o.ninja
 @@/ads.reklama.728x90$script,stylesheet,domain=zmianaczasu.info|antonimy.net|odmiana.net|definicja.net|krzyzowka.net|humoris.pl
-@@/advertisement*.js$script,domain=meczyki.pl|autocentrum.pl|tokfm.pl|trojmiasto.pl|superfilm.pl
+@@/advertisement*.js$script,domain=meczyki.pl|autocentrum.pl|tokfm.pl|trojmiasto.pl|superfilm.pl|a-o.ninja
 @@/showads.js$script,domain=www.eskago.pl|czasdzieci.pl|towideo.pl
+@@||a-o.ninja/a-ad-400.js$script
 @@||4free.waw.pl^$generichide
 @@||adv.wp.pl/adverts$xmlhttprequest,domain=pilot.wp.pl
 @@||adv.wp.pl/RM/Box/*/inline-videostar.js$script,domain=pilot.wp.pl
@@ -3353,6 +3355,7 @@ zw.pl
 @@||www.sc7.pl/media/graphics/sc7_468x60.png$image,domain=mynavi-expert.pl
 @@||www.telepolis.pl/js/ads_adv_telepolis_skrypt.js
 @@||zakupek.pl/wp-content/themes/zakupek/bannery/adbanner.htm$script,domain=zakupek.pl
+@@||zyciepabianic.pl^$generichide
 !
 !17
 cosplayjav.pl
@@ -3516,6 +3519,7 @@ pl
 !27
 ||electro-torrent.pl/over*.js$script
 ||electro-torrent.pl/java_klappe.js$script
+||electro-torrent.pl/resizeIframe.js$script
 ||69oxt4q05.com^
 ||b54m4qbmt0b9.com^
 ||follofop.com/$subdocument,popup
@@ -3640,6 +3644,13 @@ sportowefakty.wp.pl
 !main
 ~www.wp.pl,wp.pl
 ~www.wp.pl,wp.pl
+www.wp.pl
+www.wp.pl
+www.wp.pl
+www.wp.pl
+www.wp.pl
+www.wp.pl
+www.wp.pl
 !
 inne
 sportowefakty.wp.pl
@@ -3879,5 +3890,11 @@ avanti24.pl
 @@||reklama.shinden.eu^$image,domain=reklama.shinden.eu
 @@||s1.rtbnowads.com/ad/$subdocument,domain=shinden.pl
 shinden.pl
+!
+!46
+a-o.ninja
+a-o.ninja
+a-o.ninja
+a-o.ninja
 !
 !END
