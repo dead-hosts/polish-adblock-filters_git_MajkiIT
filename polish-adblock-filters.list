@@ -17,7 +17,7 @@ Github
 License:
 Copyright
 Najnowsza
-v.2018042006
+v.2018042206
 !
 !
 list
@@ -47,7 +47,7 @@ _banery/980x200
 .gomoney.pl/article
 /images/banner/$image,domain=2x45.info
 \//$image,domain=strzelecopolski.pl|kabaret.tworzymyhistorie.pl|pch24.pl|skijumping.pl|rawicz24.pl|wiadomoscihandlowe.pl|wagaciezka.com
-/\/(images|img|data|uploads)\/banners\//$image,object,domain=tsk24.pl|wschodnik.pl|nowawrzesnia.pl|glucholazyonline.com.pl|informacjelokalne.pl|muzyczneradio.com.pl|tvrep.pl|chwaszczyno.pl|msfera.pl|tygodnik-krapkowicki.info|darkplanet.pl|wroclawskiejedzenie.pl|magazyngitarzysta.pl|przegladkoninski.pl|radiopoznan.fm
+/\/(images|img|data|uploads)\/banners\//$image,object,domain=tsk24.pl|wschodnik.pl|nowawrzesnia.pl|glucholazyonline.com.pl|informacjelokalne.pl|muzyczneradio.com.pl|tvrep.pl|chwaszczyno.pl|msfera.pl|tygodnik-krapkowicki.info|darkplanet.pl|wroclawskiejedzenie.pl|magazyngitarzysta.pl|przegladkoninski.pl|radiopoznan.fm|fishing-test.pl
 .pl/*/adds/
 .pl/*/ads/
 pl
@@ -122,6 +122,7 @@ pl
 pl
 pl
 pl
+pl
 ~fakt.pl,pl
 ~joemonster.org
 ~kakto.pl,~agatameble.pl
@@ -139,7 +140,7 @@ pl
 ~przegladsportowy.pl,~medonet.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,pl
 ~przegladsportowy.pl,~medonet.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,pl
 ~przegladsportowy.pl,~medonet.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,pl
-24tp.pl,lca.pl
+24tp.pl,lca.pl,112tychy.pl
 ~przegladsportowy.pl,~playpuls.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,~gry-online.pl,~tv6.com.pl,~trojmiasto.pl,~otomoto.pl,pl
 ~przegladsportowy.pl,~playpuls.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,~gry-online.pl,~tv6.com.pl,~trojmiasto.pl,~otomoto.pl,~medonet.pl,pl
 ~timeanddate.com,~sanalmarket.com.tr
@@ -148,7 +149,7 @@ pl
 ~wirtualnemedia.pl,~radekcholewinski.pl,~github.com
 ~zso53.pl,~katywroclawskie.pl,~rozklad-pkp.pl,~gwarant.czest.pl,~sukniaonline.pl
 popkiller.pl,tygodnikpodhalanski.pl,cnc.info.pl
-mclista.pl,bialystokonline.pl,ewgt.com.pl
+mclista.pl,bialystokonline.pl,ewgt.com.pl,tugazeta.pl
 ~m3esolutions.com,~sloworegionu.pl,~4active.eu,~valida.pl,~foodprint.pl
 !
 !9
@@ -179,6 +180,7 @@ mclista.pl,bialystokonline.pl,ewgt.com.pl
 6obcy.com.pl
 7dni.pila.pl
 90minut.pl
+adonai.pl
 administrator24.info
 adwokat-gostkowski.pl
 afiliacje.pl
@@ -329,6 +331,7 @@ biznesalert.pl
 biznesalert.pl
 biznesforum.pl
 biznesnafali.pl,biznestuba.pl
+biznes-firma.pl
 biznes.pl
 biznes.pl
 biznestuba.pl
@@ -451,6 +454,7 @@ cksport.pl
 cksport.pl
 cksport.pl
 cmg24.pl
+cmg24.pl
 cnc.info.pl
 codziennikmlawski.pl
 codziennikmlawski.pl
@@ -520,7 +524,7 @@ defence24.pl
 demotywatory.pl
 demotywatory.pl,piekielni.pl,kotburger.pl,mklr.pl,rebelianci.org,faktopedia.pl,komixxy.pl,fabrykamemow.pl
 demotywatory.pl
-dentoforum.pl
+dentoforum.pl,perfuforum.pl
 deon.pl
 di.com.pl
 di.com.pl
@@ -614,7 +618,7 @@ eku24.net
 ekurdwanow.pl
 e-kursy-walut.pl
 elblag.net
-elblag.net
+elblag.net,zwielkopolski24.pl,gostynska.pl
 elblag.net
 elektroda.pl
 elektroda.pl
@@ -636,6 +640,7 @@ endurorider.pl
 endurorider.pl
 endurorider.pl
 endurorider.pl
+energetyka24.com
 eostroleka.pl
 eostroleka.pl
 eostroleka.pl
@@ -716,11 +721,14 @@ fcinter.pl
 fechallenge.com
 fechallenge.com
 filesdark.com
+filesdark.com
 fileland.pl
 fili.tv,fili.cc
 fili.tv,fili.cc
-fili.tv,fili.cc
+fili.tv,fili.cc,centrumdruku3d.p
 films4free.pl
+filmweb.pl
+filmweb.pl
 fishing-mart.com.pl
 flarrow.pl
 flarrow.pl
@@ -881,6 +889,7 @@ gorzowianin.com
 gosc.pl
 gosc.pl
 gospodarkapodkarpacka.pl
+gostynska.pl
 gowork.pl
 gowork.pl
 gowork.pl
@@ -924,7 +933,7 @@ gwint24.pl
 gwarek.com.pl
 gwiazdor.pl
 hack.pl
-haker.com.pl
+haker.com.pl,mojaolesnica.pl
 halamadrid.pl
 halamadrid.pl
 halogorlice.info
@@ -1093,6 +1102,7 @@ jysk.promoceny.pl
 kamienskie.info
 kanal10.pl
 kantorbitcoin.pl
+kardiolo.pl
 kawerna.pl
 katalogi.pl
 katalogsmakow.pl
@@ -1194,6 +1204,7 @@ legalniewsieci.pl
 leki.fora.pl
 lento.pl
 lento.pl
+lexus-forum.pl
 letsplej.pl,regionfan.pl
 lfc.pl
 lfc.pl
@@ -1254,6 +1265,7 @@ lubsko.pl
 lukow24.pl
 lukow24.pl,cybersport.pl
 lulek.tv
+lumier.pl
 lwowecki.info
 lwypolnocy.pl
 mackozer.myapple.pl
@@ -1386,6 +1398,9 @@ mojaolesnica.pl
 mojaolesnica.pl
 mojaolesnica.pl
 mojaolesnica.pl
+mojaolesnica.pl
+mojaolesnica.pl
+mojaolesnica.pl
 mojapogoda.com
 mojapogoda.com
 mojeauto.pl
@@ -1448,6 +1463,7 @@ naekranie.pl
 naekranie.pl
 naekranie.pl
 naekranie.pl
+naekranie.pl
 naklo24.pl
 nakolei.pl
 na-luzie.net
@@ -1458,7 +1474,7 @@ napisy24.pl
 narodowyprogram.pl
 naszafloryda.com
 naszalomza.pl
-naszamlawa.pl
+naszamlawa.pl,e-dukacja.pl,e-farmacja.net
 naszamlawa.pl
 naszamlawa.pl
 naszbrzesc.pl
@@ -1597,7 +1613,6 @@ ozoneo.pl
 ozoneo.pl
 paczamy.pl
 pan-doradca.pl
-panelradiowy.pl
 pap.edu.pl
 paranormalne.pl
 parenting.pl
@@ -1714,6 +1729,7 @@ polskieradio.com
 polskieradio.com
 polskiprzemysl.com.pl
 polski-tenis.pl
+polwro.pl
 polubione.pl
 polygamia.pl
 polygamia.pl
@@ -1741,6 +1757,7 @@ portalmedialny.pl
 portalmorski.pl
 portalmorski.pl
 portalplock.pl
+portalpszczelarski.pl
 portalsamorzadowy.pl
 portalsremski.pl
 portaltatrzanski.com
@@ -1812,6 +1829,7 @@ przegladsportowy.pl
 przegladsportowy.pl
 przegladsportowy.pl
 przekrojlokalny.pl
+przemysl24.pl
 przepisy.pl
 przyslijprzepis.pl
 przewodnicywedkarscy.pl
@@ -1831,13 +1849,14 @@ pzn.pl
 pzpm.org.pl
 pzps.pl
 q4.pl
-q4.pl,chinytolubie.pl,filmyfantastyczne.pl,dts24.pl,mragowo24.info,przemysl.info.pl,eluban.pl,wien.info,tkn24.pl,resellernews.pl,independenttrader.pl,scie24.pl,ogrodinfo.pl,zakliczyninfo.pl,kk24.pl,gieldykryptowalut.pl,odkryjbitcoin.pl,stacja7.pl,kryptoholik.pl,cashowsky.pl,historyk.eu,marihuanamedyczna.com,pcworld.pl,esanok.pl,lovekrakow.pl,swiatdronow.pl,glosgminny.pl,damitv.pl,przyjaznawarszawa.pl,ecoportal.com.pl,zd24.pl,historiasportu.info,wszczecinie.pl,forum-bron.pl,zielonydziennik.pl,mieszkaniectargowka.pl,centrumdruku3d.pl,bielski24.pl,applemobile.pl,sprawnypo40.pl,forum.dopalamy.com,cyfrowypolsatnews.pl,olsztyn.com.pl,wpolityce.pl,nasztomaszow.pl,bielskiedrogi.pl,prokapitalizm.pl,agrokapital.pl,wieliczkacity.pl,fronda.pl,krytykapolityczna.pl,zycieczestochowy.pl,aferyprawa.eu,radomnews.pl,miasto.koszalin.pl,echopowiatu.pl,24jgora.pl,elka.pl,tv28.pl,chojna24.pl,nasz-glos.com,zyciepabianic.pl,zawiercianskie.pl,wsus.pl,wronieckibazar.pl,vetopedia.pl,tustolica.pl,trawka.org,tarnobrzeskie.eu,targeo.pl,stressfree.pl,sportslaski.pl,roztocze.net,powiatowa.info,portalhodowcy.pl,podkarpackahistoria.pl,ostrowiecnews.pl,odkryjpomorze.pl,obcasypodlasia.pl,naszwodzislaw.com,naszraciborz.pl,modelwork.pl,legalnybukmacher.com,korso.pl,jaw.pl,goralpoleca.pl,gieldaklasykow.pl,fresh-market.pl,elubaczow.com,dziennikzwiazkowy.com,cire.pl,cgm.pl,barlinek24.pl,anywhere.pl,angolia.co.uk,cksport.pl,kociesprawy.pl,iknurow.pl,victoriapila.com,wcipy.pl,tarnowiak.pl,polacywewloszech.com,aktyw14.net,legionisci.com,opinieouczelniach.pl,tygodnikzamojski.pl,czasnadmorze.pl,goryonline.com,kibice.net,swiatogloszen.net.pl,wloclawek.info.pl,futbolfejs.pl,rdn.pl,gloskoninski.pl,strzelecopolski.pl,polskieradio.com,podajdalej.info.pl,belchatow.bai.pl,miastokolobrzeg.pl,stomil.olsztyn.pl,polskaniepodlegla.pl,tsk24.pl,wschodnik.pl,tvnfakty.pl,kronikatygodnia.pl,szkolasen.com,lowiczanin.info,exspace.pl,urodaizdrowie.pl,forum-norwegia.pl,chillitorun.pl,kuriergarwolinski.pl,weseleforum.pl,inwestycje-rzeszow.pl,wirtualnygarwolin.pl,nowemiasto.com.pl,motofaktor.pl,strazacki.pl,bezdroza.pl,twojeradio.fm,wpr24.pl,sanatoria.com.pl,sadownictwo.com.pl,lubliniec.info,gwarek.com.pl,calisia.pl,dsw.doba.pl,laczynaspasja.pl,klubowa.pl,businesswomanlife.pl,krasnik24.pl,lubelska.tv,forum.haszysz.com,ipragapoludnie.pl,itvm.pl,comperia.pl,kawiarniany.pl,plportal.pl,kurierzamojski.pl,roosevelta81.pl,bham.pl,pasja-informatyki.pl,tabletowo.pl,szczecinek.com,40ton.net,komputery-kalwaria.pl,mediasystem-tdi.pl,codziennikmlawski.pl,portalpszczelarski.pl,rzesport.pl,rutatour.pl,supernowosci24.pl,cyfrowaekonomia.pl,jazzarium.pl,czecho.pl,magazynvip.pl,wht.pl,gtasite.net,ciechanowinaczej.pl,wrzesnia.info.pl,zw.pl,homemag.pl,reporterzy.info,lubiehrubie.pl,salaterka.pl,extraswiecie.pl,mojejaworzno.pl,pozytywniej.pl,open.fm,animeholik.pl,inthecage.pl,pfm.pl,kuchenny.com.pl,e-kolo.pl,lowcaburzwielun.pl.tl,glokalna.pl,igostyn.pl,ikalisz.pl,iostrowwlkp.pl,ijarocin.pl,ipleszew.pl,wspolnypowiat.pl,niepoddawajsie.pl,goleniow.net.pl,voltahorse.pl,etransport.pl,miastons.pl,czadrow24.pl,laskonline.pl,ototorun.pl,gdzietymrazem.pl,e-kursy-walut.pl,warszawiak.pl,gb.pl,sanok24.pl,tvregionalna24.pl,radiozamosc.pl,wirtualnemedia.pl,przewodnik-katolicki.pl
+q4.pl,chinytolubie.pl,filmyfantastyczne.pl,dts24.pl,mragowo24.info,przemysl.info.pl,eluban.pl,wien.info,tkn24.pl,resellernews.pl,independenttrader.pl,scie24.pl,ogrodinfo.pl,zakliczyninfo.pl,kk24.pl,gieldykryptowalut.pl,odkryjbitcoin.pl,stacja7.pl,kryptoholik.pl,cashowsky.pl,historyk.eu,marihuanamedyczna.com,pcworld.pl,esanok.pl,lovekrakow.pl,swiatdronow.pl,glosgminny.pl,damitv.pl,przyjaznawarszawa.pl,ecoportal.com.pl,zd24.pl,historiasportu.info,wszczecinie.pl,forum-bron.pl,zielonydziennik.pl,mieszkaniectargowka.pl,centrumdruku3d.pl,bielski24.pl,applemobile.pl,sprawnypo40.pl,forum.dopalamy.com,cyfrowypolsatnews.pl,olsztyn.com.pl,wpolityce.pl,nasztomaszow.pl,bielskiedrogi.pl,prokapitalizm.pl,agrokapital.pl,wieliczkacity.pl,fronda.pl,krytykapolityczna.pl,zycieczestochowy.pl,aferyprawa.eu,radomnews.pl,miasto.koszalin.pl,echopowiatu.pl,24jgora.pl,elka.pl,tv28.pl,chojna24.pl,nasz-glos.com,zyciepabianic.pl,zawiercianskie.pl,wsus.pl,wronieckibazar.pl,vetopedia.pl,tustolica.pl,trawka.org,tarnobrzeskie.eu,targeo.pl,stressfree.pl,sportslaski.pl,roztocze.net,powiatowa.info,portalhodowcy.pl,podkarpackahistoria.pl,ostrowiecnews.pl,odkryjpomorze.pl,obcasypodlasia.pl,naszwodzislaw.com,naszraciborz.pl,modelwork.pl,legalnybukmacher.com,korso.pl,jaw.pl,goralpoleca.pl,gieldaklasykow.pl,fresh-market.pl,elubaczow.com,dziennikzwiazkowy.com,cire.pl,cgm.pl,barlinek24.pl,anywhere.pl,angolia.co.uk,cksport.pl,kociesprawy.pl,iknurow.pl,victoriapila.com,wcipy.pl,tarnowiak.pl,polacywewloszech.com,aktyw14.net,legionisci.com,opinieouczelniach.pl,tygodnikzamojski.pl,czasnadmorze.pl,goryonline.com,kibice.net,swiatogloszen.net.pl,wloclawek.info.pl,futbolfejs.pl,rdn.pl,gloskoninski.pl,strzelecopolski.pl,polskieradio.com,podajdalej.info.pl,belchatow.bai.pl,miastokolobrzeg.pl,stomil.olsztyn.pl,polskaniepodlegla.pl,tsk24.pl,wschodnik.pl,tvnfakty.pl,kronikatygodnia.pl,szkolasen.com,lowiczanin.info,exspace.pl,urodaizdrowie.pl,forum-norwegia.pl,chillitorun.pl,kuriergarwolinski.pl,weseleforum.pl,inwestycje-rzeszow.pl,wirtualnygarwolin.pl,nowemiasto.com.pl,motofaktor.pl,strazacki.pl,bezdroza.pl,twojeradio.fm,wpr24.pl,sanatoria.com.pl,sadownictwo.com.pl,lubliniec.info,gwarek.com.pl,calisia.pl,dsw.doba.pl,laczynaspasja.pl,klubowa.pl,businesswomanlife.pl,krasnik24.pl,lubelska.tv,forum.haszysz.com,ipragapoludnie.pl,itvm.pl,comperia.pl,kawiarniany.pl,plportal.pl,kurierzamojski.pl,roosevelta81.pl,bham.pl,pasja-informatyki.pl,tabletowo.pl,szczecinek.com,40ton.net,komputery-kalwaria.pl,mediasystem-tdi.pl,codziennikmlawski.pl,portalpszczelarski.pl,rzesport.pl,rutatour.pl,supernowosci24.pl,cyfrowaekonomia.pl,jazzarium.pl,czecho.pl,magazynvip.pl,wht.pl,gtasite.net,ciechanowinaczej.pl,wrzesnia.info.pl,zw.pl,homemag.pl,reporterzy.info,lubiehrubie.pl,salaterka.pl,extraswiecie.pl,mojejaworzno.pl,pozytywniej.pl,open.fm,animeholik.pl,inthecage.pl,pfm.pl,kuchenny.com.pl,e-kolo.pl,lowcaburzwielun.pl.tl,glokalna.pl,igostyn.pl,ikalisz.pl,iostrowwlkp.pl,ijarocin.pl,ipleszew.pl,wspolnypowiat.pl,niepoddawajsie.pl,goleniow.net.pl,voltahorse.pl,etransport.pl,miastons.pl,czadrow24.pl,laskonline.pl,ototorun.pl,gdzietymrazem.pl,e-kursy-walut.pl,warszawiak.pl,gb.pl,sanok24.pl,tvregionalna24.pl,radiozamosc.pl,wirtualnemedia.pl,przewodnik-katolicki.pl,forum-oddluzanie.pl,systemyplatnosci.com,itwiz.pl,jaslo4u.pl,awangardafutbolu.pl,racingforum.pl
 q4.pl
 q4.pl
 racjonalista.tv
 racjonalista.tv
 radio5.com.pl
 radioaoi.pl
+radio.bialystok.pl
 radiobiper.info
 radiofm-online.com
 radioftb.net
@@ -1878,8 +1897,9 @@ redbullmobile.pl
 reedukacja.pl
 regentpolski.pl
 regionfan.pl
+resinet.pl
 reklama.pl
-remiza.com.pl
+remiza.com.pl,sporteuro.pl
 reporter.pl
 reporter.pl
 reporter.pl
@@ -1997,6 +2017,7 @@ sloworegionu.pl
 sloworegionu.pl
 slubice24.pl
 slupca.pl,gry-online.pl
+slupca.pl
 sms7.pl
 sms7.pl
 sniadaniezkadra.onet.pl
@@ -2033,6 +2054,7 @@ spottedlublin.pl
 spryciarze.pl
 sprzedajemy.pl
 sprzedajemy.pl
+stalenierdzewne.pl
 stalowemiasto.pl
 starcom-ntt.com.pl
 stargard.com.pl
@@ -2135,6 +2157,7 @@ tarnow.in
 tarnow.in
 tarnobrzeskie.eu
 tarnowiak.pl
+tatromaniak.pl
 techmaniachd.pl
 techmaniachd.pl
 technologiczna.pl
@@ -2306,6 +2329,7 @@ wachamksiazki.pl
 wadowice24.pl
 wadowiceonline.pl
 wadowiceonline.pl
+wagaciezka.com
 wakai.pl
 wakai.pl
 wakai.pl
@@ -2363,6 +2387,7 @@ wizaz.pl
 wizaz.pl
 wizaz.pl
 wizaz.pl
+wizjalokalna.pl
 wizytowka.be
 wizytowka.be
 wkinie.tv
@@ -2509,7 +2534,7 @@ www.tygodnikkepinski.pl
 www.tygodnikkepinski.pl
 www.tygodnikkepinski.pl
 www.tygodnikkepinski.pl
-www.uniejow.net.pl
+www.uniejow.net.pl,sarp.org.pl
 www.wakacje.pl
 www.wiocha.pl
 www.worms.fora.pl,www.qus.fora.pl
@@ -2539,6 +2564,7 @@ zagadkidladzieci.net,odmiana.net
 zajefajna.com
 zajefajna.com
 zalukaj.tv
+zakon-ac.info
 zambrowiacy.pl
 zambrow.org
 zapytaj.onet.pl
@@ -2562,6 +2588,8 @@ zaufanatrzeciastrona.pl
 zaufanatrzeciastrona.pl
 zaufanatrzeciastrona.pl
 zaufanatrzeciastrona.pl
+zaufanatrzeciastrona.pl
+zawodowe.com
 zawiercianskie.pl
 zawiercianskie.pl
 zawiszafans.net
@@ -2572,7 +2600,7 @@ zebrra.tv
 zeglarski.info
 zespolmi.pl
 zielonanews.pl
-zielonydziennik.pl,tygodnikkrag.pl
+zielonydziennik.pl,tygodnikkrag.pl,itfocus.pl
 ziemialimanowska.pl
 zmianynaziemi.pl
 zory.dlawas.pl
@@ -2585,6 +2613,7 @@ zumi.pl
 zumi.pl
 zumi.pl
 zumi.pl
+zwielkopolski24.pl
 zwierciadlo.pl
 zwierciadlo.pl
 zycieczestochowy.pl
@@ -2714,6 +2743,7 @@ zywiecinfo.pl
 ||fechallenge.com/images/*/partners
 ||files.biala24.pl/banners/$image
 ||filmweb.pl/*welcomeScreenJS$script,domain=filmweb.pl
+||filmweb.pl/*-tapeta.jpg$image
 ||forms.e-petrol.pl/abc/html/logo/
 ||forum.haszysz.com/baner_$image
 ||freedisc.pl/static/player/*/vast.js$script
@@ -3033,6 +3063,7 @@ zywiecinfo.pl
 ||zaufanatrzeciastrona.pl/wp-content/uploads/*/Desktop_TA_LA_*_0*.jpg
 ||zaufanatrzeciastrona.pl/wp-content/uploads/*/q2s.gif
 ||zaufanatrzeciastrona.pl/wp-content/uploads/2017/10/aruba2.jpg
+||zaufanatrzeciastrona.pl/wp-content/uploads/2018/04/exatel.jpg
 ||zolti.pl/ajax/affiliate-generator.php?$script
 ||zulawyimierzeja24.pl/assets/js/jwplayer/jwplayer.html5.js
 ||zyciesokolowa.pl/banery_$image
@@ -3047,9 +3078,8 @@ zywiecinfo.pl
 /^https:\/\/eku24.net\/images\/slajdy\/(?!zyczenia)[a-z]{3,10}\/[a-zA-Z0-9_-]{10,50}\.jpg/$image
 /\/[0-9a-zA-Z]{5,7}\_(?!adaptiveresize)[a-z]{12,17}\_[0-9]{3,3}\x[0-9]{3,3}\.jpg$/$image,domain=www.pcworld.pl
 /^https:\/\/v\.wpimg\.pl\/[a-zA-Z0-9]{90,100}/$image,domain=money.pl
-/^http:\/\/www\.filmweb\.pl\/[\w\W]{400,500}/$script
+!/^http:\/\/www\.filmweb\.pl\/[\w\W]{300,500}/$script
 /^https:\/\/[a-z.]{2,17}\.wp\.pl\/[a-zA-Z0-9_-]{450,}/$popup,domain=www.wp.pl
-/^https:\/\/cont[1-7]\.naekranie\.pl\/wp-content\/uploads\/[0-9]{4,4}\/[0-9]{2,2}\/[\w]{20,30}\.jpg/$image
 /^(http|https):\/\/a-o.ninja\/[\w\d]{5,10}\.js\?[a-z]{2,5}/$script
 !
 !12
@@ -3306,6 +3336,9 @@ zw.pl
 @@/advertisement*.js$script,domain=meczyki.pl|autocentrum.pl|tokfm.pl|trojmiasto.pl|superfilm.pl|a-o.ninja
 @@/showads.js$script,domain=www.eskago.pl|czasdzieci.pl|towideo.pl
 @@||a-o.ninja/*ad*.js$script
+@@||a-o.ninja/*-popexit.js$script
+@@||a-o.ninja/*reklama*.js$script
+@@||a-o.ninja/*annonser*.js$script
 @@||4free.waw.pl^$generichide
 @@||adv.wp.pl/adverts$xmlhttprequest,domain=pilot.wp.pl
 @@||adv.wp.pl/RM/Box/*/inline-videostar.js$script,domain=pilot.wp.pl
@@ -3338,6 +3371,7 @@ zw.pl
 @@||mmorpg.org.pl^$generichide
 @@||myao.adocean.pl/files/js/ado.js$script,domain=planeta.fm
 @@||mybank.pl^$generichide
+@@||naekranie.pl^$generichide
 @@||noizz.pl^$generichide
 @@||oglaszamy24.pl/js-css/reklamy/bannery/google_ads/ad/banner/adv.js$script
 @@||onet.hit.gemius.pl/*/redot.js$script,domain=auto-swiat.pl|businessinsider.com.pl|fakt.pl|forbes.pl|komputerswiat.pl|noizz.pl|onet.pl|plejada.pl|vod.pl
@@ -3481,6 +3515,7 @@ xyz,mecz.tv,ipilka.info
 ||mma.pl/wp-content/uploads/2017/11/poprawka-poprawki.png$image
 ||weszlo.com/wp-content/uploads/bsa-pro-upload/1517841983-screening.jpg$image
 ||asa.allegrostatic.com/display-pl/2018/8429/Allegro-1200x400_showcase_22.02_FINAL$image
+||https://cont6.naekranie.pl/wp-content/uploads/2018/04/westworld_sd.jpg$image
 !
 !21
 ||imgwykop.pl/*/*/paylink_$image,domain=www.wykop.pl
@@ -3639,7 +3674,7 @@ pilot.wp.pl
 pilot.wp.pl
 potwierdzone
 wp.pl
-gadzetomania.pl,komorkomania.pl,fotoblogia.pl
+gadzetomania.pl,fotoblogia.pl
 komorkomania.pl,pudelek.pl
 czat.wp.pl,infografika.wp.pl,dladzieci.pl,muzyka.wp.pl,niewiarygodne.pl,sportowybar.wp.pl,forum.o2.pl,komediowo.pl,topnews.wp.pl,ogloszenia.wp.pl
 sportowefakty.wp.pl,kobieta.wp.pl,moto.wp.pl,tech.wp.pl,gry.wp.pl,opinie.wp.pl,turystyka.wp.pl,pogoda.wp.pl,tv.wp.pl,finanse.wp.pl
@@ -3747,6 +3782,7 @@ kafeteria.pl
 @@/tagcommander/$script,domain=account.ubisoft.com
 @@/app\.erpxt\.[a-z]{2,3}\/Scripts\/Code\//
 @@||erpxt.pl/Scripts/Code/
+||static-olxeu.akamaized.net/static/olxpl/naspersclassifieds-regional/olxeu-atlas-web/static/js/advertising.js$important
 !
 !37
 ||overwatch.pl/wp-content/uploads/20*/*/250x700*.png$image
@@ -3797,6 +3833,8 @@ motobanda.pl
 mypolacy.nl
 mypolacy.nl,tkn24.pl
 ndie.pl,magazynfakty.pl,obserwatorfinansowy.pl,parezja.pl
+nettg.pl
+nettg.pl
 newsbook.pl
 olgasmile.com
 olgasmile.com
