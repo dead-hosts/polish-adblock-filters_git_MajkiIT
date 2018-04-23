@@ -17,7 +17,7 @@ Github
 License:
 Copyright
 Najnowsza
-v.2018042206
+v.2018042304
 !
 !
 list
@@ -1733,6 +1733,7 @@ polwro.pl
 polubione.pl
 polygamia.pl
 polygamia.pl
+pomocnicy.blogspot.com
 pomorska.pl
 pomorska.pl,dziennikzachodni.pl
 pomorska.pl
@@ -2015,7 +2016,7 @@ sloworegionu.pl
 sloworegionu.pl
 sloworegionu.pl
 sloworegionu.pl
-slubice24.pl
+slubice24.pl,wirtualnemedia.pl
 slupca.pl,gry-online.pl
 slupca.pl
 sms7.pl
@@ -3326,7 +3327,7 @@ zw.pl
 !
 !16
 @@/adframe.js$script,domain=kobieceporady.pl
-@@/.*ad*/$image,domain=www.pcworld.pl
+!@@/.*ad*/$image,domain=www.pcworld.pl
 @@/ads.js$script,domain=a-o.ninja
 @@/popunder*.js$script,domain=a-o.ninja
 @@/^(https|http):\/\/a-o\.ninja\/[0-9a-zA-z-]{10,200}\.js/$script
@@ -3337,7 +3338,7 @@ zw.pl
 @@/showads.js$script,domain=www.eskago.pl|czasdzieci.pl|towideo.pl
 @@||a-o.ninja/*ad*.js$script
 @@||a-o.ninja/*-popexit.js$script
-@@||a-o.ninja/*reklama*.js$script
+@@||a-o.ninja/*reklam*.js$script
 @@||a-o.ninja/*annonser*.js$script
 @@||4free.waw.pl^$generichide
 @@||adv.wp.pl/adverts$xmlhttprequest,domain=pilot.wp.pl
@@ -3361,7 +3362,7 @@ zw.pl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=games.cdn.famobi.com|grydladzieci.pl|fm.tuba.pl|wp.pl|player.pl
 @@||imged.pl/subframe/js/*/adblock-advertisement.js$script
 @@||istotne.pl^$generichide
-@@/js/ads.js$script,domain=solarkurier.pl|satkurier.pl|saskakepa.waw.pl|e-krajna.pl|swiecie24.pl|zyciesokolowa.pl|ciechocinek.biz|napiprojekt.pl|uniejow.net.pl|nizanskie.info|pluznica.info|superchodziez.pl|tygodnik.pl|ekutno.pl|naszbrzesc.pl|bydgoszcz24.pl|terazlipno.pl|gwe24.pl|dziwnekomiksy.pl|digi-tv.pl|chelsea24news.pl|wolomin24.info|splendo.pl|egorzow.pl|irembertow.pl|iminsk.pl|ikrakow.info|iskierniewice.pl|ikampinos.pl|e-wyszogrod.pl|ibielsk.pl|wterenie.pl|ciechanowinaczej.pl|wabrzezno-cwa.pl|infosiedlce.pl|rypin-cry.pl|golub-cgd.pl|iotwock.info|szczecinek.com|lipno-cli.pl|imokotow.pl|nolesnica.pl|itvpiaseczno.pl|histmag.org|lowcygier.pl|gorzowianin.com|polotv.pl|video.anyfiles.pl|brotkids.tv|fokus.tv|ithardware.pl|meteoprog.pl|nowa.tv|okazje.co|forsal.pl|gazetaprawna.pl|fxmag.pl|nasztomaszow.pl|dieroten.pl|reklama.pl|gpr24.pl|twojradom.pl|inowroclaw.info.pl|pultusk24.pl|bham.pl|vorek.pl|plonszczak.pl|zdrowowdomu.wp.pl|audiklub.org|video-static.tunnl.com
+@@/js/ads.js$script,domain=solarkurier.pl|satkurier.pl|saskakepa.waw.pl|e-krajna.pl|swiecie24.pl|zyciesokolowa.pl|ciechocinek.biz|napiprojekt.pl|uniejow.net.pl|nizanskie.info|pluznica.info|superchodziez.pl|tygodnik.pl|ekutno.pl|naszbrzesc.pl|bydgoszcz24.pl|terazlipno.pl|gwe24.pl|dziwnekomiksy.pl|digi-tv.pl|chelsea24news.pl|wolomin24.info|splendo.pl|egorzow.pl|irembertow.pl|iminsk.pl|ikrakow.info|iskierniewice.pl|ikampinos.pl|e-wyszogrod.pl|ibielsk.pl|wterenie.pl|ciechanowinaczej.pl|wabrzezno-cwa.pl|infosiedlce.pl|rypin-cry.pl|golub-cgd.pl|iotwock.info|szczecinek.com|lipno-cli.pl|imokotow.pl|nolesnica.pl|itvpiaseczno.pl|histmag.org|lowcygier.pl|gorzowianin.com|polotv.pl|video.anyfiles.pl|brotkids.tv|fokus.tv|ithardware.pl|meteoprog.pl|nowa.tv|okazje.co|forsal.pl|gazetaprawna.pl|fxmag.pl|nasztomaszow.pl|dieroten.pl|reklama.pl|gpr24.pl|twojradom.pl|inowroclaw.info.pl|pultusk24.pl|bham.pl|vorek.pl|plonszczak.pl|zdrowowdomu.wp.pl|audiklub.org|video-static.tunnl.com|pcworld.pl
 @@||js.iplsc.com/inpl.adb/*/empt.js?*&adserv=$domain=interia.pl
 @@||komputerswiat.pl^$generichide
 @@||kwejk.pl^$generichide
