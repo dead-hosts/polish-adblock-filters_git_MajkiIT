@@ -34,6 +34,8 @@
         "--commit-autosave-message \"[Autosave] Test of polish-adblock-filters\"",
         "--commit-results-message \"[Results] Test of polish-adblock-filters\"",
         "--commit-autosave-message \"[Autosave] Test of polish-adblock-filters\"",
+        "--commit-results-message \"[Results] Test of polish-adblock-filters\"",
+        "--commit-autosave-message \"[Autosave] Test of polish-adblock-filters\"",
         "--commit-results-message \"[Results] Test of polish-adblock-filters\""
     ],
     "clean_list_file": "clean.list",
@@ -41,7 +43,7 @@
     "commit_autosave_message": "Test of polish-adblock-filters",
     "currently_under_test": "0",
     "days_until_next_test": "1",
-    "last_test": "1525039452",
+    "last_test": "1525212316",
     "list_name": "polish-adblock-filters.list",
     "name": "polish-adblock-filters",
     "raw_link": "https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock.txt",
