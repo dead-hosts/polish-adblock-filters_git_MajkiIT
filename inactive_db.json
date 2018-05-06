@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
-        "1525471632": [
+        "1525644457": [
             ".tradedoubler.com",
             "av-cdn-*.wpimg.pl",
             "businessclick.*",
@@ -9,6 +9,7 @@
             "https:",
             "livemecz.*",
             "lubin.pl",
+            "mercy.ga",
             "potwierdzoneinfo.pl",
             "redir.atmcdn.pl*swf",
             "reseton.pl",
