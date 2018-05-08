@@ -17,7 +17,7 @@ Github
 License:
 Copyright
 Najnowsza
-v.2018050601
+v.2018050702
 !
 !
 list
@@ -1236,6 +1236,7 @@ lexus-forum.pl
 lfc.pl
 lfc.pl
 ling.pl
+linguajob.pl
 linkpolonia.com
 linktopoland.com
 linuxhelp.in
@@ -1330,6 +1331,8 @@ meczelive.tv
 meczelive.tv
 meczyki.pl
 meczyki.pl
+mediacv.pl
+mediacv.pl
 mediaexpert.pl
 mediaexpert.pl
 mediagroupinfo.pl
@@ -2895,6 +2898,7 @@ zywiecinfo.pl
 ||mylead.eu/banner/
 ||mylomza.pl/images/baner_$image
 ||nacjonalista.pl/wp-content/uploads/20*/*/*.gif$image
+||naekranie.pl/wp-content/themes/naekranie/tapeta$media
 ||napisy24.pl/images/bg-allplayer-*.png
 ||napisy24.pl/run/js/all_corners.js
 ||naszalomza.pl/vardata/banery/$image
@@ -3257,6 +3261,7 @@ czasdiet.pl
 dailyweb.pl
 darmowyskin.pl
 dstar.pzk.pl,burze.dzis.net,kurnik.pl,arrow24.net,vampirediaries24.pl,matzoo.pl,skript.pl,katowickisport.pl,przewodnikduchowy.pl,4free.waw.pl,webcamera.pl
+dziennikelblaski.pl
 dziennikwschodni.pl
 dziennikwschodni.pl
 dziennikwschodni.pl,vorek.pl
@@ -3397,6 +3402,7 @@ zw.pl
 @@/ads.reklama.728x90$script,stylesheet,domain=zmianaczasu.info|antonimy.net|odmiana.net|definicja.net|krzyzowka.net|humoris.pl
 @@/advertise.js$domain=superfilm.pl
 @@/advertisement*.js$script,domain=meczyki.pl|autocentrum.pl|tokfm.pl|trojmiasto.pl|superfilm.pl
+@@||advert-serv.johnmorris.me/adserver/adlogger_tracker.php$subdocument,domain=www.terrarium.com.pl
 @@||adv.wp.pl/adverts$xmlhttprequest,domain=pilot.wp.pl
 @@||adv.wp.pl/RM/Box/*/inline-videostar.js$script,domain=pilot.wp.pl
 @@||anyfiles.pl/pageloading/*-loader.jsp?ads=true
@@ -3837,6 +3843,7 @@ www.money.pl
 @@/index.php?url=$xmlhttprequest,domain=alltube.pl|alltube.tv
 @@/js/tracking/$script,domain=www.olx.pl
 kafeteria.pl
+@@||login.ingbank.pl/mojeing/app/assets/js/vendor/dtm/*/satelliteLib-$script,~third-party
 @@||partneragdrtv.com.pl/temp/adrotator_filemanager/$image
 @@||reklama.gazeta.pl^$image,font,script
 @@||rentcars.pl/build/js/user-tracking.js?psv=11$script
