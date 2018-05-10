@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
-        "1525817324": [
+        "1525990180": [
             ".tradedoubler.com",
             "av-cdn-*.wpimg.pl",
             "businessclick.*",
@@ -16,9 +16,11 @@
             "sat-elita.net.pl",
             "static*jelonka.com",
             "stats.qmerce.com",
+            "superkinomaniak.pl",
             "videos-.jwpsrv.com",
             "vidoza*.github.io",
-            "vsport.in"
+            "vsport.in",
+            "www.locomobit.pl"
         ],
         "to_test": [
             "*cda.pl"
