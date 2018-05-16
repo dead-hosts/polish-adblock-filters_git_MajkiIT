@@ -1,10 +1,12 @@
 {
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
-        "1526422346": [
+        "1526508832": [
             ".tradedoubler.com",
+            "allegrostatic.pl",
             "assets.bro.adca.st",
             "av-cdn-*.wpimg.pl",
             "businessclick.*",
+            "filmik.pisz.pl",
             "glogow.pl",
             "grupa7j.pl",
             "https:",
@@ -21,7 +23,8 @@
             "superkinomaniak.pl",
             "videos-.jwpsrv.com",
             "vidoza*.github.io",
-            "vsport.in"
+            "vsport.in",
+            "zobaczto.pisz.pl"
         ],
         "to_test": [
             "*cda.pl"
