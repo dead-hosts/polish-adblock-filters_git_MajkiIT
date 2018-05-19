@@ -17,7 +17,7 @@ Github
 License:
 Copyright
 Najnowsza
-v.2018051502
+v.2018051801
 !
 !
 list
@@ -1048,6 +1048,7 @@ instalki.pl,kanonierzy.com
 instalki.pl
 instalki.pl
 instrukcja.pl
+iszczecinek.pl
 interia.pl
 interia.pl
 interia.pl
@@ -2408,6 +2409,7 @@ waszwilanow.pl,itvm.pl
 waszwilanow.pl
 wavepc.pl
 wbijam.pl
+upflix.pl
 wbj.pl
 wcograc.pl
 webcamera.pl
@@ -3152,7 +3154,7 @@ zywiecinfo.pl
 /^(http|https):\/\/www\.portel\.pl\/(?!pasaz)[-a-z0-9A-Z_%$&+=[\].]{1,200}\/[-a-z0-9A-Z_%$&+=[\]/.]{2,200}.(html|htm)/$subdocument,domain=www.portel.pl
 /^(http|https):\/\/www\.wp\.pl\/[a-zA-Z0-9-_]{50,}/$popup,domain=www.wp.pl
 /^https:\/\/[a-z]{2,14}\.wp\.pl\/[a-zA-Z0-9_-]{200,}/$script,domain=profil.wp.pl|poczta.o2.pl|nowy.tlen.pl|poczta.wp.pl
-/^https:\/\/[a-z]{2,14}\.wp\.pl\/[a-zA-Z0-9_-]{450,}/$script,domain=kafeteria.pl|twojeip.wp.pl|czat.wp.pl|wawalove.pl|niewiarygodne.pl|pogoda.wp.pl|dladzieci.pl|dzieci.pl|gadzetomania.pl|sport.wp.pl|topnews.wp.pl|odkrywcy.pl|katalog.wp.pl|kultura.wp.pl|fotoblogia.pl|avent-ugrow.wp.pl|pudelek.pl|pudelekx.pl|nerwica.com|forum.abczdrowie.pl|pytamy.pl|ranking.abczdrowie.pl|profil.tlen.pl
+/^https:\/\/[a-z]{2,14}\.wp\.pl\/[a-zA-Z0-9_-]{450,}/$script,domain=kafeteria.pl|twojeip.wp.pl|czat.wp.pl|wawalove.pl|niewiarygodne.pl|pogoda.wp.pl|dladzieci.pl|dzieci.pl|sport.wp.pl|topnews.wp.pl|odkrywcy.pl|katalog.wp.pl|kultura.wp.pl|avent-ugrow.wp.pl|pudelek.pl|pudelekx.pl|nerwica.com|forum.abczdrowie.pl|pytamy.pl|ranking.abczdrowie.pl|profil.tlen.pl
 /^https:\/\/[a-z.]{2,17}\.wp\.pl\/[a-zA-Z0-9_-]{450,}/$popup,domain=www.wp.pl
 /^https:\/\/eku24.net\/images\/slajdy\/(?!zyczenia)[a-z]{3,10}\/[a-zA-Z0-9_-]{10,50}\.jpg/$image
 /^https:\/\/v\.wpimg\.pl\/[a-zA-Z0-9]{90,100}/$image,domain=money.pl
@@ -3433,7 +3435,7 @@ zw.pl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=games.cdn.famobi.com|grydladzieci.pl|fm.tuba.pl|wp.pl|player.pl
 @@||imged.pl/subframe/js/*/adblock-advertisement.js$script
 @@||istotne.pl^$generichide
-@@/js/ads.js$script,domain=solarkurier.pl|satkurier.pl|saskakepa.waw.pl|e-krajna.pl|swiecie24.pl|zyciesokolowa.pl|ciechocinek.biz|napiprojekt.pl|uniejow.net.pl|nizanskie.info|pluznica.info|superchodziez.pl|tygodnik.pl|ekutno.pl|naszbrzesc.pl|bydgoszcz24.pl|terazlipno.pl|gwe24.pl|dziwnekomiksy.pl|digi-tv.pl|chelsea24news.pl|wolomin24.info|splendo.pl|egorzow.pl|irembertow.pl|iminsk.pl|ikrakow.info|iskierniewice.pl|ikampinos.pl|e-wyszogrod.pl|ibielsk.pl|wterenie.pl|ciechanowinaczej.pl|wabrzezno-cwa.pl|infosiedlce.pl|rypin-cry.pl|golub-cgd.pl|iotwock.info|szczecinek.com|lipno-cli.pl|imokotow.pl|nolesnica.pl|itvpiaseczno.pl|histmag.org|lowcygier.pl|gorzowianin.com|polotv.pl|video.anyfiles.pl|brotkids.tv|fokus.tv|ithardware.pl|meteoprog.pl|nowa.tv|okazje.co|forsal.pl|gazetaprawna.pl|fxmag.pl|nasztomaszow.pl|dieroten.pl|reklama.pl|gpr24.pl|twojradom.pl|inowroclaw.info.pl|pultusk24.pl|bham.pl|vorek.pl|plonszczak.pl|zdrowowdomu.wp.pl|audiklub.org|video-static.tunnl.com|pcworld.pl|gostynin.info|zambrow.org
+@@/js/ads.js$script,domain=solarkurier.pl|satkurier.pl|saskakepa.waw.pl|e-krajna.pl|swiecie24.pl|zyciesokolowa.pl|ciechocinek.biz|napiprojekt.pl|uniejow.net.pl|nizanskie.info|pluznica.info|superchodziez.pl|tygodnik.pl|ekutno.pl|naszbrzesc.pl|bydgoszcz24.pl|terazlipno.pl|gwe24.pl|dziwnekomiksy.pl|digi-tv.pl|chelsea24news.pl|wolomin24.info|splendo.pl|egorzow.pl|irembertow.pl|iminsk.pl|ikrakow.info|iskierniewice.pl|ikampinos.pl|e-wyszogrod.pl|ibielsk.pl|wterenie.pl|ciechanowinaczej.pl|wabrzezno-cwa.pl|infosiedlce.pl|rypin-cry.pl|golub-cgd.pl|iotwock.info|szczecinek.com|lipno-cli.pl|imokotow.pl|nolesnica.pl|itvpiaseczno.pl|histmag.org|lowcygier.pl|gorzowianin.com|polotv.pl|video.anyfiles.pl|brotkids.tv|fokus.tv|ithardware.pl|meteoprog.pl|nowa.tv|okazje.co|forsal.pl|gazetaprawna.pl|fxmag.pl|nasztomaszow.pl|dieroten.pl|reklama.pl|gpr24.pl|twojradom.pl|inowroclaw.info.pl|pultusk24.pl|bham.pl|vorek.pl|plonszczak.pl|zdrowowdomu.wp.pl|audiklub.org|video-static.tunnl.com|pcworld.pl|gostynin.info|zambrow.org|millemiglia.wp.pl
 @@||js.iplsc.com/inpl.adb/*/empt.js?*&adserv=$domain=interia.pl
 @@||komputerswiat.pl^$generichide
 @@||kubofonista.net/r/ad.htm$script,domain=kubofonista.net
@@ -3734,14 +3736,13 @@ wp.tv
 !32
 ||i.wp.pl/*/stg/wpjslib-nojq.js$script,domain=www.dobreprogramy.pl
 ||v.wpimg.pl/$image,domain=money.pl|open.fm|autokult.pl
-||v.wpimg.pl/$media,redirect=noopmp3-0.1s,domain=wp.pl|~www.wp.pl|autokult.pl|parenting.pl|echirurgia.pl|money.pl|o2.pl|portal.abczdrowie.pl
+||v.wpimg.pl/$media,redirect=noopmp3-0.1s,domain=wp.pl|~www.wp.pl|autokult.pl|parenting.pl|echirurgia.pl|money.pl|o2.pl|portal.abczdrowie.pl|komorkomania.pl|fotoblogia.pl
 ||wpkoszyk.wp.pl/api/koszyk$xmlhttprequest
 ||xml.enovatis.pl/mrdsl/json.php$xmlhttprequest,domain=turystyka.wp.pl
 !
 !33
 czat.wp.pl,infografika.wp.pl,dladzieci.pl,muzyka.wp.pl,niewiarygodne.pl,sportowybar.wp.pl,forum.o2.pl,komediowo.pl,topnews.wp.pl,ogloszenia.wp.pl
 film.wp.pl,turystyka.wp.pl,opinie.wp.pl,gry.wp.pl,tech.wp.pl,moto.wp.pl,kobieta.wp.pl,finanse.wp.pl,sportowefakty.wp.pl,wiadomosci.wp.pl,pudelek.pl,tv.wp.pl
-gadzetomania.pl,fotoblogia.pl
 komorkomania.pl,pudelek.pl
 !main
 moto.wp.pl
@@ -3784,7 +3785,7 @@ www.wp.pl
 www.wp.pl
 www.wp.pl
 www.wp.pl
-www.wp.pl
+!www.wp.pl
 www.wp.pl
 www.wp.pl
 www.wp.pl
@@ -4006,10 +4007,13 @@ dobreprogramy.pl
 dobreprogramy.pl
 dobreprogramy.pl
 dobreprogramy.pl
+dobreprogramy.pl
+dobreprogramy.pl
 forum.dobreprogramy.pl
 forum.dobreprogramy.pl
 forum.dobreprogramy.pl
 forum.dobreprogramy.pl
+www.dobreprogramy.pl
 www.dobreprogramy.pl
 www.dobreprogramy.pl
 www.dobreprogramy.pl

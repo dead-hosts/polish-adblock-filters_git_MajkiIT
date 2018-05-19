@@ -1,8 +1,7 @@
 {
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
-        "1526508832": [
+        "1526749103": [
             ".tradedoubler.com",
-            "allegrostatic.pl",
             "assets.bro.adca.st",
             "av-cdn-*.wpimg.pl",
             "businessclick.*",
@@ -15,12 +14,10 @@
             "mercy.ga",
             "potwierdzoneinfo.pl",
             "redir.atmcdn.pl*swf",
-            "reseton.pl",
             "sat-elita.net.pl",
             "static*jelonka.com",
             "static.bro.adca.st",
             "stats.qmerce.com",
-            "superkinomaniak.pl",
             "videos-.jwpsrv.com",
             "vidoza*.github.io",
             "vsport.in",
