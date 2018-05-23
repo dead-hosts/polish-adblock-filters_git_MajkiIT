@@ -17,7 +17,7 @@ Github
 License:
 Copyright
 Najnowsza
-v.2018052203
+v.2018052306
 !
 !
 list
@@ -299,6 +299,7 @@ bham.pl
 bham.pl
 bham.pl
 bham.pl
+b1.pl
 bia24.pl
 bialystok.com.pl
 biedronka.pl
@@ -372,6 +373,7 @@ booksclub.pl
 bowlingnews.pl
 brainly.pl
 bramkasms.pl
+brodnica.net
 brodnica.net
 brodnica.net
 bryk.pl,zvami.tv,debica24.eu,telewizjazary.pl,korsokolbuszowskie.pl,kociewiak.pl,cooltura24.co.uk,portalpomorza.pl,tvobiektyw.pl
@@ -1241,6 +1243,7 @@ legalniewsieci.pl
 leki.fora.pl
 lento.pl
 lento.pl
+leonclub.pl
 letsplej.pl,regionfan.pl
 lexus-forum.pl
 lfc.pl
@@ -1252,6 +1255,7 @@ linktopoland.com
 linuxhelp.in
 linuxiarze.pl
 lipno-cli.pl,rypin-cry.pl,wabrzezno-cwa.pl,brodnica-cbr.pl,golub-cgd.pl
+listaserwerowmc.pl
 listaserwerowmc.pl
 listaserwerowmc.pl
 listaserwerowmc.pl
@@ -1337,6 +1341,7 @@ mazury.info.pl
 mazury.info.pl
 meble-andrex.pl
 mebloo.pl
+meczelive.tv
 meczelive.tv
 meczelive.tv
 meczelive.tv
@@ -2670,6 +2675,7 @@ zawiszafans.net
 zawodowe.com
 zblogowani.pl
 zebrra.tv
+zegarkiclub.pl
 zeglarski.info
 zespolmi.pl
 zielonanews.pl
@@ -3030,7 +3036,6 @@ zywiecinfo.pl
 ||superfilm.pl/branding/$image,domain=superfilm.pl
 ||superfilm.pl/*source=admedia&model=pop$popup
 ||superfilm.pl/vast/comeon.xml$object
-||superkinomaniak.pl/js/show-promote.min.js
 ||swiat-gier.com/themes/swiat-gier/img/background$image
 ||swiecie24.pl/banery_$image
 ||system.mondeos.pl/$image,script
@@ -3196,7 +3201,7 @@ zywiecinfo.pl
 @@||fakt.pl^$generichide
 @@||google-analytics.com$domain=certyficate.it|liptonicetea.com|filmweb.pl|shinden.pl
 @@||googletagmanager.com/gtag/$script,domain=certyficate.it
-@@||googletagmanager.com/gtm.js$script,domain=www.emag.pl|benchmark.pl
+@@||googletagmanager.com/gtm.js$script,domain=www.emag.pl|benchmark.pl|komputerswiat.pl
 @@||grydladzieci.pl/preroll5/simple/ads.js?1$script,domain=www.grydladzieci.pl
 @@||hit.gemius.pl/gplayer.js$script,domain=polotv.pl|pilot.wp.pl
 @@||hotelscombined.com/Script/$script,domain=mlecznepodroze.onet.pl
@@ -3294,15 +3299,15 @@ imged.pl
 infoship.pl,infoair.pl,infobike.pl,infotram.pl,inforail.pl,transinfo.pl,infobus.pl
 ipon.pl
 istotne.pl
-jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,4free.waw.pl,imeds.pl
-jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,4free.waw.pl,imeds.pl
-jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,4free.waw.pl,imeds.pl
-jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,4free.waw.pl,imeds.pl
-jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,4free.waw.pl,imeds.pl
-jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,4free.waw.pl,imeds.pl
-jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,4free.waw.pl,imeds.pl
-jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,4free.waw.pl,imeds.pl
-jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,4free.waw.pl,imeds.pl
+jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,4free.waw.pl,imeds.pl,pl.aleteia.org
+jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,4free.waw.pl,imeds.pl,pl.aleteia.org
+jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,4free.waw.pl,imeds.pl,pl.aleteia.org
+jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,4free.waw.pl,imeds.pl,pl.aleteia.org
+jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,4free.waw.pl,imeds.pl,pl.aleteia.org
+jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,4free.waw.pl,imeds.pl,pl.aleteia.org
+jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,4free.waw.pl,imeds.pl,pl.aleteia.org
+jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,4free.waw.pl,imeds.pl,pl.aleteia.org
+jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,4free.waw.pl,imeds.pl,pl.aleteia.org
 katowickisport.pl
 katowickisport.pl
 katowickisport.pl
@@ -3417,6 +3422,7 @@ zw.pl
 @@/ads.reklama.728x90$script,stylesheet,domain=zmianaczasu.info|antonimy.net|odmiana.net|definicja.net|krzyzowka.net|humoris.pl
 @@/advertise.js$domain=superfilm.pl
 @@/advertisement*.js$script,domain=meczyki.pl|autocentrum.pl|tokfm.pl|trojmiasto.pl|superfilm.pl
+@@||adocean-pl.hit.gemius.pl/*redataredir?url=*myao.adocean.pl*ad.xml$domain=tvp.pl
 @@||advert-serv.johnmorris.me/adserver/adlogger_tracker.php$subdocument,domain=www.terrarium.com.pl
 @@||adv.wp.pl/adverts$xmlhttprequest,domain=pilot.wp.pl
 @@||adv.wp.pl/RM/Box/*/inline-videostar.js$script,domain=pilot.wp.pl
@@ -3633,7 +3639,6 @@ autocentrum.pl,demotywatory.pl,dziennik.pl,facetemjestem.pl,gala.pl,garnek.pl,gr
 ||edynamic-dns.pl^
 ||facewatch.borec.cz^
 ||fb-zmiana-koloru.pl^
-||filmik.pisz.pl^
 ||forum-windows.eu^
 ||kolor.oq.pl^
 ||konkursikowo.pl^
@@ -3645,7 +3650,6 @@ autocentrum.pl,demotywatory.pl,dziennik.pl,facetemjestem.pl,gala.pl,garnek.pl,gr
 ||sprawdzikk.v0r.org^
 ||stop-limitom.pl^
 ||wydawca.lead.network^
-||zobaczto.pisz.pl^
 ||pay24iv.com^
 !
 !24
@@ -3713,6 +3717,7 @@ tvtoss.me
 ||static.bro.adca.st/promo.html
 !
 !31
+autokult.pl
 autokult.pl
 avent-ugrow.wp.pl
 kafeteria.pl,money.pl,pudelek.pl,autokult.pl
@@ -3975,7 +3980,6 @@ zwiedzamyparyz.pl
 /^(https|http):\/\/[a-z.]{4,15}\.[a-z]{2,2}\/[a-z/.?=-]{1,100}(wss|proxy)[a-z.?:0-9=]{6,50}/$script
 ||lcx.pl^
 ||megabanners.cf^$third-party
-||mercy.ga/$subdocument
 ||n.serialeonline.pl^$subdocument
 ||openkatalog.com/static/$subdocument
 ||subloader.cf/$subdocument
