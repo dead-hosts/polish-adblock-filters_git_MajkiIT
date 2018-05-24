@@ -20,10 +20,10 @@
             "stats.qmerce.com",
             "videos-.jwpsrv.com",
             "vidoza*.github.io",
-            "vsport.in"
+            "vsport.in",
+            "zobaczto.pisz.pl"
         ],
         "to_test": [
-            "zobaczto.pisz.pl",
             "*cda.pl"
         ]
     }
