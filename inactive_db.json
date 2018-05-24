@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
-        "1527113780": [
+        "1527200218": [
             ".tradedoubler.com",
             "assets.bro.adca.st",
             "av-cdn-*.wpimg.pl",
@@ -9,7 +9,6 @@
             "glogow.pl",
             "grupa7j.pl",
             "https:",
-            "lcx.pl",
             "livemecz.*",
             "lubin.pl",
             "mercy.ga",
@@ -19,13 +18,12 @@
             "static*jelonka.com",
             "static.bro.adca.st",
             "stats.qmerce.com",
-            "superkinomaniak.pl",
             "videos-.jwpsrv.com",
             "vidoza*.github.io",
-            "vsport.in",
-            "zobaczto.pisz.pl"
+            "vsport.in"
         ],
         "to_test": [
+            "zobaczto.pisz.pl",
             "*cda.pl"
         ]
     }
