@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
-        "1527373072": [
+        "1527545932": [
             ".tradedoubler.com",
             "allegrostatic.pl",
             "assets.bro.adca.st",
@@ -23,6 +23,7 @@
             "videos-.jwpsrv.com",
             "vidoza*.github.io",
             "vsport.in",
+            "www.ekobiety.pl",
             "zobaczto.pisz.pl"
         ],
         "to_test": [
