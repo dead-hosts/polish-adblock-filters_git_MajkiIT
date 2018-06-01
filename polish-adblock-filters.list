@@ -17,7 +17,7 @@ Github
 License:
 Copyright
 Najnowsza
-v.2018053003
+v.2018060101
 !
 !
 list
@@ -377,7 +377,7 @@ bramkasms.pl
 brodnica.net
 brodnica.net
 brodnica.net
-bryk.pl,zvami.tv,debica24.eu,telewizjazary.pl,korsokolbuszowskie.pl,kociewiak.pl,cooltura24.co.uk,portalpomorza.pl,tvobiektyw.pl
+bryk.pl,zvami.tv,debica24.eu,telewizjazary.pl,korsokolbuszowskie.pl,kociewiak.pl,cooltura24.co.uk,portalpomorza.pl,tvobiektyw.pl,debica24.eu
 btc-sms.eu
 budnet.pl
 bukowskilider.pl
@@ -968,6 +968,7 @@ hack.pl
 haker.com.pl,mojaolesnica.pl
 halamadrid.pl
 halamadrid.pl
+haloursynow.pl
 halogorlice.info
 halogorlice.info
 halogorlice.info
@@ -1183,7 +1184,7 @@ konflikty.pl
 kopalniawiedzy.pl
 kopalniawiedzy.pl
 korkosfera.pl
-korso.pl
+korso.pl,debica24.eu
 korsosanockie.pl,korso.pl
 koscian.net
 koszalininfo.pl,wlkp24.info,wwl24.info,b2-biznes.pl,sporteuro.pl,metropoliabydgoska.pl,brzeg24.pl,pabianice.tv,zambrowiacy.pl,e-play.pl,wrc.net.pl,dziennik.walbrzych.pl,asta24.pl,nswiecie.pl,blogtransportowy.pl,portalprzemyski.pl,wzielonej.pl,mikrokontroler.pl
@@ -1289,6 +1290,8 @@ lowcygier.pl
 lowcygier.pl
 lowcygier.pl
 lowcygier.pl
+lowicz24.eu
+lowicz24.eu
 lowicz24.eu
 lowicz24.eu
 lowiczanin.info
@@ -1501,6 +1504,7 @@ msmobile.pl
 msmobile.pl
 mtech.pl
 multi-head.pl
+musiclovers.pl
 muzodajka.pl
 muzyka.dziennik.pl
 muzyka.interia.pl
@@ -1647,6 +1651,7 @@ olx.pl
 onepiece.com.pl
 onet.pl
 onlinekredyty.pl
+onlineradio.pl
 onlinesudoku.pl
 open.fm
 open.fm
@@ -3446,6 +3451,7 @@ zw.pl
 @@||businessinsider.com.pl^$generichide
 @@||cdn.muratordom.smcloud.net/t/advert.js$script,domain=www.poradnikzdrowie.pl
 @@||csr.onet.pl/_s/csr-*/csr.jsx$script
+@@||cyfrowydoradca.pl/modules/mod_jpayday/js/advertisement.js
 @@||epiotrkow.pl/js/*reklama*.js$script
 @@||eskago.pl^$generichide
 @@||eskago.pl/html/js/ads*.js$script
@@ -3979,15 +3985,15 @@ zwiedzamyparyz.pl
 ||coin-have.com^
 ||coin-hive.com^
 ||coinhive.com^
+||cryptaloot.pro^
 /cryptonight.wasm
 ||dekoder.ws/*.wasm$xmlhttprequest
 /everynight/backup/*$subdocument
-/(http|https):\/\/(?!alltube)(?!www.speedvid)(?!streamcherry.com)(?!vshare)(?!vidoza)(?!openload)(?!www.youtube)(?!streamango)(?!www.rapidvideo)(?!embed.nowvideo)(?!video.anyfiles)(?!vidto)(?!vidfile)(?!fruitstreams)(?!clipwatching)[a-z0-9.-]{5,40}\.[a-z]{0,10}\/[\w\d\W]{0,100}$/$subdocument,domain=alltube.tv|centrum-dramy.pl|alltube.pl|hentai-online.pl|centrum-mangi.ninja
 /^(http|https):\/\/[a-z0-9.]{8,30}\.[a-z]{2,11}\/[a-z]{3,7}\/[a-z0-9]{5,25}\.(wasm|js)/$xmlhttprequest,script,domain=alltube.tv|alltube.pl
 /^(http|https):\/\/[a-z]{5,10}\.[a-z]{2,3}\/[\w\W]{50,80}/$subdocument,domain=heja.tv
 /^(http|https):\/\/[a-z.]{5,15}\.[a-z]{2,4}\/[a-z]{3,3}\/conf\?[a-z0-9\W]{10,50}/$xmlhttprequest,domain=fileone.tv
 /^(http|https):\/\/[a-z\W]{6,15}\.[a-z]{2,5}\/[a-z.]{4,10}\.js/$script,domain=vidoza.net|fileone.tv
-/^(http|https):\/\/(?!www.speedvid)(?!streamcherry.com)(?!vshare)(?!vidoza)(?!openload)(?!www.youtube)(?!streamango)(?!www.rapidvideo)[a-zA-Z0-9\W]{5,10}.[a-z]{2,20}\/(?!anime)[\w\W\d]{5,20}\/[a-z]{5,20}\//$subdocument,domain=a-o.ninja|centrum-dramy.pl|love-drama.pl|vidfile.net|hentai-online.pl|centrum-mangi.ninja
+/^(http|https):\/\/(?!www.speedvid)(?!streamcherry.com)(?!vshare)(?!vidoza)(?!openload)(?!www.youtube)(?!streamango)(?!www.rapidvideo)[a-zA-Z0-9\W]{5,10}.[a-z]{2,20}\/(?!anime)[\w\W\d]{5,20}\/[a-z]{5,20}\//$subdocument,domain=centrum-dramy.pl|love-drama.pl|vidfile.net|hentai-online.pl|centrum-mangi.ninja
 !/^(https|http):\/\/[a-z.]{4,15}\.[a-z]{2,2}\/[a-z/.?=-]{1,100}(wss|proxy)[a-z.?:0-9=]{6,50}/$script
 ||lcx.pl^
 ||megabanners.cf^$third-party
