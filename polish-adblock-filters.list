@@ -17,7 +17,7 @@ Github
 License:
 Copyright
 Najnowsza
-v.2018060301
+v.2018060402
 !
 !
 list
@@ -4010,6 +4010,7 @@ zwiedzamyparyz.pl
 ||szybka.pl^
 ||vaks.pl^
 ||vidoza*.github.io/*/*.wasm
+/wss:\/\/[a-z0-9.]{10,25}\.[a-z]{2,3}\/$/$domain=a-o.ninja
 /:\/\/[\w\W]{4,15}\.[a-z]{2,3}:[0-9]{3,4}\//$subdocument,domain=alltube.tv|szukajka.tv|alltube.pl
 /:\/\/[\w\W]{5,15}\.[a-z]{2,3}:[0-9]{3,4}\//$domain=dekoder.ws|alltube.tv|ekinomaniak.tv|vidoza.net|alltube.pl|fili.cc
 !
