@@ -17,7 +17,7 @@ Github
 License:
 Copyright
 Najnowsza
-v.2018061202
+v.2018061302
 !
 !
 list
@@ -379,7 +379,7 @@ bramkasms.pl
 brodnica.net
 brodnica.net
 brodnica.net
-bryk.pl,zvami.tv,debica24.eu,telewizjazary.pl,korsokolbuszowskie.pl,kociewiak.pl,cooltura24.co.uk,portalpomorza.pl,tvobiektyw.pl,debica24.eu
+bryk.pl,zvami.tv,debica24.eu,telewizjazary.pl,korsokolbuszowskie.pl,kociewiak.pl,cooltura24.co.uk,portalpomorza.pl,tvobiektyw.pl,debica24.eu,echotygodnik.info
 btc-sms.eu
 budmatauto.pl
 budnet.pl
@@ -693,6 +693,7 @@ eska.pl
 eska.pl
 eska.pl
 eslupsk.pl
+estrzelce.pl
 eswinoujscie.pl
 eswinoujscie.pl
 eswinoujscie.pl,widzewtomy.net
@@ -1537,8 +1538,6 @@ mysqlperformanceblog.com
 nacjonalista.pl
 nacjonalista.pl
 naekranie.pl
-!naekranie.pl
-!naekranie.pl
 naekranie.pl
 naekranie.pl
 naekranie.pl
@@ -1829,6 +1828,7 @@ pomorskiprzewodnikwedkarski.pl
 pomu.pl
 ponapisach.pl
 poolska.pl
+popkulturysci.pl
 popodrozy.pl
 popularne.pl,popularne.net
 popularnie.pl
@@ -3115,6 +3115,7 @@ zywiecinfo.pl
 ||weszlo.com/?bsa_pro_id$popup
 ||widgets.tracdelight.com/iframe/$subdocument
 ||widget.aftermarket.pl^$subdocument
+||widgets.moneteasy.pl/widget/$script
 ||wiocha.pl/img/tapety/$image
 ||wp.com/luzyce.info/wp-content/uploads/20*/*/*.gif$image
 ||wp.com/niestatystyczny.pl/wp-content/uploads/*/tlo$image,domain=niestatystyczny.pl
@@ -3818,7 +3819,7 @@ sportowefakty.wp.pl
 sportowefakty.wp.pl
 sportowefakty.wp.pl
 sportowefakty.wp.pl,kobieta.wp.pl,moto.wp.pl,tech.wp.pl,gry.wp.pl,opinie.wp.pl,turystyka.wp.pl,pogoda.wp.pl,tv.wp.pl,finanse.wp.pl
-!sportowefakty.wp.pl
+sportowefakty.wp.pl
 sportowefakty.wp.pl,money.pl
 sportowefakty.wp.pl,money.pl,pudelek.pl
 sportowefakty.wp.pl
