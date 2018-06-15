@@ -2,7 +2,7 @@ env:
   global:
     - secure: FArb1qMu4WlI/gHRd3MlfMjC5Lgbs5QvRNDLNM/RNcd2QDHgCaG3RhcScauEZ0anXaV2mwcEXDSLaJa1+0GW0brZofCaND6AEOhRUihQtaeC0oZDtN87YB72awofFBcKKPsNiJIUkEuD73pCFA/uFtcoKL+VmCKaFdZwMXW2VovuuzBiv/WIICNqGn1vwspHQsMJav8IHckLfY3P8H60ZG3hN2qhf7Zr69wgLsSmANaQl6apxR1AVTdMn917lZCh12MFCdIpubvaH4PKkTIpi1KmcKDVY840+QNebsxs0qoR4penLZmseUu1+gBJ3fKSbA9DkexFcjfsJpnvNbloSj+/4SHAOCn+wf0xK9Eper/WbgwHu2zwztjcyZDIxZszP0fSY2VJphThktp5ROcM4W6VFuzbAjct6lRP/8VLjimXTlW+dMEp0lVpP6mit01isOdc7Yg7Lu+havyiUzKHGd5qnKCGSOdGZ7BfKR9QpPWoCJKsbJVJ6VpF5qXjI08qMAcj2hKzWCsoAicmA66lsE8twphM7V+HOio/FKZktYJmur7A+Zt1xrjJXoS15m1j4URQ3+VNjsknFSnm66vGDOzeWN3QfcqG7ddtrhyp+TudZi3yDzGcMjA5ZR+DnZz1V898SQIdsPQa1ZLdPb9VA/M2da8ph156mQlkUJMnIGQ=
     - GIT_NAME: Travis CI
-    - GIT_EMAIL: funilrys@outlook.com
+    - GIT_EMAIL: dead-hosts@funilrys.com
     - TRAVIS_REPO_SLUG: dead-hosts/polish-adblock-filters_git_MajkiIT
     - GIT_BRANCH: master
 
