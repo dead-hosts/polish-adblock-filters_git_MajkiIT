@@ -17,7 +17,7 @@ Github
 License:
 Copyright
 Najnowsza
-v.2018062001
+v.2018062104
 !
 !
 list
@@ -3479,7 +3479,7 @@ zw.pl
 @@ads$image,domain=rapidgrab.pl
 @@/ads.reklama.728x90$script,stylesheet,domain=zmianaczasu.info|antonimy.net|odmiana.net|definicja.net|krzyzowka.net|humoris.pl
 @@/advertise.js$domain=superfilm.pl
-@@/advertisement*.js$script,domain=meczyki.pl|autocentrum.pl|tokfm.pl|trojmiasto.pl|superfilm.pl
+@@/advertisement*.js$script,domain=meczyki.pl|autocentrum.pl|tokfm.pl|trojmiasto.pl|superfilm.pl|glucholazyonline.com.pl
 @@||advert-serv.johnmorris.me/adserver/adlogger_tracker.php$subdocument,domain=www.terrarium.com.pl
 @@||adv.wp.pl/adverts$xmlhttprequest,domain=pilot.wp.pl
 @@||adv.wp.pl/RM/Box/*/inline-videostar.js$script,domain=pilot.wp.pl
@@ -3815,7 +3815,7 @@ wp.tv
 !32
 ||i.wp.pl/*/stg/wpjslib-nojq.js$script,domain=www.dobreprogramy.pl
 ||v.wpimg.pl/$image,domain=money.pl|open.fm|autokult.pl
-||v.wpimg.pl/$media,redirect=noopmp3-0.1s,domain=wp.pl|~www.wp.pl|autokult.pl|parenting.pl|echirurgia.pl|money.pl|o2.pl|portal.abczdrowie.pl|komorkomania.pl|fotoblogia.pl|gadzetomania.pl|pudelek.pl|jejswiat.pl|medycyna24.pl
+||v.wpimg.pl/$media,redirect=noopmp3-0.1s,domain=wp.pl|~www.wp.pl|autokult.pl|parenting.pl|echirurgia.pl|money.pl|o2.pl|portal.abczdrowie.pl|komorkomania.pl|fotoblogia.pl|gadzetomania.pl|pudelek.pl|jejswiat.pl|medycyna24.pl|dobreprogramy.pl
 ||wpkoszyk.wp.pl/api/koszyk$xmlhttprequest
 ||xml.enovatis.pl/mrdsl/json.php$xmlhttprequest,domain=turystyka.wp.pl
 !
@@ -4119,7 +4119,6 @@ sport.pl
 shinden.pl
 !
 !46
-a-o.ninja
 a-o.ninja
 a-o.ninja
 a-o.ninja
