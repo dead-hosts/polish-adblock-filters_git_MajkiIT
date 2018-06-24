@@ -17,7 +17,7 @@ Github
 License:
 Copyright
 Najnowsza
-v.2018062104
+v.2018062401
 !
 !
 list
@@ -1551,6 +1551,7 @@ naekranie.pl
 naekranie.pl
 naekranie.pl
 naekranie.pl
+naekranie.pl
 naklo24.pl
 nakolei.pl
 na-luzie.net
@@ -2737,6 +2738,7 @@ zespolmi.pl
 zielonanews.pl
 zielonydziennik.pl,tygodnikkrag.pl,itfocus.pl
 ziemialimanowska.pl
+zizako.pl
 zmianynaziemi.pl
 zory.dlawas.pl
 zory.dlawas.pl
@@ -3526,7 +3528,7 @@ zw.pl
 @@||plejada.pl^$generichide
 @@://*.*/pl/js/show_ads.js$script,domain=ki24.info|portalplock.pl|faktypilskie.pl|e-krajna.pl|swiecie24.pl|zyciesokolowa.pl|zyciesiedleckie.pl|koronowo.net.pl|ciechocinek.biz|gniewkowo.eu|kolniak24.pl|itvszubin.pl|uniejow.net.pl|nizanskie.info|pluznica.info|superchodziez.pl|tygodnik.pl|ekutno.pl|naszbrzesc.pl|bydgoszcz24.pl|terazlipno.pl|saskakepa.waw.pl|gwe24.pl
 @@.pl/menda/adsense.js$script,domain=to.proste.info.pl|seciki.pl|kompnet.info|kolniak24.eu
-@@||portel.pl/phpadsnew/advs.js$script,domain=www.portel.pl
+@@||portel.pl/phpadsnew/ad*.js$script,domain=www.portel.pl
 @@||potplayerclub.pl^$generichide
 @@||ppstatic.pl/*/ads.js$script,domain=pomorska.pl
 @@||przegladsportowy.pl^$generichide
