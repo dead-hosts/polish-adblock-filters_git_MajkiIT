@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
-        "1529879408": [
+        "1530052263": [
             ".tradedoubler.com",
             "assets.bro.adca.st",
             "av-cdn-*.wpimg.pl",
@@ -10,6 +10,7 @@
             "glogow.pl",
             "grupa7j.pl",
             "https:",
+            "lcx.pl",
             "livemecz.*",
             "lubin.pl",
             "mercy.ga",
@@ -24,11 +25,7 @@
             "videos-.jwpsrv.com",
             "vidoza*.github.io",
             "vsport.in",
-            "www.ekobiety.pl",
             "www.kupbon.pl",
-            "www.nowawrzesnia.pl",
-            "www.one-solution.pl",
-            "www.serwer.brodnica.net",
             "zobaczto.pisz.pl"
         ],
         "to_test": [
