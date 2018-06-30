@@ -1,6 +1,6 @@
 env:
   global:
-    - secure: Y7HyOice6hBxXf7AMvWKOdVtYr7GNnv5FfyoULrSVfqJPrDrA9DP+/XW7Bt8V48ieM/bgFuWlkXwZ8Ie9/fLyoA7RsbkIn49nQasqnqU+Bkryxk+fHRAJwerIHRBwyaxLOsGJDfW5JfsUD8wZUMnVUCtJaNJlHLWKvzhSqhPGjy1r1nkBL1fc4Tnerv8pXDuMPA6v5LpK34tU6/S6573N+otksRH0A1I+zGYMqwF4q4WD7xu+/JCiqfrmiXFVqYlKxm2JQtJv5EvVO7ekX9TFUgUAfGhypAg0blqSQDhbb7VX9ewqPznqtHbKaDZa6IkBNacMFroZzqq+Bei3UVrQWJ+5H7zG3kzMwA+62bOa9hbU48GnR8Zzev/AQN3NxQyqMGZp9KZb5jFtM7TBwHu2Sgjassrz1UrT5cfCZ5v/p2KBwRZ08U0c5d/XYzg6motzC0461kqfN+BGd0XJkYYfa4jqfsqObTi3NiKMh/x3S15XUbX43wcIgL4S2LST9NS7T1aofeWRB/vaimmh/z21UP7htmI52U6aelz6G1cwgqDWXPh4DFbO2ham68OBYe431Mqrcx9q/PqAmTewnn+cWWu9ePthcGpyvl4sAZpWBetVayf6bYnU/4qgzJDTBbqLbWaZpjaN6GD3dtqJNgCinYjpcUUgZyO6n55OnAiHsk=
+    - secure: kiEG57G66TjObZqSxcbF7e4VZmFR1wxN5MqcEVs3b30BALtJkQl8yaxYTgCv21+087h+ijzn4Z0wamqd9X8evyONzjojZLz6ozQx9IA4RAK3ItZHN1ssSoNOudvpioUbBvU/4QNWaZDpLqwNxXPtm/7ZYz/tBfVXB5qleLtcOAPP25X8+U47A6Oom+DhiH+dSQZqwQM17/eg/uywpiNDQe15F52kXOvqUBmc0MOQ9w5cCTBPJHDaT9ExrnstkHaopPTwLL/9r6B4O+CbHOTLAibunqLsE/yTIPXAkzJRy/ii8yvisX1cGgbi6fD/df4aiieQae8UoKfiJ2fp3TDBlwVmLdZp2o/PGXZILVb17HABjrkZcllxVleXcDhMDamA1woweBz+67hUJtHQx3At358Co8d1BCKaFSpNB0KkFbLugvpKJAmc4vZrPlnCCyYZ4euNAmBtB8leRJKHlLn5LX/KcZqCAV/AP9taPVBbAXH2kBbhmvQH7QcOMxKLW4Z7IGSpu7QHW6l1Rfjhg71gPqmnNLVw7pEerc3sc5nZFcw7gkj9f/CHgYmc2n1eS5K7KZn+OnotHmBrzjTqdpKszs3bBgVDb8WCveB2w+9MRaGz5z5SRbfZF3qdAIkkMDPBuhxdgb8QdaTNMGteUnnGe0M5CVtayOZxscub3fykko4=
     - GIT_NAME: Travis CI
     - GIT_EMAIL: dead-hosts@funilrys.com
     - TRAVIS_REPO_SLUG: dead-hosts/polish-adblock-filters_git_MajkiIT
@@ -21,7 +21,7 @@ cache:
 sudo: required
 
 install:
-  - pip3 install git+https://github.com/funilrys/PyFunceble.git@dev#egg=PyFunceble
+  - pip3 install pyfunceble-dev
   - sudo apt-get -y install dos2unix
 
 script:
