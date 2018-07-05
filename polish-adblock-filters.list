@@ -17,7 +17,7 @@ Github
 License:
 Copyright
 Najnowsza
-v.2018070202
+v.2018070501
 !
 !
 list
@@ -243,6 +243,7 @@ anyfiles.pl
 anyfiles.pl
 anyfiles.pl
 apynews.pl
+arenadesign.pl
 astar.czest.pl
 astratex.pl
 astronomia24.com
@@ -369,6 +370,8 @@ boardtime.pl
 bobrzanie.pl,tablety.pl
 bochnianin.pl
 bolec.info
+bokser.org
+bokser.org
 bonavita.pl
 bonavita.pl
 bonavita.pl
@@ -1211,7 +1214,7 @@ korkosfera.pl
 korso.pl,debica24.eu
 korsosanockie.pl,korso.pl
 koscian.net
-koszalininfo.pl,wlkp24.info,wwl24.info,b2-biznes.pl,sporteuro.pl,metropoliabydgoska.pl,brzeg24.pl,pabianice.tv,zambrowiacy.pl,e-play.pl,wrc.net.pl,dziennik.walbrzych.pl,asta24.pl,nswiecie.pl,blogtransportowy.pl,portalprzemyski.pl,wzielonej.pl,mikrokontroler.pl,naszawielkopolska.pl,radio-wrzesnia.pl
+koszalininfo.pl,wlkp24.info,wwl24.info,b2-biznes.pl,sporteuro.pl,metropoliabydgoska.pl,brzeg24.pl,pabianice.tv,zambrowiacy.pl,e-play.pl,wrc.net.pl,dziennik.walbrzych.pl,asta24.pl,nswiecie.pl,blogtransportowy.pl,portalprzemyski.pl,wzielonej.pl,mikrokontroler.pl,naszawielkopolska.pl,radio-wrzesnia.pl,webinsider.pl
 kozaczek.pl
 kozaczek.pl
 kozienice24.pl
@@ -1557,6 +1560,7 @@ naekranie.pl
 naekranie.pl
 naekranie.pl
 naekranie.pl
+naekranie.pl
 naklo24.pl
 nakolei.pl
 na-luzie.net
@@ -1579,7 +1583,7 @@ nasztomaszow.pl
 naszwodzislaw.com
 naszwodzislaw.com
 natemat.pl
-natemat.pl,innpoland.pl,aszdziennik.pl,mamadu.pl
+innpoland.pl,aszdziennik.pl,mamadu.pl
 nazwiska-polskie.pl
 nczas.com
 ndie.pl
@@ -2153,6 +2157,7 @@ solarkurier.pl
 solidarnoscarimr.pl
 speedtest.pl
 speedtest.pl
+spidersweb.pl
 spidersweb.pl
 spidersweb.pl
 spidersweb.pl
@@ -3065,6 +3070,7 @@ zywiecinfo.pl
 ||reklamy.s3.amazonaws.com/bcg/$image
 ||rek.www.wp.pl^
 ||repostuj.pl/static/repostujpl/arrow_right.jpg$domain=repostuj.pl
+||rkantor.com/widget/$script
 ||rtbnowads.com/$script
 ||s2.ifotos.pl/img/$image,domain=supertydzien.pl
 ||satkurier.pl/getRandomBanner
@@ -3342,6 +3348,7 @@ wpworld.pl,windowsowo.pl
 24opole.pl,webcamera.pl,darmowe-torenty.pl
 adtaily.pl
 allekoszyk.pl
+altair.com.pl
 androidbeztajemnic.com
 anyfiles.pl
 benchmark.pl
@@ -3437,6 +3444,7 @@ sucharry.pl
 terrarium.com.pl
 twojezaglebie.pl
 twojezaglebie.pl
+webinsider.pl
 vitalia.pl
 vod.pl
 vod.pl
@@ -3684,6 +3692,7 @@ xyz,mecz.tv,ipilka.info
 ||ocs-pl.oktawave.com/v1/AUTH_2887234e-384a-4873-8bc5-405211db13a2/spidersweb/2018/04/fnwidget.jpeg$image
 ||ocs-pl.oktawave.com/v1/*/sidebar_*tlo.jpg$image
 ||ocs-pl.oktawave.com/v1/*/*sponsoring*.jpg$image
+||ocs-pl.oktawave.com/v1/AUTH_2887234e-384a-4873-8bc5-405211db13a2/spidersweb/2018/07/wiko-380x1035.jpg$image
 ||weszlo.com/wp-content/uploads/bsa-pro-upload/1517841983-screening.jpg$image
 !
 !21
@@ -3741,6 +3750,7 @@ autocentrum.pl,demotywatory.pl,dziennik.pl,facetemjestem.pl,gala.pl,garnek.pl,gr
 ||domniespodzianek.com^
 ||bonypodarunkowe.com.pl^
 ||technoline.site^
+||upvid.co^
 !
 !24
 ||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=exs.pl,important
