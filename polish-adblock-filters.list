@@ -17,7 +17,7 @@ Github
 License:
 Copyright
 Najnowsza
-v.2018070501
+v.2018070603
 !
 !
 list
@@ -2003,6 +2003,7 @@ radomsport.pl
 rawicz24.pl,zwielkopolski24.pl
 rawicz24.pl
 rc4max.com
+rdc.pl
 rdn.pl
 realmadryt.pl
 realmadryt.pl
@@ -2107,7 +2108,7 @@ signs.pl
 silentiumpc.com
 silesia.fm
 silesia.fm
-sitemag.pl,infokatowice.pl
+sitemag.pl,infokatowice.pl,noweinfo.pl
 sitemag.pl
 skijumping.pl
 skiny.pl
@@ -3507,6 +3508,7 @@ zw.pl
 @@||advert-serv.johnmorris.me/adserver/adlogger_tracker.php$subdocument,domain=www.terrarium.com.pl
 @@||adv.wp.pl/adverts$xmlhttprequest,domain=pilot.wp.pl
 @@||adv.wp.pl/RM/Box/*/inline-videostar.js$script,domain=pilot.wp.pl
+@@||animezone.pl^$generichide
 @@||anyfiles.pl/pageloading/*-loader.jsp?ads=true
 @@||app.convertiser.com/scripts/*.advert.js
 @@||applemobile.pl^$generichide
@@ -3515,7 +3517,6 @@ zw.pl
 @@||burzowo.info/scripts/ad.js$script,domain=burzowo.info
 @@||businessinsider.com.pl^$generichide
 @@||cdn.muratordom.smcloud.net/t/advert.js$script,domain=www.poradnikzdrowie.pl
-!@@||csr.onet.pl/_s/csr-*/csr.jsx$script
 @@||csr.onet.pl/$domain=www.newsweek.pl
 @@||cyfrowydoradca.pl/modules/mod_jpayday/js/advertisement.js
 @@||epiotrkow.pl/js/*reklama*.js$script
@@ -3586,6 +3587,7 @@ zw.pl
 @@||zyciepabianic.pl^$generichide
 !
 !17
+animezone.pl
 cosplayjav.pl
 gry-planszowe.pl
 how2play.pl
@@ -3782,7 +3784,7 @@ pl
 /^(http|https):\/\/[a-z.]{5,10}\.[a-z]{2,4}\/[a-z.]{3,7}\?[a-zA-Z0-9=&%-.]{100,250}/$popup,domain=centrum-dramy.pl|a-o.ninja|alltube.tv|alltube.pl|hentai-online.pl|centrum-mangi.ninja
 /^(http|https):\/\/[a-z]{5,10}\.com\/[a-zA-Z0-9+]{80,}/$subdocument,domain=embed.nowvideo.sx|cloudtime.to|darmowa-telewizja.info
 /^(http|https):\/\/[a-z.-]{5,30}\/client\?party/$script,domain=openkatalog.com
-/^(http|https):\/\/[a-zA-Z0-9]{10,}\.cloudfront\.net\/[a-zA-Z0-9%?=]{10,}/$script,domain=follofop.com|seriale-po-polsku.pl
+/^(http|https):\/\/[a-zA-Z0-9]{10,}\.cloudfront\.net\/[a-zA-Z0-9%?=]{10,}/$script,domain=follofop.com|seriale-po-polsku.pl|animezone.pl
 /^(http|https):\/\/[a-zA-Z0-9]{5,10}\.[a-z]{2,10}\/[a-zA-Z0-9?_=&-.%]{50,70}/$subdocument,script,popup,domain=filmtu.pl|dekoder.ws|darmowa-tv.pl|cdax.online|tele-wizja.is|widestream.io
 /^(http|https):\/\/[a-zA-Z0-9]{5,15}\.(com|net)\/[a-z]{4,10}\/[0-9a-z.?=%A-Z-&]{60,100}/$script,popup,domain=dekoder.ws|veecast.net|darmowa-tv.pl
 /^(http|https):\/\/[a-zA-Z.0-9]{7,}\.(com|bid|info)\/[a-zA-Z]{1,}\.js/$script,domain=devil-torrents.pl|electro-torrent.pl|vidlox.tv|segos.es|fileone.tv|fili.tv|streamango.com|nasze-kino.online|vidto.pl|raptu.com|rapidvideo.com|vidfile.net|sharevideo.pl|sharing-box.cloud|vidstream.xyz|dragon-ball-super.ga|openkatalog.ml|dragon-ball-super.ga|nasze-kino.tv|kino123.pl|boxfilm.pl|cloudupload.co|allonline.pl|openload.co|cdax.online|dekoder.ws|abcast.net|darmowa-tv.pl|veecast.net|a-o.ninja|castto.me|centrum-dramy.pl|hentai-online.pl|centrum-mangi.ninja|openkatalog.com|shinden.pl|tele-wizja.is|ekinomaniak.tv|tele-wizja.ru|hqq.watch|whostreams.net|seriale-po-polsku.pl|virpe.com
