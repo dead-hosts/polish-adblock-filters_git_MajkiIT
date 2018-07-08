@@ -17,7 +17,7 @@ Github
 License:
 Copyright
 Najnowsza
-v.2018070603
+v.2018070803
 !
 !
 list
@@ -1712,6 +1712,10 @@ oswiecimonline.pl
 oswiecimonline.pl
 otodom.pl
 otopanorama.pl
+ototorun.pl
+ototorun.pl
+ototorun.pl
+ototorun.pl
 ototorun.pl
 ototorun.pl
 otozawiercie.pl
@@ -3752,7 +3756,6 @@ autocentrum.pl,demotywatory.pl,dziennik.pl,facetemjestem.pl,gala.pl,garnek.pl,gr
 ||domniespodzianek.com^
 ||bonypodarunkowe.com.pl^
 ||technoline.site^
-||upvid.co^
 !
 !24
 ||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=exs.pl,important
@@ -3976,8 +3979,14 @@ kafeteria.pl
 ||static-olxeu.akamaized.net/static/olxpl/naspersclassifieds-regional/olxeu-atlas-web/static/js/advertising.js$important
 @@/tagcommander/$script,domain=account.ubisoft.com
 @@||wpolityce24.pl/imgcache/300x250/*/uploads/news/$image
-!
+@@||addthis.com/live/*$script,domain=serialomaniak.pl
+@@||addthisedge.com/live$script,xmlhttprequest,domain=serialomaniak.pl
+||addthis.com^$important,third-party,domain=~missingkids.com|~missingkids.org,badfilter
+||addthis.com/*/addthis_widget.js$script,badfilter
+||addthis.com^$important,third-party,domain=~missingkids.com|~missingkids.org|~serialomaniak.pl
+||addthis.com/*/addthis_widget.js$script,domain=~serialomaniak.pl
 24legnica.pl,wstereo.pl,magazynbasista.pl,niebezpiecznik.pl,appki.com.pl,prawapolityka.pl,stop-cham.pl,zwiedzam-stadiony.eu
+!
 !37
 ||overwatch.pl/wp-content/uploads/20*/*/250x700*.png$image
 !
