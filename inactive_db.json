@@ -1,8 +1,7 @@
 {
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
-        "1531089416": [
+        "1531262252": [
             ".tradedoubler.com",
-            "allegrostatic.pl",
             "assets.bro.adca.st",
             "av-cdn-*.wpimg.pl",
             "businessclick.*",
@@ -10,7 +9,6 @@
             "glogow.pl",
             "grupa7j.pl",
             "https:",
-            "lcx.pl",
             "livemecz.*",
             "lubin.pl",
             "mercy.ga",
@@ -21,7 +19,6 @@
             "static*jelonka.com",
             "static.bro.adca.st",
             "stats.qmerce.com",
-            "stteped.pl",
             "videos-.jwpsrv.com",
             "vidoza*.github.io",
             "vsport.in",
