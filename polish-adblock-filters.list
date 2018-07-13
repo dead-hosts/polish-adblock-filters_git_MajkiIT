@@ -17,7 +17,7 @@ Github
 License:
 Copyright
 Najnowsza
-v.2018071003
+v.2018071301
 !
 !
 list
@@ -386,7 +386,7 @@ bramkasms.pl
 brodnica.net
 brodnica.net
 brodnica.net
-bryk.pl,zvami.tv,debica24.eu,telewizjazary.pl,korsokolbuszowskie.pl,kociewiak.pl,cooltura24.co.uk,portalpomorza.pl,tvobiektyw.pl,debica24.eu,echotygodnik.info
+bryk.pl,zvami.tv,debica24.eu,telewizjazary.pl,korsokolbuszowskie.pl,kociewiak.pl,cooltura24.co.uk,portalpomorza.pl,tvobiektyw.pl,debica24.eu,echotygodnik.info,damitv.pl,ct.jaworzno.pl
 btc-sms.eu
 budmatauto.pl
 budnet.pl
@@ -571,6 +571,7 @@ dj24.pl
 djfranek.pl,mojelokum.pl,mojapraca.pl,turboportal.pl,wujekfranek.pl
 djfranek.pl,mojelokum.pl,turboportal.pl,wujekfranek.pl
 dlalejdis.pl
+dla-pupila.pl
 doba.pl
 doba.pl,trojmiasto.pl
 dobra-mama.pl
@@ -1122,7 +1123,7 @@ jadarhobby.pl
 jagiellonia.net
 jagodnik.pl
 jagodnik.pl
-jagodnik.pl
+jagodnik.pl,magnapolonia.org
 jaka-komorka.pl
 jaka-komorka.pl
 jakdojade.pl
@@ -1166,6 +1167,7 @@ joemonster.org
 joemonster.org
 joemonster.org
 joemonster.org
+juvepoland.com
 jysk.promoceny.pl
 jysk.promoceny.pl
 kamienskie.info
@@ -1196,6 +1198,7 @@ klikplej.pl
 klikplej.pl
 klubowa.pl
 kobieta.pl
+kobietaxl.pl
 kobiety-kobietom.com
 kodiwpigulce.pl
 kokosik1207.pl
@@ -1217,7 +1220,7 @@ korkosfera.pl
 korso.pl,debica24.eu
 korsosanockie.pl,korso.pl
 koscian.net
-koszalininfo.pl,wlkp24.info,wwl24.info,b2-biznes.pl,sporteuro.pl,metropoliabydgoska.pl,brzeg24.pl,pabianice.tv,zambrowiacy.pl,e-play.pl,wrc.net.pl,dziennik.walbrzych.pl,asta24.pl,nswiecie.pl,blogtransportowy.pl,portalprzemyski.pl,wzielonej.pl,mikrokontroler.pl,naszawielkopolska.pl,radio-wrzesnia.pl,webinsider.pl
+koszalininfo.pl,wlkp24.info,wwl24.info,b2-biznes.pl,sporteuro.pl,metropoliabydgoska.pl,brzeg24.pl,pabianice.tv,zambrowiacy.pl,e-play.pl,wrc.net.pl,dziennik.walbrzych.pl,asta24.pl,nswiecie.pl,blogtransportowy.pl,portalprzemyski.pl,wzielonej.pl,mikrokontroler.pl,naszawielkopolska.pl,radio-wrzesnia.pl
 kozaczek.pl
 kozaczek.pl
 kozienice24.pl
@@ -1559,6 +1562,7 @@ mysqlperformanceblog.com
 na-luzie.net
 nacjonalista.pl
 nacjonalista.pl
+naekranie.pl
 naekranie.pl
 naekranie.pl
 naekranie.pl
@@ -1956,7 +1960,7 @@ przepisy.pl
 przewodnicywedkarscy.pl
 przychodnia.pl
 przyslijprzepis.pl
-pszczynska.pl,szajn.pl,polskicaravaning.pl
+pszczynska.pl,szajn.pl,polskicaravaning.pl,4run.pl
 pudelek.tv,wp.tv,interaktywnie.com
 pukawka.pl
 pultusk24.pl
@@ -2766,6 +2770,7 @@ zblogowani.pl
 zebrra.tv
 zegarkiclub.pl
 zeglarski.info
+zepsute.pl
 zespolmi.pl
 zielonanews.pl
 zielonydziennik.pl,tygodnikkrag.pl,itfocus.pl
@@ -2812,6 +2817,8 @@ zywiecinfo.pl
 ||ad.facetpo40.pl^
 ||adform.net^
 ||ad.gazeta.pl/cpc$script,domain=kobieta.gazeta.pl
+||ad.vider.pl^
+||ad.webshark.pl^
 ||adglare.org^$third-party,domain=nhl.pl|notebookcheck.pl
 ||adocean.pl^
 ||adsb4track.com/?$script
@@ -3420,6 +3427,7 @@ katowickisport.pl
 katowickisport.pl,webinsider.pl
 katowickisport.pl
 katowickisport.pl
+kobietaxl.pl
 kursbootstrap.pl
 leaseplan.pl
 lech.tv
@@ -3543,7 +3551,7 @@ zw.pl
 @@||gapl.hit.gemius.pl/gemiuslib.js$script,domain=auto-swiat.pl|businessinsider.com.pl|fakt.pl|forbes.pl|komputerswiat.pl|noizz.pl|onet.pl|plejada.pl|vod.pl
 @@||gapl.hit.gemius.pl/gplayer.js$script,domain=auto-swiat.pl|businessinsider.com.pl|fakt.pl|forbes.pl|komputerswiat.pl|noizz.pl|onet.pl|plejada.pl|vod.pl
 @@/^(https|http):\/\/a-o\.ninja\/[0-9a-zA-z-]{10,200}\.js/$script
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=games.cdn.famobi.com|grydladzieci.pl|fm.tuba.pl|wp.pl|player.pl|animezone.pl
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=games.cdn.famobi.com|grydladzieci.pl|fm.tuba.pl|wp.pl|player.pl|animezone.pl|ipla.tv
 @@||imged.pl/subframe/js/*/adblock-advertisement.js$script
 @@||istotne.pl^$generichide
 @@/js/ads.js$script,domain=solarkurier.pl|satkurier.pl|saskakepa.waw.pl|e-krajna.pl|swiecie24.pl|zyciesokolowa.pl|ciechocinek.biz|napiprojekt.pl|uniejow.net.pl|nizanskie.info|pluznica.info|superchodziez.pl|tygodnik.pl|ekutno.pl|naszbrzesc.pl|bydgoszcz24.pl|terazlipno.pl|gwe24.pl|dziwnekomiksy.pl|digi-tv.pl|chelsea24news.pl|wolomin24.info|splendo.pl|egorzow.pl|irembertow.pl|iminsk.pl|ikrakow.info|iskierniewice.pl|ikampinos.pl|e-wyszogrod.pl|ibielsk.pl|wterenie.pl|ciechanowinaczej.pl|wabrzezno-cwa.pl|infosiedlce.pl|rypin-cry.pl|golub-cgd.pl|iotwock.info|szczecinek.com|lipno-cli.pl|imokotow.pl|nolesnica.pl|itvpiaseczno.pl|histmag.org|lowcygier.pl|gorzowianin.com|polotv.pl|video.anyfiles.pl|brotkids.tv|fokus.tv|ithardware.pl|meteoprog.pl|nowa.tv|okazje.co|forsal.pl|gazetaprawna.pl|fxmag.pl|nasztomaszow.pl|dieroten.pl|reklama.pl|gpr24.pl|twojradom.pl|inowroclaw.info.pl|pultusk24.pl|bham.pl|vorek.pl|plonszczak.pl|zdrowowdomu.wp.pl|audiklub.org|video-static.tunnl.com|pcworld.pl|gostynin.info|zambrow.org|millemiglia.wp.pl|radiogol.pl
@@ -4180,7 +4188,6 @@ sport.pl
 shinden.pl
 !
 !46
-a-o.ninja
 a-o.ninja
 a-o.ninja
 a-o.ninja
