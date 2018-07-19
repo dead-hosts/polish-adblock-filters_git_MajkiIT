@@ -17,10 +17,15 @@ Github
 License:
 Copyright
 Najnowsza
-v.2018071701
+v.2018071904
 !
 !
 list
+!
+!
+!
+!
+!
 !
 !
 !
@@ -98,8 +103,8 @@ vshare.io
 !
 !7
 !
-24tp.pl,lca.pl,112tychy.pl,30minut.pl
 !8
+24tp.pl,lca.pl,112tychy.pl,30minut.pl,twoje-podhale.pl
 ~astrosalus.pl,~przegladsportowy.pl,~medonet.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,anglia.today,dbnao.net,pl
 ~zaq2.pl,~docer.pl,pl
 ~fakt.pl,pl
@@ -2089,6 +2094,7 @@ sadnowoczesny.pl
 sanok24.pl
 sanok24.pl
 saskakepa.waw.pl
+satinfo24.pl
 satkurier.pl
 satkurier.pl
 satkurier.pl
@@ -3534,6 +3540,7 @@ zw.pl
 @@/adsense.js$script,domain=biznesforum.pl|optyczne.pl
 @@ads$image,domain=rapidgrab.pl
 @@/ads.reklama.728x90$script,stylesheet,domain=zmianaczasu.info|antonimy.net|odmiana.net|definicja.net|krzyzowka.net|humoris.pl
+@@/advert.js$script,domain=www.poradnikzdrowie.pl|fm.tuba.pl
 @@/advertise.js$domain=superfilm.pl
 @@/advertisement*.js$script,domain=meczyki.pl|autocentrum.pl|tokfm.pl|trojmiasto.pl|superfilm.pl|glucholazyonline.com.pl|ps-plus.pl
 @@||adservice.google.pl/adsid/integrator.js$script,domain=tvp.pl
@@ -3548,7 +3555,6 @@ zw.pl
 @@||blog.programyzadarmo.net.pl/images/ad/*.gif$image,domain=blog.programyzadarmo.net.pl
 @@||burzowo.info/scripts/ad.js$script,domain=burzowo.info
 @@||businessinsider.com.pl^$generichide
-@@||cdn.muratordom.smcloud.net/t/advert.js$script,domain=www.poradnikzdrowie.pl
 @@||csr.onet.pl/$domain=www.newsweek.pl
 @@||cyfrowydoradca.pl/modules/mod_jpayday/js/advertisement.js
 @@||epiotrkow.pl/js/*reklama*.js$script
@@ -3790,6 +3796,7 @@ autocentrum.pl,demotywatory.pl,dziennik.pl,facetemjestem.pl,gala.pl,garnek.pl,gr
 ||adobedc.cf^
 ||dhl-paczki.ml^
 ||p986524.pl^
+||aktualizacja-lte5.pl^
 !
 !24
 ||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=exs.pl,important
@@ -4074,7 +4081,7 @@ nettg.pl
 newsbook.pl
 olgasmile.com
 olgasmile.com
-pabianice.tv
+pabianice.tv,satinfo24.pl
 podgorze.pl,strajk.eu
 podkarpackahistoria.pl
 radiofon.fm
@@ -4137,7 +4144,7 @@ zwiedzamyparyz.pl
 ||vaks.pl^
 ||vidoza*.github.io/*/*.wasm
 /wss:\/\/[a-z0-9.]{10,25}\.[a-z]{2,3}\/$/$domain=a-o.ninja
-/:\/\/[\w\W]{4,15}\.[a-z]{2,3}:[0-9]{3,4}\//$subdocument,domain=alltube.tv|szukajka.tv|alltube.pl
+/:\/\/[\w\W]{4,15}\.[a-z]{2,6}:[0-9]{3,4}\//$subdocument,domain=alltube.tv|szukajka.tv|alltube.pl
 /:\/\/[\w\W]{5,15}\.[a-z]{2,3}:[0-9]{3,4}\//$domain=dekoder.ws|alltube.tv|ekinomaniak.tv|vidoza.net|alltube.pl|fili.cc
 !
 !40
