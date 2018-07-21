@@ -1,7 +1,9 @@
 {
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
-        "1532040118": [
+        "1532212992": [
             ".tradedoubler.com",
+            "aktualizacja-lte5.pl",
+            "allegrostatic.pl",
             "assets.bro.adca.st",
             "av-cdn-*.wpimg.pl",
             "businessclick.*",
