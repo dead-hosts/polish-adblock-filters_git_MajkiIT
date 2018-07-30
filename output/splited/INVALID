@@ -1,13 +1,13 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Tue 24 Jul 22:07:58 UTC 2018 
+# Date of generation: Mon 30 Jul 20:07:34 UTC 2018 
 
-Domain                                                                                               Source     HTTP Code  Analyze Date         
-*cda.pl                                                                                              IANA       ***        Tue 24 Jul 22:07:58 UTC 2018 
-.tradedoubler.com                                                                                    IANA       ***        Tue 24 Jul 22:07:58 UTC 2018 
-av-cdn-*.wpimg.pl                                                                                    IANA       ***        Tue 24 Jul 22:07:58 UTC 2018 
-businessclick.*                                                                                      IANA       ***        Tue 24 Jul 22:07:58 UTC 2018 
-https:                                                                                               IANA       ***        Tue 24 Jul 22:07:58 UTC 2018 
-livemecz.*                                                                                           IANA       ***        Tue 24 Jul 22:07:58 UTC 2018 
-redir.atmcdn.pl*swf                                                                                  IANA       ***        Tue 24 Jul 22:07:58 UTC 2018 
-static*jelonka.com                                                                                   IANA       ***        Tue 24 Jul 22:07:58 UTC 2018 
-vidoza*.github.io                                                                                    IANA       ***        Tue 24 Jul 22:07:58 UTC 2018 
+Domain                                                                                               Status      HTTP Code  
+*cda.pl                                                                                              INVALID     IANA       
+.tradedoubler.com                                                                                    INVALID     IANA       
+av-cdn-*.wpimg.pl                                                                                    INVALID     IANA       
+businessclick.*                                                                                      INVALID     IANA       
+https:                                                                                               INVALID     IANA       
+livemecz.*                                                                                           INVALID     IANA       
+redir.atmcdn.pl*swf                                                                                  INVALID     IANA       
+static*jelonka.com                                                                                   INVALID     IANA       
+vidoza*.github.io                                                                                    INVALID     IANA       

@@ -17,10 +17,10 @@ Github
 License:
 Copyright
 Najnowsza
-v.2018072301
+v.2018073001
 !
 !
-list
+of
 !
 !
 !
@@ -135,6 +135,7 @@ pl
 pl
 pl
 pl
+~esanok.pl,pl
 .pl/www/sys/ajs*.php?$script
 popkiller.pl,tygodnikpodhalanski.pl,cnc.info.pl
 ~przegladsportowy.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,pl
@@ -175,7 +176,6 @@ popkiller.pl,tygodnikpodhalanski.pl,cnc.info.pl
 24opole.pl
 24plock.pl
 24pr.pl
-24pr.pl
 24wspolnota.pl
 2bstyle.pl
 300polityka.pl
@@ -204,6 +204,7 @@ alawar.pl
 alilove.pl
 alilove.pl
 allaboutmusic.pl
+allans.pl
 allegro.pl
 allegro.pl
 allegro.pl
@@ -392,6 +393,7 @@ brodnica.net
 brodnica.net
 brodnica.net
 bryk.pl,zvami.tv,debica24.eu,telewizjazary.pl,korsokolbuszowskie.pl,kociewiak.pl,cooltura24.co.uk,portalpomorza.pl,tvobiektyw.pl,debica24.eu,echotygodnik.info,damitv.pl,ct.jaworzno.pl
+brytol.com
 btc-sms.eu
 budmatauto.pl
 budnet.pl
@@ -437,7 +439,6 @@ cdahd.pl
 cdtracker.co.pl
 cenabiznesu.pl,elubaczow.com
 centrum-dramy.pl
-centrumdruku3d.pl
 centrumdruku3d.pl
 centrumxp.pl
 centrumxp.pl
@@ -710,8 +711,8 @@ esanok.pl
 esanok.pl
 esanok.pl
 esanok.pl
-eska.pl
-eska.pl
+esanok.pl
+esanok.pl
 eska.pl
 eska.pl
 eska.pl
@@ -1602,7 +1603,6 @@ nczas.com
 ndie.pl
 ndie.pl
 ndie.pl
-ndie.pl
 nedds24.pl
 netinfo24.pl
 newsbook.pl
@@ -1949,8 +1949,6 @@ prostozmostu.net
 prostozmostu.net
 prostozmostu.pl
 proto.pl
-proto.pl
-prv.pl
 prv.pl
 prv.pl
 przedszkola.edu.pl
@@ -2388,6 +2386,7 @@ trybi.pl
 trybun.org.pl
 trybunaczestochowska.pl,animalistka.pl,pojon.pl,300polityka.pl
 tryton.com.pl
+trzemeszno24.info
 tubagliwic.pl
 tubagliwic.pl
 tuelblag.pl
@@ -2582,8 +2581,6 @@ wp.pl
 wpolityce.pl
 wpolityce.pl
 wpolityce24.pl
-wprost.pl
-wprost.pl
 wprost.pl
 wrc.net.pl
 wrealu24.pl
@@ -2809,7 +2806,6 @@ zycietoprzygoda.pl
 zywiecinfo.pl
 zywiecinfo.pl
 zywiecinfo.pl
-~spolka.cda.pl,cda.pl
 ~www.cba.pl,cba.pl
 !
 !10
@@ -2999,6 +2995,7 @@ zywiecinfo.pl
 ||lib.onet.pl/s.csr/external/iframe$script,subdocument
 ||lidl.pl/statics/lidl-pl/ds_img/layout/tapeta_$image
 ||link.batuu.pl/$script
+||listaserwerowmc.pl/*baner$image
 ||lubartow24.pl/f/*.gif$image
 ||lubartow24.pl/f/navb*.jpg$image
 ||lubin.pl/wp-content/themes/supernews-provider/adrotate_group.php
@@ -3042,6 +3039,7 @@ zywiecinfo.pl
 ||niebiescy.pl/bild/$image
 ||nokaut.pl/wigetyflash/$object
 ||nowiny.rybnik.pl/baner/$image
+||nqp0852y7r.com/e6/52/26/e652267829a86c98499016a18555c207.js$script,domain=internetowa.ws
 ||nuteczki.eu/templates/KlubowaMuza/images/pobierz.png$image
 ||ocdn.eu/*.html$subdocument,domain=sniadaniezkadra.onet.pl
 ||ocs-pl.oktawave.com/*/reklamy$subdocument,domain=spidersweb.pl
@@ -3188,7 +3186,7 @@ zywiecinfo.pl
 ||weszlo.com/?bsa_pro_id$popup
 ||widgets.tracdelight.com/iframe/$subdocument
 ||widget.aftermarket.pl^$subdocument
-||widgets.moneteasy.pl/widget/$script
+||widgets.moneteasy.pl/widget/$script,domain=~noizz.pl
 ||widget.plastream.net/$xmlhttprequest
 ||wiocha.pl/img/tapety/$image
 ||wp.com/luzyce.info/wp-content/uploads/20*/*/*.gif$image
@@ -3402,6 +3400,7 @@ dziwnekomiksy.pl
 e-dokument.org,znaki.vxm.pl
 egarwolin.pl
 fly4free.pl
+forum.komputerswiat.pl
 forum.vw-passat.pl
 fotoblogia.pl,gadzetomania.pl,wp.pl,autokult.pl,komorkomania.pl,medycyna24.pl,smaczneblogi.pl
 gazetakrakowska.pl
@@ -3421,11 +3420,11 @@ jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwant
 jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,4free.waw.pl,imeds.pl,pl.aleteia.org,overwatch.pl
 jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,4free.waw.pl,imeds.pl,pl.aleteia.org,overwatch.pl
 jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,4free.waw.pl,imeds.pl,pl.aleteia.org,overwatch.pl
+katowickisport.pl,torrentcity.pl
 katowickisport.pl
 katowickisport.pl
 katowickisport.pl
-katowickisport.pl
-katowickisport.pl,darmowe-torenty.pl
+katowickisport.pl,darmowe-torenty.pl,torrentcity.pl,esanok.pl
 katowickisport.pl
 katowickisport.pl
 katowickisport.pl
@@ -3485,7 +3484,7 @@ webinsider.pl
 vitalia.pl
 vod.pl
 vod.pl
-vorek.pl,gry-planszowe.pl,darmowe-torenty.pl
+vorek.pl,gry-planszowe.pl,darmowe-torenty.pl,torrentcity.pl
 vorek.pl,shinden.pl
 waznygry.pl
 wortale.net
@@ -3567,7 +3566,7 @@ zw.pl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=games.cdn.famobi.com|grydladzieci.pl|fm.tuba.pl|wp.pl|player.pl|animezone.pl|ipla.tv
 @@||imged.pl/subframe/js/*/adblock-advertisement.js$script
 @@||istotne.pl^$generichide
-@@/js/ads.js$script,domain=solarkurier.pl|satkurier.pl|saskakepa.waw.pl|e-krajna.pl|swiecie24.pl|zyciesokolowa.pl|ciechocinek.biz|napiprojekt.pl|uniejow.net.pl|nizanskie.info|pluznica.info|superchodziez.pl|tygodnik.pl|ekutno.pl|naszbrzesc.pl|bydgoszcz24.pl|terazlipno.pl|gwe24.pl|dziwnekomiksy.pl|digi-tv.pl|chelsea24news.pl|wolomin24.info|splendo.pl|egorzow.pl|irembertow.pl|iminsk.pl|ikrakow.info|iskierniewice.pl|ikampinos.pl|e-wyszogrod.pl|ibielsk.pl|wterenie.pl|ciechanowinaczej.pl|wabrzezno-cwa.pl|infosiedlce.pl|rypin-cry.pl|golub-cgd.pl|iotwock.info|szczecinek.com|lipno-cli.pl|imokotow.pl|nolesnica.pl|itvpiaseczno.pl|histmag.org|lowcygier.pl|gorzowianin.com|polotv.pl|video.anyfiles.pl|brotkids.tv|fokus.tv|ithardware.pl|meteoprog.pl|nowa.tv|okazje.co|forsal.pl|gazetaprawna.pl|fxmag.pl|nasztomaszow.pl|dieroten.pl|reklama.pl|gpr24.pl|twojradom.pl|inowroclaw.info.pl|pultusk24.pl|bham.pl|vorek.pl|plonszczak.pl|zdrowowdomu.wp.pl|audiklub.org|video-static.tunnl.com|pcworld.pl|gostynin.info|zambrow.org|millemiglia.wp.pl|radiogol.pl
+@@/js/ads.js$script,domain=solarkurier.pl|satkurier.pl|saskakepa.waw.pl|e-krajna.pl|swiecie24.pl|zyciesokolowa.pl|ciechocinek.biz|napiprojekt.pl|uniejow.net.pl|nizanskie.info|pluznica.info|superchodziez.pl|tygodnik.pl|ekutno.pl|naszbrzesc.pl|bydgoszcz24.pl|terazlipno.pl|gwe24.pl|dziwnekomiksy.pl|digi-tv.pl|chelsea24news.pl|wolomin24.info|splendo.pl|egorzow.pl|irembertow.pl|iminsk.pl|ikrakow.info|iskierniewice.pl|ikampinos.pl|e-wyszogrod.pl|ibielsk.pl|wterenie.pl|ciechanowinaczej.pl|wabrzezno-cwa.pl|infosiedlce.pl|rypin-cry.pl|golub-cgd.pl|iotwock.info|szczecinek.com|lipno-cli.pl|imokotow.pl|nolesnica.pl|itvpiaseczno.pl|histmag.org|lowcygier.pl|gorzowianin.com|polotv.pl|video.anyfiles.pl|brotkids.tv|fokus.tv|ithardware.pl|meteoprog.pl|nowa.tv|okazje.co|forsal.pl|gazetaprawna.pl|fxmag.pl|nasztomaszow.pl|dieroten.pl|reklama.pl|gpr24.pl|twojradom.pl|inowroclaw.info.pl|pultusk24.pl|bham.pl|vorek.pl|plonszczak.pl|zdrowowdomu.wp.pl|audiklub.org|video-static.tunnl.com|pcworld.pl|gostynin.info|zambrow.org|millemiglia.wp.pl|radiogol.pl|torrentcity.pl|kb.pl
 @@||js.iplsc.com/inpl.adb/*/empt.js?*&adserv=$domain=interia.pl
 @@||komputerswiat.pl^$generichide
 @@||kubofonista.net/r/ad.htm$script,domain=kubofonista.net
@@ -3890,7 +3889,7 @@ wp.tv
 !
 !32
 ||i.wp.pl/*/stg/wpjslib-nojq.js$script,domain=www.dobreprogramy.pl
-||v.wpimg.pl/$image,domain=money.pl|open.fm|autokult.pl
+||v.wpimg.pl/$image,domain=open.fm|autokult.pl
 ||v.wpimg.pl/$media,redirect=noopmp3-0.1s,domain=wp.pl|~www.wp.pl|autokult.pl|parenting.pl|echirurgia.pl|money.pl|o2.pl|portal.abczdrowie.pl|komorkomania.pl|fotoblogia.pl|gadzetomania.pl|pudelek.pl|jejswiat.pl|medycyna24.pl|dobreprogramy.pl
 ||wpkoszyk.wp.pl/api/koszyk$xmlhttprequest
 ||xml.enovatis.pl/mrdsl/json.php$xmlhttprequest,domain=turystyka.wp.pl
@@ -3945,7 +3944,7 @@ www.wp.pl
 www.wp.pl
 www.wp.pl
 www.wp.pl
-www.wp.pl
+!www.wp.pl
 www.wp.pl
 www.wp.pl
 www.wp.pl
@@ -4038,9 +4037,10 @@ autofakty.pl
 bielskiedrogi.pl
 bieznie-treningowe.pl,inforiders.pl,paleosmak.pl
 blogprezesa.pl,kryptowaluty.info.pl,litecoin.pl
+blogujmy24.pl
 blogujmy24.pl,tarnow.in
 businesstraveller.pl
-cryptonews.pl
+craftportal.pl
 cryptonews.pl
 crypto-trader.pl
 czadrow24.pl
@@ -4090,6 +4090,7 @@ rytmklawiatury.pl,chelmno.com.pl
 slupca.pl
 smartage.pl
 smartage.pl,wronieckibazar.pl,mobirank.pl,historykon.pl,wolnekonopie.org,korso.pl
+socialpress.pl
 stacja-tluszcz.pl
 stopnadwadze.pl
 stopnadwadze.pl
@@ -4098,7 +4099,7 @@ supertydzien.pl
 technologiczna.pl
 technowinki24.pl
 tomaszowski.com.pl
-toyotaklub.org.pl,wiadomoscipodgorze.pl,mymma.pl
+toyotaklub.org.pl,wiadomoscipodgorze.pl,mymma.pl,niebezpiecznik.pl
 trybunaczestochowska.pl
 trybunaczestochowska.pl
 trybunaczestochowska.pl
@@ -4180,6 +4181,7 @@ forum.dobreprogramy.pl
 forum.dobreprogramy.pl
 forum.dobreprogramy.pl
 forum.dobreprogramy.pl
+www.dobreprogramy.pl
 www.dobreprogramy.pl
 www.dobreprogramy.pl
 www.dobreprogramy.pl
