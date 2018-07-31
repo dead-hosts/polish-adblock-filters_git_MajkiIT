@@ -17,7 +17,7 @@ Github
 License:
 Copyright
 Najnowsza
-v.2018073001
+v.2018073102
 !
 !
 of
@@ -3138,7 +3138,6 @@ zywiecinfo.pl
 ||static.pogonsportnet.pl/*banery-$image
 ||statics.d404.pl/bundles/spoonsite/$image
 ||statics.tarsago.pl/$object-subrequest,domain=meczelive.tv|mecze24.pl
-||static.video.superfilm.pl$object-subrequest,domain=cda.pl
 ||static.wizaz.pl/dynamic/shopping/shopping-kwc.html
 ||static.wizaz.pl/system/kwc/promo/kwc_promo_box_*.html$subdocument
 ||stg.wp.pl$subdocument
@@ -3169,7 +3168,6 @@ zywiecinfo.pl
 ||up.4clubbers.pl/out.php/$image
 ||urbanone-widget.pl/widget/
 ||urban.one/widget/widget-$subdocument
-||videos-.jwpsrv.com/content/conversions/.mp4$xmlhttprequest,domain=innpoland.pl
 ||video.vid4u.org^
 ||vider.pl/static/player/v*/vast.js$script
 ||viralseedmedia.com/$script,domain=vod-share.com
@@ -3345,7 +3343,6 @@ zywiecinfo.pl
 @@||s-nk.pl/script/nk/ads/$script,domain=nk.pl
 @@||ssl.allegro.pl/order/^
 @@||staticpics2.allegrostatic.pl/adverts/otomoto_pl/*128x96$image,domain=allegro.pl
-@@||stats.qmerce.com/interaction-stats/$xmlhttprequest,domain=renderer.qmerce.com
 @@/^(https|http):\/\/static\.webcamera\.pl\/[a-z-0-9]{3,15}\.(png|jpg)/$image,domain=webcamera.pl
 @@||techpedia.pl/js/show_ads.js$script,domain=techpedia.pl
 @@||teletoonplus.pl^$generichide
@@ -3767,7 +3764,6 @@ autocentrum.pl,demotywatory.pl,dziennik.pl,facetemjestem.pl,gala.pl,garnek.pl,gr
 ||adsbtrack.com^
 ||edynamic-dns.pl^
 ||facewatch.borec.cz^
-||fb-zmiana-koloru.pl^
 ||forum-windows.eu^
 ||kolor.oq.pl^
 ||konkursikowo.pl^
@@ -3777,7 +3773,6 @@ autocentrum.pl,demotywatory.pl,dziennik.pl,facetemjestem.pl,gala.pl,garnek.pl,gr
 ||platnosc.link^
 ||samnumer.pl^
 ||sprawdzikk.v0r.org^
-||stop-limitom.pl^
 ||wydawca.lead.network^
 ||pay24iv.com^
 ||technoclub.space^
@@ -3785,7 +3780,6 @@ autocentrum.pl,demotywatory.pl,dziennik.pl,facetemjestem.pl,gala.pl,garnek.pl,gr
 ||pl-ticket.today^
 ||spaceforyou.cc^
 ||magviz-secondsz.com^
-||stteped.pl^
 ||energylandia-pl.win^
 ||domniespodzianek.com^
 ||bonypodarunkowe.com.pl^
@@ -3794,7 +3788,6 @@ autocentrum.pl,demotywatory.pl,dziennik.pl,facetemjestem.pl,gala.pl,garnek.pl,gr
 ||adobedc.cf^
 ||dhl-paczki.ml^
 ||p986524.pl^
-||aktualizacja-lte5.pl^
 !
 !24
 ||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=exs.pl,important
@@ -3877,7 +3870,6 @@ open.fm
 open.fm
 open.fm
 open.fm
-parenting.pl
 portal.abczdrowie.pl
 portal.abczdrowie.pl
 portal.abczdrowie.pl
@@ -3889,7 +3881,6 @@ wp.tv
 !
 !32
 ||i.wp.pl/*/stg/wpjslib-nojq.js$script,domain=www.dobreprogramy.pl
-||v.wpimg.pl/$image,domain=open.fm|autokult.pl
 ||v.wpimg.pl/$media,redirect=noopmp3-0.1s,domain=wp.pl|~www.wp.pl|autokult.pl|parenting.pl|echirurgia.pl|money.pl|o2.pl|portal.abczdrowie.pl|komorkomania.pl|fotoblogia.pl|gadzetomania.pl|pudelek.pl|jejswiat.pl|medycyna24.pl|dobreprogramy.pl
 ||wpkoszyk.wp.pl/api/koszyk$xmlhttprequest
 ||xml.enovatis.pl/mrdsl/json.php$xmlhttprequest,domain=turystyka.wp.pl
@@ -4140,7 +4131,6 @@ zwiedzamyparyz.pl
 ||megabanners.cf^$third-party
 ||n.serialeonline.pl^$subdocument
 ||openkatalog.com/static/$subdocument
-||subloader.cf/$subdocument
 ||szybka.pl^
 ||vaks.pl^
 ||vidoza*.github.io/*/*.wasm
@@ -4229,4 +4219,9 @@ tvp.pl
 vod.tvp.pl
 ||tvp.pl/video/vod/reklamy/$domain=tvp.pl
 !
+!48
+||systempartnerski.oferty-kredytowe.pl^
+||affiliate44.com.pl^
+||cdn.comperia.pl^$domain=www.digitalmoney.pl
+||www.comperialead.pl^$domain=www.digitalmoney.pl
 !END
