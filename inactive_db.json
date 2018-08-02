@@ -1,11 +1,10 @@
 {
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
-        "1533077217": [
+        "1533250090": [
             ".tradedoubler.com",
-            "aktualizacja-lte5.pl",
-            "allegrostatic.pl",
             "assets.bro.adca.st",
             "av-cdn-*.wpimg.pl",
+            "baje.pl",
             "businessclick.*",
             "fb-zmiana-koloru.pl",
             "glogow.pl",
@@ -15,7 +14,6 @@
             "livemecz.*",
             "lubin.pl",
             "mercy.ga",
-            "naszalomza.pl",
             "potwierdzoneinfo.pl",
             "redir.atmcdn.pl*swf",
             "sat-elita.net.pl",
