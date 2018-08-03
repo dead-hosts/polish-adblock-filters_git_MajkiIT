@@ -26,10 +26,10 @@
             "subloader.cf",
             "videos-.jwpsrv.com",
             "vidoza*.github.io",
-            "vsport.in"
+            "vsport.in",
+            "*cda.pl",
+            "allegrostatic.pl"
         ],
-        "to_test": [
-            "*cda.pl"
-        ]
+        "to_test": []
     }
 }
