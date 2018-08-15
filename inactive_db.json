@@ -1,8 +1,9 @@
 {
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
-        "1534200861": [
+        "1534373721": [
             ".tradedoubler.com",
             "adobedc.cf",
+            "allegrostatic.pl",
             "assets.bro.adca.st",
             "av-cdn-*.wpimg.pl",
             "baje.pl",
@@ -26,7 +27,8 @@
             "subloader.cf",
             "videos-.jwpsrv.com",
             "vidoza*.github.io",
-            "vsport.in"
+            "vsport.in",
+            "www.locomobit.pl"
         ],
         "to_test": [
             "*cda.pl"

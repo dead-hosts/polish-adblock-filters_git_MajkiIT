@@ -17,7 +17,7 @@ Github
 License:
 Copyright
 Najnowsza
-v.2018081302
+v.2018081503
 !
 !
 of
@@ -393,7 +393,7 @@ bramkasms.pl
 brodnica.net
 brodnica.net
 brodnica.net
-bryk.pl,zvami.tv,debica24.eu,telewizjazary.pl,korsokolbuszowskie.pl,kociewiak.pl,cooltura24.co.uk,portalpomorza.pl,tvobiektyw.pl,debica24.eu,echotygodnik.info,damitv.pl,ct.jaworzno.pl
+bryk.pl,zvami.tv,debica24.eu,telewizjazary.pl,korsokolbuszowskie.pl,kociewiak.pl,cooltura24.co.uk,portalpomorza.pl,tvobiektyw.pl,debica24.eu,echotygodnik.info,damitv.pl,ct.jaworzno.pl,narew.info
 brytol.com
 btc-sms.eu
 budmatauto.pl
@@ -3314,6 +3314,8 @@ zywiecinfo.pl
 @@||fakt.pl^$generichide
 @@||gazetabilgoraj.pl/wp-content/plugins/better-adsmanager/js/advertising.min.js$script
 @@||google-analytics.com$domain=certyficate.it|liptonicetea.com|filmweb.pl|apteline.pl
+@@||googletagservices.com/tag/js/gpt.js$script,domain=apteline.pl
+@@||googletagmanager.com/gtm.js$script,domain=apteline.pl
 @@||googletagmanager.com/gtag/$script,domain=certyficate.it
 @@||googletagmanager.com/gtm.js$script,domain=www.emag.pl|benchmark.pl|komputerswiat.pl
 @@||grydladzieci.pl/preroll5/simple/ads.js?1$script,domain=www.grydladzieci.pl
@@ -4203,6 +4205,7 @@ sport.pl
 !@@||rtbnowads.com/$script,domain=shinden.pl
 @@||smartadserver.com/*ac$script,domain=shinden.pl
 @@||shinden.pl^$generichide
+@@/fuckadblock.js$script,domain=shinden.pl
 !
 !46
 a-o.ninja
