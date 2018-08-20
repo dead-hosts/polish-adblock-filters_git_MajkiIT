@@ -14,10 +14,11 @@ Support:
 Email
 Discord
 Github
+Redundant
 License:
 Copyright
 Najnowsza
-v.2018081801
+v.2018082002
 !
 !
 of
@@ -129,6 +130,7 @@ pl
 pl
 pl
 pl/popup.js|$script
+pl
 pl
 pl
 pl
@@ -569,7 +571,7 @@ diagnozujmy.pl
 dieroten.pl
 dieroten.pl
 digi-tv.pl
-digi-tv.pl
+digi-tv.pl,se.pl
 digi-tv.pl,satkurier.pl
 digi-tv.pl,satkurier.pl
 digi-tv.pl,satkurier.pl
@@ -706,7 +708,6 @@ ergokantor.pl
 erocentrum.pl
 erp-view.pl
 e-stargard.pl
-esanok.pl
 esanok.pl
 esanok.pl
 esanok.pl
@@ -1532,6 +1533,7 @@ morzeweb.pl
 moto.pl
 moto.pl
 motobanda.pl
+motocaina.pl
 motocykl-online.pl
 motomi.pl
 motormag.pl
@@ -1989,6 +1991,7 @@ q4.pl,chinytolubie.pl,filmyfantastyczne.pl,dts24.pl,mragowo24.info,przemysl.info
 racjonalista.tv
 racjonalista.tv
 radio-wrzesnia.pl
+radiotczew.pl
 radio-wrzesnia.pl
 radio.bialystok.pl
 radio.kielce.pl
@@ -2191,6 +2194,7 @@ spigot.pl
 spiz.pl,roksa.pl
 spliff.pl
 sport.tvp.pl
+sportdziennik.pl
 sportowebeskidy.pl
 sportowememy.pl
 sportowepodhale.pl
@@ -2327,7 +2331,6 @@ telchina.pl
 telchina.pl
 telchina.pl
 telchina.pl
-telefonowal.pl
 telefonowal.pl
 telefonowal.pl
 telemagazyn.pl
@@ -2795,7 +2798,6 @@ zumi.pl
 zumi.pl
 zumi.pl
 zuzelend.com
-zwielkopolski24.pl
 zwierciadlo.pl
 zwierciadlo.pl
 zycie.pl
@@ -3314,9 +3316,9 @@ zywiecinfo.pl
 @@||exs.pl^$domain=wpolityce.pl|wio.waw.pl
 @@||fakt.pl^$generichide
 @@||gazetabilgoraj.pl/wp-content/plugins/better-adsmanager/js/advertising.min.js$script
-@@||google-analytics.com$domain=certyficate.it|liptonicetea.com|filmweb.pl|apteline.pl
-@@||googletagservices.com/tag/js/gpt.js$script,domain=apteline.pl
-@@||googletagmanager.com/gtm.js$script,domain=apteline.pl
+@@||google-analytics.com$domain=certyficate.it|liptonicetea.com|filmweb.pl
+!@@||googletagservices.com/tag/js/gpt.js$script,domain=apteline.pl
+!@@||googletagmanager.com/gtm.js$script,domain=apteline.pl
 @@||googletagmanager.com/gtag/$script,domain=certyficate.it
 @@||googletagmanager.com/gtm.js$script,domain=www.emag.pl|benchmark.pl|komputerswiat.pl
 @@||grydladzieci.pl/preroll5/simple/ads.js?1$script,domain=www.grydladzieci.pl
@@ -3567,11 +3569,11 @@ zw.pl
 @@||gapl.hit.gemius.pl/gemiuslib.js$script,domain=auto-swiat.pl|businessinsider.com.pl|fakt.pl|forbes.pl|komputerswiat.pl|noizz.pl|onet.pl|plejada.pl|vod.pl
 @@||gapl.hit.gemius.pl/gplayer.js$script,domain=auto-swiat.pl|businessinsider.com.pl|fakt.pl|forbes.pl|komputerswiat.pl|noizz.pl|onet.pl|plejada.pl|vod.pl
 @@/^(https|http):\/\/a-o\.ninja\/[0-9a-zA-z-]{10,200}\.js/$script
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=games.cdn.famobi.com|grydladzieci.pl|fm.tuba.pl|wp.pl|player.pl|animezone.pl|ipla.tv|www.polsatnews.pl
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=games.cdn.famobi.com|grydladzieci.pl|fm.tuba.pl|wp.pl|player.pl|animezone.pl|ipla.tv|www.polsatnews.pl|playpuls.pl
 @@||imged.pl/subframe/js/*/adblock-advertisement.js$script
 @@||ipla.hit.stat24.com/*ad.xml$xmlhttprequest,domain=www.polsatnews.pl
 @@||istotne.pl^$generichide
-@@/js/ads.js$script,domain=solarkurier.pl|satkurier.pl|saskakepa.waw.pl|e-krajna.pl|swiecie24.pl|zyciesokolowa.pl|ciechocinek.biz|napiprojekt.pl|uniejow.net.pl|nizanskie.info|pluznica.info|superchodziez.pl|tygodnik.pl|ekutno.pl|naszbrzesc.pl|bydgoszcz24.pl|terazlipno.pl|gwe24.pl|dziwnekomiksy.pl|digi-tv.pl|chelsea24news.pl|wolomin24.info|splendo.pl|egorzow.pl|irembertow.pl|iminsk.pl|ikrakow.info|iskierniewice.pl|ikampinos.pl|e-wyszogrod.pl|ibielsk.pl|wterenie.pl|ciechanowinaczej.pl|wabrzezno-cwa.pl|infosiedlce.pl|rypin-cry.pl|golub-cgd.pl|iotwock.info|szczecinek.com|lipno-cli.pl|imokotow.pl|nolesnica.pl|itvpiaseczno.pl|histmag.org|lowcygier.pl|gorzowianin.com|polotv.pl|video.anyfiles.pl|brotkids.tv|fokus.tv|ithardware.pl|meteoprog.pl|nowa.tv|okazje.co|forsal.pl|gazetaprawna.pl|fxmag.pl|nasztomaszow.pl|dieroten.pl|reklama.pl|gpr24.pl|twojradom.pl|inowroclaw.info.pl|pultusk24.pl|bham.pl|vorek.pl|plonszczak.pl|zdrowowdomu.wp.pl|audiklub.org|video-static.tunnl.com|pcworld.pl|gostynin.info|zambrow.org|millemiglia.wp.pl|radiogol.pl|torrentcity.pl|kb.pl|bitnova.info|rozmerdani.wp.pl
+@@/js/ads.js$script,domain=solarkurier.pl|satkurier.pl|saskakepa.waw.pl|e-krajna.pl|swiecie24.pl|zyciesokolowa.pl|ciechocinek.biz|napiprojekt.pl|uniejow.net.pl|nizanskie.info|pluznica.info|superchodziez.pl|tygodnik.pl|ekutno.pl|naszbrzesc.pl|bydgoszcz24.pl|terazlipno.pl|gwe24.pl|dziwnekomiksy.pl|digi-tv.pl|chelsea24news.pl|wolomin24.info|splendo.pl|egorzow.pl|irembertow.pl|iminsk.pl|ikrakow.info|iskierniewice.pl|ikampinos.pl|e-wyszogrod.pl|ibielsk.pl|wterenie.pl|ciechanowinaczej.pl|wabrzezno-cwa.pl|infosiedlce.pl|rypin-cry.pl|golub-cgd.pl|iotwock.info|szczecinek.com|lipno-cli.pl|imokotow.pl|nolesnica.pl|itvpiaseczno.pl|histmag.org|lowcygier.pl|gorzowianin.com|polotv.pl|video.anyfiles.pl|brotkids.tv|fokus.tv|ithardware.pl|meteoprog.pl|nowa.tv|okazje.co|forsal.pl|gazetaprawna.pl|fxmag.pl|nasztomaszow.pl|dieroten.pl|reklama.pl|gpr24.pl|twojradom.pl|inowroclaw.info.pl|pultusk24.pl|bham.pl|vorek.pl|plonszczak.pl|zdrowowdomu.wp.pl|audiklub.org|video-static.tunnl.com|pcworld.pl|gostynin.info|zambrow.org|millemiglia.wp.pl|radiogol.pl|torrentcity.pl|kb.pl|bitnova.info|rozmerdani.wp.pl|dbamoswojafirme.wp.pl
 @@||js.iplsc.com/inpl.adb/*/empt.js?*&adserv=$domain=interia.pl
 @@||komputerswiat.pl^$generichide
 @@||kubofonista.net/r/ad.htm$script,domain=kubofonista.net
@@ -3906,6 +3908,7 @@ film.wp.pl,turystyka.wp.pl,opinie.wp.pl,gry.wp.pl,tech.wp.pl,moto.wp.pl,kobieta.
 komorkomania.pl,pudelek.pl
 !main
 moto.wp.pl
+parenting.pl,parenting.wp.pl
 pilot.wp.pl
 pilot.wp.pl
 pogoda.wp.pl
@@ -3958,7 +3961,7 @@ www.wp.pl
 www.wp.pl
 www.wp.pl
 www.wp.pl
-www.wp.pl
+!www.wp.pl
 ~www.wp.pl,wp.pl
 ~www.wp.pl,wp.pl
 ~www.wp.pl,wp.pl

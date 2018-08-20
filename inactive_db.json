@@ -1,20 +1,16 @@
 {
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
-        "1534633050": [
+        "1534805855": [
             ".tradedoubler.com",
             "adobedc.cf",
-            "allegrostatic.pl",
             "assets.bro.adca.st",
             "av-cdn-*.wpimg.pl",
-            "baje.pl",
             "businessclick.*",
             "dhl-paczki.ml",
             "fb-zmiana-koloru.pl",
             "glogow.pl",
-            "gorzow24.pl",
             "grupa7j.pl",
             "https:",
-            "lcx.pl",
             "livemecz.*",
             "lubin.pl",
             "mercy.ga",
