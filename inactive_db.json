@@ -1,12 +1,11 @@
 {
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
-        "1535151667": [
+        "1535324443": [
+            "*cda.pl",
             ".tradedoubler.com",
             "adobedc.cf",
-            "allegrostatic.pl",
             "assets.bro.adca.st",
             "av-cdn-*.wpimg.pl",
-            "baje.pl",
             "businessclick.*",
             "dhl-paczki.ml",
             "fb-zmiana-koloru.pl",
@@ -29,8 +28,6 @@
             "vidoza*.github.io",
             "vsport.in"
         ],
-        "to_test": [
-            "*cda.pl"
-        ]
+        "to_test": []
     }
 }

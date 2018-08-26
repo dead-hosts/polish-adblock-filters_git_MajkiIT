@@ -18,7 +18,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2018082402
+v.2018082602
 !
 !
 of
@@ -3947,6 +3947,7 @@ tv.wp.pl
 wiadomosci.wp.pl
 wiadomosci.wp.pl,gwiazdy.wp.pl,teleshow.wp.pl
 wiadomosci.wp.pl
+wiadomosci.wp.pl
 wiadomosci.wp.pl,tech.wp.pl,kobieta.wp.pl,gwiazdy.wp.pl,teleshow.wp.pl
 wp.pl
 www.o2.pl
@@ -4037,9 +4038,11 @@ kafeteria.pl
 @@||wpolityce24.pl/imgcache/300x250/*/uploads/news/$image
 @@||addthis.com/live/*$script,domain=serialomaniak.pl
 @@||addthisedge.com/live$script,xmlhttprequest,domain=serialomaniak.pl
+@@/google-adwords$image,domain=spidersweb.pl
 ||addthis.com^$important,third-party,domain=~missingkids.com|~missingkids.org,badfilter
 ||addthis.com/*/addthis_widget.js$script,badfilter
-||addthis.com^$important,third-party,domain=~missingkids.com|~missingkids.org|~serialomaniak.pl
+||addthis.com^$important,third-party,domain=~missingkids.com|~missingkids.org|~sainsburys.jobs,badfilter
+||addthis.com^$important,third-party,domain=~missingkids.com|~missingkids.org|~sainsburys.jobs|~serialomaniak.pl
 ||addthis.com/*/addthis_widget.js$script,domain=~serialomaniak.pl
 24legnica.pl,wstereo.pl,magazynbasista.pl,niebezpiecznik.pl,appki.com.pl,prawapolityka.pl,stop-cham.pl,zwiedzam-stadiony.eu
 e-stargard.pl,mojeinfo24.pl
