@@ -1,11 +1,11 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Mon 27 Aug 23:08:13 UTC 2018 
+# Date of generation: Wed 29 Aug 23:08:48 UTC 2018 
 
 Domain                                                                                               Status      HTTP Code 
 24opole.pl                                                                                           ACTIVE      WHOIS     
 40ton.net                                                                                            ACTIVE      WHOIS     
 4free.waw.pl                                                                                         ACTIVE      WHOIS     
-4lomza.pl                                                                                            ACTIVE      WHOIS     
+4lomza.pl                                                                                            ACTIVE      NSLOOKUP  
 69oxt4q05.com                                                                                        ACTIVE      WHOIS     
 a-o.ninja                                                                                            ACTIVE      WHOIS     
 a.ib.gazeta.pl                                                                                       ACTIVE      NSLOOKUP  
@@ -31,15 +31,15 @@ adsbtrack.com                                                                   
 adservice.google.pl                                                                                  ACTIVE      NSLOOKUP  
 adserwer.adtools.pl                                                                                  ACTIVE      NSLOOKUP  
 adserwer.xwords.pl                                                                                   ACTIVE      NSLOOKUP  
-adsnet.pl                                                                                            ACTIVE      NSLOOKUP  
+adsnet.pl                                                                                            ACTIVE      WHOIS     
 adtaily.pl                                                                                           ACTIVE      NSLOOKUP  
 adv.wp.pl                                                                                            ACTIVE      NSLOOKUP  
 advert-serv.johnmorris.me                                                                            ACTIVE      NSLOOKUP  
 advertising.com                                                                                      ACTIVE      WHOIS     
-adwords.radom.pl                                                                                     ACTIVE      WHOIS     
+adwords.radom.pl                                                                                     ACTIVE      NSLOOKUP  
 adx.adform.net                                                                                       ACTIVE      NSLOOKUP  
 aff.mediarotate.com                                                                                  ACTIVE      NSLOOKUP  
-affiliate44.com.pl                                                                                   ACTIVE      NSLOOKUP  
+affiliate44.com.pl                                                                                   ACTIVE      WHOIS     
 affmy.pl                                                                                             ACTIVE      NSLOOKUP  
 agoraperformance.pl                                                                                  ACTIVE      NSLOOKUP  
 alemiasto.pl                                                                                         ACTIVE      NSLOOKUP  
@@ -48,7 +48,7 @@ angielskie-slowka.pl                                                            
 anime-odcinki.pl                                                                                     ACTIVE      NSLOOKUP  
 animes.pl                                                                                            ACTIVE      NSLOOKUP  
 animezone.pl                                                                                         ACTIVE      NSLOOKUP  
-ankieta-online.pl                                                                                    ACTIVE      NSLOOKUP  
+ankieta-online.pl                                                                                    ACTIVE      WHOIS     
 antygrupa.pl                                                                                         ACTIVE      NSLOOKUP  
 antyweb.pl                                                                                           ACTIVE      NSLOOKUP  
 anyfiles.ovh                                                                                         ACTIVE      WHOIS     
@@ -67,12 +67,12 @@ aster18cdn.nl                                                                   
 atrexpress.com.pl                                                                                    ACTIVE      NSLOOKUP  
 authedmine.com                                                                                       ACTIVE      WHOIS     
 auto-swiat.pl                                                                                        ACTIVE      NSLOOKUP  
-autotrader.pl                                                                                        ACTIVE      NSLOOKUP  
+autotrader.pl                                                                                        ACTIVE      WHOIS     
 avanti.fashion                                                                                       ACTIVE      WHOIS     
 avanti24.pl                                                                                          ACTIVE      NSLOOKUP  
 b54m4qbmt0b9.com                                                                                     ACTIVE      WHOIS     
 bankier.pl                                                                                           ACTIVE      NSLOOKUP  
-benchmark.pl                                                                                         ACTIVE      WHOIS     
+benchmark.pl                                                                                         ACTIVE      NSLOOKUP  
 betegy.com                                                                                           ACTIVE      WHOIS     
 betonline.net.pl                                                                                     ACTIVE      NSLOOKUP  
 bham.pl                                                                                              ACTIVE      NSLOOKUP  
@@ -308,7 +308,7 @@ mylomza.pl                                                                      
 n.serialeonline.pl                                                                                   ACTIVE      NSLOOKUP  
 nacjonalista.pl                                                                                      ACTIVE      NSLOOKUP  
 naekranie.pl                                                                                         ACTIVE      NSLOOKUP  
-napisy24.pl                                                                                          ACTIVE      NSLOOKUP  
+napisy24.pl                                                                                          ACTIVE      WHOIS     
 naszalomza.pl                                                                                        ACTIVE      NSLOOKUP  
 naszamlawa.pl                                                                                        ACTIVE      NSLOOKUP  
 naszawielkopolska.pl                                                                                 ACTIVE      NSLOOKUP  
@@ -331,7 +331,7 @@ ogloszenia.nowy-sacz.pl                                                         
 ogloszenia.plock.pl                                                                                  ACTIVE      NSLOOKUP  
 onenima.com                                                                                          ACTIVE      WHOIS     
 onet.hit.gemius.pl                                                                                   ACTIVE      NSLOOKUP  
-onet.pl                                                                                              ACTIVE      NSLOOKUP  
+onet.pl                                                                                              ACTIVE      WHOIS     
 online-tv.pl                                                                                         ACTIVE      NSLOOKUP  
 openkatalog.com                                                                                      ACTIVE      WHOIS     
 openkatalog.ml                                                                                       ACTIVE      NSLOOKUP  
@@ -340,7 +340,7 @@ oppineo.com                                                                     
 optimus.pl                                                                                           ACTIVE      NSLOOKUP  
 osgchmura.tk                                                                                         ACTIVE      NSLOOKUP  
 ostrowmaz.com                                                                                        ACTIVE      WHOIS     
-ostrzeszowinfo.pl                                                                                    ACTIVE      WHOIS     
+ostrzeszowinfo.pl                                                                                    ACTIVE      NSLOOKUP  
 overwatch.pl                                                                                         ACTIVE      NSLOOKUP  
 ozoneo.pl                                                                                            ACTIVE      NSLOOKUP  
 p986524.pl                                                                                           ACTIVE      NSLOOKUP  
@@ -381,6 +381,7 @@ portalmorski.pl                                                                 
 portalplock.pl                                                                                       ACTIVE      NSLOOKUP  
 portel.pl                                                                                            ACTIVE      NSLOOKUP  
 potplayerclub.pl                                                                                     ACTIVE      NSLOOKUP  
+potwierdzoneinfo.pl                                                                                  ACTIVE      NSLOOKUP  
 powernet.pl                                                                                          ACTIVE      NSLOOKUP  
 pp.funhub.pl                                                                                         ACTIVE      NSLOOKUP  
 ppstatic.pl                                                                                          ACTIVE      NSLOOKUP  
@@ -613,5 +614,3 @@ zgarnijiphone.ml                                                                
 zolti.pl                                                                                             ACTIVE      NSLOOKUP  
 zukxd6fkxqn.com                                                                                      ACTIVE      WHOIS     
 zulawyimierzeja24.pl                                                                                 ACTIVE      NSLOOKUP  
-zyciepabianic.pl                                                                                     ACTIVE      NSLOOKUP  
-zyciesokolowa.pl                                                                                     ACTIVE      NSLOOKUP  
