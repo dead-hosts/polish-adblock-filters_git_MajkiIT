@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Wed 29 Aug 23:08:48 UTC 2018 
+# Date of generation: Sat 01 Sep 23:09:13 UTC 2018 
 
 0.0.0.0 *cda.pl
 0.0.0.0 .tradedoubler.com
@@ -7,6 +7,7 @@
 0.0.0.0 businessclick.*
 0.0.0.0 https:
 0.0.0.0 livemecz.*
+0.0.0.0 orangę.pl
 0.0.0.0 redir.atmcdn.pl*swf
 0.0.0.0 static*jelonka.com
 0.0.0.0 vidoza*.github.io
