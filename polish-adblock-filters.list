@@ -18,7 +18,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2018083102
+v.2018090203
 !
 !
 of
@@ -511,6 +511,7 @@ cryptonews.pl
 cryptonews.pl
 cryptonews.pl
 cryptonews.pl,histografy.pl,slupca.pl,zzapolowy.com
+crystal-launcher.pl
 cs-4frags.pl
 cs-escape.pl
 cs-nabani.pl
@@ -543,8 +544,6 @@ czluchow.com.pl
 czluchow.com.pl
 czyliwiesz.pl
 dania-dietetyczne.pl
-darkwarez.pl
-darkwarez.pl
 datapremiery.pl
 datapremiery.pl
 dbpolska.net
@@ -1558,6 +1557,7 @@ msmobile.pl
 msmobile.pl
 mtech.pl
 multi-head.pl
+muratordom.pl
 musiclovers.pl
 muzodajka.pl
 muzyka.dziennik.pl
@@ -3037,6 +3037,7 @@ zywiecinfo.pl
 ||motocyklistow.pl/uploads/banners/$image
 ||moviads.pl$domain=~moviads.pl
 ||mrex.exs.pl^$third-party
+||muratordom.pl/media/desktop/zpr_videos_web/js/video_blocker.js
 ||mybboard.pl/images/promo/$image
 ||mylead.eu/banner/
 ||mylomza.pl/images/baner_$image
@@ -3345,7 +3346,7 @@ zywiecinfo.pl
 @@||optimus.pl/temp/adrotator_miniatury/$image
 @@||osgchmura.tk/tv/player/ads.js$script
 @@||ostrowmaz.com/uploads/small_ad_photo/$image
-@@||pagead2.googlesyndication.com^$domain=dobreprogramy.pl|bolotv.pl|tapeciarnia.pl|mybank.pl|www.emag.pl|pebx.pl|pilot.wp.pl|skript.pl|webcamera.pl
+@@||pagead2.googlesyndication.com^$domain=dobreprogramy.pl|bolotv.pl|tapeciarnia.pl|mybank.pl|www.emag.pl|pebx.pl|pilot.wp.pl|skript.pl|webcamera.pl|crystal-launcher.pl
 @@||partech.pl/modules/blockadvertising/advertising.jpg
 @@||polsatnews.pl/templates/pnews/js/fingerprint2.min.js
 @@||epoznan.pl/ajax/get_adsys_code.php

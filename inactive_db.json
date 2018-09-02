@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
-        "1535843067": [
+        "1535929522": [
             "*cda.pl",
             ".tradedoubler.com",
             "adobedc.cf",
@@ -20,6 +20,7 @@
             "mercy.ga",
             "orangę.pl",
             "redir.atmcdn.pl*swf",
+            "samnumer.pl",
             "sat-elita.net.pl",
             "static*jelonka.com",
             "static.bro.adca.st",
