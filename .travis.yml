@@ -1,6 +1,6 @@
 env:
   global:
-    - secure: TItx5+mT+04TTrwUaOqanKnqYzluiBeH0ZSxLggZzKt3VRJNBxKkY9oFH5wb2RSddjLNpLV63E5lW4jiNm/qK0b1p2AuEvbF89ILO9itJBpBkQ/iE0QlHBsMXaZbHnIVmkzB3Mx1be1gjNygO3GZBDC4aMCYF7A6DqeQUGkKH7IGsJ+a4qRYav4opzaT0jBjlNI5X4/tyNRku05ewSXupazxI9xHf9H0mOWCzN4MhFWbidwVUk7SYtwjCC//ZQOc7piVn09MGKvP6guHy+k5KX511+jD2r4MmqS4k7xEemx3wH+eP5UG8lYCPaE6JRVafC0gJJG2RWBdeNxCMui4ZTOgcg14YfDnVmwyiBsGegM387EyWNshCqErNiZfJyzlQIQSs3XWdcWNG3LgTS8v4Ti902pu9uLzaKg54t9dsMKNJKwYdS2OJzUSVwmCaPTrysgHPoJM59NxQhq1Q1adieaX/hMJoKSz7Smd2OEejKZKf0zvnw7VKVpx4neHx9BZpLIMKq4kfkw+vHIjcTZK5ZX/7+9V4hde6Tdgs8Px8q+1RGcsMDCWl3/A+4JT1MOx0Lc6dupr+TP/wnJmEXl3gSOwbBkHyT16TW7mhvZYbjrdRFr2i/sZ9osvjfSDDso2EpIt+mtrC6R6i1xRFamTGOnTicvXNc2ESJK2wJzjR0E=
+    - secure: UdPeEj8LcC4Qnkc2Dj2kaLFYO4KKHJyKpQ5apvpaPzWIQNftPo3XE/+tKlcGXWu4o+apdnfzZ4hht9arS1Qx1K1en52dkXJHnwsSDs03PRHiEmkL7GOMM6k9i5oqi/oZpEJ+MXbo5S7Asv4sLRhkzQieRBKjflaXqCLN04TSOcI317ZjdF8WIwYVk2mry248YJoS24mTg0LTBmQXxNfD6OJ+kQNQo8ZVdgRcGZqPMJjmaVcqySHg+Hdbt6treJHjWIWoMImrb1hPyaqYQJMLdT/i+M4kj9V09FXnUPS3tVzizZhWBtuo+EuqAqkqmF0CtCsJJbNwFlWhJ5gyd14zKaYqi059B9mCLWVRR0DhU+zstHOdejObgvjuVfPM+TOX1lWIsst90Q3e2CIiy7gEk+iDqaStp16XOiOica0ktkxiSeJVu1Gs1pjqG5GwxiqphN9QmeKnfW2UWEB0j1HFZSa38tE/UnFZYhiFZxbRz1dJ+/t/KfUrB1gjYw2z97m/eSxHe/T01DA2U4zUS7gNJZAGZVMzk7WEg0hPKYB1XcsuDQlEyYfjt0BMNUfW2fGE3eFz63Mky5aDzWW2wddJ4tZb7aRm3vLsdXDa+pBgznED87oaLiIGoRER1wRDaq6Q5PWw4XdMWwNbaNiqdn2B9YmX8uYup7mILMS2cJphKF4=
     - GIT_NAME: Travis CI
     - GIT_EMAIL: dead-hosts@funilrys.com
     - TRAVIS_REPO_SLUG: dead-hosts/polish-adblock-filters_git_MajkiIT
@@ -9,7 +9,7 @@ env:
 language: python
 
 python:
-  - "3.6"
+  - "3.6.6"
 
 matrix:
   fast_finish: true
