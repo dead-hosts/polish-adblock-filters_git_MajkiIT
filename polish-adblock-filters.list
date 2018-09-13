@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2018091101
+v.2018091305
 !
 !
 of
@@ -164,7 +164,7 @@ popkiller.pl,tygodnikpodhalanski.pl,cnc.info.pl
 ~olneo.pl,~wirtualnemedia.pl,~radekcholewinski.pl,~github.com
 /wp-content/uploads/*/baner$image,domain=lubanski.eu|miastoiludzie.pl|eksmagazyn.pl|infokatowice.pl|mma.pl|tvwlodawa.pl
 ~wtkplay.pl,~epoznan.pl,pl
-~kbb.com,~wuxiaworld.com,~uzywane.com,~przegladsportowy.pl,~crunchyroll.com,~nationalgeographic.com,~wpolityce.pl,~box.com,~hardcorowo.pl,~gumtree.com,~hulu.com,com,~filmweb.pl,pl,~fakro.pl
+~otodom.pl,~kbb.com,~wuxiaworld.com,~uzywane.com,~przegladsportowy.pl,~crunchyroll.com,~nationalgeographic.com,~wpolityce.pl,~box.com,~hardcorowo.pl,~gumtree.com,~hulu.com,com,~filmweb.pl,pl,~fakro.pl
 ~zso53.pl,~katywroclawskie.pl,~rozklad-pkp.pl,~gwarant.czest.pl,~sukniaonline.pl
 !
 !9
@@ -175,7 +175,7 @@ popkiller.pl,tygodnikpodhalanski.pl,cnc.info.pl
 24jgora.pl
 24jgora.pl
 24jgora.pl
-24legnica.pl
+24legnica.pl,premierywtv.pl
 24legnica.pl,bieganieuskrzydla.pl,aletorcik.pl
 24opole.pl
 24opole.pl
@@ -197,6 +197,7 @@ popkiller.pl,tygodnikpodhalanski.pl,cnc.info.pl
 6obcy.com.pl
 7dni.pila.pl
 90minut.pl
+accuweather.com
 administrator24.info
 adonai.pl
 adwokat-gostkowski.pl
@@ -498,6 +499,7 @@ cnc.info.pl
 codziennikmlawski.pl
 codziennikmlawski.pl
 comparic.pl
+comperia.pl
 comprix.pl
 computerworld.pl
 cozadzien.pl
@@ -706,6 +708,7 @@ epainfo.pl
 epainfo.pl,vipmultimedia.pl
 eparczew.pl
 epiotrkow.pl
+epoznan.pl
 eredivisie.pl
 ergokantor.pl
 erocentrum.pl
@@ -1446,7 +1449,7 @@ mh24.pl,jaw.pl
 miasto-info.pl
 miasto.koszalin.pl
 miastoiludzie.pl
-miastoiludzie.pl,swiatoze.pl,zarabiamykase.com.pl,gadzet.telchina.pl
+miastoiludzie.pl,swiatoze.pl,zarabiamykase.com.pl,gadzet.telchina.pl,premierywtv.pl
 miastokolobrzeg.pl
 miastokolobrzeg.pl
 miastokolobrzeg.pl
@@ -1826,6 +1829,7 @@ piotrkowski24.pl
 pirackiekino.blogspot.com
 pisf.pl
 pl.jooble.org
+planetagracza.pl
 planujemywesele.pl
 plastech.pl
 play.pl
@@ -2559,7 +2563,7 @@ weeb.tv
 weekend.gazeta.pl
 weszlo.com
 weszlo.com
-weszlo.com,neosite.pl,signs.pl,pogonszczecin.pl,asta24.pl,cgm.pl,outsourcingportal.eu,wnp.pl
+weszlo.com,signs.pl,pogonszczecin.pl,asta24.pl,cgm.pl,outsourcingportal.eu,wnp.pl
 whitemad.pl
 wiadomosci24.pl
 wiadomosci24.pl
@@ -2587,6 +2591,7 @@ wirtualnemedia.pl
 wirtualnemedia.pl
 wirtualnepniewy.pl
 wirtualnyelk.pl
+wirtualnygarwolin.pl
 wizaz.pl
 wizaz.pl
 wizaz.pl
@@ -2841,6 +2846,7 @@ zywiecinfo.pl
 ~www.cba.pl,cba.pl
 !
 !10
+/js/videoPlayer.js$script,domain=polsatnews.pl|polsatsport.pl
 ||24opole.pl/bimg/$image
 ||40ton.net/wp-content/uploads/*.gif$image
 ||40ton.net/wp-content/uploads/*.png$image
@@ -2875,7 +2881,6 @@ zywiecinfo.pl
 ||antyweb.pl/wp-content/themes/antyweb.autentika/aadv/js/aadv.js
 ||antyweb.pl/wp-content/themes/antyweb.autentika/horizon/
 ||antyweb.pl/wp-content/uploads/2017/03/horizon-cover.jpg$image
-||aoredi.com/apu.php?$script,redirect=noopjs,important
 ||api-content-generator.gazeta.pl/content-generator/published/frame/generate?frameId=
 ||api.ergokantor.pl/widgets/$subdocument
 ||api.systempartnerski.pl^$domain=niepoddawajsie.pl
@@ -3190,6 +3195,7 @@ zywiecinfo.pl
 ||triathlonpoland.tv/vast.xml$xmlhttprequest
 ||trybunaczestochowska.pl/wp-content/plugins/popup-maker/assets/js/site.min.js
 ||tugazeta.pl/reklamy_new/
+||turek.net.pl/js/magnific/jquery.magnific-popup.min.js
 ||turinfo.pl/zdjecia/*.gif$image
 ||tvgry.pl/images/tapeta_reklama/$image
 ||tvnights.pl/assets/img/bg/$image
@@ -3220,6 +3226,7 @@ zywiecinfo.pl
 ||widgets.moneteasy.pl/widget/$script,domain=~noizz.pl
 ||widget.plastream.net/$xmlhttprequest
 ||wiocha.pl/img/tapety/$image
+||wirtualnygarwolin.pl/images/banners/*.html$subdocument
 ||wp.com/luzyce.info/wp-content/uploads/20*/*/*.gif$image
 ||wp.com/niestatystyczny.pl/wp-content/uploads/*/tlo$image,domain=niestatystyczny.pl
 ||wp.pl/*/reklamawp-$image
@@ -3421,6 +3428,7 @@ benchmark.pl
 cda-online.pl
 chelsea24news.pl
 ciekawe.org,baza-lekow.com.pl,testhub.pl
+comperia.pl
 czasdiet.pl
 dailyweb.pl
 darmowyskin.pl
@@ -3489,7 +3497,7 @@ minecraftpolska.net,pracawgdansku.com.pl
 minecraftpolska.net,pracawgdansku.com.pl
 mmorpg.org.pl,parezja.pl
 nadajemy.pl
-neosite.pl,ps3forum.pl
+ps3forum.pl
 newsweb.pl
 nokiahacking.pl
 ocen-piwo.pl
@@ -3562,7 +3570,6 @@ zw.pl
 ||lechia.net/modules/mod_adblockdetector/js/$script,stylesheet
 ||napisy24.pl/run/js/blad*.js$script
 ||niepoprawni.pl/sites/all/libraries/copier/bck.js$script
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=twojahistoria.pl,redirect=noopjs
 /test_block.js$script,domain=proste.info.pl|kompnet.info
 ||wgrane.pl/html/_pl/adblock_top.txt
 /wp-content/plugins/pause-adblocker$script
@@ -3606,7 +3613,7 @@ zw.pl
 @@||imged.pl/subframe/js/*/adblock-advertisement.js$script
 @@||ipla.hit.stat24.com/*ad.xml$xmlhttprequest,domain=polsatnews.pl|polsatsport.pl|twojapogoda.pl
 @@||istotne.pl^$generichide
-@@/js/ads.js$script,domain=solarkurier.pl|satkurier.pl|saskakepa.waw.pl|e-krajna.pl|swiecie24.pl|zyciesokolowa.pl|ciechocinek.biz|napiprojekt.pl|uniejow.net.pl|nizanskie.info|pluznica.info|superchodziez.pl|tygodnik.pl|ekutno.pl|naszbrzesc.pl|bydgoszcz24.pl|terazlipno.pl|gwe24.pl|dziwnekomiksy.pl|digi-tv.pl|chelsea24news.pl|wolomin24.info|splendo.pl|egorzow.pl|irembertow.pl|iminsk.pl|ikrakow.info|iskierniewice.pl|ikampinos.pl|e-wyszogrod.pl|ibielsk.pl|wterenie.pl|ciechanowinaczej.pl|wabrzezno-cwa.pl|infosiedlce.pl|rypin-cry.pl|golub-cgd.pl|iotwock.info|szczecinek.com|lipno-cli.pl|imokotow.pl|nolesnica.pl|itvpiaseczno.pl|histmag.org|lowcygier.pl|gorzowianin.com|polotv.pl|video.anyfiles.pl|brotkids.tv|fokus.tv|ithardware.pl|meteoprog.pl|nowa.tv|okazje.co|forsal.pl|gazetaprawna.pl|fxmag.pl|nasztomaszow.pl|dieroten.pl|reklama.pl|gpr24.pl|twojradom.pl|inowroclaw.info.pl|pultusk24.pl|bham.pl|vorek.pl|plonszczak.pl|zdrowowdomu.wp.pl|audiklub.org|video-static.tunnl.com|pcworld.pl|gostynin.info|zambrow.org|millemiglia.wp.pl|radiogol.pl|torrentcity.pl|kb.pl|bitnova.info|rozmerdani.wp.pl|dbamoswojafirme.wp.pl|jakrobicmarketing.pl|wtk.pl|minecraft.org.pl
+@@/js/ads.js$script,domain=solarkurier.pl|satkurier.pl|saskakepa.waw.pl|e-krajna.pl|swiecie24.pl|zyciesokolowa.pl|ciechocinek.biz|napiprojekt.pl|uniejow.net.pl|nizanskie.info|pluznica.info|superchodziez.pl|tygodnik.pl|ekutno.pl|naszbrzesc.pl|bydgoszcz24.pl|terazlipno.pl|gwe24.pl|dziwnekomiksy.pl|digi-tv.pl|chelsea24news.pl|wolomin24.info|splendo.pl|egorzow.pl|irembertow.pl|iminsk.pl|ikrakow.info|iskierniewice.pl|ikampinos.pl|e-wyszogrod.pl|ibielsk.pl|wterenie.pl|ciechanowinaczej.pl|wabrzezno-cwa.pl|infosiedlce.pl|rypin-cry.pl|golub-cgd.pl|iotwock.info|szczecinek.com|lipno-cli.pl|imokotow.pl|nolesnica.pl|itvpiaseczno.pl|histmag.org|lowcygier.pl|gorzowianin.com|polotv.pl|video.anyfiles.pl|brotkids.tv|fokus.tv|ithardware.pl|meteoprog.pl|nowa.tv|okazje.co|forsal.pl|gazetaprawna.pl|fxmag.pl|nasztomaszow.pl|dieroten.pl|reklama.pl|gpr24.pl|twojradom.pl|inowroclaw.info.pl|pultusk24.pl|bham.pl|vorek.pl|plonszczak.pl|zdrowowdomu.wp.pl|audiklub.org|video-static.tunnl.com|pcworld.pl|gostynin.info|zambrow.org|millemiglia.wp.pl|radiogol.pl|torrentcity.pl|kb.pl|bitnova.info|rozmerdani.wp.pl|dbamoswojafirme.wp.pl|jakrobicmarketing.pl|wtk.pl|minecraft.org.pl|wtkplay.pl
 @@/advertisement.js$domain=vodnews.pl|cyfrowydoradca.pl|pajacyk.pl
 @@||js.iplsc.com/inpl.adb/*/empt.js?*&adserv=$domain=interia.pl
 @@||komputerswiat.pl^$generichide
@@ -3616,6 +3623,7 @@ zw.pl
 @@||manjaro.pl/abd/adserver/adlogger_tracker.php
 @@||medonet.pl^$generichide
 @@||mmorpg.org.pl^$generichide
+@@||myao.adocean.pl/_*/ad.xml$xmlhttprequest,domain=vod.tvp.pl
 @@||myao.adocean.pl/files/js/ado.js$script,domain=planeta.fm
 @@||mybank.pl^$generichide
 @@||noizz.pl^$generichide
@@ -3679,7 +3687,6 @@ mybank.pl,wzory-cv.com
 parezja.pl
 przewodnikduchowy.pl
 tvnmeteo.tvn24.pl
-||redirector.redefine.pl/r/*.mp4$media,domain=polsatnews.pl|polsatsport.pl|twojapogoda.pl
 !
 !18
 abcast.net
@@ -3861,11 +3868,8 @@ pl
 !
 !28
 /^http:\/\/((?!192\.168)(?!10\.)(?!172\.16)(?!172\.17)(?!172\.18)(?!172\.19)(?!172\.2)(?!172\.30)(?!172\.31)([0-9]|[1-9][0-9]|1[0-9]{2}|2[0-4][0-9]|25[0-5])\.){3}([0-9]|[1-9][0-9]|1[0-9]{2}|2[0-4][0-9]|25[0-5])\/[a-zA-Z0-9]{30,}/$script,popup
-!/^http:\/\/[a-zA-Z0-9]{8,20}\.com\/analytics\/[0-9]{5,7}/$subdocument,script,popup
-!/^(http|https):\/\/ad\.[a-z]{3,10}\.[a-z]{2,3}\/[a-z/?=]{10,}\/asrv\/campaign\//$subdocument
-!/^(http|https):\/\/(?!apis.google)[a-z0-9.-]{5,}\.com\/[a-z]{1,}\/[a-z]{1,}\.js/$script,domain=wrealu24.pl
 /^(http|https):\/\/[a-z0-9]{10,20}\.com\/[0-9]{5,10}\.html/$subdocument,domain=ekino-tv.pl|dekoder.ws
-/^(http|https):\/\/[a-z0-9]{5,}\.(com|top)\/[a-z0-9]{1,}\/[a-z0-9]{1,}\/[a-z0-9]{1,}\/[a-z0-9]{5,}\.js/$script,domain=vidto.me|fili.tv|fileone.tv|alltube.tv|srkcast.com|vidfile.net|a-o.ninja|alltube.pl|whostreams.net|dekoder.ws
+/^(http|https):\/\/[a-z0-9]{5,}\.(com|top)\/[a-z0-9]{1,}\/[a-z0-9]{1,}\/[a-z0-9]{1,}\/[a-z0-9]{5,}\.js/$script,domain=vidto.me|fili.tv|fileone.tv|alltube.tv|srkcast.com|vidfile.net|a-o.ninja|alltube.pl|whostreams.net|dekoder.ws|cda-hd.cc
 /^(http|https):\/\/[a-z0-9-]{8,30}\.[a-z]{2,11}\/[0-9]{3,10}/$xmlhttprequest,script,stylesheet,subdocument,domain=streamin.to|raptu.com|flashx.tv|rapidvideo.com|fili.tv|fileone.tv|animezone.pl|vidoza.net|kreskowkazone.pl|vidfile.net|a-o.ninja
 /^(http|https):\/\/[a-z.]{5,10}\.[a-z]{2,4}\/[a-z.]{3,7}\?[a-zA-Z0-9=&%-.]{100,250}/$popup,domain=centrum-dramy.pl|a-o.ninja|alltube.tv|alltube.pl|hentai-online.pl|centrum-mangi.ninja
 /^(http|https):\/\/[a-z]{5,10}\.com\/[a-zA-Z0-9+]{80,}/$subdocument,domain=embed.nowvideo.sx|cloudtime.to|darmowa-telewizja.info
@@ -3932,9 +3936,7 @@ wawalove.pl,pytamy.pl,dzieci.pl
 wp.tv
 !
 !32
-||adv.wp.pl/RM/Box/*.mp4$media,redirect=noopmp3-0.1s
 ||i.wp.pl/*/stg/wpjslib-nojq.js$script,domain=www.dobreprogramy.pl
-||v.wpimg.pl/$media,redirect=noopmp3-0.1s,domain=wp.pl|~www.wp.pl|autokult.pl|parenting.pl|echirurgia.pl|money.pl|o2.pl|portal.abczdrowie.pl|komorkomania.pl|fotoblogia.pl|gadzetomania.pl|pudelek.pl|jejswiat.pl|medycyna24.pl|dobreprogramy.pl
 ||wpkoszyk.wp.pl/api/koszyk$xmlhttprequest
 ||www.wp.pl/*.okazje-kokpit.chunk.js
 ||xml.enovatis.pl/mrdsl/json.php$xmlhttprequest,domain=turystyka.wp.pl
@@ -3971,6 +3973,8 @@ www.wp.pl
 ~www.wp.pl,wp.pl
 ~www.wp.pl,wp.pl
 ~www.wp.pl,wp.pl
+www.wp.pl
+www.wp.pl
 !
 !34
 pudelek.pl
