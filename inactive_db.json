@@ -1,23 +1,17 @@
 {
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
-        "1536966814": [
-            "zgarnijiphone.ml"
-        ],
-        "to_test": [
-            "*cda.pl",
-            ".tradedoubler.com",
+        "1537139522": [
             "adobedc.cf",
             "adserwer.adtools.pl",
             "assets.bro.adca.st",
             "av-cdn-*.wpimg.pl",
             "businessclick.*",
-            "cdn.dtxngr.com",
+            "*cda.pl",
             "dhl-paczki.ml",
             "fb-zmiana-koloru.pl",
             "glogow.pl",
             "grupa7j.pl",
             "https:",
-            "lcx.pl",
             "livemecz.*",
             "lubin.pl",
             "mercy.ga",
@@ -26,15 +20,19 @@
             "redir.atmcdn.pl*swf",
             "samnumer.pl",
             "sat-elita.net.pl",
-            "static*jelonka.com",
             "static.bro.adca.st",
+            "static*jelonka.com",
             "static.video.superfilm.pl",
             "stats.qmerce.com",
             "subloader.cf",
+            ".tradedoubler.com",
             "videos-.jwpsrv.com",
             "vidoza*.github.io",
             "vsport.in",
             "www1.advice.movie.advlab.pl"
+        ],
+        "to_test": [
+            "zgarnijiphone.ml"
         ]
     }
 }
