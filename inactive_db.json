@@ -29,10 +29,9 @@
             "videos-.jwpsrv.com",
             "vidoza*.github.io",
             "vsport.in",
-            "www1.advice.movie.advlab.pl"
-        ],
-        "to_test": [
+            "www1.advice.movie.advlab.pl",
             "zgarnijiphone.ml"
-        ]
+        ],
+        "to_test": []
     }
 }
