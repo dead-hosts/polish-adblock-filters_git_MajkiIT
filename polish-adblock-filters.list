@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2018091601
+v.2018091801
 !
 !
 of
@@ -2754,6 +2754,7 @@ wyborcza.biz,wyborcza.pl,gazeta.pl
 wyborcza.pl
 wyborcza.pl
 wyborcza.pl
+wylecz.to
 wykop.pl,demotywatory.pl,joemonster.org,mistrzowie.org
 wynagrodzenia.pl
 wyspagier.pl
@@ -3483,6 +3484,7 @@ katowickisport.pl,webinsider.pl
 katowickisport.pl
 katowickisport.pl
 kobietaxl.pl
+krs-online.com.pl
 kursbootstrap.pl
 leaseplan.pl,novafusion.pl,funnygames.pl
 lech.tv
@@ -3653,7 +3655,7 @@ zw.pl
 @@||skript.pl/ads.php
 @@||code.skript.pl/*.js?ad_type=skript
 @@/showad_.js$domain=flashx.tv
-@@/showads.js$script,domain=www.eskago.pl|czasdzieci.pl|towideo.pl|biznesradar.pl
+@@/showads.js$script,domain=www.eskago.pl|czasdzieci.pl|towideo.pl|biznesradar.pl|krs-online.com.pl
 @@||sjp.pwn.pl/ads.js$script,domain=sjp.pwn.pl
 @@||static-pilot.wp.pl/static/assets/js/ads.js$xmlhttprequest,domain=pilot.wp.pl
 @@||video.gazeta.pl/cdn/ads/ad/banner/_adsense_/_adserver/_adview_.ad.json$xmlhttprequest,domain=video.gazeta.pl
