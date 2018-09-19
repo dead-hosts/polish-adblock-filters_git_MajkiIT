@@ -1,9 +1,8 @@
 {
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
-        "1537312420": [
+        "1537398854": [
             "adobedc.cf",
             "adserwer.adtools.pl",
-            "allegrostatic.pl",
             "assets.bro.adca.st",
             "av-cdn-*.wpimg.pl",
             "businessclick.*",
@@ -28,11 +27,13 @@
             "stats.qmerce.com",
             "subloader.cf",
             ".tradedoubler.com",
+            "unblock.onaudience.com",
             "videos-.jwpsrv.com",
             "vidoza*.github.io",
-            "vsport.in",
-            "zgarnijiphone.ml"
+            "vsport.in"
         ],
-        "to_test": []
+        "to_test": [
+            "zgarnijiphone.ml"
+        ]
     }
 }
