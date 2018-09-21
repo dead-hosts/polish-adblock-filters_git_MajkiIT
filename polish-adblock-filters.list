@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2018091801
+v.2018092103
 !
 !
 of
@@ -3847,6 +3847,7 @@ autocentrum.pl,demotywatory.pl,dziennik.pl,facetemjestem.pl,gala.pl,garnek.pl,gr
 ||p986524.pl^
 ||seanse24.pl^
 ||chomik-24.pl^
+||zastrzyk-gotowki.waw.pl^
 !
 !24
 ||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=exs.pl,important

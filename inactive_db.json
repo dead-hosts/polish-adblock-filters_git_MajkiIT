@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
-        "1537398854": [
+        "1537571712": [
             "adobedc.cf",
             "adserwer.adtools.pl",
             "assets.bro.adca.st",
@@ -12,7 +12,6 @@
             "glogow.pl",
             "grupa7j.pl",
             "https:",
-            "lcx.pl",
             "livemecz.*",
             "lubin.pl",
             "mercy.ga",
@@ -31,8 +30,10 @@
             "videos-.jwpsrv.com",
             "vidoza*.github.io",
             "vsport.in",
-            "zgarnijiphone.ml"
+            "www1.advice.movie.advlab.pl"
         ],
-        "to_test": []
+        "to_test": [
+            "zgarnijiphone.ml"
+        ]
     }
 }
