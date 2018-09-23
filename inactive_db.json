@@ -1,8 +1,9 @@
 {
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
-        "1537571712": [
+        "1537744536": [
             "adobedc.cf",
             "adserwer.adtools.pl",
+            "allegrostatic.pl",
             "assets.bro.adca.st",
             "av-cdn-*.wpimg.pl",
             "businessclick.*",
@@ -12,6 +13,7 @@
             "glogow.pl",
             "grupa7j.pl",
             "https:",
+            "lcx.pl",
             "livemecz.*",
             "lubin.pl",
             "mercy.ga",
@@ -25,12 +27,12 @@
             "static.video.superfilm.pl",
             "stats.qmerce.com",
             "subloader.cf",
+            "system.mondeos.pl",
             ".tradedoubler.com",
             "unblock.onaudience.com",
             "videos-.jwpsrv.com",
             "vidoza*.github.io",
             "vsport.in",
-            "www1.advice.movie.advlab.pl",
             "zgarnijiphone.ml"
         ],
         "to_test": []
