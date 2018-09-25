@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Sun 23 Sep 23:09:08 UTC 2018 
+# Date of generation: Tue 25 Sep 23:09:03 UTC 2018 
 
 0.0.0.0 ad.bitbay.net
 0.0.0.0 adservice.google.pl
@@ -34,7 +34,6 @@
 0.0.0.0 inframe.platform.onet.pl
 0.0.0.0 js-agent.newrelic.com
 0.0.0.0 js.iplsc.com
-0.0.0.0 lib.onet.pl
 0.0.0.0 lulektv.app.insyscd.net
 0.0.0.0 media.empik.com
 0.0.0.0 money.wpcdn.pl
@@ -74,5 +73,3 @@
 0.0.0.0 wpkoszyk.wp.pl
 0.0.0.0 www.kupbon.pl
 0.0.0.0 www.optymalizacja.com
-0.0.0.0 xml.enovatis.pl
-0.0.0.0 zastrzyk-gotowki.waw.pl
