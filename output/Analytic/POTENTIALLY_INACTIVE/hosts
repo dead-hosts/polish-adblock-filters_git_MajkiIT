@@ -1,21 +1,17 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Tue 25 Sep 23:09:03 UTC 2018 
+# Date of generation: Tue 02 Oct 23:10:53 UTC 2018 
 
 0.0.0.0 ad.bitbay.net
-0.0.0.0 adservice.google.pl
 0.0.0.0 adserwer.xwords.pl
 0.0.0.0 ads.gry-online.pl
 0.0.0.0 ad.vider.pl
 0.0.0.0 ad.webshark.pl
 0.0.0.0 alltube.tv
 0.0.0.0 api-content-generator.gazeta.pl
-0.0.0.0 assets.adobedtm.com
 0.0.0.0 avanti.fashion
 0.0.0.0 bi.adview.pl
 0.0.0.0 cdn.dtxngr.com
-0.0.0.0 cdn.flurry.com
 0.0.0.0 cdn.syndication.twitter.com
-0.0.0.0 ced-ns.sascdn.com
 0.0.0.0 d1f5rbi95y1icu.cloudfront.net
 0.0.0.0 dfp.gazeta.pl
 0.0.0.0 d-pt.ppstatic.pl
@@ -32,9 +28,8 @@
 0.0.0.0 imasdk.googleapis.com
 0.0.0.0 img.dvhk.to
 0.0.0.0 inframe.platform.onet.pl
-0.0.0.0 js-agent.newrelic.com
-0.0.0.0 js.iplsc.com
-0.0.0.0 lulektv.app.insyscd.net
+0.0.0.0 kdega.e-kei.pl
+0.0.0.0 lib.onet.pl
 0.0.0.0 media.empik.com
 0.0.0.0 money.wpcdn.pl
 0.0.0.0 motocyklistow.pl
@@ -42,7 +37,6 @@
 0.0.0.0 nqp0852y7r.com
 0.0.0.0 ocdn.eu
 0.0.0.0 ocs-pl.oktawave.com
-0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 panele5.llog.pl
 0.0.0.0 picsrv.fora.pl
 0.0.0.0 players.brightcove.net
@@ -50,7 +44,6 @@
 0.0.0.0 redir.atmcdn.pl
 0.0.0.0 rek.www.wp.pl
 0.0.0.0 rtbnowads.com
-0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 smart.idmnet.pl
 0.0.0.0 s-nk.pl
 0.0.0.0 static.biedronka.pl
@@ -62,8 +55,6 @@
 0.0.0.0 statics.d404.pl
 0.0.0.0 statics.tarsago.pl
 0.0.0.0 static.wizaz.pl
-0.0.0.0 s.tvp.pl
-0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 track.cux.io
 0.0.0.0 video.vid4u.org
 0.0.0.0 vider.pl
@@ -71,6 +62,3 @@
 0.0.0.0 weben1.com
 0.0.0.0 widget.aftermarket.pl
 0.0.0.0 wpkoszyk.wp.pl
-0.0.0.0 www.kupbon.pl
-0.0.0.0 www.optymalizacja.com
-0.0.0.0 xml.enovatis.pl
