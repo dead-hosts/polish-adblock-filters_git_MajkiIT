@@ -31,11 +31,11 @@
             "unblock.onaudience.com",
             "videos-.jwpsrv.com",
             "vidoza*.github.io",
-            "vsport.in"
+            "vsport.in",
+            "zgarnijiphone.ml"
         ],
         "to_test": [
-            "www.movie-box.pl",
-            "zgarnijiphone.ml"
+            "www.movie-box.pl"
         ]
     }
 }
