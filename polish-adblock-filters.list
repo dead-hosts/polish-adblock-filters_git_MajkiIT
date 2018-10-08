@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2018100702
+v.2018100801
 !
 !
 of
@@ -182,6 +182,7 @@ popkiller.pl,tygodnikpodhalanski.pl,cnc.info.pl
 24opole.pl
 24plock.pl
 24pr.pl
+24wroclaw.pl
 24wspolnota.pl
 2bstyle.pl
 300polityka.pl
@@ -511,6 +512,7 @@ craftportal.pl
 craftportal.pl
 craftportal.pl,pomyslnawszystko.pl
 crazynauka.pl
+cro.pl
 cryptonews.pl
 cryptonews.pl
 cryptonews.pl
@@ -912,6 +914,7 @@ gazetapolska.pl
 gazetapolska.pl
 gazetapolska.pl
 gazetapolska.pl
+gazetapowiatowa.pl
 gazetaprawna.pl
 gazetaprawna.pl
 gazetaprawna.pl
@@ -1119,6 +1122,7 @@ interia.pl
 interia.pl
 interia.tv
 interia.tv
+interpretacje-podatkowe.org
 inwestycje.pl
 inwestycje.pl
 ipon.pl
@@ -3660,7 +3664,7 @@ zw.pl
 @@||polscygracze.pl^$generichide
 @@://*.*/pl/js/show_ads.js$script,domain=ki24.info|portalplock.pl|faktypilskie.pl|e-krajna.pl|swiecie24.pl|zyciesokolowa.pl|zyciesiedleckie.pl|koronowo.net.pl|ciechocinek.biz|gniewkowo.eu|kolniak24.pl|itvszubin.pl|uniejow.net.pl|nizanskie.info|pluznica.info|superchodziez.pl|tygodnik.pl|ekutno.pl|naszbrzesc.pl|bydgoszcz24.pl|terazlipno.pl|saskakepa.waw.pl|gwe24.pl|kolniak24.eu
 @@.pl/menda/adsense.js$script,domain=to.proste.info.pl|seciki.pl|kompnet.info|kolniak24.eu
-@@||portel.pl/phpadsnew/*ads*.js$script,domain=www.portel.pl
+@@||portel.pl/phpadsnew/*adv*.js$script,domain=www.portel.pl
 @@||potplayerclub.pl^$generichide
 @@||ppstatic.pl/*/ads.js$script,domain=pomorska.pl
 @@||przegladsportowy.pl^$generichide
