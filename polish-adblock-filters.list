@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2018101405
+v.2018101602
 !
 !
 of
@@ -285,6 +285,7 @@ autocentrum.pl
 auto-motor-i-sport.pl
 auto-motor-i-sport.pl
 auto-motor-i-sport.pl
+auto-motor-i-sport.pl,menshealth.pl,womenshealth.pl,runners-world.pl,motocykl-online.pl
 autodoradca.pl
 autofascynacje.pl
 autokult.pl
@@ -2899,7 +2900,6 @@ zywiecinfo.pl
 !
 !10
 /videoPlayer.js$script,domain=polsatnews.pl|polsatsport.pl
-||savecart.pl/*/script*.php$script
 ||24opole.pl/bimg/$image
 ||40ton.net/wp-content/uploads/*.gif$image
 ||40ton.net/wp-content/uploads/*.png$image
@@ -3912,6 +3912,12 @@ autocentrum.pl,demotywatory.pl,dziennik.pl,facetemjestem.pl,gala.pl,garnek.pl,gr
 ||fastdownload.com.pl^
 ||downfiles.pl^
 ||tradeit.cash^
+||pk999.pl^
+||multico.5v.pl^
+||host1.5v.pl^
+||adobe.5v.pl^
+||host1.5v.pl^
+||ola100.hopto.org^
 !
 !24
 ||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=exs.pl,important
