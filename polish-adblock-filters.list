@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2018101602
+v.2018101803
 !
 !
 of
@@ -108,7 +108,7 @@ vshare.io
 !7
 !
 !8
-24tp.pl,lca.pl,112tychy.pl,30minut.pl,twoje-podhale.pl,upflix.pl,grylogiczne.biz.pl,grydladziewczyn.net.pl
+24tp.pl,lca.pl,112tychy.pl,30minut.pl,twoje-podhale.pl,upflix.pl,grylogiczne.biz.pl,grydladziewczyn.net.pl,moja-ostroleka.pl,bielsko.info
 ~astrosalus.pl,~przegladsportowy.pl,~medonet.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,anglia.today,dbnao.net,pl
 ~zaq2.pl,~docer.pl,pl
 ~fakt.pl,pl
@@ -192,7 +192,7 @@ popkiller.pl,tygodnikpodhalanski.pl,cnc.info.pl
 4hifi.pl
 4kom.pl
 4lomza.pl
-4lomza.pl,zambrow.org
+4lomza.pl,zambrow.org,miedziowe.pl
 4programmers.net
 6obcy.com.pl
 7dni.pila.pl
@@ -282,7 +282,7 @@ auto-swiat.pl,biala24.pl,trodatreleases.com,imagazine.pl
 auto.pl
 autocentrum.pl
 autocentrum.pl
-auto-motor-i-sport.pl
+auto-motor-i-sport.pl,menshealth.pl,womenshealth.pl,runners-world.pl,motocykl-online.pl,ox.pl
 auto-motor-i-sport.pl
 auto-motor-i-sport.pl
 auto-motor-i-sport.pl,menshealth.pl,womenshealth.pl,runners-world.pl,motocykl-online.pl
@@ -396,7 +396,7 @@ bonavita.pl
 bonavita.pl
 bonavita.pl
 booclick.pl
-booklips.pl
+booklips.pl,bloog.pl
 booklips.pl
 booklips.pl
 booksclub.pl
@@ -1118,6 +1118,7 @@ innemedium.pl
 innpoland.pl
 inowroclaw.info.pl
 inowroclaw.info.pl
+instalacjebudowlane.pl
 instalki.pl
 instalki.pl
 instalki.pl
@@ -1223,6 +1224,7 @@ katowice24.info
 katowicedzis.pl
 kawerna.pl
 kawerna.pl
+kb.pl
 kei.pl
 ki24.info
 kibice.net
@@ -1942,7 +1944,7 @@ poranny.pl
 poranny.pl,polskatimes.pl
 portal.abczdrowie.pl
 portal24h.pl
-portalgorski.pl
+portalgorski.pl,miedziowe.pl
 portalkomunalny.pl
 portalmedialny.pl
 portalmorski.pl
@@ -2349,6 +2351,7 @@ sww.w.szu.pl
 sympatia.onet.pl
 sympatia.onet.pl
 system.ekai.pl
+szafa.pl
 szczecinek.com
 sztafeta.pl
 sztuka-wnetrza.pl
@@ -3322,6 +3325,7 @@ zywiecinfo.pl
 ||www.locomobit.pl/right_mm.php$object
 ||www.maratonypolskie.pl/logo/20*/$image
 ||www.moja-ostroleka.pl/uploads/banery/$image,object,script
+||www.moja-ostroleka.pl/uploads/wybory-2018/$image
 ||www.movie-box.pl/commer/*.mp4$media,domain=www.movie-box.pl
 ||www.multimediait.pl/klient/upload/$image,domain=terazkrosno.pl
 ||www.nowawrzesnia.pl/images/$image
@@ -3541,6 +3545,7 @@ katowickisport.pl,webinsider.pl
 katowickisport.pl
 katowickisport.pl
 kobietaxl.pl
+kreskowkazone.pl
 krs-online.com.pl
 kursbootstrap.pl
 leaseplan.pl,novafusion.pl,funnygames.pl
@@ -3912,12 +3917,14 @@ autocentrum.pl,demotywatory.pl,dziennik.pl,facetemjestem.pl,gala.pl,garnek.pl,gr
 ||fastdownload.com.pl^
 ||downfiles.pl^
 ||tradeit.cash^
-||pk999.pl^
 ||multico.5v.pl^
 ||host1.5v.pl^
 ||adobe.5v.pl^
 ||host1.5v.pl^
 ||ola100.hopto.org^
+||pko-bp.pl^
+||przejdz.ml^
+||wiarygodnafirma24.pl^
 !
 !24
 ||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=exs.pl,important
