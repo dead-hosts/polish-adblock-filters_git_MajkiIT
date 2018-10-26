@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2018102403
+v.2018102604
 !
 !
 of
@@ -108,7 +108,7 @@ vshare.io
 !7
 !
 !8
-24tp.pl,lca.pl,112tychy.pl,30minut.pl,twoje-podhale.pl,upflix.pl,grylogiczne.biz.pl,grydladziewczyn.net.pl,moja-ostroleka.pl,bielsko.info
+24tp.pl,lca.pl,112tychy.pl,30minut.pl,twoje-podhale.pl,upflix.pl,grylogiczne.biz.pl,grydladziewczyn.net.pl,moja-ostroleka.pl,bielsko.info,polonia.nl
 ~astrosalus.pl,~przegladsportowy.pl,~medonet.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,anglia.today,dbnao.net,pl
 ~zaq2.pl,~docer.pl,pl
 ~fakt.pl,pl
@@ -1632,6 +1632,7 @@ naekranie.pl
 naekranie.pl
 naekranie.pl
 naekranie.pl
+naekranie.pl
 naklo24.pl
 nakolei.pl
 namasce.pl
@@ -1798,10 +1799,6 @@ paczamy.pl
 pan-doradca.pl
 pap.edu.pl
 paranormalne.pl
-!parenting.pl
-!parenting.pl
-!parenting.pl
-!parenting.pl
 parenting.pl
 pato.pl
 patriot24.net
@@ -1835,12 +1832,12 @@ pebx.pl
 pebx.pl
 pebx.pl
 pebx.pl
-pecetowicz.pl
 pekao.com.pl
 pepper.pl
 perepele.pl
 perfektusplus.pl
 perfumik.pl
+perspektywy.pl
 piekary.pl
 piekary.pl
 pielegniarki.info.pl
@@ -1872,7 +1869,7 @@ playstationforum.pl
 plejada.pl
 pless.pl
 pless.pl
-pless.pl
+pless.pl,prawdaobiektywna.pl
 pless.pl,pless.nazwa.pl
 plonskwsieci.pl
 plonskwsieci.pl
@@ -2189,7 +2186,7 @@ showup.tv
 siatka.org
 siemiatycze.com.pl
 sieradz.com.pl
-sieradz.com.pl,zdunskawola24.pl,filmaster.pl
+sieradz.com.pl,zdunskawola24.pl,filmaster.pl,perspektywy.pl
 signs.pl
 signs.pl
 signs.pl
@@ -3199,6 +3196,7 @@ zywiecinfo.pl
 ||redcoon.pl/res/outer/201*/$image
 ||redir.atmcdn.pl/scale/o2/tvn/web-content/m/p2/i/81c8727c62e800be708dbf37c4695dff/$image,domain=tvnwarszawa.tvn24.pl
 ||redir.atmcdn.pl*swf$domain=tvn24.pl
+||redirector.redefine.pl/r/*.mp4$media,redirect=noopmp3-0.1s,domain=twojapogoda.pl
 ||reklamawadowice24.pl/$image
 ||reklamy.s3.amazonaws.com/bcg/$image
 ||rek.www.wp.pl^
@@ -3258,6 +3256,7 @@ zywiecinfo.pl
 ||tarnowiak.pl/grafika/super_*/$image
 ||t-mobile-trendy.pl/graph/backgrounds/$image
 ||track.cux.io^
+||track.omgpl.com^$image
 ||tractors.pl/banner*.png$image
 ||triathlonpoland.tv/vast.xml$xmlhttprequest
 ||trybunaczestochowska.pl/wp-content/plugins/popup-maker/assets/js/site.min.js
