@@ -205,6 +205,11 @@
             "expiration_date": "09-may-2019",
             "state": "future"
         },
+        "chomik-24.pl": {
+            "epoch": "1570320000",
+            "expiration_date": "06-oct-2019",
+            "state": "future"
+        },
         "chozoba.pl": {
             "epoch": "1568505600",
             "expiration_date": "15-sep-2019",
@@ -240,6 +245,11 @@
             "expiration_date": "01-dec-2018",
             "state": "future"
         },
+        "contextad.pl": {
+            "epoch": "1556928000",
+            "expiration_date": "04-may-2019",
+            "state": "future"
+        },
         "contextweb.com": {
             "epoch": "1584316800",
             "expiration_date": "16-mar-2020",
@@ -265,6 +275,16 @@
             "expiration_date": "30-may-2019",
             "state": "future"
         },
+        "damdaj.pl": {
+            "epoch": "1551916800",
+            "expiration_date": "07-mar-2019",
+            "state": "future"
+        },
+        "datalandhobby.pl": {
+            "epoch": "1567555200",
+            "expiration_date": "04-sep-2019",
+            "state": "future"
+        },
         "dekoder.ws": {
             "epoch": "1570579200",
             "expiration_date": "09-oct-2019",
@@ -283,6 +303,11 @@
         "domniespodzianek.com": {
             "epoch": "1557878400",
             "expiration_date": "15-may-2019",
+            "state": "future"
+        },
+        "dorzeczy.pl": {
+            "epoch": "1565740800",
+            "expiration_date": "14-aug-2019",
             "state": "future"
         },
         "doubleclick.net": {
@@ -335,9 +360,24 @@
             "expiration_date": "12-jun-2019",
             "state": "future"
         },
+        "eluban.pl": {
+            "epoch": "1563580800",
+            "expiration_date": "20-jul-2019",
+            "state": "future"
+        },
         "energylandia-pl.win": {
             "epoch": "1560816000",
             "expiration_date": "18-jun-2019",
+            "state": "future"
+        },
+        "eostroleka.pl": {
+            "epoch": "1544832000",
+            "expiration_date": "15-dec-2018",
+            "state": "future"
+        },
+        "eurogol.pl": {
+            "epoch": "1575763200",
+            "expiration_date": "08-dec-2019",
             "state": "future"
         },
         "evertiq.pl": {
@@ -365,6 +405,11 @@
             "expiration_date": "09-jun-2019",
             "state": "future"
         },
+        "filmweb.pl": {
+            "epoch": "1547164800",
+            "expiration_date": "11-jan-2019",
+            "state": "future"
+        },
         "flakyfeast.com": {
             "epoch": "1571961600",
             "expiration_date": "25-oct-2019",
@@ -375,9 +420,19 @@
             "expiration_date": "15-jan-2019",
             "state": "future"
         },
+        "freedisc.pl": {
+            "epoch": "1548374400",
+            "expiration_date": "25-jan-2019",
+            "state": "future"
+        },
         "fullon.tv": {
             "epoch": "1569456000",
             "expiration_date": "26-sep-2019",
+            "state": "future"
+        },
+        "futbol.pl": {
+            "epoch": "1555286400",
+            "expiration_date": "15-apr-2019",
             "state": "future"
         },
         "gazetalubliniecka.pl": {
@@ -410,9 +465,19 @@
             "expiration_date": "30-aug-2019",
             "state": "future"
         },
+        "gry-online.pl": {
+            "epoch": "1563580800",
+            "expiration_date": "20-jul-2019",
+            "state": "future"
+        },
         "haczyk.pl": {
             "epoch": "1572220800",
             "expiration_date": "28-oct-2019",
+            "state": "future"
+        },
+        "haloursynow.pl": {
+            "epoch": "1559865600",
+            "expiration_date": "07-jun-2019",
             "state": "future"
         },
         "hipek.pl": {
@@ -430,6 +495,11 @@
             "expiration_date": "14-sep-2023",
             "state": "future"
         },
+        "hyipforum.pl": {
+            "epoch": "1545955200",
+            "expiration_date": "28-dec-2018",
+            "state": "future"
+        },
         "hyperreal.info": {
             "epoch": "1582070400",
             "expiration_date": "19-feb-2020",
@@ -443,6 +513,16 @@
         "ibillboard.com": {
             "epoch": "1577577600",
             "expiration_date": "29-dec-2019",
+            "state": "future"
+        },
+        "imgwykop.pl": {
+            "epoch": "1550448000",
+            "expiration_date": "18-feb-2019",
+            "state": "future"
+        },
+        "instalacjebudowlane.pl": {
+            "epoch": "1571443200",
+            "expiration_date": "19-oct-2019",
             "state": "future"
         },
         "ipon.pl": {
@@ -470,6 +550,16 @@
             "expiration_date": "09-nov-2018",
             "state": "future"
         },
+        "klikplej.pl": {
+            "epoch": "1547769600",
+            "expiration_date": "18-jan-2019",
+            "state": "future"
+        },
+        "lcx.pl": {
+            "epoch": "1567123200",
+            "expiration_date": "30-aug-2019",
+            "state": "future"
+        },
         "lechia.net": {
             "epoch": "1576454400",
             "expiration_date": "16-dec-2019",
@@ -490,14 +580,44 @@
             "expiration_date": "10-oct-2019",
             "state": "future"
         },
+        "mediaexpert.pl": {
+            "epoch": "1782259200",
+            "expiration_date": "24-jun-2026",
+            "state": "future"
+        },
         "medycznamarihuana.com": {
             "epoch": "1555718400",
             "expiration_date": "20-apr-2019",
             "state": "future"
         },
+        "microsms.pl": {
+            "epoch": "1548979200",
+            "expiration_date": "01-feb-2019",
+            "state": "future"
+        },
+        "mmanews.pl": {
+            "epoch": "1580083200",
+            "expiration_date": "27-jan-2020",
+            "state": "future"
+        },
+        "mmania.pl": {
+            "epoch": "1558742400",
+            "expiration_date": "25-may-2019",
+            "state": "future"
+        },
         "mojeklocki.com": {
             "epoch": "1555372800",
             "expiration_date": "16-apr-2019",
+            "state": "future"
+        },
+        "money.pl": {
+            "epoch": "1590192000",
+            "expiration_date": "23-may-2020",
+            "state": "future"
+        },
+        "napisy24.pl": {
+            "epoch": "1575763200",
+            "expiration_date": "08-dec-2019",
             "state": "future"
         },
         "nowwatchtvlive.co": {
