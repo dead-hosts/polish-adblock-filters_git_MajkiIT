@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2018102905
+v.2018103004
 !
 !
 of
@@ -135,6 +135,7 @@ pl
 pl
 pl
 pl/popup.js|$script
+pl
 pl
 pl
 pl
@@ -378,7 +379,6 @@ blasty.pl
 blaugrana.pl
 blog.nowebrzmienia.pl
 blog.pluralsight.com
-blog.spigot.pl
 blogmobility.pl
 blogomaniak.pl
 blogomaniak.pl
@@ -453,6 +453,7 @@ cdahd.pl
 cdtracker.co.pl
 cenabiznesu.pl,elubaczow.com
 centrum-dramy.pl
+centrumdruku3d.pl
 centrumdruku3d.pl
 centrumxp.pl
 centrumxp.pl
@@ -703,7 +704,6 @@ elubaczow.com
 elubaczow.com
 elubaczow.com,kurierwilenski.lt
 em.kielce.pl
-embed.vidso.tv
 emka-info.pl
 endurorider.pl
 endurorider.pl
@@ -1143,7 +1143,6 @@ isanok.pl
 ising.pl
 iswinoujscie.pl
 iszczecinek.pl
-it-coin.pl
 itporady.pl
 itporady.pl
 itporady.pl
@@ -1180,13 +1179,11 @@ jastrzebieonline.pl,mfkip.pl,ogloszenia.plock.pl
 jaw.pl
 jaw.pl
 jaw.pl
-jaw.pl
 jawor24h.pl
 jawor24h.pl
 jawor24h.pl
 jazdaprawna.pl
 jazzsoul.pl
-jbofilm.pl
 jbzd.pl
 jbzdy.pl
 jdtech.pl
@@ -1267,7 +1264,7 @@ korkosfera.pl
 korso.pl,debica24.eu
 korsosanockie.pl,korso.pl
 koscian.net
-koszalininfo.pl,wlkp24.info,wwl24.info,b2-biznes.pl,sporteuro.pl,metropoliabydgoska.pl,brzeg24.pl,pabianice.tv,zambrowiacy.pl,e-play.pl,wrc.net.pl,dziennik.walbrzych.pl,asta24.pl,nswiecie.pl,blogtransportowy.pl,portalprzemyski.pl,wzielonej.pl,mikrokontroler.pl,naszawielkopolska.pl,radio-wrzesnia.pl,life4style.pl
+koszalininfo.pl,wlkp24.info,wwl24.info,b2-biznes.pl,sporteuro.pl,metropoliabydgoska.pl,brzeg24.pl,pabianice.tv,zambrowiacy.pl,e-play.pl,wrc.net.pl,dziennik.walbrzych.pl,asta24.pl,nswiecie.pl,blogtransportowy.pl,portalprzemyski.pl,wzielonej.pl,mikrokontroler.pl,naszawielkopolska.pl,radio-wrzesnia.pl,life4style.pl,zachodniemazowsze.info
 kozaczek.pl
 kozaczek.pl
 kozienice24.pl
@@ -1489,7 +1486,6 @@ miechowski.pl
 miedziowe.tv
 miedzyrzec.info
 miedzyrzecz.biz
-miejsce.warszawa.gazeta.pl
 mikrokontroler.pl
 mikrokontroler.pl
 mikrokontroler.pl
@@ -1905,6 +1901,7 @@ polnocna.tv
 poloniairlandia.pl
 polscygracze.pl
 polsatnews.pl
+polskaizbabranzypogrzebowej.pl
 polskaligaesportowa.pl
 polskaniepodlegla.pl
 polskaniepodlegla.pl
@@ -1929,9 +1926,7 @@ pomorska.pl
 pomorskiprzewodnikwedkarski.pl
 pomu.pl
 ponapisach.pl
-poolska.pl
 popkulturysci.pl
-popodrozy.pl
 popularne.pl,popularne.net
 popularnie.pl
 poradnikbudowlany.eu
@@ -2025,7 +2020,7 @@ przepisy.pl
 przewodnicywedkarscy.pl
 przychodnia.pl
 przyslijprzepis.pl
-pszczynska.pl,szajn.pl,polskicaravaning.pl,4run.pl
+pszczynska.pl,polskicaravaning.pl,4run.pl
 pudelek.tv,wp.tv,interaktywnie.com
 pukawka.pl
 pultusk24.pl
@@ -2361,7 +2356,6 @@ szukam-ksiazki.pl
 szwajcaria.net
 szwajcaria.net
 szwajcaria.net,franchising.pl
-szybkiefilmy.pl
 tabletowo.pl
 tabletowo.pl
 tabletowo.pl
@@ -2821,8 +2815,6 @@ xlomza.pl
 xlomza.pl
 yafud.pl
 yellowpages.pl
-youradio.pl
-za-friko.eu
 zabawkowo.com
 zabijambolubie.pl
 zabkowice.express-miejski.pl
@@ -2841,7 +2833,6 @@ zapytaj.onet.pl
 zapytaj.onet.pl
 zapytaj.onet.pl
 zapytaj.onet.pl
-zarabiam.com
 zarabiamykase.com.pl
 zarabiara.pl
 zary.naszemiasto.pl
@@ -3248,7 +3239,6 @@ zywiecinfo.pl
 ||superfilm.pl/vast/comeon.xml$object
 ||swiat-gier.com/themes/swiat-gier/img/background$image
 ||swiecie24.pl/banery_$image
-||system.mondeos.pl/$image,script
 ||szczecinek.com/static/files/inline_images/110/inline_*.gif$image,domain=szczecinek.com
 ||tabletowo.pl/wp-content/uploads/*/*/screening_$image
 ||tanidedyk.pl/templates/$image,domain=mybboard.pl
@@ -3504,7 +3494,6 @@ dziennikelblaski.pl
 dziennikwschodni.pl
 dziennikwschodni.pl
 dziennikwschodni.pl,vorek.pl
-dziwnekomiksy.pl
 e-dokument.org,znaki.vxm.pl
 egarwolin.pl
 emstories.pl
@@ -3577,7 +3566,6 @@ parezja.pl,demotywatory.pl
 pikio.pl
 polskihurtworld.eu
 polskihurtworld.eu
-polygarnia.pl
 portel.pl
 portel.pl
 portel.pl
@@ -3688,7 +3676,7 @@ zw.pl
 @@||imged.pl/subframe/js/*/adblock-advertisement.js$script
 @@||ipla.hit.stat24.com/*ad.xml$xmlhttprequest,domain=polsatnews.pl|polsatsport.pl|twojapogoda.pl
 @@||istotne.pl^$generichide
-@@/js/ads.js$script,domain=solarkurier.pl|satkurier.pl|saskakepa.waw.pl|e-krajna.pl|swiecie24.pl|zyciesokolowa.pl|ciechocinek.biz|napiprojekt.pl|uniejow.net.pl|nizanskie.info|pluznica.info|superchodziez.pl|tygodnik.pl|ekutno.pl|naszbrzesc.pl|bydgoszcz24.pl|terazlipno.pl|gwe24.pl|dziwnekomiksy.pl|digi-tv.pl|chelsea24news.pl|wolomin24.info|splendo.pl|egorzow.pl|irembertow.pl|iminsk.pl|ikrakow.info|iskierniewice.pl|ikampinos.pl|e-wyszogrod.pl|ibielsk.pl|wterenie.pl|ciechanowinaczej.pl|wabrzezno-cwa.pl|infosiedlce.pl|rypin-cry.pl|golub-cgd.pl|iotwock.info|szczecinek.com|lipno-cli.pl|imokotow.pl|nolesnica.pl|itvpiaseczno.pl|histmag.org|lowcygier.pl|gorzowianin.com|polotv.pl|video.anyfiles.pl|brotkids.tv|fokus.tv|ithardware.pl|meteoprog.pl|nowa.tv|okazje.co|forsal.pl|gazetaprawna.pl|fxmag.pl|nasztomaszow.pl|dieroten.pl|reklama.pl|gpr24.pl|twojradom.pl|inowroclaw.info.pl|pultusk24.pl|bham.pl|vorek.pl|plonszczak.pl|zdrowowdomu.wp.pl|audiklub.org|video-static.tunnl.com|pcworld.pl|gostynin.info|zambrow.org|millemiglia.wp.pl|radiogol.pl|torrentcity.pl|kb.pl|bitnova.info|rozmerdani.wp.pl|dbamoswojafirme.wp.pl|jakrobicmarketing.pl|wtk.pl|minecraft.org.pl|wtkplay.pl
+@@/js/ads.js$script,domain=solarkurier.pl|satkurier.pl|saskakepa.waw.pl|e-krajna.pl|swiecie24.pl|zyciesokolowa.pl|ciechocinek.biz|napiprojekt.pl|uniejow.net.pl|nizanskie.info|pluznica.info|superchodziez.pl|tygodnik.pl|ekutno.pl|naszbrzesc.pl|bydgoszcz24.pl|terazlipno.pl|gwe24.pl|digi-tv.pl|chelsea24news.pl|wolomin24.info|splendo.pl|egorzow.pl|irembertow.pl|iminsk.pl|ikrakow.info|iskierniewice.pl|ikampinos.pl|e-wyszogrod.pl|ibielsk.pl|wterenie.pl|ciechanowinaczej.pl|wabrzezno-cwa.pl|infosiedlce.pl|rypin-cry.pl|golub-cgd.pl|iotwock.info|szczecinek.com|lipno-cli.pl|imokotow.pl|nolesnica.pl|itvpiaseczno.pl|histmag.org|lowcygier.pl|gorzowianin.com|polotv.pl|video.anyfiles.pl|brotkids.tv|fokus.tv|ithardware.pl|meteoprog.pl|nowa.tv|okazje.co|forsal.pl|gazetaprawna.pl|fxmag.pl|nasztomaszow.pl|dieroten.pl|reklama.pl|gpr24.pl|twojradom.pl|inowroclaw.info.pl|pultusk24.pl|bham.pl|vorek.pl|plonszczak.pl|zdrowowdomu.wp.pl|audiklub.org|video-static.tunnl.com|pcworld.pl|gostynin.info|zambrow.org|millemiglia.wp.pl|radiogol.pl|torrentcity.pl|kb.pl|bitnova.info|rozmerdani.wp.pl|dbamoswojafirme.wp.pl|jakrobicmarketing.pl|wtk.pl|minecraft.org.pl|wtkplay.pl
 @@/js/ads.js$xmlhttprequest,domain=minecraft.org.pl
 @@/advertisement.js$domain=vodnews.pl|cyfrowydoradca.pl|pajacyk.pl
 @@||js.iplsc.com/inpl.adb/*/empt.js?*&adserv=$domain=interia.pl
@@ -3773,7 +3761,6 @@ bukmacherzy.com,mecze24.pl
 bukmacherzy.com
 darmowe.tv
 darmowetv.pl
-deltatv.pw
 drhtv.com.pl
 drhtv.com.pl
 drhtv.com.pl
@@ -3782,7 +3769,7 @@ drhtv.com.pl
 drhtv.com.pl
 drhtv.com.pl,meczenazywo.pl
 estadios.pl
-freehdsport.com,freehqsport.eu
+freehdsport.com
 futbolhd.tv,polishcorrector.com,korektoronline.pl
 futbolhd.tv
 futbolhd.tv
@@ -3820,7 +3807,6 @@ meczstudio.com
 meczyki.net.pl
 meczyki.pl
 polska-telewizja-online.ayz.pl
-sport-cast.pl
 sportsbox.pro
 sportsbox.pro
 tvtoss.com
@@ -3932,6 +3918,7 @@ autocentrum.pl,demotywatory.pl,dziennik.pl,facetemjestem.pl,gala.pl,garnek.pl,gr
 ||pko-bp.pl^
 ||przejdz.ml^
 ||wiarygodnafirma24.pl^
+||pinamo.pl^
 !
 !24
 ||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=exs.pl,important
@@ -4063,7 +4050,7 @@ www.wp.pl
 ~www.wp.pl,wp.pl
 ~www.wp.pl,wp.pl
 ~www.wp.pl,wp.pl
-www.wp.pl
+www.wp.pl,tv.wp.pl
 www.wp.pl
 www.wp.pl
 www.wp.pl
