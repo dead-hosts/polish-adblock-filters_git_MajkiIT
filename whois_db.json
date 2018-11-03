@@ -1,8 +1,8 @@
 {
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
         "24opole.pl": {
-            "epoch": "1541203200",
-            "expiration_date": "03-nov-2018",
+            "epoch": "1572739200",
+            "expiration_date": "03-nov-2019",
             "state": "future"
         },
         "40ton.net": {
@@ -123,6 +123,11 @@
         "antygrupa.pl": {
             "epoch": "1552262400",
             "expiration_date": "11-mar-2019",
+            "state": "future"
+        },
+        "antyspam.net": {
+            "epoch": "1569456000",
+            "expiration_date": "26-sep-2019",
             "state": "future"
         },
         "antyweb.pl": {
@@ -335,6 +340,11 @@
             "expiration_date": "01-oct-2019",
             "state": "future"
         },
+        "e-udanezakupy.pl": {
+            "epoch": "1563408000",
+            "expiration_date": "18-jul-2019",
+            "state": "future"
+        },
         "edynamic-dns.pl": {
             "epoch": "1544659200",
             "expiration_date": "13-dec-2018",
@@ -353,6 +363,11 @@
         "electro-torrent.pl": {
             "epoch": "1563408000",
             "expiration_date": "18-jul-2019",
+            "state": "future"
+        },
+        "elektro24h.pl": {
+            "epoch": "1563235200",
+            "expiration_date": "16-jul-2019",
             "state": "future"
         },
         "elka.pl": {
@@ -545,6 +560,11 @@
             "expiration_date": "14-sep-2023",
             "state": "future"
         },
+        "hunterstyle.pl": {
+            "epoch": "1571356800",
+            "expiration_date": "18-oct-2019",
+            "state": "future"
+        },
         "hyipforum.pl": {
             "epoch": "1545955200",
             "expiration_date": "28-dec-2018",
@@ -573,6 +593,11 @@
         "imgwykop.pl": {
             "epoch": "1550448000",
             "expiration_date": "18-feb-2019",
+            "state": "future"
+        },
+        "imperiumobuwia.pl": {
+            "epoch": "1567036800",
+            "expiration_date": "29-aug-2019",
             "state": "future"
         },
         "instalacjebudowlane.pl": {
@@ -658,6 +683,11 @@
         "listaserwerowmc.pl": {
             "epoch": "1558051200",
             "expiration_date": "17-may-2019",
+            "state": "future"
+        },
+        "lovemyshoes.pl": {
+            "epoch": "1567468800",
+            "expiration_date": "03-sep-2019",
             "state": "future"
         },
         "lowcygier.pl": {
@@ -1226,8 +1256,8 @@
             "state": "future"
         },
         "trybunaczestochowska.pl": {
-            "epoch": "1540857600",
-            "expiration_date": "30-oct-2018",
+            "epoch": "1572393600",
+            "expiration_date": "30-oct-2019",
             "state": "future"
         },
         "tugazeta.pl": {
