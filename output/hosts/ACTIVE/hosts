@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Mon 05 Nov 23:11:11 UTC 2018 
+# Date of generation: Tue 06 Nov 23:11:45 UTC 2018 
 
 0.0.0.0 24opole.pl
 0.0.0.0 40ton.net
@@ -10,7 +10,6 @@
 0.0.0.0 ad.adview.pl
 0.0.0.0 ad.bitbay.net
 0.0.0.0 adclick.lt
-0.0.0.0 addthis.com
 0.0.0.0 ad.facetpo40.pl
 0.0.0.0 adform.net
 0.0.0.0 ad.gazeta.pl
@@ -87,8 +86,8 @@
 0.0.0.0 ciechocinek.biz
 0.0.0.0 cloudfront.net
 0.0.0.0 coin-have.com
-0.0.0.0 coin-hive.com
 0.0.0.0 coinhive.com
+0.0.0.0 coin-hive.com
 0.0.0.0 contextad.pl
 0.0.0.0 contextweb.com
 0.0.0.0 converti.se
@@ -110,7 +109,6 @@
 0.0.0.0 doubleclick.net
 0.0.0.0 dowcip.net
 0.0.0.0 downfiles.pl
-0.0.0.0 d-pt.ppstatic.pl
 0.0.0.0 dynacrems.wp.pl
 0.0.0.0 e-aptekarodzinna.pl
 0.0.0.0 ebook4all.com.pl
@@ -216,6 +214,7 @@
 0.0.0.0 lechia.net
 0.0.0.0 leczna24.pl
 0.0.0.0 lib.onet.pl
+0.0.0.0 lib.wtg-ads.com
 0.0.0.0 lidl.pl
 0.0.0.0 link.batuu.pl
 0.0.0.0 listaserwerowmc.pl
