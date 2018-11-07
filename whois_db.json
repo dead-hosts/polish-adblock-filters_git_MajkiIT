@@ -1150,6 +1150,11 @@
             "expiration_date": "17-mar-2019",
             "state": "future"
         },
+        "sklepnecik.pl": {
+            "epoch": "1571875200",
+            "expiration_date": "24-oct-2019",
+            "state": "future"
+        },
         "skrotymeczow.pl": {
             "epoch": "1567209600",
             "expiration_date": "31-aug-2019",
