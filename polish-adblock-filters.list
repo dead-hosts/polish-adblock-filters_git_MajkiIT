@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2018110701
+v.2018110901
 !
 !
 of
@@ -800,7 +800,7 @@ filesdark.com
 fili.cc
 fili.cc
 fili.cc
-fili.cc,centrumdruku3d.pl
+fili.cc,centrumdruku3d.pl,pebx.pl
 filmpolski.pl
 films4free.pl
 filmweb.pl
@@ -2501,7 +2501,6 @@ twojapogoda.pl
 twojaslupca.pl
 twojaslupca.pl
 twojaslupca.pl
-twojasuknia.pl
 twoje-seriale.tv
 twojepajeczno.pl
 twojepc.pl
@@ -3559,6 +3558,7 @@ nokiahacking.pl
 ocen-piwo.pl
 parezja.pl,demotywatory.pl
 pikio.pl
+polskieszlaki.pl
 polskihurtworld.eu
 polskihurtworld.eu
 portel.pl
@@ -3674,7 +3674,7 @@ zw.pl
 @@||istotne.pl^$generichide
 @@/js/ads.js$script,domain=solarkurier.pl|satkurier.pl|saskakepa.waw.pl|e-krajna.pl|swiecie24.pl|zyciesokolowa.pl|ciechocinek.biz|napiprojekt.pl|uniejow.net.pl|nizanskie.info|pluznica.info|superchodziez.pl|tygodnik.pl|ekutno.pl|naszbrzesc.pl|bydgoszcz24.pl|terazlipno.pl|gwe24.pl|digi-tv.pl|chelsea24news.pl|wolomin24.info|splendo.pl|egorzow.pl|irembertow.pl|iminsk.pl|ikrakow.info|iskierniewice.pl|ikampinos.pl|e-wyszogrod.pl|ibielsk.pl|wterenie.pl|ciechanowinaczej.pl|wabrzezno-cwa.pl|infosiedlce.pl|rypin-cry.pl|golub-cgd.pl|iotwock.info|szczecinek.com|lipno-cli.pl|imokotow.pl|nolesnica.pl|itvpiaseczno.pl|histmag.org|lowcygier.pl|gorzowianin.com|polotv.pl|video.anyfiles.pl|brotkids.tv|fokus.tv|ithardware.pl|meteoprog.pl|nowa.tv|okazje.co|forsal.pl|gazetaprawna.pl|fxmag.pl|nasztomaszow.pl|dieroten.pl|reklama.pl|gpr24.pl|twojradom.pl|inowroclaw.info.pl|pultusk24.pl|bham.pl|vorek.pl|plonszczak.pl|zdrowowdomu.wp.pl|audiklub.org|video-static.tunnl.com|pcworld.pl|gostynin.info|zambrow.org|millemiglia.wp.pl|radiogol.pl|torrentcity.pl|kb.pl|bitnova.info|rozmerdani.wp.pl|dbamoswojafirme.wp.pl|jakrobicmarketing.pl|wtk.pl|minecraft.org.pl|wtkplay.pl
 @@/js/ads.js$xmlhttprequest,domain=minecraft.org.pl
-@@/advertisement.js$domain=vodnews.pl|cyfrowydoradca.pl|pajacyk.pl
+@@/advertisement.js$domain=vodnews.pl|cyfrowydoradca.pl|pajacyk.pl|psgfc.pl
 @@||js.iplsc.com/inpl.adb/*/empt.js?*&adserv=$domain=interia.pl
 @@||komputerswiat.pl^$generichide
 @@||kubofonista.net/r/ad.htm$script,domain=kubofonista.net
@@ -4238,6 +4238,7 @@ zwiedzamyparyz.pl
 !/^(https|http):\/\/[a-z.]{4,15}\.[a-z]{2,2}\/[a-z/.?=-]{1,100}(wss|proxy)[a-z.?:0-9=]{6,50}/$script
 ||lcx.pl^
 ||megabanners.cf^$third-party
+||mon.pebx.pl^
 ||n.serialeonline.pl^$subdocument
 ||openkatalog.com/static/$subdocument
 ||pebx.pl/js/donate.js$script

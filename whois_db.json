@@ -61,13 +61,13 @@
             "state": "future"
         },
         "adsb4track.com": {
-            "epoch": "1541721600",
-            "expiration_date": "09-nov-2018",
+            "epoch": "1573257600",
+            "expiration_date": "09-nov-2019",
             "state": "future"
         },
         "adsbtrack.com": {
-            "epoch": "1541721600",
-            "expiration_date": "09-nov-2018",
+            "epoch": "1573257600",
+            "expiration_date": "09-nov-2019",
             "state": "future"
         },
         "adsnet.pl": {
@@ -641,8 +641,8 @@
             "state": "future"
         },
         "ki24.info": {
-            "epoch": "1541721600",
-            "expiration_date": "09-nov-2018",
+            "epoch": "1573257600",
+            "expiration_date": "09-nov-2019",
             "state": "future"
         },
         "klikplej.pl": {
