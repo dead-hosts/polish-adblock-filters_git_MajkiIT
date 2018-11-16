@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
-        "1542238941": [
+        "1542411792": [
             "adobedc.cf",
             "adserwer.adtools.pl",
             "av-cdn-*.wpimg.pl",
@@ -14,6 +14,7 @@
             "konkursikowo.pl",
             "livemecz.*",
             "lubin.pl",
+            "mediamarkt.pl.goodsurprises.top",
             "megabanners.cf",
             "mercy.ga",
             "ola100.hopto.org",
@@ -21,7 +22,6 @@
             "redir.atmcdn.pl*swf",
             "samnumer.pl",
             "static*jelonka.com",
-            "static.video.superfilm.pl",
             "stats.qmerce.com",
             "subloader.cf",
             "system.mondeos.pl",
