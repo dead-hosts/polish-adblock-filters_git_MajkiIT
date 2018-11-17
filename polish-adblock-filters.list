@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2018111605
+v.2018111701
 !
 !
 of
@@ -584,6 +584,7 @@ di.com.pl
 diagnozujmy.pl
 dieroten.pl
 dieroten.pl
+digest.com.pl
 digi-tv.pl
 digi-tv.pl,se.pl,muratordom.pl,muratorplus.pl,poradnikzdrowie.pl,eska.pl
 digi-tv.pl,satkurier.pl
@@ -4113,7 +4114,6 @@ www.money.pl
 www.money.pl
 !
 !36
-24legnica.pl,wstereo.pl,magazynbasista.pl,niebezpiecznik.pl,appki.com.pl,prawapolityka.pl,stop-cham.pl,zwiedzam-stadiony.eu
 @@/app\.erpxt\.[a-z]{2,3}\/Scripts\/Code\//
 @@/google-adwords$image,domain=spidersweb.pl
 @@/index.php?url=$xmlhttprequest,domain=alltube.pl|alltube.tv
@@ -4135,10 +4135,13 @@ www.money.pl
 @@||rentcars.pl/build/js/user-tracking.js?psv=11$script
 @@||spedycje.pl/img/icon_reklama_2017.png$image
 @@||wpolityce24.pl/imgcache/300x250/*/uploads/news/$image
+digest.com.pl
 e-stargard.pl,mojeinfo24.pl
 filmyfilmy.pl
 kafeteria.pl
 mandarinodesign.eu
+walbrzych24.com
+24legnica.pl,wstereo.pl,magazynbasista.pl,niebezpiecznik.pl,appki.com.pl,prawapolityka.pl,stop-cham.pl,zwiedzam-stadiony.eu
 ||static-olxeu.akamaized.net/static/olxpl/naspersclassifieds-regional/olxeu-atlas-web/static/js/advertising.js$important
 !
 !37
