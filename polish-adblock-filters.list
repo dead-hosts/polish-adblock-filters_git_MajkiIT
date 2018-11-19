@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2018111701
+v.2018111902
 !
 !
 of
@@ -638,6 +638,7 @@ dziennik.pl
 dziennik.pl
 dziennikplocki.pl
 dziennikpolski24.pl
+dziennik.walbrzych.pl
 dziennikwschodni.pl
 dziennikzachodni.pl,kurierlubelski.pl,pomorska.pl
 dzisiajwgliwicach.pl
@@ -857,7 +858,7 @@ forum.gniezno.com.pl
 forum.juvepoland.com
 forum.kodiwpigulce.pl
 forum.kodiwpigulce.pl
-forum.komputerswiat.pl
+forum.komputerswiat.pl,forumrowerowe.org,katalogi.pl,forum-sportu.pl,kdf.pl
 forum.nissanklub.pl
 forum.optymalizacja.com
 forum.optymalizacja.com
@@ -870,7 +871,6 @@ forum.vwgolf.pl
 forumfajerwerki.pl
 forumfajerwerki.pl
 forumfs.pl
-forumrowerowe.org
 forumrowerowe.org
 footbar.info
 fotka.com
@@ -904,7 +904,6 @@ gazeo.pl
 gazeta-mlawska.pl
 gazeta-mosina.pl
 gazeta-olawa.pl
-gazeta-olawa.pl
 gazeta-wiesci.pl
 gazeta.pl
 gazeta.pl
@@ -913,6 +912,7 @@ gazeta.pl
 gazeta.pl
 gazeta.pl
 gazeta.pl
+gazeta-olawa.pl
 gazetacz.com.pl
 gazetagazeta.com
 gazetaklobucka.pl
@@ -1221,7 +1221,6 @@ kamienskie.info
 kanal10.pl
 kantorbitcoin.pl
 kardiolo.pl
-katalogi.pl
 katalogsmakow.pl
 katowice24.info
 katowicedzis.pl
@@ -1902,6 +1901,7 @@ podlasie24.pl
 podoslonami.pl
 pogoda.dziennik.pl
 pogoda.onet.pl
+pogonsportnet.pl
 polacywewloszech.com
 police24.pl
 police24.pl
@@ -1988,6 +1988,7 @@ prawicowyinternet.pl
 prawo.money.pl
 prawodrogowe.pl
 prawy.pl
+predkosc.pl
 premiummoto.pl
 premiummoto.pl
 press.pl,ogrodinfo.pl
@@ -2215,6 +2216,7 @@ skokinarciarskie.pl
 skokinarciarskie.pl
 skokinarciarskie.pl
 skomp.pl
+skijumping.pl
 skript.pl
 skript.pl
 skript.pl
@@ -2637,6 +2639,7 @@ wiocha.pl
 wiocha.pl
 wiocha.pl,repostuj.pl,jeja.pl
 wiocha.pl,showup.tv
+widzewtomy.net
 wir-com.pl
 wirtualnemedia.pl
 wirtualnemedia.pl
@@ -3478,9 +3481,10 @@ wpworld.pl,windowsowo.pl
 !
 12zawodnik.pl
 !14
-24gliwice.pl,wyborkierowcow.pl,kino123.pl,jednoslad.pl,how2play.pl,polskiedzieje.pl
+24gliwice.pl,wyborkierowcow.pl,kino123.pl,jednoslad.pl,how2play.pl,polskiedzieje.pl,ciekawe.org,baza-lekow.com.pl,testhub.pl,widzewtomy.net
 24opole.pl,webcamera.pl,darmowe-torenty.pl,dziennikwschodni.pl,vorek.pl,katowickisport.pl,torrentcity.pl,wtkplay.pl,epoznan.pl
 adtaily.pl
+agcbytom.pl,srebrnestawy.pl
 allekoszyk.pl
 altair.com.pl
 androidbeztajemnic.com
@@ -3488,7 +3492,6 @@ anyfiles.pl
 benchmark.pl
 cda-online.pl
 chelsea24news.pl
-ciekawe.org,baza-lekow.com.pl,testhub.pl
 comperia.pl
 czasdiet.pl
 dailyweb.pl
@@ -3610,12 +3613,14 @@ www.forum-wedkarskie.pl
 www.glamour.pl
 www.lubliniec.info
 www.plotek.pl
+www.poradnikzdrowie.pl
 www.ps4forum.pl
 z4y.pl
 zamow-reklame.pl
 zarabiam.com
 zetchilli.pl
 zmiksowani.pl
+zarabiam.com
 zrabatowani.pl
 zw.pl
 !
@@ -3638,6 +3643,7 @@ zw.pl
 ||niepoprawni.pl/sites/all/libraries/copier/bck.js$script
 /test_block.js$script,domain=proste.info.pl|kompnet.info
 ||wgrane.pl/html/_pl/adblock_top.txt
+||www.poradnikzdrowie.pl/media/desktop/zpr_videos_web/js/video_blocker.js$script,domain=www.poradnikzdrowie.pl
 /wp-content/plugins/pause-adblocker$script
 /wp-content/plugins/wp-adblock-dedect/dedect.js$script
 /\/wp-content\/uploads\/[a-zA-Z]{8,}\/[a-zA-Z]{8,}\.js/$script,domain=fandroid.com.pl|crazynauka.pl|legiobiznes.pl
@@ -3854,10 +3860,12 @@ xyz,mecz.tv,ipilka.info
 !||weszlo.com/wp-content/uploads/bsa-pro-upload/1517841983-screening.jpg$image
 ||ocs-pl.oktawave.com/v1/AUTH_*_screening_*.jpg$image
 ||ocs-pl.oktawave.com/v1/AUTH_*/*-screening-wallpaper_*.jpg$image
+||foto.stalowka.net/design/opel.jpg
 !
 !21
 ||imgwykop.pl/*/*/paylink_$image,domain=www.wykop.pl
 ||www.wykop.pl/img/campaign/$image,domain=www.wykop.pl
+streamable.com
 wykop.pl
 wykop.pl
 wykop.pl
@@ -3955,6 +3963,7 @@ pl
 ||ro88qcuy.com^
 ||4b6994dfa47cee4.com^
 ||hyphenion.com^
+||uod2quk646.com^
 !
 !28
 /^http:\/\/((?!192\.168)(?!10\.)(?!172\.16)(?!172\.17)(?!172\.18)(?!172\.19)(?!172\.2)(?!172\.30)(?!172\.31)([0-9]|[1-9][0-9]|1[0-9]{2}|2[0-4][0-9]|25[0-5])\.){3}([0-9]|[1-9][0-9]|1[0-9]{2}|2[0-4][0-9]|25[0-5])\/[a-zA-Z0-9]{30,}/$script,popup
@@ -4140,7 +4149,7 @@ e-stargard.pl,mojeinfo24.pl
 filmyfilmy.pl
 kafeteria.pl
 mandarinodesign.eu
-walbrzych24.com
+walbrzych24.com,zloty-pociag.com
 24legnica.pl,wstereo.pl,magazynbasista.pl,niebezpiecznik.pl,appki.com.pl,prawapolityka.pl,stop-cham.pl,zwiedzam-stadiony.eu
 ||static-olxeu.akamaized.net/static/olxpl/naspersclassifieds-regional/olxeu-atlas-web/static/js/advertising.js$important
 !
@@ -4351,4 +4360,5 @@ vod.tvp.pl
 !
 !49
 @@||tv.wp.pl/do/*/dotn?sw=$image,~third-party,domain=tv.wp.pl
+@@||staty.portalradiowy.pl/wstats/wstats.php$script,domain=discoparty.pl|discopolonew.cba.pl
 !END
