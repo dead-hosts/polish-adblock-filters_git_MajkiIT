@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
-        "1542757500": [
+        "1542930375": [
             "accounts.goouigle.net",
             "adobedc.cf",
             "adserwer.adtools.pl",
@@ -12,7 +12,6 @@
             "glogow.pl",
             "grupa7j.pl",
             "https:",
-            "img.dvhk.to",
             "konkursikowo.pl",
             "livemecz.*",
             "lubin.pl",
@@ -21,6 +20,7 @@
             "mercy.ga",
             "ola100.hopto.org",
             "orangę.pl",
+            "otomoto.site",
             "redir.atmcdn.pl*swf",
             "samnumer.pl",
             "static*jelonka.com",

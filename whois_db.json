@@ -425,6 +425,11 @@
             "expiration_date": "11-jan-2019",
             "state": "future"
         },
+        "finanse-payu.pl": {
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
+        },
         "flakyfeast.com": {
             "epoch": "1571961600",
             "expiration_date": "25-oct-2019",
@@ -875,6 +880,11 @@
             "expiration_date": "14-may-2020",
             "state": "future"
         },
+        "nowywyszkowiak.pl": {
+            "epoch": "1545264000",
+            "expiration_date": "20-dec-2018",
+            "state": "future"
+        },
         "nqp0852y7r.com": {
             "epoch": "1559952000",
             "expiration_date": "08-jun-2019",
@@ -985,6 +995,11 @@
             "expiration_date": "18-may-2018",
             "state": "past"
         },
+        "platnosc24.com": {
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
+        },
         "plonskwsieci.pl": {
             "epoch": "1549929600",
             "expiration_date": "12-feb-2019",
@@ -1083,6 +1098,11 @@
         "redcoon.pl": {
             "epoch": "1571097600",
             "expiration_date": "15-oct-2019",
+            "state": "future"
+        },
+        "reklama-lowicz.pl": {
+            "epoch": "1551312000",
+            "expiration_date": "28-feb-2019",
             "state": "future"
         },
         "reklamawadowice24.pl": {

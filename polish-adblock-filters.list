@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2018111902
+v.2018112205
 !
 !
 of
@@ -47,7 +47,7 @@ _baner/980x200
 _banery/980x200
 /banery/*980x90
 ://*.*/banery_foto/$image,domain=ki24.info|portalplock.pl|faktypilskie.pl|ddtorun.pl|ddwloclawek.pl|koronowo.net.pl|zyciesiedleckie.pl
-/banery/$image,subdocument,domain=oknoserwis.pl|sps24.pl|www.chojnice.com|usa.info.pl|jarocinska.pl|www.obud.pl|skijumping.pl|gintama.wbijam.pl|haczyk.pl|instalacjebudowlane.pl|jagiellonia.net|kdega.e-kei.pl|naszalomza.pl|pionki24.pl|mragowo24.info
+/banery/$image,subdocument,object,domain=oknoserwis.pl|sps24.pl|www.chojnice.com|usa.info.pl|jarocinska.pl|www.obud.pl|skijumping.pl|gintama.wbijam.pl|haczyk.pl|instalacjebudowlane.pl|jagiellonia.net|kdega.e-kei.pl|naszalomza.pl|pionki24.pl|mragowo24.info|lokalna24.pl
 /bannery/*$image,subdocument,domain=em.kielce.pl|czasdzieci.pl|kolporter.com.pl|sklep-tvsat.hcore.pl|www.pokertexas.pl|www.walbrzych24.com|zlotoryja.info|skijumping.pl|icomp.pl|forum.cs-classic.pl|nocnygdansk.pl|wagaciezka.com|obud.pl|beskid-niski.pl|ezakopane.pl
 /content-generator/published/frame/generate?*frameId=*&placementId=*&guid=
 /data/ap3bo6/*.gif$image,domain=tvmalbork.pl|tvsztum.pl|zulawyimierzeja24.pl|tvregionalna24.pl
@@ -125,7 +125,7 @@ pl
 pl
 pl
 pl
-pl
+~lowcygier.pl,pl
 pl
 pl
 pl
@@ -170,7 +170,7 @@ popkiller.pl,tygodnikpodhalanski.pl,cnc.info.pl
 ~szczecinek.com,~olneo.pl,~wirtualnemedia.pl,~radekcholewinski.pl,~github.com,~dlawas.info
 /wp-content/uploads/*/baner$image,domain=lubanski.eu|miastoiludzie.pl|eksmagazyn.pl|infokatowice.pl|mma.pl|tvwlodawa.pl
 ~wtkplay.pl,~epoznan.pl,pl
-~otodom.pl,~kbb.com,~wuxiaworld.com,~uzywane.com,~przegladsportowy.pl,~crunchyroll.com,~nationalgeographic.com,~wpolityce.pl,~box.com,~hardcorowo.pl,~gumtree.com,~hulu.com,com,~filmweb.pl,pl,~fakro.pl,~dziennikwschodni.pl,~schneiderpackaging.com
+~hispasonic.com,~otodom.pl,~kbb.com,~wuxiaworld.com,~uzywane.com,~przegladsportowy.pl,~crunchyroll.com,~nationalgeographic.com,~wpolityce.pl,~box.com,~hardcorowo.pl,~gumtree.com,~hulu.com,com,~filmweb.pl,pl,~fakro.pl,~dziennikwschodni.pl,~schneiderpackaging.com
 ~zso53.pl,~katywroclawskie.pl,~rozklad-pkp.pl,~gwarant.czest.pl,~sukniaonline.pl
 !
 !9
@@ -289,7 +289,6 @@ auto.pl
 autocentrum.pl
 autocentrum.pl
 autoklub.pl
-auto-motor-i-sport.pl,menshealth.pl,womenshealth.pl,runners-world.pl,motocykl-online.pl,ox.pl
 auto-motor-i-sport.pl
 auto-motor-i-sport.pl
 auto-motor-i-sport.pl,menshealth.pl,womenshealth.pl,runners-world.pl,motocykl-online.pl
@@ -461,7 +460,7 @@ centrumxp.pl
 centrumxp.pl
 cgm.pl
 chamskie.pl
-chamskie.pl,psychiczni.pl
+chamskie.pl
 chamsko.pl
 chamsko.pl
 charaktery.eu
@@ -515,7 +514,7 @@ cozadzien.pl
 craftportal.pl
 craftportal.pl
 craftportal.pl
-craftportal.pl,pomyslnawszystko.pl
+craftportal.pl
 crazynauka.pl
 cro.pl
 cryptonews.pl
@@ -663,6 +662,7 @@ e-korepetycje.net
 e-kursy-walut.pl
 e-lubon.pl
 e-play.pl
+e-restauracja.com
 e-warzywnictwo.pl
 e-warzywnictwo.pl
 e-widuchowa.pl,zvami.tv
@@ -919,6 +919,7 @@ gazetaklobucka.pl
 gazetalubliniecka.pl
 gazetalubliniecka.pl,kreator-muzea.pl
 gazetalubliniecka.pl
+gazetaostrowska.pl
 gazetapolska.pl
 gazetapolska.pl
 gazetapolska.pl
@@ -954,6 +955,7 @@ glogow-info.pl
 glogow-info.pl
 glogow-info.pl
 glogow-info.pl
+gazeta-olawa.pl
 glokalna.pl
 gloria.tv
 gloria.tv
@@ -1151,7 +1153,7 @@ iszczecinek.pl
 itporady.pl
 itporady.pl
 itporady.pl
-itporady.pl,igryfino.pl
+itporady.pl,igryfino.pl,eluban.pl
 itreseller.pl
 itreseller.pl
 ittechblog.pl
@@ -1234,6 +1236,7 @@ kibice.net
 kiep.pl
 kiep.pl
 kino-iskra.pl
+kinonet.pl
 kino123.pl
 kino24-tv.pl
 kk24.pl
@@ -1268,7 +1271,7 @@ korkosfera.pl
 korso.pl,debica24.eu
 korsosanockie.pl,korso.pl
 koscian.net
-koszalininfo.pl,wlkp24.info,wwl24.info,b2-biznes.pl,sporteuro.pl,metropoliabydgoska.pl,brzeg24.pl,pabianice.tv,zambrowiacy.pl,e-play.pl,wrc.net.pl,dziennik.walbrzych.pl,asta24.pl,nswiecie.pl,blogtransportowy.pl,portalprzemyski.pl,wzielonej.pl,mikrokontroler.pl,naszawielkopolska.pl,radio-wrzesnia.pl,life4style.pl,zachodniemazowsze.info,mlecznepodroze.pl
+koszalininfo.pl,wlkp24.info,wwl24.info,b2-biznes.pl,sporteuro.pl,metropoliabydgoska.pl,brzeg24.pl,pabianice.tv,zambrowiacy.pl,e-play.pl,wrc.net.pl,dziennik.walbrzych.pl,asta24.pl,nswiecie.pl,blogtransportowy.pl,portalprzemyski.pl,wzielonej.pl,mikrokontroler.pl,naszawielkopolska.pl,radio-wrzesnia.pl,life4style.pl,zachodniemazowsze.info,mlecznepodroze.pl,ziemiadebicka.pl
 kozaczek.pl
 kozaczek.pl
 kozienice24.pl
@@ -1386,6 +1389,7 @@ lsi-lublin.pl
 lsi-lublin.pl
 lsk.plps.pl
 lsw24.pl
+lubanski.eu
 lubartow24.pl
 lubartow24.pl
 lubartow24.pl
@@ -1722,6 +1726,7 @@ nowodworski24.pl
 nowosci-mp3.eu
 nowy.tlen.pl
 nowy.tlen.pl
+nowywyszkowiak.pl
 nowyoutsourcing.pl
 nportal.no
 nudziara.pl
@@ -1960,16 +1965,13 @@ portalsremski.pl
 portaltatrzanski.com
 poscigi.pl
 posshop.pl
-postawnaswoim.pl,forum.tweaks.pl,androidhacksgames.com,mobilegameshack4u.com,solarkurier.pl,miniskrypt.hubaiitv.pl,swirtv.czo.pl,pewnapozyczka.pl,precyl.com,przeklej.org,club4you.pl,darmowetv.pl,forum.vwgolf.pl,szuman.eu,audiostereo.pl,ogloszenia.gazeta.ie,legio24.pl,sdcv.pl,dostawcy-internetu.pl,forum.bukmacherskie.com,nasze.fm,lovekrakow.pl,mh24.pl,faktykonopne.pl,lajfy.com,disco-polo.info,pokemon-go.pl,gazeta-wiesci.pl,polskaniepodlegla.pl,lpg-forum.pl,kuszotv.pl,meczelive.tv,tablety.pl,polskatimes.pl,gazetakrakowska.pl,nacjonalista.pl,ostrowiecnews.pl,medianarodowe.com,prawy.pl,hobby-elektronika.eu,lowiczanin.info
+postawnaswoim.pl,forum.tweaks.pl,androidhacksgames.com,mobilegameshack4u.com,solarkurier.pl,miniskrypt.hubaiitv.pl,swirtv.czo.pl,pewnapozyczka.pl,precyl.com,przeklej.org,club4you.pl,darmowetv.pl,forum.vwgolf.pl,szuman.eu,audiostereo.pl,ogloszenia.gazeta.ie,legio24.pl,sdcv.pl,dostawcy-internetu.pl,forum.bukmacherskie.com,nasze.fm,lovekrakow.pl,mh24.pl,faktykonopne.pl,lajfy.com,disco-polo.info,pokemon-go.pl,gazeta-wiesci.pl,polskaniepodlegla.pl,lpg-forum.pl,kuszotv.pl,meczelive.tv,tablety.pl,polskatimes.pl,gazetakrakowska.pl,nacjonalista.pl,ostrowiecnews.pl,medianarodowe.com,prawy.pl,hobby-elektronika.eu,lowiczanin.info,kurier-w.pl
 potplayerclub.pl
 powiatowa.info
 powiatowa.info
 powiatowa.info
 powiatowa.info
 powiatowa.info
-powiatowy.pl
-powiatowy.pl
-powiatowy.pl
 powiatowy.pl
 poznan.naszemiasto.pl
 pozytywniej.pl
@@ -2149,6 +2151,7 @@ rtvmaniak.pl
 ryby.elka.pl
 ryms.pl
 rynekaptek.pl,farmer.pl,promocjada.pl
+rynek-turystyczny.pl
 rynekzdrowia.pl
 rzeszow-news.pl
 rzeszowiak.pl
@@ -2230,7 +2233,7 @@ sloworegionu.pl
 sloworegionu.pl
 sloworegionu.pl
 sloworegionu.pl,glucholazyonline.com.pl
-slubice24.pl,wirtualnemedia.pl
+slubice24.pl,wirtualnemedia.pl,nowywyszkowiak.pl
 slupca.pl
 slupca.pl,gry-online.pl
 smart-test.pl
@@ -2282,6 +2285,7 @@ stargard.com.pl
 start24.pl
 startkariery.pl
 staypoland.com
+starysacz.info
 steam.io
 stereoikolorowo.blogspot.com
 stooq.com
@@ -2474,7 +2478,6 @@ trucks.com.pl
 trzemeszno24.info
 tubagliwic.pl,tubawyszkowa.pl
 tubawyszkowa.pl,tubamarek.pl
-tuelblag.pl
 tur-info.pl
 tur-info.pl
 turek.net.pl
@@ -2497,7 +2500,7 @@ tvp.info
 tvpolsat.info
 tv-polska.eu
 tvsudecka.pl
-tvsudecka.pl,tczewska.pl,slowopodlasia.pl,bydgoszcz.com,tvswinoujscie.pl,tygodnikoko.pl,tv-wschod.pl,inowroclaw.info.pl,korsosanockie.pl,supertydzien.pl,lokalnatelewizja.pl,wiara.pl,radiosochaczew.pl,debica24.eu,zvami.tv,telewizjazary.pl,korsokolbuszowskie.pl,kociewiak.pl,cooltura24.co.uk,portalpomorza.pl,tvobiektyw.pl,echotygodnik.info,damitv.pl,ct.jaworzno.pl,narew.info,pzl24.pl,tvpogranicze.pl,tv-kwidzyn.pl,tvbelchatow.pl,tv-slupsk.pl,radiozamosc.pl,tvsierpc.pl
+tvsudecka.pl,tczewska.pl,slowopodlasia.pl,bydgoszcz.com,tvswinoujscie.pl,tygodnikoko.pl,tv-wschod.pl,inowroclaw.info.pl,korsosanockie.pl,supertydzien.pl,lokalnatelewizja.pl,wiara.pl,radiosochaczew.pl,debica24.eu,zvami.tv,telewizjazary.pl,korsokolbuszowskie.pl,kociewiak.pl,cooltura24.co.uk,portalpomorza.pl,tvobiektyw.pl,echotygodnik.info,damitv.pl,ct.jaworzno.pl,narew.info,pzl24.pl,tvpogranicze.pl,tv-kwidzyn.pl,tvbelchatow.pl,tv-slupsk.pl,radiozamosc.pl,tvsierpc.pl,eluban.pl,auto-motor-i-sport.pl,menshealth.pl,womenshealth.pl,runners-world.pl,motocykl-online.pl,ox.pl
 tvswinoujscie.pl
 tvwlodawa.pl
 twojahistoria.pl
@@ -2692,7 +2695,7 @@ www.3trzy3.pl
 www.3trzy3.pl
 www.antyradio.pl
 www.applecenter.pl
-www.applecenter.pl,zarabiajnaokazjach.pl,kierunek.szczecin.pl,trybawaryjny.pl,android.com.pl,off-road.pl,polskikosz.pl,gazeta-wiesci.pl,newsweb.pl,my3miasto.pl,kucharze.pl,portalwarszawski.com.pl
+www.applecenter.pl,zarabiajnaokazjach.pl,kierunek.szczecin.pl,trybawaryjny.pl,android.com.pl,off-road.pl,polskikosz.pl,gazeta-wiesci.pl,newsweb.pl,my3miasto.pl,kucharze.pl,portalwarszawski.com.pl,gazeta-olawa.pl
 www.aptekagemini.pl
 www.aptekagemini.pl
 www.axn.pl
@@ -3146,6 +3149,7 @@ zywiecinfo.pl
 ||niebiescy.pl/bild/$image
 ||nokaut.pl/wigetyflash/$object
 ||nowiny.rybnik.pl/baner/$image
+||nowywyszkowiak.pl/materialy/system_banerowy$image
 ||nqp0852y7r.com/e6/52/26/e652267829a86c98499016a18555c207.js$script,domain=internetowa.ws
 ||nuteczki.eu/templates/KlubowaMuza/images/pobierz.png$image
 ||ocdn.eu/*.html$subdocument,domain=sniadaniezkadra.onet.pl
@@ -3200,7 +3204,8 @@ zywiecinfo.pl
 ||redir.atmcdn.pl/scale/o2/tvn/web-content/m/p2/i/81c8727c62e800be708dbf37c4695dff/$image,domain=tvnwarszawa.tvn24.pl
 ||redir.atmcdn.pl*swf$domain=tvn24.pl
 ||redirector.redefine.pl/r/*.mp4$media,redirect=noopmp3-0.1s,domain=twojapogoda.pl
-||reklamawadowice24.pl/$image
+||reklamawadowice24.pl^$image
+||reklama-lowicz.pl^$image
 ||reklamy.s3.amazonaws.com/bcg/$image
 ||rek.www.wp.pl^
 ||repostuj.pl/static/repostujpl/arrow_right.jpg$domain=repostuj.pl
@@ -3392,7 +3397,7 @@ zywiecinfo.pl
 !
 !12
 @@||adserwer.adtools.pl/Rs$script,domain=adserwer.adtools.pl
-@@/ads.js$script,domain=translatica.pl|photo.bikestats.eu|astar.czest.pl|telepolis.pl|dziwneobrazki.pl|cda.pl|grydladzieci.pl|osgchmura.tk|video.anyfiles.pl|wtk.pl|pomorska.pl|wtk.pl
+@@/ads.js$script,domain=translatica.pl|photo.bikestats.eu|astar.czest.pl|telepolis.pl|dziwneobrazki.pl|cda.pl|grydladzieci.pl|osgchmura.tk|video.anyfiles.pl|wtk.pl|pomorska.pl|wtk.pl|zlotowskie.pl
 @@||adtaily.pl/wp-content/themes/adtaily_*/$domain=www.adtaily.pl
 @@/advertise*.js$script,domain=cda.pl|tuba.pl
 @@/advertisingmodule.$domain=ekstraklasa.tv|itvn.pl|player.pl|ttv.pl|tvn.pl|tvn24.pl|tvn24bis.pl|tvn7.pl|tvnplayer.pl|tvnstyle.pl|tvnturbo.pl
@@ -3517,15 +3522,15 @@ imged.pl
 infoship.pl,infoair.pl,infobike.pl,infotram.pl,inforail.pl,transinfo.pl,infobus.pl
 ipon.pl
 istotne.pl
-jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,imeds.pl,pl.aleteia.org,overwatch.pl,waw4free.pl,dziwneobrazki.pl,fm.tuba.pl,hentai-online.pl,epainfo.pl,bajeczki.org
-jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,imeds.pl,pl.aleteia.org,overwatch.pl,jackcaleib.com,waw4free.pl,dziwneobrazki.pl,fm.tuba.pl,hentai-online.pl,epainfo.pl,bajeczki.org
-jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,imeds.pl,pl.aleteia.org,overwatch.pl,jackcaleib.com,waw4free.pl,dziwneobrazki.pl,fm.tuba.pl,hentai-online.pl,epainfo.pl,bajeczki.org
-jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,imeds.pl,pl.aleteia.org,overwatch.pl,jackcaleib.com,waw4free.pl,dziwneobrazki.pl,fm.tuba.pl,hentai-online.pl,epainfo.pl,bajeczki.org
-jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,imeds.pl,pl.aleteia.org,overwatch.pl,jackcaleib.com,waw4free.pl,dziwneobrazki.pl,fm.tuba.pl,hentai-online.pl,epainfo.pl,bajeczki.org
-jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,imeds.pl,pl.aleteia.org,overwatch.pl,jackcaleib.com,waw4free.pl,dziwneobrazki.pl,fm.tuba.pl,hentai-online.pl,epainfo.pl,bajeczki.org
-jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,imeds.pl,pl.aleteia.org,overwatch.pl,jackcaleib.com,waw4free.pl,dziwneobrazki.pl,fm.tuba.pl,hentai-online.pl,epainfo.pl,bajeczki.org
-jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,imeds.pl,pl.aleteia.org,overwatch.pl,jackcaleib.com,waw4free.pl,dziwneobrazki.pl,fm.tuba.pl,hentai-online.pl,epainfo.pl,bajeczki.org
-jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,imeds.pl,pl.aleteia.org,overwatch.pl,jackcaleib.com,waw4free.pl,dziwneobrazki.pl,fm.tuba.pl,hentai-online.pl,epainfo.pl,bajeczki.org
+jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,imeds.pl,pl.aleteia.org,overwatch.pl,waw4free.pl,dziwneobrazki.pl,fm.tuba.pl,hentai-online.pl,epainfo.pl,bajeczki.org,tvbraniewo24.pl
+jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,imeds.pl,pl.aleteia.org,overwatch.pl,jackcaleib.com,waw4free.pl,dziwneobrazki.pl,fm.tuba.pl,hentai-online.pl,epainfo.pl,bajeczki.org,tvbraniewo24.pl
+jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,imeds.pl,pl.aleteia.org,overwatch.pl,jackcaleib.com,waw4free.pl,dziwneobrazki.pl,fm.tuba.pl,hentai-online.pl,epainfo.pl,bajeczki.org,tvbraniewo24.pl
+jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,imeds.pl,pl.aleteia.org,overwatch.pl,jackcaleib.com,waw4free.pl,dziwneobrazki.pl,fm.tuba.pl,hentai-online.pl,epainfo.pl,bajeczki.org,tvbraniewo24.pl
+jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,imeds.pl,pl.aleteia.org,overwatch.pl,jackcaleib.com,waw4free.pl,dziwneobrazki.pl,fm.tuba.pl,hentai-online.pl,epainfo.pl,bajeczki.org,tvbraniewo24.pl
+jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,imeds.pl,pl.aleteia.org,overwatch.pl,jackcaleib.com,waw4free.pl,dziwneobrazki.pl,fm.tuba.pl,hentai-online.pl,epainfo.pl,bajeczki.org,tvbraniewo24.pl
+jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,imeds.pl,pl.aleteia.org,overwatch.pl,jackcaleib.com,waw4free.pl,dziwneobrazki.pl,fm.tuba.pl,hentai-online.pl,epainfo.pl,bajeczki.org,tvbraniewo24.pl
+jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,imeds.pl,pl.aleteia.org,overwatch.pl,jackcaleib.com,waw4free.pl,dziwneobrazki.pl,fm.tuba.pl,hentai-online.pl,epainfo.pl,bajeczki.org,tvbraniewo24.pl
+jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,imeds.pl,pl.aleteia.org,overwatch.pl,jackcaleib.com,waw4free.pl,dziwneobrazki.pl,fm.tuba.pl,hentai-online.pl,epainfo.pl,bajeczki.org,tvbraniewo24.pl
 katowickisport.pl
 katowickisport.pl
 katowickisport.pl
@@ -3735,7 +3740,6 @@ zw.pl
 @@||webshark.pl/adserver/*advertise_check=1$script,domain=vider.info
 @@||webshark.pl/adsrv/*main.js$script,domain=zaq2.pl
 @@||wpimg.pl/*/wpjslib-prebid.js$script
-@@||wp.pl/do/*/dotn$image,domain=pilot.wp.pl
 @@||wtkplay.pl/javascript/ads.js$script
 @@||www.advert.com/advert$domain=moviesroom.pl
 @@||www.benchmark.pl/*/b.ads.js$script
@@ -3938,6 +3942,9 @@ autocentrum.pl,demotywatory.pl,dziennik.pl,facetemjestem.pl,gala.pl,garnek.pl,gr
 ||imperiumobuwia.pl^
 ||sklepnecik.pl^
 ||accounts.goouigle.net^
+||platnosc24.com^
+||otomoto.site^
+||finanse-payu.pl^
 filmyfilmy.pl
 !
 !24
@@ -3946,7 +3953,7 @@ filmyfilmy.pl
 !
 !25
 ~poczta.wp.pl,wp.pl
-||wp.pl/*GYqBm0Zbz4IZioGbRlvPghmKgZtGW8$script
+||wp.pl/*7GDMpPTZqLjsYMyk9NmouOxgzKT02ai4$script
 !
 !26
 electro-torrent.pl
@@ -4182,7 +4189,6 @@ jazdaprawna.pl
 jedzbawsie.pl,ekspert.ceneo.pl,slupca.pl,fsgk.pl,inforiders.pl,gadzet.telchina.pl,lifemanagerka.pl
 kamienskie.info
 kamienskie.info
-ketrzynnews.pl
 konflikty.pl
 konstancin.com
 kryptoholik.pl
