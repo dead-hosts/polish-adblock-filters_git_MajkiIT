@@ -75,6 +75,11 @@
             "expiration_date": "13-may-2019",
             "state": "future"
         },
+        "adtelier.pl": {
+            "epoch": "1548201600",
+            "expiration_date": "23-jan-2019",
+            "state": "future"
+        },
         "advertising.com": {
             "epoch": "1546560000",
             "expiration_date": "04-jan-2019",
@@ -551,8 +556,8 @@
             "state": "future"
         },
         "hotcpm.pl": {
-            "epoch": "1543276800",
-            "expiration_date": "27-nov-2018",
+            "epoch": "1574812800",
+            "expiration_date": "27-nov-2019",
             "state": "future"
         },
         "hotmoda.pl": {

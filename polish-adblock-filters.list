@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2018112509
+v.2018112703
 !
 !
 of
@@ -804,6 +804,7 @@ fcinter.pl
 fechallenge.com
 fechallenge.com
 fileland.pl
+files4you.org
 filesdark.com
 filesdark.com
 fili.cc
@@ -954,12 +955,13 @@ gizycko.info.pl
 glamrap.pl
 glamrap.pl
 globtroter.pl
-glogow-info.pl
-glogow-info.pl
-glogow-info.pl
-glogow-info.pl
-glogow-info.pl
-glogow-info.pl
+glogow-info.pl,glogow.info.pl
+glogow-info.pl,glogow.info.pl
+glogow-info.pl,glogow.info.pl
+glogow-info.pl,glogow.info.pl
+glogow-info.pl,glogow.info.pl
+glogow-info.pl,glogow.info.pl
+glogow-info.pl,glogow.info.pl
 gazeta-olawa.pl
 glokalna.pl
 gloria.tv
@@ -1082,6 +1084,7 @@ hoga.pl
 holenderskiskun.pl
 holidaycheck.pl
 hopaj.pl
+horecabc.pl
 horizongamer.pl
 hotfix.pl
 hotshare.pl
@@ -1581,10 +1584,6 @@ moje-gniezno.pl
 mojeauto.pl
 mojlask.pl
 mojlask.pl
-money.pl
-money.pl
-money.pl
-money.pl
 morele.net
 morele.net
 morele.net
@@ -1723,6 +1722,7 @@ nocoty.pl,aleseriale.pl
 noizz.pl
 noizz.pl
 nokiahacking.pl
+nolesnica.pl
 novekino.pl
 nowa.gazetaobywatelska.info
 nowafarmacja.pl
@@ -2003,7 +2003,6 @@ prawdaobiektywna.pl
 prawicowyinternet.pl
 prawicowyinternet.pl
 prawicowyinternet.pl
-prawo.money.pl
 prawodrogowe.pl
 prawy.pl
 predkosc.pl
@@ -2385,6 +2384,7 @@ sympatia.onet.pl
 sympatia.onet.pl
 system.ekai.pl
 szafa.pl
+szafiarka.pl
 szczecinek.com
 sztafeta.pl
 sztuka-wnetrza.pl
@@ -2453,6 +2453,7 @@ terazgabin.pl
 terazgrodkow24.pl,aletorcik.pl,ps4life.pl
 terazgrodkow24.pl,prawapolityka.pl,shebang.pl
 terazgrodkow24.pl,ziemialimanowska.pl,onalubi.pl,niestatystyczny.pl,centrumaut.pl,lifemanagerka.pl
+teraz-wilanow.pl
 theoniondaily.com
 thepolandtimes.com
 thinkapple.pl,repostuj.pl
@@ -2518,7 +2519,7 @@ tvp.info
 tvpolsat.info
 tv-polska.eu
 tvsudecka.pl
-tvsudecka.pl,tczewska.pl,slowopodlasia.pl,bydgoszcz.com,tvswinoujscie.pl,tygodnikoko.pl,tv-wschod.pl,inowroclaw.info.pl,korsosanockie.pl,supertydzien.pl,lokalnatelewizja.pl,wiara.pl,radiosochaczew.pl,debica24.eu,zvami.tv,telewizjazary.pl,korsokolbuszowskie.pl,kociewiak.pl,cooltura24.co.uk,portalpomorza.pl,tvobiektyw.pl,echotygodnik.info,damitv.pl,ct.jaworzno.pl,narew.info,pzl24.pl,tvpogranicze.pl,tv-kwidzyn.pl,tvbelchatow.pl,tv-slupsk.pl,radiozamosc.pl,tvsierpc.pl,eluban.pl,auto-motor-i-sport.pl,menshealth.pl,womenshealth.pl,runners-world.pl,motocykl-online.pl,ox.pl
+tvsudecka.pl,tczewska.pl,slowopodlasia.pl,bydgoszcz.com,tvswinoujscie.pl,tygodnikoko.pl,tv-wschod.pl,inowroclaw.info.pl,korsosanockie.pl,supertydzien.pl,lokalnatelewizja.pl,wiara.pl,radiosochaczew.pl,debica24.eu,zvami.tv,telewizjazary.pl,korsokolbuszowskie.pl,kociewiak.pl,cooltura24.co.uk,portalpomorza.pl,tvobiektyw.pl,echotygodnik.info,damitv.pl,ct.jaworzno.pl,narew.info,pzl24.pl,tvpogranicze.pl,tv-kwidzyn.pl,tvbelchatow.pl,tv-slupsk.pl,radiozamosc.pl,tvsierpc.pl,eluban.pl,auto-motor-i-sport.pl,menshealth.pl,womenshealth.pl,runners-world.pl,motocykl-online.pl,ox.pl,radiobonton.pl
 tvswinoujscie.pl
 tvwlodawa.pl
 twojahistoria.pl
@@ -2587,6 +2588,7 @@ v10.pl
 v10.pl
 valetudo.bialystok.pl
 vampirediaries.pl
+vanessa.fm
 vape.pl
 vape.pl
 vbtpc.pl
@@ -2792,7 +2794,6 @@ www.lubin.pl,sportslaski.pl,wirtualnepniewy.pl
 www.lubliniec.info
 www.miechowski.pl
 www.miechowski.pl
-www.money.pl
 www.morele.net
 www.mycenter.pl
 www.naotwocku.pl
@@ -2847,6 +2848,7 @@ wynagrodzenia.pl
 wyspagier.pl
 wyspagier.pl
 wyspiarzniebieski.pl
+w-poblizu.pl
 xboxforum.pl
 xboxforum.pl
 xfinanse.pl
@@ -2897,6 +2899,7 @@ zawiszafans.net
 zawiszafans.net
 zawodowe.com
 zblogowani.pl
+zdrowiewkrakowie.pl
 zebrra.tv
 zegarkiclub.pl
 zeglarski.info
@@ -2954,6 +2957,7 @@ zywiecinfo.pl
 ||ad.gazeta.pl/cpc$script,domain=kobieta.gazeta.pl
 ||ad.vider.pl^
 ||ad.webshark.pl^
+||adtelier.pl^$third-party
 ||adglare.org^$third-party,domain=nhl.pl|notebookcheck.pl
 ||adocean.pl^
 ||adsb4track.com/?$script
@@ -3067,7 +3071,7 @@ zywiecinfo.pl
 ||getionary.pl/images/tlo-box.png$image
 ||gfx.antyradio.pl/var/antyradio/storage/images/linki-graficzne/
 ||g.gazetaprawna.pl/gp/sgp/img/gp/kyocera-logo.png$image
-||glogow.pl/rek/$domain=glogow-info.pl
+||glogow.pl/rek/$domain=glogow-info.pl|glogow.info.pl
 ||googlesyndication.com^
 ||googleusercontent.com/$image,domain=openlinksys.info
 ||gorzow24.pl/img/ims/$image
@@ -3417,7 +3421,7 @@ zywiecinfo.pl
 !
 !12
 @@||adserwer.adtools.pl/Rs$script,domain=adserwer.adtools.pl
-@@/ads.js$script,domain=translatica.pl|photo.bikestats.eu|astar.czest.pl|telepolis.pl|dziwneobrazki.pl|cda.pl|grydladzieci.pl|osgchmura.tk|video.anyfiles.pl|wtk.pl|pomorska.pl|wtk.pl|zlotowskie.pl|tlp.is
+@@/ads.js$script,domain=translatica.pl|photo.bikestats.eu|astar.czest.pl|telepolis.pl|dziwneobrazki.pl|cda.pl|grydladzieci.pl|osgchmura.tk|video.anyfiles.pl|wtk.pl|pomorska.pl|wtk.pl|zlotowskie.pl|tlp.is|izyrardow.pl
 @@||adtaily.pl/wp-content/themes/adtaily_*/$domain=www.adtaily.pl
 @@/advertise*.js$script,domain=cda.pl|tuba.pl
 @@/advertisingmodule.$domain=ekstraklasa.tv|itvn.pl|player.pl|ttv.pl|tvn.pl|tvn24.pl|tvn24bis.pl|tvn7.pl|tvnplayer.pl|tvnstyle.pl|tvnturbo.pl
@@ -3506,7 +3510,7 @@ wpworld.pl,windowsowo.pl
 !
 12zawodnik.pl
 !14
-24gliwice.pl,wyborkierowcow.pl,kino123.pl,jednoslad.pl,how2play.pl,polskiedzieje.pl,ciekawe.org,baza-lekow.com.pl,testhub.pl,widzewtomy.net
+24gliwice.pl,wyborkierowcow.pl,kino123.pl,jednoslad.pl,how2play.pl,polskiedzieje.pl,ciekawe.org,baza-lekow.com.pl,testhub.pl,widzewtomy.net,gadzet.telchina.pl
 24opole.pl,webcamera.pl,darmowe-torenty.pl,dziennikwschodni.pl,vorek.pl,katowickisport.pl,torrentcity.pl,wtkplay.pl,epoznan.pl,comperia.pl
 adtaily.pl
 agcbytom.pl,srebrnestawy.pl,endurotrails.pl
@@ -3521,7 +3525,7 @@ comperia.pl
 czasdiet.pl
 dailyweb.pl
 darmowyskin.pl
-dstar.pzk.pl,burze.dzis.net,kurnik.pl,arrow24.net,vampirediaries24.pl,matzoo.pl,skript.pl,katowickisport.pl,przewodnikduchowy.pl,waw4free.pl,webcamera.pl
+dstar.pzk.pl,burze.dzis.net,kurnik.pl,arrow24.net,vampirediaries24.pl,matzoo.pl,skript.pl,katowickisport.pl,przewodnikduchowy.pl,waw4free.pl,webcamera.pl,w-poblizu.pl
 dziennikelblaski.pl
 dziennikwschodni.pl
 dziennikwschodni.pl
@@ -4043,7 +4047,6 @@ tvtoss.me
 autokult.pl
 autokult.pl
 avent-ugrow.wp.pl
-direct.money.pl
 kafeteria.pl,money.pl,pudelek.pl,autokult.pl
 komorkomania.pl,gadzetomania.pl,fotoblogia.pl,autokult.pl,wawalove.pl
 komorkomania.pl,gadzetomania.pl,fotoblogia.pl,autokult.pl,wawalove.pl
@@ -4133,6 +4136,7 @@ pudelekx.pl
 biztok.money.pl
 biztok.money.pl
 biztok.money.pl
+direct.money.pl
 manager.money.pl
 money.pl
 money.pl
@@ -4144,7 +4148,13 @@ money.pl
 money.pl
 money.pl
 money.pl
+money.pl
+money.pl
+money.pl
+money.pl
+money.pl
 msp.money.pl
+prawo.money.pl
 www.money.pl
 www.money.pl
 www.money.pl
@@ -4156,6 +4166,7 @@ www.money.pl
 www.money.pl
 www.money.pl
 www.money.pl
+!www.money.pl
 !
 !36
 @@/app\.erpxt\.[a-z]{2,3}\/Scripts\/Code\//
@@ -4179,6 +4190,7 @@ www.money.pl
 @@||rentcars.pl/build/js/user-tracking.js?psv=11$script
 @@||spedycje.pl/img/icon_reklama_2017.png$image
 @@||wpolityce24.pl/imgcache/300x250/*/uploads/news/$image
+@@||www.buliba.pl/css/overlayad.css$stylesheet,domain=www.buliba.pl
 digest.com.pl
 e-stargard.pl,mojeinfo24.pl
 filmyfilmy.pl
