@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2018112805
+v.2018112905
 !
 !
 of
@@ -902,6 +902,7 @@ gadzetomania.pl
 gadzetomania.pl
 gala.pl
 galeriastron.pl
+gamereactor.pl
 gamesfanatic.pl
 gamesfanatic.pl
 gamestough.com
@@ -1274,6 +1275,7 @@ komorkomat.pl
 komputerswiat.pl
 komputerswiat.pl
 komputerswiat.pl
+komputerswiat.pl,auto-swiat.pl
 komputerswiat.pl
 komputery.malopolska.pl
 koncertomania.pl
@@ -1641,7 +1643,6 @@ nacjonalista.pl
 nacjonalista.pl
 nadmorski24.pl
 naekranie.pl
-!naekranie.pl
 naekranie.pl
 naekranie.pl
 naekranie.pl
@@ -1653,6 +1654,7 @@ naekranie.pl
 naekranie.pl
 naekranie.pl
 naekranie.pl
+nakanapa.pl
 naklo24.pl
 nakolei.pl
 namasce.pl
@@ -1739,7 +1741,6 @@ nowawrzesnia.pl
 noweinfo.pl
 nowemp3.pl
 nowodworski24.pl
-nowosci-mp3.eu
 nowy-sacz.info
 nowy-sacz.info
 nowy.tlen.pl
@@ -1857,6 +1858,7 @@ pebx.pl
 pebx.pl
 pebx.pl
 pebx.pl
+pedlowski.pl
 pekao.com.pl
 pepper.pl
 perepele.pl
@@ -2212,6 +2214,7 @@ shoplov.in
 showup.tv
 showup.tv
 siatka.org
+siedlcesiedzieje.pl
 siemiatycze.com.pl
 sieradz.com.pl
 sieradz.com.pl,zdunskawola24.pl,filmaster.pl,perspektywy.pl
@@ -2879,7 +2882,6 @@ zapytaj.onet.pl
 zapytaj.onet.pl
 zapytaj.onet.pl
 zarabiamykase.com.pl
-zarabiara.pl
 zary.naszemiasto.pl
 zaufanatrzeciastrona.pl
 zaufanatrzeciastrona.pl
@@ -3002,7 +3004,7 @@ zywiecinfo.pl
 ||blogomaniak.pl/i/techmaniak-ceneo-sidebar$image
 ||brand.ad/^
 ||businessclick.*/$script
-||cda.pl/xml_adbc.php$xmlhttprequest
+||cda.pl/*.php?ad$xmlhttprequest
 ||cda.pl/player.php
 ||cdn.dtxngr.com/$script
 ||cdn.forumpc.pl/partner$image
@@ -3422,7 +3424,6 @@ zywiecinfo.pl
 /https?:\/\/(?!(poczta|bc))[a-z.]{3,15}\.wp\.pl\/.{20,}/$script,domain=poczta.wp.pl
 !
 !12
-@@||adserwer.adtools.pl/Rs$script,domain=adserwer.adtools.pl
 @@/ads.js$script,domain=translatica.pl|photo.bikestats.eu|astar.czest.pl|telepolis.pl|dziwneobrazki.pl|cda.pl|grydladzieci.pl|osgchmura.tk|video.anyfiles.pl|wtk.pl|pomorska.pl|wtk.pl|zlotowskie.pl|tlp.is|izyrardow.pl
 @@||adtaily.pl/wp-content/themes/adtaily_*/$domain=www.adtaily.pl
 @@/advertise*.js$script,domain=cda.pl|tuba.pl
@@ -3683,7 +3684,7 @@ zw.pl
 ||z4y.pl/js/badb.js
 !
 !16
-@@/adframe.js$script,domain=kobieceporady.pl|allekoszyk.pl|samouczek.info|aranzujemy.pl
+@@/adframe.js$script,domain=kobieceporady.pl|allekoszyk.pl|samouczek.info|aranzujemy.pl|mondeoklubpolska.pl
 @@?ads=$image,domain=dziennikwschodni.pl
 @@/adsense.js$script,domain=biznesforum.pl|optyczne.pl|to.proste.info.pl|seciki.pl|kompnet.info|kolniak24.eu
 @@/assets/ads_$script,domain=towideo.pl
