@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
-        "1543708249": [
+        "1543794690": [
             "accounts.goouigle.net",
             "adobedc.cf",
             "adserwer.adtools.pl",
@@ -12,6 +12,7 @@
             "glogow.pl",
             "grupa7j.pl",
             "https:",
+            "ingbank.pl.bezpieczne.logowanie.ssl.ngbezpieczna.pw",
             "konkursikowo.pl",
             "livemecz.*",
             "lubin.pl",
