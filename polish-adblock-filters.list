@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2018120102
+v.2018120402
 !
 !
 of
@@ -1137,6 +1137,7 @@ innemedium.pl
 innpoland.pl
 inowroclaw.info.pl
 inowroclaw.info.pl
+inthecage.pl
 instalacjebudowlane.pl
 instalki.pl
 instalki.pl
@@ -1501,6 +1502,7 @@ mh24.pl
 mh24.pl
 mh24.pl,jaw.pl
 miasto-info.pl
+miastodzieci.pl
 miasto.koszalin.pl
 miastoiludzie.pl
 miastoiludzie.pl,swiatoze.pl,zarabiamykase.com.pl,gadzet.telchina.pl,premierywtv.pl
@@ -2285,6 +2287,7 @@ spiz.pl,roksa.pl
 spliff.pl
 sport.tvp.pl
 sportdziennik.pl
+sportrelacje.pl
 sportowebeskidy.pl
 sportowememy.pl
 sportowepodhale.pl
@@ -2943,7 +2946,7 @@ zywiecinfo.pl
 !
 !10
 /videoPlayer.js$script,domain=polsatnews.pl|polsatsport.pl
-/uploads/*tapeta.jpg$image,domain=ciekawostkihistoryczne.pl|katowice24.info
+/uploads/*tapeta*.jpg$image,domain=ciekawostkihistoryczne.pl|katowice24.info|miastodzieci.pl
 /vardata/obrazki/$image,domain=pionki24.pl|zwolen24.pl
 ||24opole.pl/bimg/$image
 ||40ton.net/wp-content/uploads/*.gif$image
@@ -3541,6 +3544,7 @@ forum.moto-4t.pl
 forum.vw-passat.pl
 fotoblogia.pl,gadzetomania.pl,wp.pl,autokult.pl,komorkomania.pl,medycyna24.pl,smaczneblogi.pl
 gazetakrakowska.pl
+gilotynka.pl
 gragieldowa.pl
 gralandia.tv
 histmag.org
@@ -3896,6 +3900,7 @@ xyz,mecz.tv,ipilka.info
 !||weszlo.com/wp-content/uploads/bsa-pro-upload/1517841983-screening.jpg$image
 ||ocs-pl.oktawave.com/v1/AUTH_*_screening_*.jpg$image
 ||ocs-pl.oktawave.com/v1/AUTH_*/*-screening-wallpaper_*.jpg$image
+||ocs-pl.oktawave.com/*/*/bezprawnik/*/*_screening_smeo_promocja_*.png
 ||foto.stalowka.net/design/opel.jpg
 !
 !21
@@ -3976,7 +3981,6 @@ autocentrum.pl,demotywatory.pl,dziennik.pl,facetemjestem.pl,gala.pl,garnek.pl,gr
 ||finanse-payu.pl^
 ||ulink.pl^
 ||paczkomaty-pl.tk^
-||paczkomat.biz.pl^
 ||ingbank.pl.bezpieczne.logowanie.ssl.ngbezpieczna.pw^
 filmyfilmy.pl
 !
