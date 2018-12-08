@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2018120603
+v.2018120702
 !
 !
 of
@@ -2199,7 +2199,7 @@ satkurier.pl
 satkurier.pl
 satkurier.pl
 scie24.pl
-se.pl
+se.pl,~sport.se.pl
 seciki.pl
 sekrety-zdrowia.org
 serialeonline.pl
@@ -2252,8 +2252,6 @@ slowianskibestiariusz.pl
 slowka.pl
 sloworegionu.pl
 sloworegionu.pl
-sloworegionu.pl
-sloworegionu.pl
 sloworegionu.pl,glucholazyonline.com.pl
 slubice24.pl,wirtualnemedia.pl,nowywyszkowiak.pl
 slupca.pl
@@ -2287,6 +2285,7 @@ spidersweb.pl
 spigot.pl
 spiz.pl,roksa.pl
 spliff.pl
+sport.se.pl
 sport.tvp.pl
 sportdziennik.pl
 sportrelacje.pl
@@ -3047,6 +3046,7 @@ zywiecinfo.pl
 ||elka.pl/modules/bannerySwiffy.php$subdocument
 ||eluban.pl/uploads/baners/$image
 ||embed.powercontent.pl^
+||embed.wprost.pl/ad/$xmlhttprequest,domain=www.wprost.pl
 ||emisja.adsearch.pl/_/intext_static/*$script
 ||emisja.contentstream.pl/$script,image,domain=~gol24.pl
 ||eostroleka.pl/luba/dane/pliki/cache-*/$image,subdocument
