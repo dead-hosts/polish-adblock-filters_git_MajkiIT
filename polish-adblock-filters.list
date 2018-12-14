@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2018121203
+v.2018121304
 !
 !
 of
@@ -623,7 +623,6 @@ dostawczakiem.pl
 dotnetomaniak.pl
 download.net.pl
 doz.pl
-dragon-ball-super.ga
 drukowanka.pl
 dstar.pzk.pl
 dstar.pzk.pl
@@ -1983,7 +1982,7 @@ portalsremski.pl
 portaltatrzanski.com
 poscigi.pl
 posshop.pl
-postawnaswoim.pl,forum.tweaks.pl,androidhacksgames.com,mobilegameshack4u.com,solarkurier.pl,miniskrypt.hubaiitv.pl,swirtv.czo.pl,pewnapozyczka.pl,precyl.com,przeklej.org,club4you.pl,darmowetv.pl,forum.vwgolf.pl,szuman.eu,audiostereo.pl,ogloszenia.gazeta.ie,legio24.pl,sdcv.pl,dostawcy-internetu.pl,forum.bukmacherskie.com,nasze.fm,lovekrakow.pl,mh24.pl,faktykonopne.pl,lajfy.com,disco-polo.info,pokemon-go.pl,gazeta-wiesci.pl,polskaniepodlegla.pl,lpg-forum.pl,kuszotv.pl,meczelive.tv,tablety.pl,polskatimes.pl,gazetakrakowska.pl,nacjonalista.pl,ostrowiecnews.pl,medianarodowe.com,prawy.pl,hobby-elektronika.eu,lowiczanin.info,kurier-w.pl
+postawnaswoim.pl,forum.tweaks.pl,androidhacksgames.com,mobilegameshack4u.com,solarkurier.pl,miniskrypt.hubaiitv.pl,swirtv.czo.pl,precyl.com,przeklej.org,club4you.pl,darmowetv.pl,forum.vwgolf.pl,szuman.eu,audiostereo.pl,ogloszenia.gazeta.ie,legio24.pl,sdcv.pl,dostawcy-internetu.pl,forum.bukmacherskie.com,nasze.fm,lovekrakow.pl,mh24.pl,faktykonopne.pl,lajfy.com,disco-polo.info,pokemon-go.pl,gazeta-wiesci.pl,polskaniepodlegla.pl,lpg-forum.pl,kuszotv.pl,meczelive.tv,tablety.pl,polskatimes.pl,gazetakrakowska.pl,nacjonalista.pl,ostrowiecnews.pl,medianarodowe.com,prawy.pl,hobby-elektronika.eu,lowiczanin.info,kurier-w.pl
 potplayerclub.pl
 powiatowa.info
 powiatowa.info
@@ -2719,7 +2718,7 @@ www.3trzy3.pl
 www.3trzy3.pl
 www.antyradio.pl
 www.applecenter.pl
-www.applecenter.pl,zarabiajnaokazjach.pl,kierunek.szczecin.pl,trybawaryjny.pl,android.com.pl,off-road.pl,polskikosz.pl,gazeta-wiesci.pl,newsweb.pl,my3miasto.pl,kucharze.pl,portalwarszawski.com.pl,gazeta-olawa.pl
+www.applecenter.pl,zarabiajnaokazjach.pl,kierunek.szczecin.pl,trybawaryjny.pl,android.com.pl,off-road.pl,polskikosz.pl,gazeta-wiesci.pl,my3miasto.pl,kucharze.pl,portalwarszawski.com.pl,gazeta-olawa.pl
 www.aptekagemini.pl
 www.aptekagemini.pl
 www.axn.pl
@@ -3413,14 +3412,14 @@ zywiecinfo.pl
 /^(http|https):\/\/www\.chip\.pl\/wp-content\/themes\/_chip\/[a-z]{4,6}\/[a-z]{4,5}-[0-9]{4,5}/$image,domain=chip.pl
 /^(http|https):\/\/www\.portel\.pl\/(?!pasaz)[-a-z0-9A-Z_%$&+=[\].]{1,200}\/[-a-z0-9A-Z_%$&+=[\]/.]{2,200}.(html|htm)/$subdocument,domain=www.portel.pl
 /^(http|https):\/\/www\.wp\.pl\/[a-zA-Z0-9-_]{50,}/$popup,domain=www.wp.pl
-!/^https:\/\/[a-z]{2,14}\.wp\.pl\/[a-zA-Z0-9_-]{200,}/$script,domain=profil.wp.pl|poczta.o2.pl|nowy.tlen.pl
+/^https:\/\/[a-z]{2,14}\.wp\.pl\/[a-zA-Z0-9_-]{200,}/$script,domain=profil.wp.pl|poczta.o2.pl|nowy.tlen.pl
 /^https:\/\/[a-z]{2,14}\.wp\.pl\/[a-zA-Z0-9_-]{450,}/$script,domain=kafeteria.pl|twojeip.wp.pl|czat.wp.pl|wawalove.pl|niewiarygodne.pl|pogoda.wp.pl|dladzieci.pl|dzieci.pl|sport.wp.pl|topnews.wp.pl|odkrywcy.pl|katalog.wp.pl|kultura.wp.pl|avent-ugrow.wp.pl|pudelekx.pl|nerwica.com|forum.abczdrowie.pl|pytamy.pl|ranking.abczdrowie.pl|profil.tlen.pl
 /^https:\/\/[a-z.]{2,17}\.wp\.pl\/[a-zA-Z0-9_-]{450,}/$popup,domain=www.wp.pl
 /^https:\/\/eku24.net\/images\/slajdy\/(?!zyczenia)[a-z]{3,10}\/[a-zA-Z0-9_-]{10,50}\.jpg/$image
 /^https:\/\/v\.wpimg\.pl\/[a-zA-Z0-9]{90,100}/$image,domain=money.pl
 /^(http|https):\/\/[\w]{3,12}\.trojmiasto\.pl\/[\w]{5,10}\/[\w]{5,10}\/[\w]{5,10}\/[\w/]{10,20}/$script,domain=trojmiasto.pl
 /^https:\/\/[a-z.]{2,16}\.wp\.pl\/[a-zA-Z0-9-_.?=?&%]{472,}/$media,domain=open.fm
-!/https?:\/\/(?!(poczta|bc))[a-z.]{3,15}\.wp\.pl\/.{20,}/$script,domain=poczta.wp.pl
+/https?:\/\/(?!(poczta|bc))[a-z.]{3,15}\.wp\.pl\/.{20,}/$script,domain=poczta.wp.pl
 !
 !12
 @@/ads.js$script,domain=translatica.pl|photo.bikestats.eu|astar.czest.pl|telepolis.pl|dziwneobrazki.pl|cda.pl|grydladzieci.pl|osgchmura.tk|wtk.pl|pomorska.pl|wtk.pl|zlotowskie.pl|tlp.is|izyrardow.pl
@@ -3737,7 +3736,7 @@ pl
 /^(http|https):\/\/[a-zA-Z0-9]{10,}\.cloudfront\.net\/[a-zA-Z0-9%?=]{10,}/$script,domain=follofop.com|seriale-po-polsku.pl|animezone.pl
 /^(http|https):\/\/[a-zA-Z0-9]{5,10}\.[a-z]{2,10}\/[a-zA-Z0-9?_=&-.%]{50,70}/$subdocument,script,popup,domain=filmtu.pl|darmowa-tv.pl|cdax.online|tele-wizja.is|widestream.io
 /^(http|https):\/\/[a-zA-Z0-9]{5,15}\.(com|net)\/[a-z]{4,10}\/[0-9a-z.?=%A-Z-&]{60,100}/$script,popup,domain=veecast.net|darmowa-tv.pl
-/^(http|https):\/\/[a-zA-Z.0-9]{7,}\.(com|bid|info)\/[a-zA-Z]{1,}\.js/$script,domain=devil-torrents.pl|electro-torrent.pl|vidlox.tv|segos.es|fileone.tv|streamango.com|nasze-kino.online|vidto.pl|raptu.com|rapidvideo.com|vidfile.net|sharevideo.pl|sharing-box.cloud|vidstream.xyz|openkatalog.ml|dragon-ball-super.ga|nasze-kino.tv|kino123.pl|boxfilm.pl|cloudupload.co|allonline.pl|openload.co|cdax.online|abcast.net|darmowa-tv.pl|veecast.net|a-o.ninja|castto.me|centrum-dramy.pl|hentai-online.pl|centrum-mangi.ninja|openkatalog.com|shinden.pl|tele-wizja.is|ekinomaniak.tv|tele-wizja.ru|hqq.watch|whostreams.net|seriale-po-polsku.pl|virpe.com
+/^(http|https):\/\/[a-zA-Z.0-9]{7,}\.(com|bid|info)\/[a-zA-Z]{1,}\.js/$script,domain=devil-torrents.pl|electro-torrent.pl|vidlox.tv|segos.es|fileone.tv|streamango.com|nasze-kino.online|vidto.pl|raptu.com|rapidvideo.com|vidfile.net|sharevideo.pl|sharing-box.cloud|vidstream.xyz|openkatalog.ml|nasze-kino.tv|kino123.pl|boxfilm.pl|cloudupload.co|allonline.pl|openload.co|cdax.online|abcast.net|darmowa-tv.pl|veecast.net|a-o.ninja|castto.me|centrum-dramy.pl|hentai-online.pl|centrum-mangi.ninja|openkatalog.com|shinden.pl|tele-wizja.is|ekinomaniak.tv|tele-wizja.ru|hqq.watch|whostreams.net|seriale-po-polsku.pl|virpe.com
 /(http|https):\/\/naekranie\.pl\/wp-content\/uploads\/[0-9]{4,4}\/[0-9]{2,2}\/(?!jpg)[0-9a-z]{7,10}$/$image
 /^(http|https):\/\/[\w]{12,}\.[a-z]{3,3}\/[a-z]{1,10}\.html[\w\d\W]{100,}/$script,domain=tele-wizja.ru
 /^(http|https):\/\/[\w]{5,}\.[a-z]{3,3}\/[\w\d\W]{45,}/$script,domain=abcast.net|alltube.pl|alltube.tv|szukajka.tv
@@ -3752,7 +3751,6 @@ dotstream.tv
 privatestream.tv
 privatestream.tv/images/player_logo.png
 srkcast.com
-tvtoss.me
 !
 !30
 ||abcast.net/p.js$script
