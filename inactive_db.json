@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
-        "1544745507": [
+        "1544831975": [
             "accounts.goouigle.net",
             "adobedc.cf",
             "adserwer.adtools.pl",
@@ -8,6 +8,7 @@
             "businessclick.*",
             "*cda.pl",
             "dhl-paczki.ml",
+            "edynamic-dns.pl",
             "fb-zmiana-koloru.pl",
             "forum-windows.eu",
             "glogow.pl",
@@ -20,6 +21,7 @@
             "mediamarkt.pl.goodsurprises.top",
             "megabanners.cf",
             "mercy.ga",
+            "mon.pebx.pl",
             "ola100.hopto.org",
             "orangę.pl",
             "otomoto.site",
