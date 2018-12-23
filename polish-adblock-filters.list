@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2018121906
+v.2018122102
 !
 !
 of
@@ -403,7 +403,6 @@ booksclub.pl
 bowlingnews.pl
 boxing.pl
 brainly.pl
-bramkasms.pl
 brodnica.net
 brodnica.net
 brodnica.net
@@ -1649,6 +1648,7 @@ naklo24.pl
 nakolei.pl
 namasce.pl
 nanarty.info
+nanoforum.pl
 napisy24.pl
 napisy24.pl
 napisy24.pl
@@ -2490,7 +2490,7 @@ trybawaryjny.pl
 trybi.pl
 trybi.pl
 trybun.org.pl
-trybunaczestochowska.pl,animalistka.pl,pojon.pl,300polityka.pl,mynaszlaku.pl,xgol.pl
+trybunaczestochowska.pl,animalistka.pl,300polityka.pl,mynaszlaku.pl,xgol.pl
 tryton.com.pl
 trucks.com.pl
 trzemeszno24.info
@@ -2774,7 +2774,6 @@ www.f1fanklub.pl
 www.f1fanklub.pl
 www.fcnet.pl
 www.fight24.pl
-www.filmydokumentalne.eu
 www.fitnow.pl,tygodnikzamojski.pl
 www.gazetaprawna.pl
 www.gierkionline.pl
@@ -2854,6 +2853,9 @@ xboxforum.pl
 xfinanse.pl
 xfinanse.pl
 xiegarnia.pl
+xlomza.pl
+xlomza.pl
+xlomza.pl
 xlomza.pl
 xlomza.pl
 yafud.pl
@@ -4101,4 +4103,22 @@ sport.pl
 ||vidoza.net/dl?op=view&*adb=$xmlhttprequest
 ||vidoza.net/srt/empty.srt$media,xmlhttprequest
 ||vidoza.net/js/videojs$script,object
+!
+!51
+||dofinansowanie-podkarpackie.pl^
+||inwestujwrozwoj.pl^
+||dofinansowanie-mazowieckie.pl^
+||centrumnaukowe.eu^
+||wielkopolskie.refundacjeregionalne.pl^
+||refundacjeregionalne.pl^
+||zoomica.pl^
+||dofinansowanie-malopolskie.pl^
+||senoctis.pl^
+||pandorabiżuteria.pl^
+||rtvagdpro.net^
+||zakupyagd.net^
+||santos24.net^
+||mojepc.net^
+||tersawards.pl^
+||outletto24.com^
 !END

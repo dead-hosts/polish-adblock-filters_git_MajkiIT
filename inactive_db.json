@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
-        "1545264142": [
+        "1545523495": [
             "accounts.goouigle.net",
             "adobedc.cf",
             "adserwer.adtools.pl",
@@ -26,6 +26,7 @@
             "orangę.pl",
             "otomoto.site",
             "paczkomat.biz.pl",
+            "pandorabiżuteria.pl",
             "przelew.otrans.pl",
             "redir.atmcdn.pl*swf",
             "samnumer.pl",
