@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2018122102
+v.2018122305
 !
 !
 of
@@ -47,7 +47,7 @@ _baner/980x200
 _banery/980x200
 /banery/*980x90
 ://*.*/banery_foto/$image,domain=ki24.info|portalplock.pl|faktypilskie.pl|ddtorun.pl|ddwloclawek.pl|koronowo.net.pl|zyciesiedleckie.pl
-/banery/$image,subdocument,object,domain=oknoserwis.pl|sps24.pl|www.chojnice.com|usa.info.pl|jarocinska.pl|www.obud.pl|skijumping.pl|gintama.wbijam.pl|haczyk.pl|instalacjebudowlane.pl|jagiellonia.net|kdega.e-kei.pl|naszalomza.pl|pionki24.pl|mragowo24.info|lokalna24.pl|ebarlinek.pl|kuriergarwolinski.pl|bielsko.biala.pl|www.budownictwo.org|www.serwer.brodnica.net|www.sps24.pl
+/banery/$image,subdocument,object,domain=oknoserwis.pl|sps24.pl|www.chojnice.com|usa.info.pl|jarocinska.pl|www.obud.pl|skijumping.pl|gintama.wbijam.pl|haczyk.pl|instalacjebudowlane.pl|jagiellonia.net|kdega.e-kei.pl|naszalomza.pl|pionki24.pl|mragowo24.info|lokalna24.pl|ebarlinek.pl|kuriergarwolinski.pl|bielsko.biala.pl|www.budownictwo.org|www.serwer.brodnica.net|www.sps24.pl|staleo.pl
 /bannery/*$image,subdocument,domain=em.kielce.pl|czasdzieci.pl|kolporter.com.pl|sklep-tvsat.hcore.pl|www.pokertexas.pl|www.walbrzych24.com|zlotoryja.info|skijumping.pl|icomp.pl|forum.cs-classic.pl|nocnygdansk.pl|wagaciezka.com|obud.pl|beskid-niski.pl|ezakopane.pl
 /content-generator/published/frame/generate?*frameId=*&placementId=*&guid=
 /data/ap3bo6/*.gif$image,domain=tvmalbork.pl|tvsztum.pl|zulawyimierzeja24.pl|tvregionalna24.pl
@@ -57,6 +57,7 @@ gomoney.pl/article
 \//$image,domain=strzelecopolski.pl|kabaret.tworzymyhistorie.pl|pch24.pl|skijumping.pl|rawicz24.pl|wiadomoscihandlowe.pl|wagaciezka.com
 \/images/banner\/$image,domain=2x45.info|polskiinternet.com
 /\/(images|img|data|uploads)\/banners\//$image,object,domain=tsk24.pl|wschodnik.pl|nowawrzesnia.pl|glucholazyonline.com.pl|informacjelokalne.pl|muzyczneradio.com.pl|tvrep.pl|chwaszczyno.pl|msfera.pl|tygodnik-krapkowicki.info|darkplanet.pl|wroclawskiejedzenie.pl|magazyngitarzysta.pl|przegladkoninski.pl|radiopoznan.fm|fishing-test.pl|gostynin24.pl|wkonin.pl
+/images/reklama/$image,domain=dziennikpolicki.pl
 /overlay*.png$domain=mapa.targeo.pl,image
 .pl/*/adds/
 .pl/*/ads/$domain=~tubagliwic.pl
@@ -66,6 +67,7 @@ pl
 .pl/img/ad/
 pl/*/rodzinnawycieczka/$image,domain=wp.pl
 .pl/wp-content/banners/
+/reklama/$image,domain=rybomania.pl
 /rotator.php$subdocument,domain=minecraftpolska.net|q4.pl
 .*sales*.pl/offers/$image
 /screening/*$domain=telepolis.pl,image
@@ -116,9 +118,9 @@ vshare.io
 ~avclub.gr
 ~istotne.pl,pl
 ~joemonster.org
-~kakto.pl,~agatameble.pl,~ccc.eu
+~kakto.pl,~agatameble.pl,~ccc.eu,~redcoon.pl
 ~m3esolutions.com,~sloworegionu.pl,~4active.eu,~valida.pl,~foodprint.pl,~roztoczanskipn.pl
-mclista.pl,bialystokonline.pl,ewgt.com.pl,tugazeta.pl,dbpolska.net,mojmac.pl,piszanin.pl,tubasiedlec.pl,pracawkatowicach.com.pl,pracawkrakowie.com.pl
+mclista.pl,bialystokonline.pl,ewgt.com.pl,tugazeta.pl,dbpolska.net,mojmac.pl,piszanin.pl,tubasiedlec.pl,pracawkatowicach.com.pl,pracawkrakowie.com.pl,sevillafc.pl
 ~milionczesci.pl,~dizibox.com,~2dehands.be,~www.pudelek.pl
 onet.pl
 pl
@@ -288,6 +290,7 @@ autocentrum.pl
 autocentrum.pl
 autoklub.pl
 autoline.com.pl
+automobilista.com.pl
 auto-motor-i-sport.pl
 auto-motor-i-sport.pl
 auto-motor-i-sport.pl,menshealth.pl,womenshealth.pl,runners-world.pl,motocykl-online.pl
@@ -425,6 +428,7 @@ businesswomanlife.pl
 businesswomanlife.pl
 bwotr.pl
 bytomski.pl
+bytomski.pl,dziennikpolicki.pl
 bzdura.pl
 bzdura.pl,gospodarkapodkarpacka.pl,propertynews.pl,24jgora.pl,24wroclaw.pl
 cadblog.pl
@@ -446,6 +450,7 @@ centrumdruku3d.pl
 centrumdruku3d.pl
 centrumxp.pl
 centrumxp.pl
+centrumwitalnosci.pl
 cgm.pl
 chamskie.pl
 chamskie.pl
@@ -640,7 +645,7 @@ e-grajewo.pl
 e-hip.pl
 e-hotelarz.pl
 e-kg.pl
-e-kg.pl
+e-kg.pl,wgmedia.eu
 e-kg.pl
 e-kg.pl
 e-kg.pl
@@ -804,6 +809,7 @@ filmpolski.pl
 films4free.pl
 filmweb.pl
 filmweb.pl
+firmy77.pl
 fishing-mart.com.pl
 flarrow.pl
 flarrow.pl
@@ -1332,7 +1338,7 @@ lajfy.com
 lajfy.com
 laskonline.pl
 lawka.pl
-lawka.pl,forum.przyroda.org
+lawka.pl
 lca.pl
 label-magazine.com
 lebork24.info
@@ -1553,9 +1559,6 @@ mojaleczyca.pl
 mojaleczyca.pl
 mojaniderlandia.pl
 mojaniderlandia.pl
-mojanorwegia.pl
-mojanorwegia.pl
-mojanorwegia.pl
 mojanorwegia.pl
 mojaolesnica.pl
 mojaolesnica.pl
@@ -2597,6 +2600,7 @@ videowood.tv
 vidfile.net,epiotrkow.pl,infobowling.pl
 vinowisko.pl
 visvitalis.com.pl
+visitnorway.pl
 vitalia.pl
 vodbox.pl
 vorek.pl
@@ -2941,6 +2945,7 @@ zywiecinfo.pl
 ~www.cba.pl,cba.pl
 !
 !10
+/grafika/banerki_reklamowe/$image,domain=wbijam.pl
 /videoPlayer.js$script,domain=polsatnews.pl|polsatsport.pl
 /uploads/*tapeta*.jpg$image,domain=ciekawostkihistoryczne.pl|katowice24.info|miastodzieci.pl
 /vardata/obrazki/$image,domain=pionki24.pl|zwolen24.pl
@@ -3075,6 +3080,7 @@ zywiecinfo.pl
 ||gorzow24.pl/img/ims/$image
 ||gorzowianin.com/data/rotator/
 ||gowork.pl/images/top_img/$image,domain=gowork.pl
+||gra.pl/screening
 ||gram.pl/ad/$image
 ||gram.pl/reklamy_assets/intel_iris/inteliris_$image,domain=gram.pl
 ||gramwzielone.pl/uploads/ad/$image
@@ -3314,6 +3320,7 @@ zywiecinfo.pl
 ||webstat.pl/js.php
 ||webstat.pl/rkm/$image
 ||weszlo.com/?bsa_pro_id$popup
+||www.wgmedia.eu/images/klienci/$image
 ||widgets.tracdelight.com/iframe/$subdocument
 ||widget.aftermarket.pl^$subdocument
 ||widgets.moneteasy.pl/widget/$script,domain=~noizz.pl
@@ -3385,6 +3392,7 @@ zywiecinfo.pl
 ||wychowawcy.pl/hosting_plikow/$image
 ||xlkredyt.pl^$third-party
 ||xml.enovatis.pl/mrdsl/content.php$subdocument
+||zamioculcas.org/$image,domain=swiatkwiatow.pl
 ||zap-hosting.com/interface/media/banner/$image
 ||zaufanatrzeciastrona.pl/aruba.gif
 ||zaufanatrzeciastrona.pl/wp-content/uploads/2017/03/a.jpg
@@ -3399,6 +3407,7 @@ zywiecinfo.pl
 ||zolti.pl/ajax/affiliate-generator.php?$script
 ||zulawyimierzeja24.pl/assets/js/jwplayer/jwplayer.html5.js
 ||zyciesokolowa.pl/banery_$image
+||zw.pl/ads/
 !
 !11
 /\/[0-9a-zA-Z]{5,7}\_(?!adaptiveresize)[a-z]{12,17}\_[0-9]{3,3}\x[0-9]{3,3}\.jpg$/$image,domain=www.pcworld.pl
@@ -3945,7 +3954,7 @@ hiro.pl
 historykon.pl
 iknurow.pl
 jazdaprawna.pl
-jedzbawsie.pl,ekspert.ceneo.pl,slupca.pl,fsgk.pl,inforiders.pl,gadzet.telchina.pl,lifemanagerka.pl
+jedzbawsie.pl,ekspert.ceneo.pl,slupca.pl,fsgk.pl,inforiders.pl,gadzet.telchina.pl,lifemanagerka.pl,eduzabawy.com
 kamienskie.info
 kamienskie.info
 konflikty.pl
