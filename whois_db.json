@@ -200,6 +200,11 @@
             "expiration_date": "16-apr-2019",
             "state": "future"
         },
+        "bodelen.com": {
+            "epoch": "1571702400",
+            "expiration_date": "22-oct-2019",
+            "state": "future"
+        },
         "cda.pl": {
             "epoch": "1566604800",
             "expiration_date": "24-aug-2019",
