@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2018122802
+v.2018123002
 !
 !
 of
@@ -165,7 +165,7 @@ popkiller.pl,tygodnikpodhalanski.pl,cnc.info.pl
 ~przegladsportowy.pl,~medonet.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,pl
 ~przegladsportowy.pl,~medonet.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,pl
 ~przegladsportowy.pl,~playpuls.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,~gry-online.pl,~tv6.com.pl,~trojmiasto.pl,~otomoto.pl,~medonet.pl,pl
-~przegladsportowy.pl,~playpuls.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,~gry-online.pl,~tv6.com.pl,~trojmiasto.pl,~otomoto.pl,~dziennikwschodni.pl,~obalamyglupote.pl,pl,~pornohd.pl,~polskieszlaki.pl,~poczta.interia.pl,~comperia.pl,~filmweb.pl,~semtalk.pl
+~przegladsportowy.pl,~playpuls.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,~gry-online.pl,~tv6.com.pl,~trojmiasto.pl,~otomoto.pl,~dziennikwschodni.pl,~obalamyglupote.pl,pl,~pornohd.pl,~polskieszlaki.pl,~poczta.interia.pl,~comperia.pl,~filmweb.pl,~semtalk.pl,~eurogamer.pl
 /reklamy/*$image,object,subdocument,domain=~selgros24.pl|~jacus.pl
 ~timeanddate.com,~sanalmarket.com.tr
 ~uk,~kraken.com,~elton.com.ua,~alexbranding.com,~unitheme.net,~konsoleigry.pl,~megadyskont.pl
@@ -776,6 +776,7 @@ ezg24.net
 f1.dziel-pasje.pl
 f1wm.pl
 fabrykasypialni.pl
+fabrykasily.pl
 facetemjestem.pl
 facetpo40.pl
 fachowydekarz.pl
@@ -1129,6 +1130,7 @@ infoskierniewice.pl
 innemedium.pl
 innemedium.pl
 innpoland.pl
+iwonka-bloguje.blogspot.com,kathyleonia88.blogspot.com
 inowroclaw.info.pl
 inowroclaw.info.pl
 inthecage.pl
@@ -1185,7 +1187,7 @@ jagodnik.pl,magnapolonia.org
 jaka-komorka.pl
 jaka-komorka.pl
 jakdojade.pl
-jakzrobicwexcelu.pl
+jakzrobicwexcelu.pl,filmy-tv.pl
 jarzebski.pl
 jarzebski.pl
 jasnet.pl
@@ -1315,6 +1317,7 @@ kulisy.net
 kulisy.net
 kulturaonline.pl
 kupbilet.pl
+kurekmazurski.pl
 kuriergarwolinski.pl
 kurier-bielski.cnm.pl
 kurier-bielski.cnm.pl
@@ -3729,6 +3732,9 @@ pl
 ||hyphenion.com^
 ||uod2quk646.com^
 ||bodelen.com^
+||pheegoab.click^$third-party
+||niltutch.com^$third-party
+||kaunairu.net^$third-party
 !
 !28
 /^http:\/\/((?!192\.168)(?!10\.)(?!172\.16)(?!172\.17)(?!172\.18)(?!172\.19)(?!172\.2)(?!172\.30)(?!172\.31)([0-9]|[1-9][0-9]|1[0-9]{2}|2[0-4][0-9]|25[0-5])\.){3}([0-9]|[1-9][0-9]|1[0-9]{2}|2[0-4][0-9]|25[0-5])\/[a-zA-Z0-9]{30,}/$script,popup
@@ -3998,6 +4004,7 @@ stopnadwadze.pl
 stopnadwadze.pl
 strefakodera.pl
 supertydzien.pl
+tapeciarnia.pl
 technologiczna.pl
 technowinki24.pl
 tomaszowski.com.pl
@@ -4109,6 +4116,7 @@ sport.pl
 !49
 @@||tv.wp.pl/do/*/dotn?sw=$image,~third-party,domain=tv.wp.pl
 @@||staty.portalradiowy.pl/wstats/wstats.php$script,domain=discoparty.pl|discopolonew.cba.pl
+@@||fastwhitecat.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-download-tracker.js
 !
 !50
 ||vidoza.net/dl?op=view&*adb=$xmlhttprequest
