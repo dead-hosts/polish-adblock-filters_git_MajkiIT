@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2019010801
+v.2019010903
 !
 !
 of
@@ -35,9 +35,10 @@ of
 !1
 /*300x300$image,domain=portalgwiazd.pl
 /_adv/*
-/adv/*$image,domain=~arriva.pl|~budus.pl
+/adv/*$image,domain=~arriva.pl|~budus.pl|~filmweb.pl
 /adv/show-windows.php$script,domain=alltube.tv|alltube.pl
 /affiliates/$image,domain=www.pasazer.com
+/baner/$image,domain=nowiny.rybnik.pl|macronext.pl
 _baner/980x200
 /_baner/*$domain=www.ipon.pl|tygodnikzamojski.pl
 /banery/*110x90
@@ -233,6 +234,7 @@ alltube.tv,alltube.pl
 alltube.tv,alltube.pl
 alltube.pl
 altair.com.pl
+alltiedup.pl
 ampolska.net
 ampolska.net
 ampolska.net
@@ -1775,6 +1777,7 @@ oboom.com
 oboom.com
 oboom.com
 obywatelenieba.pl,highlab.pl
+o-c.pl
 ochrona24.info
 oczamiostrego.pl
 ogloszenia.niedziela.nl,phrasal-verbs.pl
@@ -2034,6 +2037,7 @@ probasket.pl
 procesor.pl
 profeto.pl
 profil.wp.pl
+profilki.pl
 profilook.pl
 programosy.pl
 progressforpoland.com
@@ -2403,6 +2407,7 @@ system.ekai.pl
 szafa.pl
 szafiarka.pl
 szczecinek.com
+szczekaopada.pl
 sztafeta.pl
 sztuka-wnetrza.pl
 szukacz.pl
@@ -2533,7 +2538,7 @@ tvmalbork.pl,tvsztum.pl,zulawyimierzeja24.pl,tvregionalna24.pl
 tvmalbork.pl,tvsztum.pl,zulawyimierzeja24.pl,tvregionalna24.pl
 tvn24.pl
 tvnwarszawa.tvn24.pl
-tvp.info
+tvp.info,legia.net
 tvpolsat.info
 tv-polska.eu
 tvsudecka.pl
@@ -2619,6 +2624,7 @@ visvitalis.com.pl
 visitnorway.pl
 vitalia.pl
 vodbox.pl
+voltahorse.pl
 vorek.pl
 vorek.pl
 vorek.pl
@@ -2861,6 +2867,7 @@ wyborcza.biz,wyborcza.pl,gazeta.pl
 wyborcza.pl
 wyborcza.pl
 wyborcza.pl
+wylecz.to
 wylecz.to
 wykop.pl,demotywatory.pl,joemonster.org,mistrzowie.org
 wynagrodzenia.pl
@@ -3194,7 +3201,6 @@ zywiecinfo.pl
 ||news.targeo.pl/oarm.php$xmlhttprequest,domain=mapa.targeo.pl
 ||niebiescy.pl/bild/$image
 ||nokaut.pl/wigetyflash/$object
-||nowiny.rybnik.pl/baner/$image
 ||nowywyszkowiak.pl/materialy/system_banerowy$image
 ||nqp0852y7r.com/e6/52/26/e652267829a86c98499016a18555c207.js$script,domain=internetowa.ws
 ||nuteczki.eu/templates/KlubowaMuza/images/pobierz.png$image
