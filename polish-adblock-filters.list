@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2019010903
+v.2019011203
 !
 !
 of
@@ -2625,6 +2625,7 @@ visitnorway.pl
 vitalia.pl
 vodbox.pl
 voltahorse.pl
+voltahorse.pl
 vorek.pl
 vorek.pl
 vorek.pl
@@ -3446,7 +3447,7 @@ zywiecinfo.pl
 /^(http|https):\/\/[\w]{3,12}\.trojmiasto\.pl\/[\w]{5,10}\/[\w]{5,10}\/[\w]{5,10}\/[\w/]{10,20}/$script,domain=trojmiasto.pl
 /^https:\/\/[a-z.]{2,16}\.wp\.pl\/[a-zA-Z0-9-_.?=?&%]{472,}/$media,domain=open.fm
 /https?:\/\/(?!(poczta|bc))[a-z.]{3,15}\.wp\.pl\/.{20,}/$script,domain=poczta.wp.pl
-/^https:\/\/(g|www)\.cda\.pl\/[\w]{1,10}\.php\?[\w\W]{80,150}=[0-9]{10,20}/$xmlhttprequest
+/^https:\/\/(g|www)\.cda\.pl\/[\w]{1,15}\.php\?[\w\W]{80,150}=[0-9]{10,20}/$xmlhttprequest
 !
 !12
 @@/ads.js$script,domain=translatica.pl|photo.bikestats.eu|astar.czest.pl|telepolis.pl|dziwneobrazki.pl|cda.pl|grydladzieci.pl|osgchmura.tk|wtk.pl|pomorska.pl|wtk.pl|zlotowskie.pl|tlp.is|izyrardow.pl
@@ -3728,7 +3729,6 @@ autocentrum.pl,demotywatory.pl,dziennik.pl,facetemjestem.pl,gala.pl,garnek.pl,gr
 ||neomedia24.net^
 ||neomediamax.net^
 ||newtechagd.net^
-||zakupyagd.net^
 ||kupujemy24.net^
 filmyfilmy.pl
 !
@@ -4152,7 +4152,6 @@ sport.pl
 ||inwestujwrozwoj.pl^
 ||dofinansowanie-mazowieckie.pl^
 ||centrumnaukowe.eu^
-||wielkopolskie.refundacjeregionalne.pl^
 ||refundacjeregionalne.pl^
 ||zoomica.pl^
 ||dofinansowanie-malopolskie.pl^
