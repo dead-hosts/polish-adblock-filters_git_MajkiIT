@@ -468,7 +468,7 @@
         "follofop.com": {
             "epoch": "1547510400",
             "expiration_date": "15-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "freedisc.pl": {
             "epoch": "1548374400",

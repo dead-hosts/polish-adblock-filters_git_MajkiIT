@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2019011203
+v.2019011404
 !
 !
 of
@@ -304,6 +304,7 @@ autotrader.pl
 b1.pl
 b24tv.pl
 badaniaprenatalne.pl
+badaniaprenatalne.pl
 bajkitv.pl
 baltic.info.pl
 bankier.pl
@@ -323,6 +324,7 @@ belchatow.bai.pl
 benchmark.pl
 benchmark.pl
 benchmark.pl
+beskidy.news
 besty.pl
 besty.pl
 besty.pl
@@ -1057,6 +1059,7 @@ handballnews.pl
 hdtv.com.pl
 hdtv.com.pl
 hdtv.com.pl
+hd-opinie.pl
 hebe.pl
 hej.mielec.pl
 hej.mielec.pl
@@ -1249,6 +1252,7 @@ kibice.net
 kibice.net
 kiep.pl
 kiep.pl
+kierunekchorwacja.pl
 kino-iskra.pl
 kinonet.pl
 kinonet.pl
@@ -1609,6 +1613,7 @@ motobanda.pl
 motocaina.pl
 motocykl-online.pl
 motomi.pl
+motopodhale.info
 motormag.pl
 motormag.pl
 motormag.pl
@@ -2297,6 +2302,7 @@ spidersweb.pl
 spidersweb.pl
 spidersweb.pl
 spidersweb.pl
+spidersweb.pl
 spigot.pl
 spiz.pl,roksa.pl
 spliff.pl
@@ -2468,6 +2474,7 @@ telewizor.eu
 telewizor.eu
 telewizor.pl
 telix.pl
+telko.in
 temat.info,bitcoin-online.pl
 temi.pl
 tenisklub.pl
@@ -3112,6 +3119,7 @@ zywiecinfo.pl
 ||gwiazdybasketu.pl/iframe/$subdocument
 ||haker.com.pl/s*.gif$image
 ||haloursynow.pl/img/banery/
+||hd-opinie.pl/wp-content/themes/hdopinie/images/rightcol_shadow.png$image
 ||hipek.pl/kreacje/$image
 ||hiperogloszenia.pl/sys/ri.gif$image
 ||historia.org.pl/wp-content/uploads/20*/*1680x1050.jpg$image
@@ -3447,7 +3455,7 @@ zywiecinfo.pl
 /^(http|https):\/\/[\w]{3,12}\.trojmiasto\.pl\/[\w]{5,10}\/[\w]{5,10}\/[\w]{5,10}\/[\w/]{10,20}/$script,domain=trojmiasto.pl
 /^https:\/\/[a-z.]{2,16}\.wp\.pl\/[a-zA-Z0-9-_.?=?&%]{472,}/$media,domain=open.fm
 /https?:\/\/(?!(poczta|bc))[a-z.]{3,15}\.wp\.pl\/.{20,}/$script,domain=poczta.wp.pl
-/^https:\/\/(g|www)\.cda\.pl\/[\w]{1,15}\.php\?[\w\W]{80,150}=[0-9]{10,20}/$xmlhttprequest
+/^https:\/\/(g|www)\.cda\.pl\/[\w]{1,15}\.php\?[\w\W]{60,150}=[0-9]{10,20}/$xmlhttprequest
 !
 !12
 @@/ads.js$script,domain=translatica.pl|photo.bikestats.eu|astar.czest.pl|telepolis.pl|dziwneobrazki.pl|cda.pl|grydladzieci.pl|osgchmura.tk|wtk.pl|pomorska.pl|wtk.pl|zlotowskie.pl|tlp.is|izyrardow.pl
@@ -3649,6 +3657,7 @@ xyz,mecz.tv,ipilka.info
 ||ocs-pl.oktawave.com/v1/AUTH_*/*-screening-wallpaper_*.jpg$image
 ||ocs-pl.oktawave.com/*/*/bezprawnik/*/*_screening_smeo_promocja_*.png
 ||foto.stalowka.net/design/opel.jpg
+||ocs-pl.oktawave.com/v1/AUTH_2887234e-384a-4873-8bc5-405211db13a2/spidersweb/2019/01/380x1035.jpg$image
 !
 !21
 ||imgwykop.pl/*/*/paylink_$image,domain=www.wykop.pl
@@ -3912,7 +3921,6 @@ money.pl
 money.pl
 money.pl
 money.pl
-money.pl
 msp.money.pl
 prawo.money.pl
 www.money.pl
@@ -3926,7 +3934,8 @@ www.money.pl
 www.money.pl
 www.money.pl
 www.money.pl
-!www.money.pl
+money.pl
+money.pl
 !
 !36
 @@/app\.erpxt\.[a-z]{2,3}\/Scripts\/Code\//
