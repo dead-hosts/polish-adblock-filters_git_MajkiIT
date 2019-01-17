@@ -341,8 +341,8 @@
             "state": "future"
         },
         "doubleclick.net": {
-            "epoch": "1547683200",
-            "expiration_date": "17-jan-2019",
+            "epoch": "1579219200",
+            "expiration_date": "17-jan-2020",
             "state": "future"
         },
         "dowcip.net": {
@@ -466,9 +466,9 @@
             "state": "future"
         },
         "follofop.com": {
-            "epoch": "1547510400",
-            "expiration_date": "15-jan-2019",
-            "state": "past"
+            "epoch": "1579046400",
+            "expiration_date": "15-jan-2020",
+            "state": "future"
         },
         "freedisc.pl": {
             "epoch": "1548374400",
@@ -1216,8 +1216,8 @@
             "state": "future"
         },
         "rtbnowads.com": {
-            "epoch": "1547596800",
-            "expiration_date": "16-jan-2019",
+            "epoch": "1579132800",
+            "expiration_date": "16-jan-2020",
             "state": "future"
         },
         "rtvagdpro.net": {
