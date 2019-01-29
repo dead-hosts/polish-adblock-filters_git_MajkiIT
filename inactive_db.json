@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
-        "1548571888": [
+        "1548721608": [
             "accounts.goouigle.net",
             "adobedc.cf",
             "adserwer.adtools.pl",
@@ -42,7 +42,6 @@
             "videos-.jwpsrv.com",
             "vidoza*.github.io",
             "vsport.in",
-            "wbj.pl",
             "zgarnijiphone.ml"
         ],
         "to_test": []

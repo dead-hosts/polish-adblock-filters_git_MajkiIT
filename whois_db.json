@@ -625,6 +625,11 @@
             "expiration_date": "29-dec-2019",
             "state": "future"
         },
+        "ifotos.pl": {
+            "epoch": "1564272000",
+            "expiration_date": "28-jul-2019",
+            "state": "future"
+        },
         "ilawa24.pl": {
             "epoch": "1563062400",
             "expiration_date": "14-jul-2019",
@@ -1506,8 +1511,8 @@
             "state": "future"
         },
         "wbj.pl": {
-            "epoch": "1548374400",
-            "expiration_date": "25-jan-2019",
+            "epoch": "1579910400",
+            "expiration_date": "25-jan-2020",
             "state": "future"
         },
         "web-rynek.pl": {
