@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2019012801
+v.2019012901
 !
 !
 of
@@ -4174,7 +4174,7 @@ sport.pl
 !50
 ||vidoza.net/dl?op=view&*adb=$xmlhttprequest
 ||vidoza.net/srt/empty.srt$media,xmlhttprequest
-||vidoza.net/js/videojs$script,object
+!||vidoza.net/js/videojs$script,object
 !
 !51
 ||dofinansowanie-podkarpackie.pl^
