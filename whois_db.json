@@ -983,7 +983,7 @@
         "onenima.com": {
             "epoch": "1549324800",
             "expiration_date": "05-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "openkatalog.com": {
             "epoch": "1567296000",
@@ -1411,8 +1411,8 @@
             "state": "future"
         },
         "tugazeta.pl": {
-            "epoch": "1549238400",
-            "expiration_date": "04-feb-2019",
+            "epoch": "1580774400",
+            "expiration_date": "04-feb-2020",
             "state": "future"
         },
         "turinfo.pl": {
