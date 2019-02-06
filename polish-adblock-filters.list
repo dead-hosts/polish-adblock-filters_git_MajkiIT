@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2019020401
+v.2019020502
 !
 !
 of
@@ -681,6 +681,7 @@ echogorzowa.pl
 edux.pl
 efilmy.tv
 egami-image.com
+egarwolin.pl
 eglobalcentral.pl
 egryfino.pl
 eholiday.pl
@@ -1413,6 +1414,7 @@ lowicz24.eu
 lowicz24.eu
 lowicz24.eu
 lowicz24.eu
+lowicz24.eu
 lowiczanin.info
 lsi-lublin.pl
 lsi-lublin.pl
@@ -2120,6 +2122,7 @@ radiohit.net.pl
 radio-internetowe.com
 radioplus.com.pl
 radioplus.pl
+radioradom.pl
 radiorsc.pl
 radiostar.net
 radiosud.pl,krasnik24.pl,czestochowanews.pl
@@ -2983,6 +2986,7 @@ zwolen24.pl
 zwierciadlo.pl
 zwierciadlo.pl
 zycie.pl
+zycie.pila.pl
 zyciebytomskie.pl
 zycieczestochowy.pl
 zycieczestochowy.pl
@@ -2997,7 +3001,6 @@ zywiecinfo.pl
 !
 !10
 /grafika/banerki_reklamowe/$image,domain=wbijam.pl
-/static/files/inline_images/$image,domain=zycie.pila.pl|egarwolin.pl|lowicz24.eu|ciechanowinaczej.pl|infosiedlce.pl|ibialoleka.pl|izoliborz.pl|imokotow.pl|golub-cgd.pl
 /videoPlayer.js$script,domain=polsatnews.pl|polsatsport.pl
 /uploads/*tapeta*.jpg$image,domain=ciekawostkihistoryczne.pl|katowice24.info|miastodzieci.pl
 /vardata/obrazki/$image,domain=pionki24.pl|zwolen24.pl
@@ -3059,6 +3062,7 @@ zywiecinfo.pl
 ||cda.pl/player.php
 ||cdn.dtxngr.com/$script
 ||cdn.forumpc.pl/partner$image
+||cdn.gallery/ad$script,domain=egarwolin.pl
 ||cdn.gallery/pic/assets/uploads/files/*-kafelek.jpg$image,domain=szczecinek.com
 ||cdn.pkwteile.de/uploads/stock/$image,domain=czesciauto24.pl
 ||cdn.salesmedia.pl/codes/$script
@@ -3459,6 +3463,7 @@ zywiecinfo.pl
 ||zaufanatrzeciastrona.pl/wp-content/uploads/2018/04/exatel.jpg
 ||zaufanatrzeciastrona.pl/wp-content/uploads/*/Desktop_TA_LA_*_0*.jpg
 ||zaufanatrzeciastrona.pl/wp-content/uploads/*/q2s.gif
+||zlotymotocyklowe.pl/boxy/$image
 ||zolti.pl/ajax/affiliate-generator.php?$script
 ||zulawyimierzeja24.pl/assets/js/jwplayer/jwplayer.html5.js
 ||zyciesokolowa.pl/banery_$image
@@ -3916,8 +3921,8 @@ www.money.pl
 www.money.pl
 www.money.pl
 www.money.pl
-money.pl,moneyv.wp.pl
 www.money.pl,moneyv.wp.pl
+money.pl,moneyv.wp.pl
 money.pl,moneyv.wp.pl
 !
 !36

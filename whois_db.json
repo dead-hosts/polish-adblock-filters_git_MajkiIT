@@ -1133,7 +1133,7 @@
         "popclck.org": {
             "epoch": "1549411200",
             "expiration_date": "06-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "portal-firma.pl": {
             "epoch": "1542412800",
