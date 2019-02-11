@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2019020802
+v.2019021001
 !
 !
 of
@@ -328,6 +328,7 @@ benchmark.pl
 benchmark.pl
 benchmark.pl
 beskidy.news
+beskidzka24.pl
 besty.pl
 besty.pl
 besty.pl
@@ -464,6 +465,7 @@ chamskie.pl,psychiczni.pl
 chamsko.pl
 chamsko.pl
 charaktery.eu
+chelmski.eu
 chelmno.com.pl
 chilitonka.com
 chillitorun.pl
@@ -571,6 +573,7 @@ ddtorun.pl,ddwloclawek.pl
 ddtorun.pl,ddwloclawek.pl
 ddz.doba.pl
 ddz24.eu
+debica.tv
 deccoria.pl
 defence24.pl
 defence24.pl
@@ -822,7 +825,8 @@ fili.cc,centrumdruku3d.pl,pebx.pl
 filmpolski.pl
 films4free.pl
 filmweb.pl
-!filmweb.pl
+www.filmweb.pl
+www.filmweb.pl
 firmy77.pl
 fishing-mart.com.pl
 flarrow.pl
@@ -2000,6 +2004,7 @@ poranny.pl
 poranny.pl
 poranny.pl,polskatimes.pl
 portal.abczdrowie.pl
+portal.region.info.pl
 portal24h.pl
 portalgorski.pl,miedziowe.pl
 portalkomunalny.pl
@@ -2241,6 +2246,7 @@ serialeonline.pl
 serialeonline.pl
 seriale.co
 seriea.pl,kadra.pl,goal.pl,primeradivision.pl,ligapolska.pl
+serwer1418128.home.pl
 serwery.wiaderko.com
 serwery.wiaderko.com
 sferadomen.pl
@@ -3486,7 +3492,7 @@ zywiecinfo.pl
 /^(http|https):\/\/[\w]{3,12}\.trojmiasto\.pl\/[\w]{5,10}\/[\w]{5,10}\/[\w]{5,10}\/[\w/]{10,20}/$script,domain=trojmiasto.pl
 /^https:\/\/[a-z.]{2,16}\.wp\.pl\/[a-zA-Z0-9-_.?=?&%]{472,}/$media,domain=open.fm
 /https?:\/\/(?!(poczta|bc))[a-z.]{3,15}\.wp\.pl\/.{20,}/$script,domain=poczta.wp.pl
-/^https:\/\/(g|www)\.cda\.pl\/[\w]{1,30}\.php\?[\w\W]{60,150}=[0-9]{10,20}/$xmlhttprequest,object
+/^https:\/\/(g|www)\.cda\.pl\/[\w]{1,50}\.php\?[\w\W]{60,150}=[0-9]{10,20}/$xmlhttprequest,object
 !
 !12
 @@/ads.js$script,domain=translatica.pl|photo.bikestats.eu|astar.czest.pl|telepolis.pl|dziwneobrazki.pl|cda.pl|grydladzieci.pl|osgchmura.tk|wtk.pl|pomorska.pl|wtk.pl|zlotowskie.pl|tlp.is|izyrardow.pl
@@ -3977,6 +3983,7 @@ craftportal.pl
 cryptonews.pl
 crypto-trader.pl
 czadrow24.pl
+dailyweb.pl
 dziejesienapodkarpaciu.pl
 dziennikzwiazkowy.com
 extra.info.pl

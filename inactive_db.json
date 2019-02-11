@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
-        "1549585763": [
+        "1549844990": [
             "accounts.goouigle.net",
             "adobedc.cf",
             "adserwer.adtools.pl",
@@ -34,7 +34,6 @@
             "redir.atmcdn.pl*swf",
             "samnumer.pl",
             "static*jelonka.com",
-            "static.openload.io",
             "stats.qmerce.com",
             "subloader.cf",
             "system.mondeos.pl",
