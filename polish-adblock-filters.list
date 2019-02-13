@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2019021001
+v.2019021203
 !
 !
 of
@@ -57,7 +57,7 @@ _banery/980x200
 gomoney.pl/article
 \//$image,domain=strzelecopolski.pl|kabaret.tworzymyhistorie.pl|pch24.pl|skijumping.pl|rawicz24.pl|wiadomoscihandlowe.pl|wagaciezka.com
 \/images/banner\/$image,domain=2x45.info|polskiinternet.com
-/\/(images|img|data|uploads)\/banners\//$image,object,domain=tsk24.pl|wschodnik.pl|nowawrzesnia.pl|glucholazyonline.com.pl|informacjelokalne.pl|muzyczneradio.com.pl|tvrep.pl|chwaszczyno.pl|msfera.pl|tygodnik-krapkowicki.info|darkplanet.pl|wroclawskiejedzenie.pl|magazyngitarzysta.pl|przegladkoninski.pl|radiopoznan.fm|fishing-test.pl|gostynin24.pl|wkonin.pl
+/\/(images|img|data|uploads)\/banners\//$image,object,domain=tsk24.pl|wschodnik.pl|nowawrzesnia.pl|glucholazyonline.com.pl|informacjelokalne.pl|muzyczneradio.com.pl|tvrep.pl|chwaszczyno.pl|msfera.pl|tygodnik-krapkowicki.info|darkplanet.pl|wroclawskiejedzenie.pl|magazyngitarzysta.pl|przegladkoninski.pl|radiopoznan.fm|fishing-test.pl|gostynin24.pl|wkonin.pl|orawa24.info|krakowski24.pl
 /images/reklama/$image,domain=dziennikpolicki.pl
 /overlay*.png$domain=mapa.targeo.pl,image
 .pl/*/adds/
@@ -493,6 +493,7 @@ chrzanowski24.pl
 chwilowo.pl
 ciapkowo.pl
 ciechanowinaczej.pl
+ciechanowinaczej.pl,infosiedlce.pl,ibialoleka.pl,izoliborz.pl,imokotow.pl,golub-cgd.pl
 ciekawostkihistoryczne.pl
 ciekawostkihistoryczne.pl
 ciekawostkihistoryczne.pl
@@ -712,6 +713,7 @@ elka.pl
 elka.pl,miedziowe.pl
 elle.pl
 eloblog.pl
+eluban.pl
 elubaczow.com
 elubaczow.com
 elubaczow.com
@@ -1331,6 +1333,7 @@ kryptoraport.pl,msmobile.pl
 krytykapolityczna.pl
 krzesla-biurowe.pl
 kswarta.pl
+kujawy.info
 kulisy.net
 kulisy.net
 kulisy.net
@@ -2263,7 +2266,7 @@ sieradz.com.pl,zdunskawola24.pl,filmaster.pl,perspektywy.pl
 signs.pl
 signs.pl
 silentiumpc.com
-silesia.fm
+silesia.fm,nowy.gryfickie.info
 silesia.fm,wxv.pl
 sitemag.pl
 sitemag.pl,infokatowice.pl,noweinfo.pl
@@ -2735,6 +2738,7 @@ wirtualnemedia.pl
 wirtualnepniewy.pl
 wirtualnyelk.pl
 wirtualnygarwolin.pl
+wirtualnyregion.pl
 wislaportal.pl
 wizaz.pl
 wizaz.pl
@@ -3254,6 +3258,7 @@ zywiecinfo.pl
 ||oglaszamy24.pl/adstorage/$image
 ||ogloszenia.nowy-sacz.pl/rek/$image
 ||onenima.com^$script
+||ono24.info/web/files/site/sad/$image
 ||openkatalog.ml/epg/?channel=$subdocument
 ||opensubtitles.org/*=.js$script
 ||ostrzeszowinfo.pl/files/*reklama$image
