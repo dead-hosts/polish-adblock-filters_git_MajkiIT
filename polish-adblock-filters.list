@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2019021302
+v.2019021501
 !
 !
 of
@@ -412,7 +412,6 @@ booklips.pl,bloog.pl
 booklips.pl
 booklips.pl
 booksclub.pl
-bowlingnews.pl
 boxing.pl
 brainly.pl
 brodnica.net
@@ -541,12 +540,6 @@ csone.eu
 csone.eu
 csopole.eu
 cssetti.pl
-culturva.pl
-culturva.pl
-culturva.pl
-culturva.pl
-culturva.pl
-culturva.pl
 cyber-sport.us
 cyberdefence24.pl
 cyfrowaekonomia.pl
@@ -2529,7 +2522,6 @@ tomaszowski.com.pl
 tomaszowski.com.pl,tvnakarte.eu
 topagrar.pl
 topagrar.pl
-topgearonline.pl
 torebunia.pl
 torebunia.pl
 torrentos.com.pl
@@ -3551,7 +3543,7 @@ zywiecinfo.pl
 @@||naekranie.pl/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-download-tracker.js$script,~third-party
 @@||optimus.pl/temp/adrotator_miniatury/$image
 @@||ostrowmaz.com/uploads/small_ad_photo/$image
-@@||pagead2.googlesyndication.com^$domain=dobreprogramy.pl|bolotv.pl|tapeciarnia.pl|mybank.pl|www.emag.pl|pebx.pl|pilot.wp.pl|skript.pl|webcamera.pl|crystal-launcher.pl
+@@||pagead2.googlesyndication.com^$domain=dobreprogramy.pl|tapeciarnia.pl|mybank.pl|www.emag.pl|pebx.pl|pilot.wp.pl|skript.pl|webcamera.pl|crystal-launcher.pl
 @@||partech.pl/modules/blockadvertising/advertising.jpg
 @@||polsatnews.pl/templates/pnews/js/fingerprint2.min.js
 @@||epoznan.pl/ajax/get_adsys_code.php
@@ -3657,8 +3649,6 @@ meczstudio.com
 meczyki.net.pl
 meczyki.pl
 polska-telewizja-online.ayz.pl
-sportsbox.pro
-sportsbox.pro
 tvtoss.com
 typertv.com.pl
 worldsport.me
@@ -4083,7 +4073,6 @@ zwiedzamyparyz.pl
 /^(http|https):\/\/(?!www.speedvid)(?!streamcherry.com)(?!vshare)(?!vidoza)(?!openload)(?!www.youtube)(?!streamango)(?!www.rapidvideo)[a-zA-Z0-9\W]{5,10}.[a-z]{2,20}\/(?!anime)[\w\W\d]{5,20}\/[a-z]{5,20}\//$subdocument,domain=centrum-dramy.pl|love-drama.pl|vidfile.net|hentai-online.pl|centrum-mangi.ninja
 !/^(https|http):\/\/[a-z.]{4,15}\.[a-z]{2,2}\/[a-z/.?=-]{1,100}(wss|proxy)[a-z.?:0-9=]{6,50}/$script
 ||lcx.pl^
-||mon.pebx.pl^
 ||n.serialeonline.pl^$subdocument
 ||openkatalog.com/static/$subdocument
 ||pebx.pl/js/donate.js$script
@@ -4095,7 +4084,6 @@ zwiedzamyparyz.pl
 ||cdn1.pebx.pl^
 !
 !40
-@@||authedmine.com/$domain=dotacje.certyficate.it
 @@||cda.pl/*/*$subdocument,domain=alltube.tv|alltube.pl
 !
 !41
