@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2019021501
+v.2019021503
 !
 !
 of
@@ -3407,6 +3407,7 @@ zywiecinfo.pl
 ||www.benchmark.pl/js/header.ad.js$script
 ||www.brief.pl/img,banner$image
 ||www.cadblog.pl/*.gif$image
+||www.cda.pl/*.php?type=g_ad$xmlhttprequest
 ||www.cgm.pl/_photo_vault/specials/files/$image
 ||www.cgm.pl/_vault/_adver/$image
 ||www.chwaszczyno.pl/templates/chwaszczyno*/images/designer/*_baner*.jpg$image
