@@ -575,6 +575,11 @@
             "expiration_date": "01-jan-2020",
             "state": "future"
         },
+        "hoqqzlvwukpo.com": {
+            "epoch": "1582243200",
+            "expiration_date": "21-feb-2020",
+            "state": "future"
+        },
         "hostingnews.pl": {
             "epoch": "1548979200",
             "expiration_date": "01-feb-2019",
