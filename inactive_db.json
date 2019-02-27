@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
-        "1551054988": [
+        "1551227888": [
             "accounts.goouigle.net",
             "adobedc.cf",
             "adserwer.adtools.pl",
@@ -8,7 +8,6 @@
             "businessclick.*",
             "*cda.pl",
             "dhl-paczki.ml",
-            "edynamic-dns.pl",
             "fb-zmiana-koloru.pl",
             "forum-windows.eu",
             "glogow.pl",
@@ -17,7 +16,6 @@
             "images.futbolbase.us",
             "informacje.nbhost.pl",
             "ingbank.pl.bezpieczne.logowanie.ssl.ngbezpieczna.pw",
-            "konkursikowo.pl",
             "livemecz.*",
             "lubin.pl",
             "mediamarkt.pl.goodsurprises.top",
@@ -27,12 +25,10 @@
             "ola100.hopto.org",
             "orangę.pl",
             "otomoto.site",
-            "paczkomat.biz.pl",
             "pandorabiżuteria.pl",
             "platnosc.link",
             "przelew.otrans.pl",
             "redir.atmcdn.pl*swf",
-            "samnumer.pl",
             "static*jelonka.com",
             "stats.qmerce.com",
             "subloader.cf",

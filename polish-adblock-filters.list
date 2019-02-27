@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2019022301
+v.2019022601
 !
 !
 !1
@@ -260,6 +260,7 @@ anwil24.pl
 apynews.pl
 archiwum.wiesci.com.pl
 arenadesign.pl
+agusiq-torrents.pl
 astar.czest.pl
 astratex.pl
 astronomia24.com
@@ -485,7 +486,7 @@ chrzanowski24.pl
 chwilowo.pl
 ciapkowo.pl
 ciechanowinaczej.pl
-ciechanowinaczej.pl,infosiedlce.pl,ibialoleka.pl,izoliborz.pl,imokotow.pl,golub-cgd.pl
+ciechanowinaczej.pl,infosiedlce.pl,ibialoleka.pl,izoliborz.pl,imokotow.pl,golub-cgd.pl,mylomza.pl
 ciekawostkihistoryczne.pl
 ciekawostkihistoryczne.pl
 ciekawostkihistoryczne.pl
@@ -550,7 +551,7 @@ czyliwiesz.pl
 dania-dietetyczne.pl
 datapremiery.pl
 datapremiery.pl
-ddb24.pl,iotwock.info,ototorun.pl,twojradom.pl,szczecinek.com,zycie.pila.pl,kurierpodlaski.pl,zambrow.org,egarwolin.pl,lowicz24.eu,ciechanowinaczej.pl,itvpiaseczno.pl,ikampinos.pl,infosiedlce.pl,ibialoleka.pl,izoliborz.pl,imokotow.pl,nolesnica.pl,lipno-cli.pl,golub-cgd.pl,ibielsk.pl,brodnica-cbr.pl,egorzow.pl,ipragapoludnie.pl,rypin-cry.pl,wabrzezno-cwa.pl,wio.waw.pl,e-wyszogrod.pl
+ddb24.pl,iotwock.info,ototorun.pl,twojradom.pl,szczecinek.com,zycie.pila.pl,kurierpodlaski.pl,zambrow.org,egarwolin.pl,lowicz24.eu,ciechanowinaczej.pl,itvpiaseczno.pl,ikampinos.pl,infosiedlce.pl,ibialoleka.pl,izoliborz.pl,imokotow.pl,nolesnica.pl,lipno-cli.pl,golub-cgd.pl,ibielsk.pl,brodnica-cbr.pl,egorzow.pl,ipragapoludnie.pl,rypin-cry.pl,wabrzezno-cwa.pl,wio.waw.pl,e-wyszogrod.pl,ekspresjaroslawski.pl
 dbpolska.net
 dbpolska.net
 dbpolska.net
@@ -941,6 +942,7 @@ gazetaprawna.pl
 gazetaprawna.pl
 gazetaprawna.pl
 gazetaprawna.pl
+gazetapowiatowa.pl
 gazetatrybunalska.pl
 gazetawroclawska.pl
 gazetawroclawska.pl
@@ -1457,6 +1459,7 @@ magazynvip.pl
 magia.onet.pl
 majsterkowo.pl
 malydziennik.pl
+make-cash.pl
 mamawdomu.pl
 mamkomputer.info,smartage.pl
 mamopracuj.pl
@@ -2015,7 +2018,7 @@ portalsremski.pl
 portaltatrzanski.com
 poscigi.pl
 posshop.pl
-postawnaswoim.pl,forum.tweaks.pl,androidhacksgames.com,mobilegameshack4u.com,solarkurier.pl,miniskrypt.hubaiitv.pl,swirtv.czo.pl,precyl.com,przeklej.org,club4you.pl,darmowetv.pl,forum.vwgolf.pl,szuman.eu,audiostereo.pl,ogloszenia.gazeta.ie,legio24.pl,sdcv.pl,dostawcy-internetu.pl,forum.bukmacherskie.com,nasze.fm,lovekrakow.pl,mh24.pl,faktykonopne.pl,lajfy.com,disco-polo.info,pokemon-go.pl,gazeta-wiesci.pl,polskaniepodlegla.pl,lpg-forum.pl,kuszotv.pl,meczelive.tv,tablety.pl,polskatimes.pl,gazetakrakowska.pl,nacjonalista.pl,ostrowiecnews.pl,medianarodowe.com,prawy.pl,hobby-elektronika.eu,lowiczanin.info,kurier-w.pl
+postawnaswoim.pl,forum.tweaks.pl,androidhacksgames.com,mobilegameshack4u.com,solarkurier.pl,miniskrypt.hubaiitv.pl,swirtv.czo.pl,precyl.com,przeklej.org,club4you.pl,darmowetv.pl,forum.vwgolf.pl,szuman.eu,audiostereo.pl,ogloszenia.gazeta.ie,legio24.pl,sdcv.pl,dostawcy-internetu.pl,forum.bukmacherskie.com,nasze.fm,lovekrakow.pl,mh24.pl,faktykonopne.pl,lajfy.com,disco-polo.info,pokemon-go.pl,gazeta-wiesci.pl,polskaniepodlegla.pl,lpg-forum.pl,kuszotv.pl,meczelive.tv,tablety.pl,polskatimes.pl,gazetakrakowska.pl,nacjonalista.pl,ostrowiecnews.pl,medianarodowe.com,prawy.pl,hobby-elektronika.eu,lowiczanin.info,kurier-w.pl,protestanci.info
 potplayerclub.pl
 powiatowa.info
 powiatowa.info
@@ -3170,6 +3173,7 @@ zywiecinfo.pl
 ||hyipforum.pl/uploads/set_resources_2/*.js
 ||hyperreal.info/acid/frame/$subdocument
 ||ib.gazeta.pl/abc/$image,domain=polygamia.pl|plotek.pl
+||i.imgur.com/$image,domain=fight24.pl
 ||ibillboard.com^$third-party
 ||ilawa24.pl/photos/skyscraper.jpg$image
 ||image.ceneostatic.pl/data/footer_widget/$image
