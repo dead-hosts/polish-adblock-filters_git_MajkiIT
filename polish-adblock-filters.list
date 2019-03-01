@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2019022601
+v.2019022703
 !
 !
 !1
@@ -989,6 +989,7 @@ goniec.net
 gorlice24.pl
 gorlice24.pl
 gorydlaciebie.pl
+goryiludzie.pl
 gorzow24.pl
 gorzowianin.com
 gorzowianin.com
@@ -1224,6 +1225,7 @@ jdtech.pl
 jdtech.pl
 jdtech.pl
 jdtech.pl
+jednoslad.pl
 jedrzejowska.net
 jedrzejowska.net
 jelonka.com
@@ -2547,7 +2549,7 @@ trybawaryjny.pl
 trybi.pl
 trybi.pl
 trybun.org.pl
-trybunaczestochowska.pl,animalistka.pl,300polityka.pl,mynaszlaku.pl,xgol.pl,auto-przeglad.pl,jakusunac.pl,doskonalyslub.pl
+trybunaczestochowska.pl,animalistka.pl,300polityka.pl,mynaszlaku.pl,xgol.pl,auto-przeglad.pl,jakusunac.pl,doskonalyslub.pl,isel.edu.pl
 tryton.com.pl
 trucks.com.pl
 trzemeszno24.info
@@ -2771,6 +2773,7 @@ wrc.net.pl
 wrealu24.pl
 wrealu24.pl
 wrealu24.pl
+wronek.wikidot.com
 wschodnik.pl
 wschodnik.pl
 wspomnijbliskich.pl
@@ -3535,7 +3538,7 @@ zywiecinfo.pl
 @@||go.eu.bbelements.com/please/code|$domain=filmweb.pl
 @@||google-analytics.com$domain=certyficate.it|liptonicetea.com|filmweb.pl
 @@||googletagmanager.com/gtag/$script,domain=certyficate.it
-@@||googletagmanager.com/gtm.js$script,domain=www.emag.pl|benchmark.pl|komputerswiat.pl|www.jabra.pl
+@@||googletagmanager.com/gtm.js$script,domain=www.emag.pl|benchmark.pl|komputerswiat.pl|www.jabra.pl|plus.pl
 @@||hit.gemius.pl/gplayer.js$script,domain=polotv.pl|pilot.wp.pl
 @@||hotelscombined.com/Script/$script,domain=mlecznepodroze.onet.pl
 @@||hotelscombined.com/SearchBox/$script,domain=mlecznepodroze.onet.pl
@@ -3733,7 +3736,6 @@ autocentrum.pl,demotywatory.pl,dziennik.pl,facetemjestem.pl,gala.pl,garnek.pl,gr
 !
 !23
 ||adsbtrack.com^
-||a-o.ninja^
 filmyfilmy.pl
 !
 !24

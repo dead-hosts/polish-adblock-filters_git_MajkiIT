@@ -53,7 +53,7 @@
         "adglare.org": {
             "epoch": "1551312000",
             "expiration_date": "28-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "adocean.pl": {
             "epoch": "1552867200",
@@ -126,8 +126,8 @@
             "state": "future"
         },
         "ankieta-online.pl": {
-            "epoch": "1551312000",
-            "expiration_date": "28-feb-2019",
+            "epoch": "1582848000",
+            "expiration_date": "28-feb-2020",
             "state": "future"
         },
         "antygrupa.pl": {
@@ -1521,8 +1521,8 @@
             "state": "future"
         },
         "vaks.pl": {
-            "epoch": "1551312000",
-            "expiration_date": "28-feb-2019",
+            "epoch": "1582848000",
+            "expiration_date": "28-feb-2020",
             "state": "future"
         },
         "vdztrack.com": {
