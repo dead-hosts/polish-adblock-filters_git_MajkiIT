@@ -51,9 +51,9 @@
             "state": "future"
         },
         "adglare.org": {
-            "epoch": "1551312000",
-            "expiration_date": "28-feb-2019",
-            "state": "past"
+            "epoch": "1582848000",
+            "expiration_date": "28-feb-2020",
+            "state": "future"
         },
         "adocean.pl": {
             "epoch": "1552867200",
