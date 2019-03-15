@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2019031102
+v.2019031401
 !
 !
 !1
@@ -551,7 +551,7 @@ czyliwiesz.pl
 dania-dietetyczne.pl
 datapremiery.pl
 datapremiery.pl
-ddb24.pl,iotwock.info,ototorun.pl,twojradom.pl,szczecinek.com,zycie.pila.pl,kurierpodlaski.pl,zambrow.org,egarwolin.pl,lowicz24.eu,ciechanowinaczej.pl,itvpiaseczno.pl,ikampinos.pl,infosiedlce.pl,ibialoleka.pl,izoliborz.pl,imokotow.pl,nolesnica.pl,lipno-cli.pl,golub-cgd.pl,ibielsk.pl,brodnica-cbr.pl,egorzow.pl,ipragapoludnie.pl,rypin-cry.pl,wabrzezno-cwa.pl,wio.waw.pl,e-wyszogrod.pl,ekspresjaroslawski.pl
+ddb24.pl,iotwock.info,ototorun.pl,twojradom.pl,szczecinek.com,zycie.pila.pl,kurierpodlaski.pl,zambrow.org,egarwolin.pl,lowicz24.eu,ciechanowinaczej.pl,itvpiaseczno.pl,ikampinos.pl,infosiedlce.pl,ibialoleka.pl,izoliborz.pl,imokotow.pl,nolesnica.pl,lipno-cli.pl,golub-cgd.pl,ibielsk.pl,brodnica-cbr.pl,egorzow.pl,ipragapoludnie.pl,rypin-cry.pl,wabrzezno-cwa.pl,wio.waw.pl,e-wyszogrod.pl,ekspresjaroslawski.pl,izabelin24.pl
 dbpolska.net
 dbpolska.net
 dbpolska.net
@@ -1319,6 +1319,7 @@ kreskoweczki.pl
 kreskoweczki.pl
 kresy.pl
 krknews.pl
+krokdozdrowia.com,altbc.marfeelcache.com
 krosno24.pl
 krosno112.pl
 krotoszynska.pl
@@ -3199,6 +3200,7 @@ zywiecinfo.pl
 ||jarock.pl/wp-content/uploads/*/Banner-$image
 ||jastrzebieonline.pl/files/banners/$domain=jastrzebieonline.pl
 ||jastrzebieonline.pl/js/scripts.js$script,domain=jastrzebieonline.pl
+||js.iplsc.com/inpl.adb/*/inpl.adb.js$script,domain=www.rmfon.pl
 ||kampanie.etransport.pl/$image,domain=etransport.pl
 ||ki24.info/banery_extra/$image
 ||klikplej.pl/a_d/banner.gif
@@ -3768,13 +3770,14 @@ filmbit.ws
 ||zostofou.link^
 ||thiksikr.com^
 ||hoqqzlvwukpo.com^
+||sitebravefull.info^
 !
 !28
 /dropzone/$script,domain=filmbit.ws
 /event$xmlhttprequest,domain=filmbit.ws
 /^http:\/\/((?!192\.168)(?!10\.)(?!172\.16)(?!172\.17)(?!172\.18)(?!172\.19)(?!172\.2)(?!172\.30)(?!172\.31)([0-9]|[1-9][0-9]|1[0-9]{2}|2[0-4][0-9]|25[0-5])\.){3}([0-9]|[1-9][0-9]|1[0-9]{2}|2[0-4][0-9]|25[0-5])\/[a-zA-Z0-9]{30,}/$script,popup
 /^(http|https):\/\/[a-z0-9]{10,20}\.com\/[0-9]{5,10}\.html/$subdocument,domain=ekino-tv.pl
-/^(http|https):\/\/[a-z0-9]{5,}\.(com|top)\/[a-z0-9]{1,}\/[a-z0-9]{1,}\/[a-z0-9]{1,}\/[a-z0-9]{5,}\.js/$script,domain=vidto.me|fileone.tv|alltube.tv|srkcast.com|vidfile.net|alltube.pl|whostreams.net|cda-hd.cc|filmowo.co|szukajka.tv
+/^(http|https):\/\/[a-z0-9]{5,}\.(com|top)\/[a-z0-9]{1,}\/[a-z0-9]{1,}\/[a-z0-9]{1,}\/[a-z0-9]{5,}\.js/$script,domain=vidto.me|fileone.tv|alltube.tv|srkcast.com|vidfile.net|alltube.pl|whostreams.net|filmowo.co|szukajka.tv|cda-hd.co
 /^(http|https):\/\/[a-z0-9-]{8,30}\.[a-z]{2,11}\/[0-9]{3,10}/$xmlhttprequest,script,stylesheet,subdocument,domain=raptu.com|flashx.tv|rapidvideo.com|fileone.tv|animezone.pl|vidoza.net|kreskowkazone.pl|vidfile.net
 /^(http|https):\/\/[a-z.]{5,10}\.[a-z]{2,4}\/[a-z.]{3,7}\?[a-zA-Z0-9=&%-.]{100,250}/$popup,domain=centrum-dramy.pl|alltube.tv|alltube.pl|hentai-online.pl|centrum-mangi.ninja
 /^(http|https):\/\/[a-z]{5,10}\.com\/[a-zA-Z0-9+]{80,}/$subdocument,domain=embed.nowvideo.sx|cloudtime.to|darmowa-telewizja.info
