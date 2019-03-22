@@ -1,11 +1,12 @@
 {
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
-        "1553042744": [
+        "1553215566": [
             "*cda.pl",
             ".tradedoubler.com",
             "accounts.goouigle.net",
             "adobedc.cf",
             "adserwer.adtools.pl",
+            "apps5.space",
             "av-cdn-*.wpimg.pl",
             "businessclick.*",
             "dhl-paczki.ml",
