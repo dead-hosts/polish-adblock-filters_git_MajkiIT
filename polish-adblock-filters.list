@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2019032201
+v.2019032402
 !
 !
 !1
@@ -385,7 +385,6 @@ blasty.pl
 blaugrana.pl
 blog.nowebrzmienia.pl
 blog.pluralsight.com
-blogmobility.pl
 blogomaniak.pl
 blogomaniak.pl
 blogomaniak.pl
@@ -448,7 +447,6 @@ cda.pl
 cdahd.pl
 cdtracker.co.pl
 cenabiznesu.pl,elubaczow.com
-centrum-dramy.pl
 centrumdruku3d.pl
 centrumdruku3d.pl
 centrumxp.pl
@@ -1471,6 +1469,7 @@ magazif.com
 magazynbasista.pl,gieldaigospodarka.pl,crazynauka.pl,dokumentalne.net
 magazyngitarzysta.pl
 magazynt3.pl
+magazynpolonia.com
 magazynvip.pl
 magia.onet.pl
 majsterkowo.pl
@@ -1549,7 +1548,7 @@ miasto-gazeta.pl
 miastodzieci.pl
 miasto.koszalin.pl
 miastoiludzie.pl
-miastoiludzie.pl,swiatoze.pl,zarabiamykase.com.pl,gadzet.telchina.pl,premierywtv.pl,e-pingpong.pl
+miastoiludzie.pl,swiatoze.pl,gadzet.telchina.pl,premierywtv.pl,e-pingpong.pl
 miastokolobrzeg.pl
 miastokolobrzeg.pl
 miastokolobrzeg.pl
@@ -1572,6 +1571,7 @@ mistrzowie.org
 mistrzowie.org
 mistrzowie.org
 mistrzowie.org
+miziaforum.com
 mklr.pl
 mlawa.fora.pl
 mlecznepodroze.onet.pl
@@ -1874,7 +1874,6 @@ pan-doradca.pl
 pap.edu.pl
 paranormalne.pl
 parenting.pl
-pato.pl
 patriot24.net
 patriot24.net
 pccentre.pl
@@ -1988,6 +1987,7 @@ polskaligaesportowa.pl
 polskaniepodlegla.pl
 polskaniepodlegla.pl
 polskaniepodlegla.pl
+polskiinternet.com
 polski-tenis.pl
 polskiautohandel.pl
 polskiautohandel.pl
@@ -2951,7 +2951,6 @@ xlomza.pl
 yafud.pl
 yellowpages.pl
 zabawkowo.com
-zabijambolubie.pl
 zabkowice.express-miejski.pl
 zadluzenia.com
 zagadkidladzieci.net,odmiana.net
@@ -2969,7 +2968,6 @@ zapytaj.onet.pl
 zapytaj.onet.pl
 zapytaj.onet.pl
 zapytaj.onet.pl
-zarabiamykase.com.pl
 zary.naszemiasto.pl
 zaufanatrzeciastrona.pl
 zaufanatrzeciastrona.pl
@@ -3077,7 +3075,6 @@ zywiecinfo.pl
 ||api-content-generator.gazeta.pl/content-generator/published/frame/generate?frameId=
 ||api.ergokantor.pl/widgets/$subdocument
 ||api.systempartnerski.pl^$domain=niepoddawajsie.pl
-||apps5.space/$script
 ||aptekacentrum.lublin.pl/images/*1920x1080.jpg$image
 ||atrexpress.com.pl/fileadmin/user_upload/grafika/baner$image
 ||autotrader.pl/Resources/Images/credit-agricole/$image
@@ -3428,7 +3425,6 @@ zywiecinfo.pl
 ||wp.com/niestatystyczny.pl/wp-content/uploads/*/tlo$image,domain=niestatystyczny.pl
 ||wp.pl/*/reklamawp-$image
 ||wp.pl/staticad/$xmlhttprequest
-||www1.advice.movie.advlab.pl$object,domain=get.x-link.pl
 ||www.24opole.pl/cimg/$image
 ||www.24opole.pl/dimg/$image
 ||www.adfreestyle.pl$domain=~www.adfreestyle.pl
@@ -3613,7 +3609,7 @@ memytutaj.pl
 partech.pl
 pks-czestochowa.pl
 spottedlublin.pl
-wpworld.pl,windowsowo.pl
+windowsowo.pl
 !
 !14
 !
@@ -3792,13 +3788,13 @@ filmbit.ws
 /^(http|https):\/\/[a-z0-9]{10,20}\.com\/[0-9]{5,10}\.html/$subdocument,domain=ekino-tv.pl
 /^(http|https):\/\/[a-z0-9]{5,}\.(com|top)\/[a-z0-9]{1,}\/[a-z0-9]{1,}\/[a-z0-9]{1,}\/[a-z0-9]{5,}\.js/$script,domain=vidto.me|fileone.tv|alltube.tv|srkcast.com|vidfile.net|alltube.pl|whostreams.net|filmowo.co|szukajka.tv|cda-hd.co
 /^(http|https):\/\/[a-z0-9-]{8,30}\.[a-z]{2,11}\/[0-9]{3,10}/$xmlhttprequest,script,stylesheet,subdocument,domain=raptu.com|flashx.tv|rapidvideo.com|fileone.tv|animezone.pl|vidoza.net|kreskowkazone.pl|vidfile.net
-/^(http|https):\/\/[a-z.]{5,10}\.[a-z]{2,4}\/[a-z.]{3,7}\?[a-zA-Z0-9=&%-.]{100,250}/$popup,domain=centrum-dramy.pl|alltube.tv|alltube.pl|hentai-online.pl|centrum-mangi.ninja
+/^(http|https):\/\/[a-z.]{5,10}\.[a-z]{2,4}\/[a-z.]{3,7}\?[a-zA-Z0-9=&%-.]{100,250}/$popup,domain=alltube.tv|alltube.pl|hentai-online.pl|centrum-mangi.ninja
 /^(http|https):\/\/[a-z]{5,10}\.com\/[a-zA-Z0-9+]{80,}/$subdocument,domain=embed.nowvideo.sx|cloudtime.to|darmowa-telewizja.info
 /^(http|https):\/\/[a-z.-]{5,30}\/client\?party/$script,domain=openkatalog.com
 /^(http|https):\/\/[a-zA-Z0-9]{10,}\.cloudfront\.net\/[a-zA-Z0-9%?=]{10,}/$script,domain=seriale-po-polsku.pl|animezone.pl|filmbit.ws
 /^(http|https):\/\/[a-zA-Z0-9]{5,10}\.[a-z]{2,10}\/[a-zA-Z0-9?_=&-.%]{50,70}/$subdocument,script,popup,domain=filmtu.pl|darmowa-tv.pl|cdax.online|tele-wizja.is|widestream.io
 /^(http|https):\/\/[a-zA-Z0-9]{5,15}\.(com|net)\/[a-z]{4,10}\/[0-9a-z.?=%A-Z-&]{60,100}/$script,popup,domain=veecast.net|darmowa-tv.pl
-/^(http|https):\/\/[a-zA-Z.0-9]{7,}\.(com|bid|info)\/[a-zA-Z]{1,}\.js/$script,domain=devil-torrents.pl|electro-torrent.pl|vidlox.tv|segos.es|fileone.tv|streamango.com|nasze-kino.online|raptu.com|rapidvideo.com|vidfile.net|sharevideo.pl|sharing-box.cloud|vidstream.xyz|openkatalog.ml|nasze-kino.tv|kino123.pl|boxfilm.pl|cloudupload.co|allonline.pl|openload.co|cdax.online|abcast.net|darmowa-tv.pl|veecast.net|castto.me|centrum-dramy.pl|hentai-online.pl|centrum-mangi.ninja|openkatalog.com|shinden.pl|tele-wizja.is|ekinomaniak.tv|tele-wizja.ru|hqq.watch|whostreams.net|seriale-po-polsku.pl|virpe.com
+/^(http|https):\/\/[a-zA-Z.0-9]{7,}\.(com|bid|info)\/[a-zA-Z]{1,}\.js/$script,domain=devil-torrents.pl|electro-torrent.pl|vidlox.tv|segos.es|fileone.tv|streamango.com|nasze-kino.online|raptu.com|rapidvideo.com|vidfile.net|sharevideo.pl|sharing-box.cloud|vidstream.xyz|openkatalog.ml|nasze-kino.tv|kino123.pl|boxfilm.pl|cloudupload.co|allonline.pl|openload.co|cdax.online|abcast.net|darmowa-tv.pl|veecast.net|hentai-online.pl|centrum-mangi.ninja|openkatalog.com|shinden.pl|tele-wizja.is|ekinomaniak.tv|tele-wizja.ru|hqq.watch|whostreams.net|seriale-po-polsku.pl|virpe.com
 /(http|https):\/\/naekranie\.pl\/wp-content\/uploads\/[0-9]{4,4}\/[0-9]{2,2}\/(?!jpg)[0-9a-z]{7,10}$/$image
 /^(http|https):\/\/[\w]{12,}\.[a-z]{3,3}\/[a-z]{1,10}\.html[\w\d\W]{100,}/$script,domain=tele-wizja.ru
 /^(http|https):\/\/[\w]{5,}\.[a-z]{3,3}\/[\w\d\W]{45,}/$script,domain=abcast.net|alltube.pl|alltube.tv|szukajka.tv
@@ -3812,7 +3808,6 @@ filmbit.ws
 !
 !29
 bro.adca.st
-castto.me
 dotstream.tv
 privatestream.tv
 privatestream.tv/images/player_logo.png
@@ -4099,7 +4094,7 @@ zwiedzamyparyz.pl
 /^(http|https):\/\/[a-z]{5,10}\.[a-z]{2,3}\/[\w\W]{50,80}/$subdocument,domain=heja.tv
 /^(http|https):\/\/[a-z.]{5,15}\.[a-z]{2,4}\/[a-z]{3,3}\/conf\?[a-z0-9\W]{10,50}/$xmlhttprequest,domain=fileone.tv
 /^(http|https):\/\/[a-z\W]{6,15}\.[a-z]{2,5}\/[a-z.]{4,10}\.js/$script,domain=vidoza.net|fileone.tv
-/^(http|https):\/\/(?!www.speedvid)(?!streamcherry.com)(?!vshare)(?!vidoza)(?!openload)(?!www.youtube)(?!streamango)(?!www.rapidvideo)[a-zA-Z0-9\W]{5,10}.[a-z]{2,20}\/(?!anime)[\w\W\d]{5,20}\/[a-z]{5,20}\//$subdocument,domain=centrum-dramy.pl|love-drama.pl|vidfile.net|hentai-online.pl|centrum-mangi.ninja
+/^(http|https):\/\/(?!www.speedvid)(?!streamcherry.com)(?!vshare)(?!vidoza)(?!openload)(?!www.youtube)(?!streamango)(?!www.rapidvideo)[a-zA-Z0-9\W]{5,10}.[a-z]{2,20}\/(?!anime)[\w\W\d]{5,20}\/[a-z]{5,20}\//$subdocument,domain=love-drama.pl|vidfile.net|hentai-online.pl|centrum-mangi.ninja
 !/^(https|http):\/\/[a-z.]{4,15}\.[a-z]{2,2}\/[a-z/.?=-]{1,100}(wss|proxy)[a-z.?:0-9=]{6,50}/$script
 ||lcx.pl^
 ||n.serialeonline.pl^$subdocument
