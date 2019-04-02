@@ -150,6 +150,11 @@
             "expiration_date": "05-jan-2019",
             "state": "future"
         },
+        "apps5.space": {
+            "epoch": "1549411200",
+            "expiration_date": "06-feb-2019",
+            "state": "past"
+        },
         "autotrader.pl": {
             "epoch": "1555459200",
             "expiration_date": "17-apr-2019",
@@ -1035,6 +1040,11 @@
             "expiration_date": "03-sep-2019",
             "state": "future"
         },
+        "otomoto.site": {
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
+        },
         "outletto24.com": {
             "epoch": "1566432000",
             "expiration_date": "22-aug-2019",
@@ -1561,8 +1571,8 @@
             "state": "future"
         },
         "vshare.io": {
-            "epoch": "1554163200",
-            "expiration_date": "02-apr-2019",
+            "epoch": "1648857600",
+            "expiration_date": "02-apr-2022",
             "state": "future"
         },
         "wbj.pl": {

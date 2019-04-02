@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2019032903
+v.2019040102
 !
 !
 !1
@@ -3750,6 +3750,7 @@ autocentrum.pl,demotywatory.pl,dziennik.pl,facetemjestem.pl,gala.pl,garnek.pl,gr
 !23
 ||adsbtrack.com^
 ||block734.oplatyi.pl^
+||unknow.now.sh^
 filmyfilmy.pl
 !
 !24
@@ -3859,6 +3860,7 @@ wp.tv
 ||i.wp.pl/*/stg/wpjslib-nojq.js$script,domain=www.dobreprogramy.pl
 ||wpkoszyk.wp.pl/api/koszyk$xmlhttprequest
 ||www.wp.pl/*.okazje-kokpit.chunk.js
+||wp.pl/*-FwkqOxhmGz4XCSo7GGYbPhcJKjsYZhs-$script
 ||xml.enovatis.pl/mrdsl/json.php$xmlhttprequest,domain=turystyka.wp.pl
 !
 !33
