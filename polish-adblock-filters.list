@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2019040102
+v.2019040304
 !
 !
 !1
@@ -396,6 +396,7 @@ bmw-klub.pl
 boardtime.pl
 bobrzanie.pl
 bochnianin.pl
+bochniazbliska.pl
 bokser.org
 bokser.org
 bonavita.pl
@@ -486,7 +487,7 @@ chrzanowski24.pl
 chwilowo.pl
 ciapkowo.pl
 ciechanowinaczej.pl
-ciechanowinaczej.pl,infosiedlce.pl,ibialoleka.pl,izoliborz.pl,imokotow.pl,golub-cgd.pl,mylomza.pl
+ciechanowinaczej.pl,infosiedlce.pl,ibialoleka.pl,izoliborz.pl,imokotow.pl,golub-cgd.pl,mylomza.pl,wabrzezno-cwa.pl
 ciekawostkihistoryczne.pl
 ciekawostkihistoryczne.pl
 ciekawostkihistoryczne.pl
@@ -1520,6 +1521,7 @@ medycznamarihuana.com
 medycznamarihuana.com
 medycznamarihuana.com
 medycznamarihuana.pl
+medme.pl
 megalotto.pl
 memy.pl
 memy.pl
@@ -1559,6 +1561,7 @@ miedziowe.tv,elka.tv
 miedzyrzec.info
 miedzyrzecz.biz
 miejscawewroclawiu.pl
+mieszkaniec.pl
 mikrokontroler.pl
 mikrokontroler.pl
 mikrokontroler.pl
@@ -1679,10 +1682,6 @@ my-navia.pl
 mybboard.pl
 myhome.pl
 mylomza.pl
-!mylomza.pl
-!mylomza.pl
-!mylomza.pl
-!mylomza.pl
 mysqlperformanceblog.com
 na-luzie.net
 nacjonalista.pl
@@ -2349,6 +2348,7 @@ spiz.pl,roksa.pl
 spliff.pl
 spottedskarzysko.pl
 spottedskarzysko.pl
+sporteuro.pl
 sport.se.pl
 sport.tvp.pl
 sportdziennik.pl
@@ -2569,6 +2569,7 @@ trybun.org.pl
 trybunaczestochowska.pl,animalistka.pl,300polityka.pl,mynaszlaku.pl,xgol.pl,auto-przeglad.pl,jakusunac.pl,doskonalyslub.pl,isel.edu.pl
 tryton.com.pl
 trucks.com.pl
+truckeronroad.com
 trzemeszno24.info
 tubagliwic.pl,tubawyszkowa.pl
 tubawyszkowa.pl,tubamarek.pl,gazeta-olawa.pl
@@ -2617,6 +2618,7 @@ twojeradio.fm
 twoje-seriale.tv
 twojepajeczno.pl
 twojepc.pl
+twojkurierolsztynski.pl
 twojprofesor.pl
 twojradom.pl
 twojradom.pl
@@ -3783,6 +3785,8 @@ filmbit.ws
 ||thiksikr.com^
 ||hoqqzlvwukpo.com^
 ||sitebravefull.info^
+||remtoaku.net^
+||dexessee.com^
 !
 !28
 /dropzone/$script,domain=filmbit.ws
@@ -3860,7 +3864,7 @@ wp.tv
 ||i.wp.pl/*/stg/wpjslib-nojq.js$script,domain=www.dobreprogramy.pl
 ||wpkoszyk.wp.pl/api/koszyk$xmlhttprequest
 ||www.wp.pl/*.okazje-kokpit.chunk.js
-||wp.pl/*-FwkqOxhmGz4XCSo7GGYbPhcJKjsYZhs-$script
+!||wp.pl/*-FwkqOxhmGz4XCSo7GGYbPhcJKjsYZhs-$script
 ||xml.enovatis.pl/mrdsl/json.php$xmlhttprequest,domain=turystyka.wp.pl
 !
 !33
@@ -4046,7 +4050,7 @@ newsbook.pl
 olgasmile.com
 olgasmile.com
 pabianice.tv,satinfo24.pl
-podgorze.pl,strajk.eu
+podgorze.pl,strajk.eu,busiarze.com.pl
 podkarpackahistoria.pl
 porozmawiajmy.tv
 radiofon.fm
