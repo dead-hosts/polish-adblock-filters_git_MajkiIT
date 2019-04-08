@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2019040304
+v.2019040702
 !
 !
 !1
@@ -817,7 +817,6 @@ fili.cc
 fili.cc,centrumdruku3d.pl,pebx.pl
 filmpolski.pl
 films4free.pl
-!filmweb.pl
 filmweb.pl
 firmy77.pl
 fishing-mart.com.pl
@@ -951,7 +950,7 @@ gazetasenior.pl
 gazetatrybunalska.pl
 gazetatychy.pl
 gazetawroclawska.pl
-gazetawroclawska.pl
+gazetazabrze.pl
 gazetka.be
 gazetka.be
 gazetki-promocyjne.net.pl
@@ -1335,7 +1334,7 @@ krs-online.com.pl
 krs-online.com.pl
 krs-pobierz.pl
 kryptoholik.pl
-kryptoraport.pl,msmobile.pl
+kryptoraport.pl,msmobile.pl,sluzby-ratownicze.pl
 krytykapolityczna.pl
 krzesla-biurowe.pl
 kswarta.pl
@@ -1561,7 +1560,10 @@ miedziowe.tv,elka.tv
 miedzyrzec.info
 miedzyrzecz.biz
 miejscawewroclawiu.pl
+miejscowa.pl
+www.miejscowa.pl
 mieszkaniec.pl
+migrelo.de
 mikrokontroler.pl
 mikrokontroler.pl
 mikrokontroler.pl
@@ -1612,7 +1614,7 @@ mojaleczyca.pl
 mojaleczyca.pl
 mojaleczyca.pl
 mojaleczyca.pl
-mojaniderlandia.pl
+mojaniderlandia.pl,migrelo.de
 mojaniderlandia.pl
 mojanorwegia.pl
 mojaolesnica.pl
@@ -3007,6 +3009,7 @@ zizako.pl
 zmianynaziemi.pl
 zory.dlawas.pl
 zory.dlawas.pl
+zory24.pl
 zpazurem.pl
 zrabatowani.pl
 zszywka.pl
@@ -3440,8 +3443,10 @@ zywiecinfo.pl
 ||www.cgm.pl/_vault/_adver/$image
 ||www.chwaszczyno.pl/templates/chwaszczyno*/images/designer/*_baner*.jpg$image
 ||www.comperialead.pl/upload/$image
+||www.czarnkow.info/kir/ogl/$image
 ||www.ebelchatow.pl/sites/default/files/HTML5_baners/$subdocument
 ||www.ekobiety.pl/wp-content/uploads/*/reklama$image
+||www.elondyn.co.uk/mainpage/data/event_buttons/plik/$image
 ||www.eostroleka.pl/luba/dane/pliki/*.swf$object
 ||www.eostroleka.pl/tlo-j*.jpg$image
 ||www.fight24.pl/wp-content/themes/gazette/images/*_background$image
