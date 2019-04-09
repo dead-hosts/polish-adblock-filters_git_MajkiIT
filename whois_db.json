@@ -223,7 +223,7 @@
         "cdn.gallery": {
             "epoch": "1554768000",
             "expiration_date": "09-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "chlodnictwoiklimatyzacja.pl": {
             "epoch": "1557360000",
