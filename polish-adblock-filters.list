@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2019040901
+v.2019041201
 !
 !
 !1
@@ -182,6 +182,7 @@ popkiller.pl,tygodnikpodhalanski.pl,cnc.info.pl
 24opole.pl
 24plock.pl
 24pr.pl,tu.swinoujscie.pl
+24starogard.pl
 24wroclaw.pl
 24wspolnota.pl,kociewiak.pl
 2bstyle.pl
@@ -773,6 +774,7 @@ express.olsztyn.pl
 express.olsztyn.pl
 expresselblag.pl
 expressilustrowany.pl
+express-miejski.pl,emka.news
 extraswiecie.pl
 extraswiecie.pl
 ezakopane.pl
@@ -1608,6 +1610,7 @@ mobimaniak.pl
 mobirank.pl
 moja24.pl
 moja24.pl
+mojabochnia.pl
 mojadieta.pl
 mojaholandia.nl
 mojaleczyca.pl
@@ -1683,7 +1686,7 @@ my-navia.pl
 my-navia.pl
 mybboard.pl
 myhome.pl
-mylomza.pl
+mylomza.pl,twojawierzbica.pl
 mysqlperformanceblog.com
 na-luzie.net
 nacjonalista.pl
@@ -1718,6 +1721,7 @@ naszalomza.pl
 naszamlawa.pl
 naszamlawa.pl
 naszamlawa.pl,e-dukacja.pl,e-farmacja.net
+naszekielce.com
 naszemiasto.pl
 naszemiasto.pl
 naszraciborz.pl,naszrybnik.com
@@ -1774,7 +1778,7 @@ nocoty.pl,aleseriale.pl
 noizz.pl
 noizz.pl
 nokiahacking.pl
-nolesnica.pl
+nolesnica.pl,szczecinek.com
 novekino.pl
 nowa.gazetaobywatelska.info
 nowafarmacja.pl
@@ -2004,7 +2008,7 @@ polubione.pl
 polwro.pl
 polygamia.pl
 polygamia.pl
-pultusk24.pl
+pultusk24.pl,olawa24.pl
 pomocnicy.blogspot.com
 pomorska.pl
 pomorska.pl
@@ -2231,6 +2235,7 @@ rp.pl
 rtvmaniak.pl
 ryby.elka.pl
 ryms.pl
+rynek.de
 rynekaptek.pl,farmer.pl,promocjada.pl
 rynek-turystyczny.pl
 rynekzdrowia.pl
@@ -2259,6 +2264,7 @@ satkurier.pl
 satkurier.pl
 satkurier.pl
 satkurier.pl
+sci24.pl
 scie24.pl
 se.pl,~sport.se.pl
 seciki.pl
@@ -2314,7 +2320,7 @@ slowianskibestiariusz.pl
 slowka.pl
 sloworegionu.pl
 sloworegionu.pl
-sloworegionu.pl,glucholazyonline.com.pl
+sloworegionu.pl,glucholazyonline.com.pl,zlubaczowa.pl
 slubice24.pl,wirtualnemedia.pl,nowywyszkowiak.pl
 slupca.pl
 slupca.pl,gry-online.pl
@@ -2599,7 +2605,7 @@ tvp.info,legia.net
 tvpolsat.info
 tv-polska.eu
 tvsudecka.pl
-tvsudecka.pl,tczewska.pl,slowopodlasia.pl,bydgoszcz.com,tvswinoujscie.pl,tygodnikoko.pl,tv-wschod.pl,inowroclaw.info.pl,korsosanockie.pl,supertydzien.pl,lokalnatelewizja.pl,wiara.pl,radiosochaczew.pl,debica24.eu,zvami.tv,telewizjazary.pl,korsokolbuszowskie.pl,kociewiak.pl,cooltura24.co.uk,portalpomorza.pl,tvobiektyw.pl,echotygodnik.info,damitv.pl,ct.jaworzno.pl,narew.info,pzl24.pl,tvpogranicze.pl,tv-kwidzyn.pl,tvbelchatow.pl,tv-slupsk.pl,radiozamosc.pl,tvsierpc.pl,eluban.pl,auto-motor-i-sport.pl,menshealth.pl,womenshealth.pl,runners-world.pl,motocykl-online.pl,ox.pl,radiobonton.pl,dzienniknowy.pl,lokalna24.pl,tv.starachowice.pl,kronikatygodnia.pl,sandomierztv.pl,tarnowska.tv
+tvsudecka.pl,tczewska.pl,slowopodlasia.pl,bydgoszcz.com,tvswinoujscie.pl,tygodnikoko.pl,tv-wschod.pl,inowroclaw.info.pl,korsosanockie.pl,supertydzien.pl,lokalnatelewizja.pl,wiara.pl,radiosochaczew.pl,debica24.eu,zvami.tv,telewizjazary.pl,korsokolbuszowskie.pl,kociewiak.pl,cooltura24.co.uk,portalpomorza.pl,tvobiektyw.pl,echotygodnik.info,damitv.pl,ct.jaworzno.pl,narew.info,pzl24.pl,tvpogranicze.pl,tv-kwidzyn.pl,tvbelchatow.pl,tv-slupsk.pl,radiozamosc.pl,tvsierpc.pl,eluban.pl,auto-motor-i-sport.pl,menshealth.pl,womenshealth.pl,runners-world.pl,motocykl-online.pl,ox.pl,radiobonton.pl,dzienniknowy.pl,lokalna24.pl,tv.starachowice.pl,kronikatygodnia.pl,sandomierztv.pl,tarnowska.tv,telewizjamazury.pl
 tvswinoujscie.pl
 tvwlodawa.pl
 twojahistoria.pl
@@ -2672,7 +2678,7 @@ v10.pl
 v10.pl
 valetudo.bialystok.pl
 vampirediaries.pl
-vanessa.fm
+vanessa.fm,portal.region.info.pl
 vape.pl
 vape.pl
 vbtpc.pl
@@ -2899,7 +2905,7 @@ www.photoblog.pl
 www.pino.pl
 www.planowaniewesela.pl
 www.pless.pl
-www.pokochasz.pl,probasket.pl,fantastyka.pl,ochrona-mienia.pl,wpodroz.com.pl
+www.pokochasz.pl,probasket.pl,fantastyka.pl,ochrona-mienia.pl,wpodroz.com.pl,2x45.info
 www.policja2009.fora.pl
 www.ppe.pl
 www.press.pl
