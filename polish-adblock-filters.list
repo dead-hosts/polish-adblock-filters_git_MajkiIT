@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2019041201
+v.2019041402
 !
 !
 !1
@@ -468,6 +468,7 @@ chillizet.pl,antyradio.pl
 chip.pl
 chip.pl
 chip.pl
+chip.pl,magazynbieganie.pl
 chip.pl
 chip.pl
 chip.pl
@@ -618,6 +619,7 @@ doradcasmaku.pl
 dorzeczy.pl
 dostawczakiem.pl
 dotnetomaniak.pl
+dotnetomaniak.pl,dostawczakiem.pl
 download.net.pl
 doz.pl
 drukowanka.pl
@@ -819,7 +821,7 @@ fili.cc
 fili.cc,centrumdruku3d.pl,pebx.pl
 filmpolski.pl
 films4free.pl
-filmweb.pl
+!filmweb.pl
 firmy77.pl
 fishing-mart.com.pl
 flarrow.pl
@@ -1208,6 +1210,7 @@ jablonka.info
 jablonka.info
 jacus.pl
 jadarhobby.pl
+jadlonomia.com
 jagiellonia.net
 jagodnik.pl
 jagodnik.pl
@@ -2600,6 +2603,7 @@ tvmalbork.pl,tvsztum.pl,zulawyimierzeja24.pl,tvregionalna24.pl
 tvmalbork.pl,tvsztum.pl,zulawyimierzeja24.pl,tvregionalna24.pl
 tvmalbork.pl
 tvn24.pl
+tvswietokrzyska.pl
 tvnwarszawa.tvn24.pl
 tvp.info,legia.net
 tvpolsat.info
@@ -2941,7 +2945,7 @@ wyborcza.pl
 wyborcza.pl
 wyborcza.pl
 wylecz.to
-!wylecz.to
+wylecz.to
 wylecz.to
 wykop.pl,demotywatory.pl,joemonster.org,mistrzowie.org
 wynagrodzenia.pl

@@ -441,8 +441,8 @@
             "state": "future"
         },
         "evertiq.pl": {
-            "epoch": "1555286400",
-            "expiration_date": "15-apr-2019",
+            "epoch": "1586908800",
+            "expiration_date": "15-apr-2020",
             "state": "future"
         },
         "exs.pl": {
@@ -836,8 +836,8 @@
             "state": "future"
         },
         "meczyki.pl": {
-            "epoch": "1555286400",
-            "expiration_date": "15-apr-2019",
+            "epoch": "1649980800",
+            "expiration_date": "15-apr-2022",
             "state": "future"
         },
         "mediaexpert.pl": {
