@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2019041402
+v.2019041802
 !
 !
 !1
@@ -39,8 +39,8 @@ _baner/980x200
 _banery/980x200
 /banery/*980x90
 ://*.*/banery_foto/$image,domain=ki24.info|portalplock.pl|faktypilskie.pl|ddtorun.pl|ddwloclawek.pl|koronowo.net.pl|zyciesiedleckie.pl
-/banery/$image,subdocument,object,domain=oknoserwis.pl|sps24.pl|www.chojnice.com|usa.info.pl|jarocinska.pl|www.obud.pl|skijumping.pl|gintama.wbijam.pl|haczyk.pl|instalacjebudowlane.pl|jagiellonia.net|kdega.e-kei.pl|naszalomza.pl|pionki24.pl|mragowo24.info|lokalna24.pl|ebarlinek.pl|kuriergarwolinski.pl|bielsko.biala.pl|www.budownictwo.org|www.serwer.brodnica.net|www.sps24.pl|staleo.pl|super-nowa.pl
-/bannery/*$image,subdocument,domain=em.kielce.pl|czasdzieci.pl|kolporter.com.pl|sklep-tvsat.hcore.pl|www.pokertexas.pl|www.walbrzych24.com|zlotoryja.info|skijumping.pl|icomp.pl|forum.cs-classic.pl|nocnygdansk.pl|wagaciezka.com|obud.pl|beskid-niski.pl|ezakopane.pl
+/banery/$image,subdocument,object,domain=oknoserwis.pl|sps24.pl|www.chojnice.com|usa.info.pl|jarocinska.pl|www.obud.pl|skijumping.pl|gintama.wbijam.pl|haczyk.pl|instalacjebudowlane.pl|jagiellonia.net|kdega.e-kei.pl|naszalomza.pl|pionki24.pl|mragowo24.info|lokalna24.pl|ebarlinek.pl|kuriergarwolinski.pl|bielsko.biala.pl|www.budownictwo.org|www.serwer.brodnica.net|www.sps24.pl|staleo.pl|super-nowa.pl|ekorodzice.pl
+/bannery/*$image,subdocument,domain=em.kielce.pl|czasdzieci.pl|kolporter.com.pl|sklep-tvsat.hcore.pl|www.walbrzych24.com|zlotoryja.info|skijumping.pl|icomp.pl|forum.cs-classic.pl|nocnygdansk.pl|wagaciezka.com|obud.pl|beskid-niski.pl|ezakopane.pl
 /content-generator/published/frame/generate?*frameId=*&placementId=*&guid=
 /data/ap3bo6/*.gif$image,domain=tvmalbork.pl|tvsztum.pl|zulawyimierzeja24.pl|tvregionalna24.pl
 /data/ap3bo6/*.jpg$image,domain=tvmalbork.pl|tvsztum.pl|zulawyimierzeja24.pl|tvregionalna24.pl
@@ -108,6 +108,7 @@ vshare.io
 ~przelewy24.pl,~allegro.pl,~zaq2.pl,~docer.pl,pl
 ~fakt.pl,pl
 ~avclub.gr
+~facebook.com
 ~istotne.pl,pl
 ~joemonster.org
 ~kakto.pl,~agatameble.pl,~ccc.eu,~redcoon.pl
@@ -160,7 +161,7 @@ popkiller.pl,tygodnikpodhalanski.pl,cnc.info.pl
 ~przegladsportowy.pl,~playpuls.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,~gry-online.pl,~tv6.com.pl,~trojmiasto.pl,~otomoto.pl,~dziennikwschodni.pl,~obalamyglupote.pl,pl,~pornohd.pl,~polskieszlaki.pl,~poczta.interia.pl,~comperia.pl,~filmweb.pl,~semtalk.pl,~eurogamer.pl
 /reklamy/*$image,object,subdocument,domain=~selgros24.pl|~jacus.pl
 ~timeanddate.com,~sanalmarket.com.tr
-~uk,~kraken.com,~elton.com.ua,~alexbranding.com,~unitheme.net,~konsoleigry.pl,~megadyskont.pl
+~livacha.com,~uk,~kraken.com,~elton.com.ua,~alexbranding.com,~unitheme.net,~konsoleigry.pl,~megadyskont.pl
 ~webcamera.pl
 ~szczecinek.com,~olneo.pl,~wirtualnemedia.pl,~radekcholewinski.pl,~github.com,~dlawas.info
 /wp-content/uploads/*/baner$image,domain=lubanski.eu|miastoiludzie.pl|eksmagazyn.pl|infokatowice.pl|mma.pl|tvwlodawa.pl
@@ -1050,7 +1051,6 @@ grydladzieci.pl
 grydladzieci.pl
 grydladzieci.pl
 grylogiczne.biz.pl
-grynaprzegladarke.pl
 gsim.pl
 gsmmaniak.pl
 gsmmaniak.pl
@@ -1146,6 +1146,7 @@ infokatowice.pl
 infolwowek24.pl
 infolwowek24.pl
 infolwowek24.pl
+infoludek.pl
 infopodkarpacie.pl
 infopodkarpacie.pl
 informacja.wroclaw.pl
@@ -1783,7 +1784,6 @@ noizz.pl
 nokiahacking.pl
 nolesnica.pl,szczecinek.com
 novekino.pl
-nowa.gazetaobywatelska.info
 nowafarmacja.pl
 nowagazeta.pl
 nowagazeta.pl
@@ -1794,7 +1794,6 @@ nowastrategia.org.pl
 nowastrategia.org.pl
 nowawrzesnia.pl
 noweinfo.pl
-nowemp3.pl
 nowodworski24.pl
 nowy-sacz.info
 nowy-sacz.info
@@ -1828,6 +1827,7 @@ ogloszenia.niedziela.nl,phrasal-verbs.pl
 ogloszenia.niedziela.nl
 ogrodnikleszek.pl
 okiemrolnika.pl
+oknonet.pl
 oknonet.pl
 oknonet.pl
 oknoserwis.pl
@@ -2045,7 +2045,7 @@ portalsremski.pl
 portaltatrzanski.com
 poscigi.pl
 posshop.pl
-postawnaswoim.pl,forum.tweaks.pl,androidhacksgames.com,mobilegameshack4u.com,solarkurier.pl,miniskrypt.hubaiitv.pl,swirtv.czo.pl,precyl.com,przeklej.org,club4you.pl,darmowetv.pl,forum.vwgolf.pl,szuman.eu,audiostereo.pl,ogloszenia.gazeta.ie,legio24.pl,sdcv.pl,dostawcy-internetu.pl,forum.bukmacherskie.com,nasze.fm,lovekrakow.pl,mh24.pl,faktykonopne.pl,lajfy.com,disco-polo.info,pokemon-go.pl,gazeta-wiesci.pl,polskaniepodlegla.pl,lpg-forum.pl,kuszotv.pl,meczelive.tv,tablety.pl,polskatimes.pl,gazetakrakowska.pl,nacjonalista.pl,ostrowiecnews.pl,medianarodowe.com,prawy.pl,hobby-elektronika.eu,lowiczanin.info,kurier-w.pl,protestanci.info
+postawnaswoim.pl,forum.tweaks.pl,androidhacksgames.com,mobilegameshack4u.com,solarkurier.pl,miniskrypt.hubaiitv.pl,swirtv.czo.pl,precyl.com,przeklej.org,club4you.pl,darmowetv.pl,forum.vwgolf.pl,szuman.eu,audiostereo.pl,ogloszenia.gazeta.ie,legio24.pl,sdcv.pl,dostawcy-internetu.pl,forum.bukmacherskie.com,nasze.fm,lovekrakow.pl,mh24.pl,faktykonopne.pl,lajfy.com,disco-polo.info,pokemon-go.pl,gazeta-wiesci.pl,polskaniepodlegla.pl,lpg-forum.pl,kuszotv.pl,meczelive.tv,tablety.pl,polskatimes.pl,gazetakrakowska.pl,nacjonalista.pl,ostrowiecnews.pl,medianarodowe.com,prawy.pl,hobby-elektronika.eu,lowiczanin.info,kurier-w.pl,protestanci.info,wachtyrz.eu
 potplayerclub.pl
 powiatowa.info
 powiatowa.info
@@ -2068,6 +2068,7 @@ prawdaobiektywna.pl
 prawicowyinternet.pl
 prawicowyinternet.pl
 prawicowyinternet.pl
+prawo.pl
 prawodrogowe.pl
 prawy.pl
 predkosc.pl
@@ -2354,7 +2355,6 @@ spidersweb.pl
 spidersweb.pl
 spidersweb.pl
 spidersweb.pl
-spigot.pl
 spiz.pl,roksa.pl
 spliff.pl
 spottedskarzysko.pl
@@ -2367,7 +2367,6 @@ sportrelacje.pl
 sportowebeskidy.pl,naklo.fm
 sportowememy.pl
 sportowepodhale.pl
-sportowywroclaw.eu
 spottedlublin.pl
 spottedlublin.pl
 spryciarze.pl
@@ -2566,6 +2565,7 @@ translate.google.pl
 trasa.info
 trasa.info
 trasa.info,kreskowki-online.pl,cs-creativ.pl
+travelin.pl
 treningbiegacza.pl
 tripolo.pl
 trodatreleases.com
@@ -3148,7 +3148,7 @@ zywiecinfo.pl
 ||embed.powercontent.pl^
 ||embed.wprost.pl/ad/$xmlhttprequest,domain=www.wprost.pl
 ||emisja.adsearch.pl/_/intext_static/*$script
-||emisja.contentstream.pl/$script,image,domain=~gol24.pl
+||emisja.contentstream.pl/$script,image,domain=~gol24.pl|~www.rp.pl
 ||eostroleka.pl/luba/dane/pliki/cache-*/$image,subdocument
 ||eurogol.pl/images/banner.jpg$image
 ||evertiq.pl/bin/evqNewsTop.js
@@ -3483,7 +3483,6 @@ zywiecinfo.pl
 ||www.pch24.pl/js/banery.js$script
 ||www.pgt.pl/rekl/$image
 ||www.piszanin.pl/img/img_bannery/$image
-||www.pokertexas.pl/uploads/pics/$image
 ||www.portalprzemyski.pl/wp-content/re/
 ||www.powiatsuski24.pl/banners/$image
 ||www.prostozopolskiego.pl/rekl/$image
@@ -3734,6 +3733,7 @@ xyz,mecz.tv,ipilka.info
 ||ocs-pl.oktawave.com/*/*/bezprawnik/*/*_screening_smeo_promocja_*.png
 ||foto.stalowka.net/design/opel.jpg
 ||ocs-pl.oktawave.com/v1/AUTH_2887234e-384a-4873-8bc5-405211db13a2/spidersweb/2019/01/380x1035.jpg$image
+||media.dziennikzwiazkowy.com/wp-content/uploads/2019/04/*.gif
 !
 !21
 ||imgwykop.pl/*/*/paylink_$image,domain=www.wykop.pl

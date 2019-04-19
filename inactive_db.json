@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
-        "1555549082": [
+        "1555635539": [
             "*cda.pl",
             ".tradedoubler.com",
             "accounts.goouigle.net",
@@ -9,6 +9,7 @@
             "aster18cdn.nl",
             "av-cdn-*.wpimg.pl",
             "businessclick.*",
+            "cdn1.pebx.pl",
             "dhl-paczki.ml",
             "fb-zmiana-koloru.pl",
             "forum-windows.eu",
