@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2019041802
+v.2019042204
 !
 !
 !1
@@ -39,7 +39,7 @@ _baner/980x200
 _banery/980x200
 /banery/*980x90
 ://*.*/banery_foto/$image,domain=ki24.info|portalplock.pl|faktypilskie.pl|ddtorun.pl|ddwloclawek.pl|koronowo.net.pl|zyciesiedleckie.pl
-/banery/$image,subdocument,object,domain=oknoserwis.pl|sps24.pl|www.chojnice.com|usa.info.pl|jarocinska.pl|www.obud.pl|skijumping.pl|gintama.wbijam.pl|haczyk.pl|instalacjebudowlane.pl|jagiellonia.net|kdega.e-kei.pl|naszalomza.pl|pionki24.pl|mragowo24.info|lokalna24.pl|ebarlinek.pl|kuriergarwolinski.pl|bielsko.biala.pl|www.budownictwo.org|www.serwer.brodnica.net|www.sps24.pl|staleo.pl|super-nowa.pl|ekorodzice.pl
+/banery/$image,subdocument,object,domain=oknoserwis.pl|sps24.pl|www.chojnice.com|usa.info.pl|jarocinska.pl|www.obud.pl|skijumping.pl|gintama.wbijam.pl|haczyk.pl|instalacjebudowlane.pl|jagiellonia.net|kdega.e-kei.pl|naszalomza.pl|pionki24.pl|mragowo24.info|lokalna24.pl|ebarlinek.pl|kuriergarwolinski.pl|bielsko.biala.pl|www.budownictwo.org|www.serwer.brodnica.net|www.sps24.pl|staleo.pl|super-nowa.pl
 /bannery/*$image,subdocument,domain=em.kielce.pl|czasdzieci.pl|kolporter.com.pl|sklep-tvsat.hcore.pl|www.walbrzych24.com|zlotoryja.info|skijumping.pl|icomp.pl|forum.cs-classic.pl|nocnygdansk.pl|wagaciezka.com|obud.pl|beskid-niski.pl|ezakopane.pl
 /content-generator/published/frame/generate?*frameId=*&placementId=*&guid=
 /data/ap3bo6/*.gif$image,domain=tvmalbork.pl|tvsztum.pl|zulawyimierzeja24.pl|tvregionalna24.pl
@@ -185,7 +185,7 @@ popkiller.pl,tygodnikpodhalanski.pl,cnc.info.pl
 24pr.pl,tu.swinoujscie.pl
 24starogard.pl
 24wroclaw.pl
-24wspolnota.pl,kociewiak.pl
+24wspolnota.pl,kociewiak.pl,cooltura24.co.uk
 2bstyle.pl
 2conv.com,flvto.biz,glos.pl
 300polityka.pl
@@ -254,6 +254,7 @@ aniamaluje.com
 anime-centrum.pl
 animes.pl
 animes.pl
+antistorm.eu
 antyweb.pl
 antyweb.pl
 antyweb.pl
@@ -544,6 +545,7 @@ cyfrowypolsatnews.pl
 cyfrowypolsatnews.pl
 cyfrowypolsatnews.pl
 cyfrowypolsatnews.pl
+cypr24.eu
 czajna.pl
 czasdzieci.pl
 czateria.interia.pl
@@ -687,6 +689,7 @@ eholiday.pl
 eioba.pl
 ekinomaniak.tv
 ekologia.pl
+ekorodzice.pl
 eksiazki.az.pl
 eku24.net
 eku24.net
@@ -1241,7 +1244,6 @@ jdtech.pl
 jdtech.pl
 jdtech.pl
 jdtech.pl
-jednoslad.pl
 jedrzejowska.net
 jedrzejowska.net
 jelonka.com
@@ -2122,6 +2124,7 @@ pukawka.pl
 pultusk24.pl
 pultusk24.pl
 pultusk24.pl
+punkt.media
 purepc.pl
 purepc.pl
 pykownia.pl
@@ -2747,6 +2750,7 @@ wiadomosci24.pl
 wiadomosci24.pl
 wiadomoscihandlowe.pl
 wiadomoscihandlowe.pl
+wiara.pl
 wielodzietni.org
 wiesci.com.pl,~archiwum.wiesci.com.pl
 wikirose.pl
@@ -3011,7 +3015,7 @@ zeglarski.info
 zepsute.pl
 zespolmi.pl
 zielonanews.pl
-zielonydziennik.pl,tygodnikkrag.pl,itfocus.pl,tsl-biznes.pl,trucks.com.pl
+zielonydziennik.pl,tygodnikkrag.pl,itfocus.pl,tsl-biznes.pl,trucks.com.pl,polska-ie.com
 zielonyogrodek.pl
 ziemialimanowska.pl
 zinfo.pl
@@ -3052,6 +3056,7 @@ zywiecinfo.pl
 /videoPlayer.js$script,domain=polsatnews.pl|polsatsport.pl
 /uploads/*tapeta*.jpg$image,domain=ciekawostkihistoryczne.pl|katowice24.info|miastodzieci.pl
 /vardata/obrazki/$image,domain=pionki24.pl|zwolen24.pl
+/aserver/$domain=docer.pl
 ||24opole.pl/bimg/$image
 ||40ton.net/wp-content/uploads/*.gif$image
 ||40ton.net/wp-content/uploads/*.png$image
@@ -3298,6 +3303,7 @@ zywiecinfo.pl
 ||openkatalog.ml/epg/?channel=$subdocument
 ||opensubtitles.org/*=.js$script
 ||ostrzeszowinfo.pl/files/*reklama$image
+||ovh.webshark.pl^
 ||ozoneo.pl/templates/images/description/5901/Image/$image
 ||ozoneo.pl/templates/images/rotators/$image
 ||pan-doradca.pl/index/noaidb/
@@ -4131,6 +4137,9 @@ zwiedzamyparyz.pl
 /:\/\/[\w\W]{4,15}\.[a-z]{2,6}:[0-9]{3,4}\//$subdocument,domain=alltube.tv|szukajka.tv|alltube.pl
 /:\/\/[\w\W]{5,15}\.[a-z]{2,3}:[0-9]{3,4}\//$domain=alltube.tv|ekinomaniak.tv|vidoza.net|alltube.pl|fili.cc
 ||cdn1.pebx.pl^
+||docer.pl/aserver/*
+||ad.docer.pl^
+||adk.docer.pl^
 !
 !40
 @@||cda.pl/*/*$subdocument,domain=alltube.tv|alltube.pl
