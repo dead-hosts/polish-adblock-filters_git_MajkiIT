@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2019042603
+v.2019042705
 !
 !
 !1
@@ -3059,7 +3059,7 @@ zywiecinfo.pl
 /videoPlayer.js$script,domain=polsatnews.pl|polsatsport.pl
 /uploads/*tapeta*.jpg$image,domain=ciekawostkihistoryczne.pl|katowice24.info|miastodzieci.pl
 /vardata/obrazki/$image,domain=pionki24.pl|zwolen24.pl
-/aserver/$domain=docer.pl
+/aserver/$script,subdocument
 ||24opole.pl/bimg/$image
 ||40ton.net/wp-content/uploads/*.gif$image
 ||40ton.net/wp-content/uploads/*.png$image
@@ -3811,6 +3811,11 @@ filmbit.ws
 ||sitebravefull.info^
 ||remtoaku.net^
 ||dexessee.com^
+||whegadry.com^
+||webshark.pl/apcu/*.js$script
+||freedisc.pl/static/rating/*.png$popup,domain=allcaster.pl
+||google.com/favicon.ico$popup,domain=allcaster.pl
+||glaimtug.com^
 !
 !28
 /dropzone/$script,domain=filmbit.ws

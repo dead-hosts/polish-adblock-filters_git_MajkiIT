@@ -525,6 +525,16 @@
             "expiration_date": "25-apr-2019",
             "state": "future"
         },
+        "glaimtug.com": {
+            "epoch": "1578614400",
+            "expiration_date": "10-jan-2020",
+            "state": "future"
+        },
+        "google.com": {
+            "epoch": "1600041600",
+            "expiration_date": "14-sep-2020",
+            "state": "future"
+        },
         "googlesyndication.com": {
             "epoch": "1579564800",
             "expiration_date": "21-jan-2020",
@@ -1605,6 +1615,11 @@
             "expiration_date": "25-nov-2019",
             "state": "future"
         },
+        "webshark.pl": {
+            "epoch": "1562544000",
+            "expiration_date": "08-jul-2019",
+            "state": "future"
+        },
         "webstat.pl": {
             "epoch": "1585094400",
             "expiration_date": "25-mar-2020",
@@ -1618,6 +1633,11 @@
         "wgrane.pl": {
             "epoch": "1562889600",
             "expiration_date": "12-jul-2019",
+            "state": "future"
+        },
+        "whegadry.com": {
+            "epoch": "1578441600",
+            "expiration_date": "08-jan-2020",
             "state": "future"
         },
         "wiarygodnafirma24.pl": {
