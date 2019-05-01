@@ -300,6 +300,11 @@
             "expiration_date": "30-may-2019",
             "state": "future"
         },
+        "daily-jokes.net": {
+            "epoch": "1588118400",
+            "expiration_date": "29-apr-2020",
+            "state": "future"
+        },
         "damdaj.pl": {
             "epoch": "1551916800",
             "expiration_date": "07-mar-2019",
@@ -1323,6 +1328,11 @@
         "seanse24.pl": {
             "epoch": "1551830400",
             "expiration_date": "06-mar-2019",
+            "state": "future"
+        },
+        "secure-eplatnosc.com": {
+            "epoch": "1588204800",
+            "expiration_date": "30-apr-2020",
             "state": "future"
         },
         "sekabet105.com": {
