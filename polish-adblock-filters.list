@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2019043001
+v.2019050402
 !
 !
 !1
@@ -742,6 +742,7 @@ eredivisie.pl
 ergokantor.pl
 erocentrum.pl
 erp-view.pl
+e-sadownictwo.pl
 e-stargard.pl
 esanok.pl
 esanok.pl
@@ -2123,7 +2124,6 @@ przewodnicywedkarscy.pl
 przychodnia.pl
 przyslijprzepis.pl
 pszczynska.pl,polskicaravaning.pl,4run.pl,eglos.pl,wiadomoscikosmetyczne.pl
-psy-pies.com
 pudelek.tv,wp.tv,interaktywnie.com
 pukawka.pl
 pultusk24.pl
@@ -3056,7 +3056,7 @@ zywiecinfo.pl
 !10
 /grafika/banerki_reklamowe/$image,domain=wbijam.pl
 /videoPlayer.js$script,domain=polsatnews.pl|polsatsport.pl
-/uploads/*tapeta*.jpg$image,domain=ciekawostkihistoryczne.pl|katowice24.info|miastodzieci.pl
+/uploads/*tapeta*.jpg$image,domain=ciekawostkihistoryczne.pl|katowice24.info|miastodzieci.pl|wrc.net.pl
 /vardata/obrazki/$image,domain=pionki24.pl|zwolen24.pl
 /aserver/$script,subdocument
 ||24opole.pl/bimg/$image
