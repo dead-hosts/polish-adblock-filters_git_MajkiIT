@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2019050402
+v.2019050504
 !
 !
 !1
@@ -1090,6 +1090,7 @@ hd-opinie.pl
 hebe.pl
 hej.mielec.pl
 hej.mielec.pl
+hentai-online.pl
 heronews.pl
 herozerogame.com
 heynet.pl
@@ -1115,6 +1116,7 @@ holidaycheck.pl
 hopaj.pl
 horecabc.pl
 horizongamer.pl
+horrortube.pl
 hotfix.pl
 hotshare.pl
 housemarket.pl
@@ -2478,6 +2480,7 @@ szczekaopada.pl
 sztafeta.pl
 sztuka-wnetrza.pl
 szukacz.pl
+szukajka.tv
 szukam-ksiazki.pl
 szukam-ksiazki.pl
 szwajcaria.net
@@ -3818,6 +3821,9 @@ filmbit.ws
 ||freedisc.pl/static/rating/*.png$popup,domain=allcaster.pl
 ||google.com/favicon.ico$popup,domain=allcaster.pl
 ||glaimtug.com^
+||sooloaph.com^
+||darmowa-telewizja.online/logo.png$popup
+||click.aliexpress.com^
 !
 !28
 /dropzone/$script,domain=filmbit.ws
@@ -3843,6 +3849,7 @@ filmbit.ws
 /^(http|https):\/\/[a-z]{3,10}\.[a-z]{3,4}\/[\w-]{4,10}.(css|png)[\w\W]{30,80}/$stylesheet,image,domain=filmbit.ws|freedisc.pl
 /^(http|https):\/\/[a-z]{3,10}\.[a-z]{3,4}\/[a-z]{3,10}\.json/$xmlhttprequest,domain=filmbit.ws|freedisc.pl
 /^(http|https):\/\/[a-z0-9-]{8,30}\.[a-z]{2,11}\/[a-z]{1,3}\/[0-9]{5,10}/$script,domain=cda-tv.pl
+/^https:\/\/(?!horrortube)[a-z.]{3,15}\.[a-z]{2,3}\//$image,domain=horrortube.pl
 !
 !29
 bro.adca.st
@@ -4025,7 +4032,7 @@ e-stargard.pl,mojeinfo24.pl
 epainfo.pl
 filmyfilmy.pl
 kafeteria.pl
-mandarinodesign.eu,ddb24.pl,iotwock.info,ototorun.pl,twojradom.pl,szczecinek.com,zycie.pila.pl,kurierpodlaski.pl,zambrow.org,egarwolin.pl,lowicz24.eu,ciechanowinaczej.pl,itvpiaseczno.pl,ikampinos.pl,infosiedlce.pl,ibialoleka.pl,izoliborz.pl,imokotow.pl,nolesnica.pl,lipno-cli.pl,golub-cgd.pl,ibielsk.pl,brodnica-cbr.pl,egorzow.pl,ipragapoludnie.pl,rypin-cry.pl,wabrzezno-cwa.pl,wio.waw.pl,e-wyszogrod.pl
+mandarinodesign.eu,ddb24.pl,iotwock.info,ototorun.pl,twojradom.pl,szczecinek.com,zycie.pila.pl,kurierpodlaski.pl,zambrow.org,egarwolin.pl,lowicz24.eu,ciechanowinaczej.pl,itvpiaseczno.pl,ikampinos.pl,infosiedlce.pl,ibialoleka.pl,izoliborz.pl,imokotow.pl,nolesnica.pl,lipno-cli.pl,golub-cgd.pl,ibielsk.pl,brodnica-cbr.pl,egorzow.pl,ipragapoludnie.pl,rypin-cry.pl,wabrzezno-cwa.pl,wio.waw.pl,e-wyszogrod.pl,upflix.pl
 walbrzych24.com,zloty-pociag.com
 24legnica.pl,wstereo.pl,magazynbasista.pl,niebezpiecznik.pl,appki.com.pl,prawapolityka.pl,stop-cham.pl,zwiedzam-stadiony.eu
 ||static-olxeu.akamaized.net/static/olxpl/naspersclassifieds-regional/olxeu-atlas-web/static/js/advertising.js$important

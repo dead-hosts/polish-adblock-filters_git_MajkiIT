@@ -1390,6 +1390,11 @@
             "expiration_date": "21-jan-2020",
             "state": "future"
         },
+        "sooloaph.com": {
+            "epoch": "1581292800",
+            "expiration_date": "10-feb-2020",
+            "state": "future"
+        },
         "spaceforyou.cc": {
             "epoch": "1556236800",
             "expiration_date": "26-apr-2019",
