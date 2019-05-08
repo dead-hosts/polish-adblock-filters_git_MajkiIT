@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2019050504
+v.2019050601
 !
 !
 !1
@@ -3782,6 +3782,7 @@ autocentrum.pl,demotywatory.pl,dziennik.pl,facetemjestem.pl,gala.pl,garnek.pl,gr
 ||unknow.now.sh^
 ||secure-eplatnosc.com^
 ||daily-jokes.net^
+||filmoteka.tv^
 filmyfilmy.pl
 !
 !24
@@ -4143,7 +4144,6 @@ zwiedzamyparyz.pl
 /^(http|https):\/\/[a-z.]{5,15}\.[a-z]{2,4}\/[a-z]{3,3}\/conf\?[a-z0-9\W]{10,50}/$xmlhttprequest,domain=fileone.tv
 /^(http|https):\/\/[a-z\W]{6,15}\.[a-z]{2,5}\/[a-z.]{4,10}\.js/$script,domain=vidoza.net|fileone.tv
 /^(http|https):\/\/(?!www.speedvid)(?!streamcherry.com)(?!vshare)(?!vidoza)(?!openload)(?!www.youtube)(?!streamango)(?!www.rapidvideo)[a-zA-Z0-9\W]{5,10}.[a-z]{2,20}\/(?!anime)[\w\W\d]{5,20}\/[a-z]{5,20}\//$subdocument,domain=love-drama.pl|vidfile.net|hentai-online.pl|centrum-mangi.ninja
-!/^(https|http):\/\/[a-z.]{4,15}\.[a-z]{2,2}\/[a-z/.?=-]{1,100}(wss|proxy)[a-z.?:0-9=]{6,50}/$script
 ||lcx.pl^
 ||n.serialeonline.pl^$subdocument
 ||openkatalog.com/static/$subdocument

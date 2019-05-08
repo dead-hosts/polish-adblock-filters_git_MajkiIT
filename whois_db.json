@@ -470,6 +470,11 @@
             "expiration_date": "01-sep-2019",
             "state": "future"
         },
+        "filmoteka.tv": {
+            "epoch": "1579046400",
+            "expiration_date": "15-jan-2020",
+            "state": "future"
+        },
         "filmozercy.com": {
             "epoch": "1560038400",
             "expiration_date": "09-jun-2019",
@@ -1106,8 +1111,8 @@
             "state": "future"
         },
         "pclab.pl": {
-            "epoch": "1557273600",
-            "expiration_date": "08-may-2019",
+            "epoch": "1588896000",
+            "expiration_date": "08-may-2020",
             "state": "future"
         },
         "pebx.pl": {
@@ -1606,8 +1611,8 @@
             "state": "future"
         },
         "vixnixxer.com": {
-            "epoch": "1557187200",
-            "expiration_date": "07-may-2019",
+            "epoch": "1588809600",
+            "expiration_date": "07-may-2020",
             "state": "future"
         },
         "vshare.io": {
