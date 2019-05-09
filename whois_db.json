@@ -310,6 +310,11 @@
             "expiration_date": "07-mar-2019",
             "state": "future"
         },
+        "darmowa-telewizja.online": {
+            "epoch": "1578268800",
+            "expiration_date": "06-jan-2020",
+            "state": "future"
+        },
         "datalandhobby.pl": {
             "epoch": "1567555200",
             "expiration_date": "04-sep-2019",
