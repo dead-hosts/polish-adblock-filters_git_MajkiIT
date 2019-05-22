@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2019051901
+v.2019052003
 !
 !
 !1
@@ -2142,7 +2142,6 @@ purepc.pl
 purepc.pl
 pykownia.pl
 pyszne.pl
-pytamy.pl
 pzl24.pl,magazyngitarzysta.pl
 pzn.pl
 pzpm.org.pl
@@ -3986,7 +3985,6 @@ biztok.money.pl
 biztok.money.pl
 biztok.money.pl
 direct.money.pl
-manager.money.pl
 money.pl
 money.pl
 money.pl
@@ -4040,6 +4038,7 @@ money.pl,moneyv.wp.pl
 @@||spedycje.pl/img/icon_reklama_2017.png$image
 @@||wpolityce24.pl/imgcache/300x250/*/uploads/news/$image
 @@||www.buliba.pl/css/overlayad.css$stylesheet,domain=www.buliba.pl
+@@||vitalia.pl/gfx/*/reklama/danie.png$image,third-party,domain=diety.wp.pl
 digest.com.pl
 e-stargard.pl,mojeinfo24.pl
 epainfo.pl
