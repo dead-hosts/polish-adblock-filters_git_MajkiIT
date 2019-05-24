@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2019052003
+v.2019052303
 !
 !
 !1
@@ -40,7 +40,7 @@ _banery/980x200
 /banery/*980x90
 ://*.*/banery_foto/$image,domain=ki24.info|portalplock.pl|faktypilskie.pl|ddtorun.pl|ddwloclawek.pl|koronowo.net.pl|zyciesiedleckie.pl
 /banery/$image,subdocument,object,domain=oknoserwis.pl|sps24.pl|www.chojnice.com|usa.info.pl|jarocinska.pl|www.obud.pl|skijumping.pl|gintama.wbijam.pl|haczyk.pl|instalacjebudowlane.pl|jagiellonia.net|kdega.e-kei.pl|naszalomza.pl|pionki24.pl|mragowo24.info|lokalna24.pl|ebarlinek.pl|kuriergarwolinski.pl|bielsko.biala.pl|www.budownictwo.org|www.serwer.brodnica.net|www.sps24.pl|staleo.pl|super-nowa.pl
-/bannery/*$image,subdocument,domain=em.kielce.pl|czasdzieci.pl|kolporter.com.pl|sklep-tvsat.hcore.pl|www.walbrzych24.com|zlotoryja.info|skijumping.pl|icomp.pl|forum.cs-classic.pl|nocnygdansk.pl|wagaciezka.com|obud.pl|beskid-niski.pl|ezakopane.pl
+/bannery/*$image,subdocument,domain=em.kielce.pl|czasdzieci.pl|kolporter.com.pl|sklep-tvsat.hcore.pl|www.walbrzych24.com|zlotoryja.info|skijumping.pl|icomp.pl|forum.cs-classic.pl|nocnygdansk.pl|wagaciezka.com|obud.pl|beskid-niski.pl|ezakopane.pl|czytelniamedyczna.pl
 /content-generator/published/frame/generate?*frameId=*&placementId=*&guid=
 /data/ap3bo6/*.gif$image,domain=tvmalbork.pl|tvsztum.pl|zulawyimierzeja24.pl|tvregionalna24.pl
 /data/ap3bo6/*.jpg$image,domain=tvmalbork.pl|tvsztum.pl|zulawyimierzeja24.pl|tvregionalna24.pl
@@ -159,7 +159,7 @@ popkiller.pl,tygodnikpodhalanski.pl,cnc.info.pl
 ~przegladsportowy.pl,~medonet.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,pl
 ~przegladsportowy.pl,~medonet.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,pl
 ~przegladsportowy.pl,~playpuls.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,~gry-online.pl,~tv6.com.pl,~trojmiasto.pl,~otomoto.pl,~medonet.pl,pl
-~przegladsportowy.pl,~playpuls.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,~gry-online.pl,~tv6.com.pl,~trojmiasto.pl,~otomoto.pl,~dziennikwschodni.pl,~obalamyglupote.pl,pl,~pornohd.pl,~polskieszlaki.pl,~poczta.interia.pl,~comperia.pl,~filmweb.pl,~semtalk.pl,~eurogamer.pl
+~przegladsportowy.pl,~playpuls.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,~gry-online.pl,~tv6.com.pl,~trojmiasto.pl,~otomoto.pl,~dziennikwschodni.pl,~obalamyglupote.pl,pl,~pornohd.pl,~polskieszlaki.pl,~poczta.interia.pl,~comperia.pl,~filmweb.pl,~semtalk.pl,~eurogamer.pl,~mapa-turystyczna.pl
 /reklamy/*$image,object,subdocument,domain=~selgros24.pl|~jacus.pl
 ~timeanddate.com,~sanalmarket.com.tr
 ~livacha.com,~uk,~kraken.com,~elton.com.ua,~alexbranding.com,~unitheme.net,~konsoleigry.pl,~megadyskont.pl
@@ -191,7 +191,7 @@ popkiller.pl,tygodnikpodhalanski.pl,cnc.info.pl
 2conv.com,flvto.biz,glos.pl
 2x45.info
 300polityka.pl
-300polityka.pl,meczyki.pl,polskapilka24.net,pepsieliot.com,gazeta-wiesci.pl
+300polityka.pl,meczyki.pl,pepsieliot.com,gazeta-wiesci.pl
 3dwpraktyce.pl
 40ton.net
 4clubbers.com.pl
@@ -418,7 +418,6 @@ brodnica.net
 brodnica.net
 bryk.pl
 brytol.com
-btc-sms.eu
 budmatauto.pl
 budnet.pl
 budnet.pl
@@ -459,6 +458,7 @@ centrumdruku3d.pl
 centrumxp.pl
 centrumxp.pl
 centrumwitalnosci.pl
+ceo.com.pl
 cgm.pl
 chamskie.pl
 chamskie.pl,psychiczni.pl
@@ -831,7 +831,7 @@ fili.cc
 fili.cc,centrumdruku3d.pl,pebx.pl
 filmpolski.pl
 films4free.pl
-!filmweb.pl
+filmweb.pl
 firmy77.pl
 fishing-mart.com.pl
 flarrow.pl
@@ -961,7 +961,6 @@ gazetaprawna.pl
 gazetaprawna.pl
 gazetapowiatowa.pl
 gazetasenior.pl
-gazetatrybunalska.pl
 gazetatychy.pl
 gazetawroclawska.pl
 gazetazabrze.pl
@@ -1506,6 +1505,7 @@ maritime.com.pl
 maritime.com.pl
 marketingibiznes.pl
 matematyka.pisz.pl
+matematyka.pisz.pl
 matzoo.pl
 maximgroup.pl
 mazury.info.pl
@@ -1694,6 +1694,7 @@ muzyka.dziennik.pl
 muzyka.interia.pl
 muzykazreklam.tv
 mvbezlimitu.pl
+mvno-gsm.pl
 my-mobile.pl
 my-mobile.pl
 my-mobile.pl
@@ -1925,10 +1926,10 @@ pebx.pl
 pebx.pl
 pebx.pl
 pebx.pl
+pecetowicz.pl
 pedlowski.pl
 pekao.com.pl
 pepper.pl
-perepele.pl
 perfektusplus.pl
 perfumik.pl
 perspektywy.pl
@@ -2284,7 +2285,7 @@ satkurier.pl
 satkurier.pl
 sci24.pl
 scie24.pl
-se.pl,~sport.se.pl
+se.pl,~sport.se.pl,~www.se.pl,~superseriale.se.pl
 seciki.pl
 sekrety-zdrowia.org
 serialeonline.pl
@@ -2373,7 +2374,7 @@ spiz.pl,roksa.pl
 spliff.pl
 spottedskarzysko.pl
 spottedskarzysko.pl
-sporteuro.pl
+sporteuro.pl,life4style.pl
 sport.se.pl
 sport.tvp.pl
 sportdziennik.pl
@@ -2551,7 +2552,7 @@ tenisklub.pl
 terazgabin.pl
 terazgrodkow24.pl,aletorcik.pl,ps4life.pl
 terazgrodkow24.pl,prawapolityka.pl,shebang.pl
-terazgrodkow24.pl,ziemialimanowska.pl,onalubi.pl,niestatystyczny.pl,centrumaut.pl,lifemanagerka.pl
+terazgrodkow24.pl,ziemialimanowska.pl,onalubi.pl,niestatystyczny.pl,centrumaut.pl,lifemanagerka.pl,life4style.pl
 teraz-wilanow.pl
 theoniondaily.com
 thepolandtimes.com
@@ -2571,7 +2572,6 @@ topagrar.pl
 topagrar.pl
 torebunia.pl
 torebunia.pl
-torrentos.com.pl
 tosiedzieje.pl
 tp.com.pl
 traftu.pl
@@ -2579,7 +2579,7 @@ transfery.info
 translate.google.pl
 trasa.info
 trasa.info
-trasa.info,kreskowki-online.pl,cs-creativ.pl
+trasa.info,cs-creativ.pl
 travelin.pl
 treningbiegacza.pl
 tripolo.pl
@@ -2624,7 +2624,7 @@ tvp.info,legia.net
 tvpolsat.info
 tv-polska.eu
 tvsudecka.pl
-tvsudecka.pl,tczewska.pl,slowopodlasia.pl,bydgoszcz.com,tvswinoujscie.pl,tygodnikoko.pl,tv-wschod.pl,inowroclaw.info.pl,korsosanockie.pl,supertydzien.pl,lokalnatelewizja.pl,wiara.pl,radiosochaczew.pl,debica24.eu,zvami.tv,telewizjazary.pl,korsokolbuszowskie.pl,kociewiak.pl,cooltura24.co.uk,portalpomorza.pl,tvobiektyw.pl,echotygodnik.info,damitv.pl,ct.jaworzno.pl,narew.info,pzl24.pl,tvpogranicze.pl,tv-kwidzyn.pl,tvbelchatow.pl,tv-slupsk.pl,radiozamosc.pl,tvsierpc.pl,eluban.pl,auto-motor-i-sport.pl,menshealth.pl,womenshealth.pl,runners-world.pl,motocykl-online.pl,ox.pl,radiobonton.pl,dzienniknowy.pl,lokalna24.pl,tv.starachowice.pl,kronikatygodnia.pl,sandomierztv.pl,tarnowska.tv,telewizjamazury.pl
+tvsudecka.pl,tczewska.pl,slowopodlasia.pl,bydgoszcz.com,tvswinoujscie.pl,tygodnikoko.pl,tv-wschod.pl,inowroclaw.info.pl,korsosanockie.pl,supertydzien.pl,lokalnatelewizja.pl,wiara.pl,debica24.eu,zvami.tv,telewizjazary.pl,korsokolbuszowskie.pl,kociewiak.pl,cooltura24.co.uk,portalpomorza.pl,tvobiektyw.pl,echotygodnik.info,damitv.pl,ct.jaworzno.pl,narew.info,pzl24.pl,tvpogranicze.pl,tv-kwidzyn.pl,tvbelchatow.pl,tv-slupsk.pl,radiozamosc.pl,tvsierpc.pl,eluban.pl,auto-motor-i-sport.pl,menshealth.pl,womenshealth.pl,runners-world.pl,motocykl-online.pl,ox.pl,radiobonton.pl,dzienniknowy.pl,lokalna24.pl,tv.starachowice.pl,kronikatygodnia.pl,sandomierztv.pl,tarnowska.tv,telewizjamazury.pl
 tvswinoujscie.pl
 tvwlodawa.pl
 twojahistoria.pl
@@ -3794,6 +3794,7 @@ autocentrum.pl,demotywatory.pl,dziennik.pl,facetemjestem.pl,gala.pl,garnek.pl,gr
 ||filmoteka.tv^
 ||gift.gifts-for-free.online^
 ||lijjt.com^
+||megolbassia.com^
 filmyfilmy.pl
 !
 !24
