@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2019052501
+v.2019052701
 !
 !
 !1
@@ -39,7 +39,7 @@ _baner/980x200
 _banery/980x200
 /banery/*980x90
 ://*.*/banery_foto/$image,domain=ki24.info|portalplock.pl|faktypilskie.pl|ddtorun.pl|ddwloclawek.pl|koronowo.net.pl|zyciesiedleckie.pl
-/banery/$image,subdocument,object,domain=oknoserwis.pl|sps24.pl|www.chojnice.com|usa.info.pl|jarocinska.pl|www.obud.pl|skijumping.pl|gintama.wbijam.pl|haczyk.pl|instalacjebudowlane.pl|jagiellonia.net|kdega.e-kei.pl|naszalomza.pl|pionki24.pl|mragowo24.info|lokalna24.pl|ebarlinek.pl|kuriergarwolinski.pl|bielsko.biala.pl|www.budownictwo.org|www.serwer.brodnica.net|www.sps24.pl|staleo.pl|super-nowa.pl
+/banery/$image,subdocument,object,domain=oknoserwis.pl|sps24.pl|www.chojnice.com|usa.info.pl|jarocinska.pl|www.obud.pl|skijumping.pl|gintama.wbijam.pl|haczyk.pl|instalacjebudowlane.pl|jagiellonia.net|kdega.e-kei.pl|naszalomza.pl|pionki24.pl|mragowo24.info|lokalna24.pl|ebarlinek.pl|kuriergarwolinski.pl|bielsko.biala.pl|www.budownictwo.org|www.serwer.brodnica.net|www.sps24.pl|staleo.pl|super-nowa.pl|zwolen24.pl
 /bannery/*$image,subdocument,domain=em.kielce.pl|czasdzieci.pl|kolporter.com.pl|sklep-tvsat.hcore.pl|www.walbrzych24.com|zlotoryja.info|skijumping.pl|icomp.pl|forum.cs-classic.pl|nocnygdansk.pl|wagaciezka.com|obud.pl|beskid-niski.pl|ezakopane.pl|czytelniamedyczna.pl
 /content-generator/published/frame/generate?*frameId=*&placementId=*&guid=
 /data/ap3bo6/*.gif$image,domain=tvmalbork.pl|tvsztum.pl|zulawyimierzeja24.pl|tvregionalna24.pl
@@ -403,7 +403,6 @@ bobrzanie.pl
 bochnianin.pl
 bochniazbliska.pl
 bokser.org
-bokser.org
 bonavita.pl
 bonavita.pl
 bonavita.pl
@@ -606,7 +605,7 @@ doba.pl,trojmiasto.pl,operatorzy.pl
 dobra-mama.pl
 dobramama.pl,tablety.pl,elektroda.pl
 dobrastacja.pl
-dobrewiadomosci.net.pl
+dobrewiadomosci.net.pl,getlevel.info
 dodajauto.pl
 dodajzdjecie.funfootball.pl
 dogry.pl
@@ -1064,6 +1063,7 @@ gsmmaniak.pl
 gsmmaniak.pl
 gsmmaniak.pl,acermaniak.pl,activemaniak.pl,agdmaniak.pl,appmaniak.pl,blogomaniak.pl,fotomaniak.pl,gizmaniak.pl,luxmaniak.pl,mobimaniak.pl,tabletmaniak.pl
 gsmservice.pl
+gtaforum.pl
 gwarek.com.pl
 gwarminska.pl
 gwarminska.pl
@@ -2105,6 +2105,7 @@ progressforpoland.com
 progressforpoland.com,cyfrowaekonomia.pl,expresselblag.pl
 prokapitalizm.pl
 promise.com.pl
+promocja.mielec.pl
 promocyjni.pl
 promocyjni.pl
 promocyjni.pl
@@ -2321,7 +2322,7 @@ sklep.habys.pl
 sklep.habys.pl
 sklep.habys.pl
 sklepzeglarski.net
-skok-rafineria.pl,www.nbi.com.pl
+skok-rafineria.pl
 skokinarciarskie.pl
 skokinarciarskie.pl
 skokinarciarskie.pl
@@ -2349,6 +2350,7 @@ sms7.pl
 sniadaniezkadra.onet.pl
 sniadaniezkadra.onet.pl
 snip.ly
+sochaczewianin.pl
 softonet.pl
 softonet.pl
 softonic.pl
@@ -2527,6 +2529,7 @@ telchina.pl
 telchina.pl
 telchina.pl
 telchina.pl
+telko.in
 telefonowal.pl
 telefonowal.pl
 telemagazyn.pl
@@ -3497,6 +3500,7 @@ zywiecinfo.pl
 ||www.moja-ostroleka.pl/uploads/wybory-2018/$image
 ||www.movie-box.pl/commer/*.mp4$media,domain=www.movie-box.pl
 ||www.multimediait.pl/klient/upload/$image,domain=terazkrosno.pl
+||www.nbi.com.pl/assets/Bannery/$image
 ||www.nowawrzesnia.pl/images/$image
 ||www.one-solution.pl/images/banner.png
 ||www.optymalizacja.com/img/$image
