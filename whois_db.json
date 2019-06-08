@@ -605,8 +605,8 @@
         "state": "future"
     },
     "haloursynow.pl": {
-        "epoch": "1559865600",
-        "expiration_date": "07-jun-2019",
+        "epoch": 1591488000,
+        "expiration_date": "07-jun-2020",
         "state": "future"
     },
     "hipek.pl": {
@@ -1045,9 +1045,9 @@
         "state": "future"
     },
     "nqp0852y7r.com": {
-        "epoch": "1559952000",
+        "epoch": 1559952000,
         "expiration_date": "08-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "offerplaying.com": {
         "epoch": "1557792000",
