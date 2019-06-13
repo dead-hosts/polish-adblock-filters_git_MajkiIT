@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2019061006
+v.2019061202
 !
 !
 !1
@@ -66,7 +66,7 @@ pl/*/rodzinnawycieczka/$image,domain=wp.pl
 /scripts/click.php$popup
 /upload_module//C_reklamy/*$domain=infobus.pl|transinfo.pl|inforail.pl|infotram.pl|infobike.pl|infoair.pl|infoship.pl
 /upload_module/C_reklamy/*$domain=infobus.pl|transinfo.pl|inforail.pl|infotram.pl|infobike.pl|infoair.pl|infoship.pl
-/uploads-no-w3tc/$image,domain=naekranie.pl
+!/uploads-no-w3tc/$image,domain=naekranie.pl
 /wp-content/plugins/bsa-pro-scripteo/*$script,stylesheet
 /wp-content/plugins/unblock-adsense/*/adunblock$stylesheet,script
 /wp-content/uploads/*/*300x600$image,domain=republikakobiet.pl
@@ -114,7 +114,7 @@ vshare.io
 ~joemonster.org
 ~kakto.pl,~agatameble.pl,~ccc.eu,~redcoon.pl
 ~m3esolutions.com,~sloworegionu.pl,~4active.eu,~valida.pl,~foodprint.pl,~roztoczanskipn.pl
-mclista.pl,bialystokonline.pl,ewgt.com.pl,tugazeta.pl,dbpolska.net,mojmac.pl,piszanin.pl,tubasiedlec.pl,pracawkatowicach.com.pl,pracawkrakowie.com.pl,sevillafc.pl
+mclista.pl,bialystokonline.pl,ewgt.com.pl,tugazeta.pl,dbpolska.net,mojmac.pl,piszanin.pl,tubasiedlec.pl,pracawkatowicach.com.pl,pracawkrakowie.com.pl,sevillafc.pl,miastokolobrzeg.pl
 ~milionczesci.pl,~dizibox.com,~2dehands.be,~www.pudelek.pl
 onet.pl
 pl
@@ -522,6 +522,7 @@ craftportal.pl
 craftportal.pl
 crazynauka.pl
 cro.pl
+cryptoprofit.pl
 cryptonews.pl
 cryptonews.pl
 cryptonews.pl
@@ -559,7 +560,7 @@ czyliwiesz.pl
 dania-dietetyczne.pl
 datapremiery.pl
 datapremiery.pl
-ddb24.pl,iotwock.info,ototorun.pl,twojradom.pl,szczecinek.com,zycie.pila.pl,kurierpodlaski.pl,zambrow.org,egarwolin.pl,lowicz24.eu,ciechanowinaczej.pl,itvpiaseczno.pl,ikampinos.pl,infosiedlce.pl,ibialoleka.pl,izoliborz.pl,imokotow.pl,nolesnica.pl,lipno-cli.pl,golub-cgd.pl,ibielsk.pl,brodnica-cbr.pl,egorzow.pl,ipragapoludnie.pl,rypin-cry.pl,wabrzezno-cwa.pl,wio.waw.pl,e-wyszogrod.pl,ekspresjaroslawski.pl,izabelin24.pl
+ddb24.pl,iotwock.info,ototorun.pl,twojradom.pl,szczecinek.com,zycie.pila.pl,kurierpodlaski.pl,zambrow.org,egarwolin.pl,lowicz24.eu,ciechanowinaczej.pl,itvpiaseczno.pl,ikampinos.pl,infosiedlce.pl,ibialoleka.pl,izoliborz.pl,imokotow.pl,nolesnica.pl,lipno-cli.pl,golub-cgd.pl,ibielsk.pl,brodnica-cbr.pl,egorzow.pl,ipragapoludnie.pl,rypin-cry.pl,wabrzezno-cwa.pl,wio.waw.pl,e-wyszogrod.pl,ekspresjaroslawski.pl,izabelin24.pl,tugrodzisk.pl
 dbpolska.net
 dbpolska.net
 dbpolska.net
@@ -942,6 +943,7 @@ gazetabilgoraj.pl
 gazeta-olawa.pl
 gazetacz.com.pl
 gazetagazeta.com
+gazetakartuska.pl
 gazetaklobucka.pl
 gazetalubliniecka.pl
 gazetalubliniecka.pl,kreator-muzea.pl
@@ -1430,6 +1432,7 @@ live.com
 lk-projekt.pl
 lm.pl
 lokalna.info
+lokalna.com.pl
 lokalna24.pl
 lokalna24.pl
 lokalna24.pl
@@ -1714,9 +1717,6 @@ na-luzie.net
 nacjonalista.pl
 nacjonalista.pl
 nadmorski24.pl
-naekranie.pl
-naekranie.pl
-naekranie.pl
 naekranie.pl
 naekranie.pl
 naekranie.pl
@@ -2059,6 +2059,7 @@ portalmedialny.pl
 portalmorski.pl
 portalmorski.pl
 portalplock.pl
+portalpomorza.pl
 portalpszczelarski.pl
 portalsamorzadowy.pl
 portalsremski.pl
@@ -2524,6 +2525,7 @@ tarnow.in
 tarnow.net.pl
 tarnowiak.pl
 tatromaniak.pl
+tcz.pl
 techfresh.pl,chip.pl
 techmaniachd.pl
 techmaniachd.pl
@@ -3037,7 +3039,7 @@ zeglarski.info
 zepsute.pl
 zespolmi.pl
 zielonanews.pl
-zielonydziennik.pl,tygodnikkrag.pl,itfocus.pl,tsl-biznes.pl,trucks.com.pl,polska-ie.com
+zielonydziennik.pl,tygodnikkrag.pl,itfocus.pl,tsl-biznes.pl,trucks.com.pl,polska-ie.com,fleschmazowsza.com.pl
 zielonyogrodek.pl
 ziemialimanowska.pl
 zinfo.pl
@@ -3143,6 +3145,7 @@ zywiecinfo.pl
 ||cdn.pkwteile.de/uploads/stock/$image,domain=czesciauto24.pl
 ||cdn.salesmedia.pl/codes/$script
 ||cdn.syndication.twitter.com/widgets/tweetbutton/
+||csn.naekranie.pl/wp-content/uploads/*/*screening*.jpeg$image
 ||chlodnictwoiklimatyzacja.pl/images/tlo_$image
 ||chozoba.pl/images/baner$image
 ||ciechocinek.biz/banery_$image
@@ -3803,6 +3806,7 @@ autocentrum.pl,demotywatory.pl,dziennik.pl,facetemjestem.pl,gala.pl,garnek.pl,gr
 ||gift.gifts-for-free.online^
 ||lijjt.com^
 ||megolbassia.com^
+||maciekkurier.info^
 filmyfilmy.pl
 !
 !24
@@ -3927,7 +3931,7 @@ wp.tv
 ||www.wp.pl/*.okazje-kokpit.chunk.js
 ||v.wpimg.pl/M*fxc*==$image,domain=sportowefakty.wp.pl
 ||xml.enovatis.pl/mrdsl/json.php$xmlhttprequest,domain=turystyka.wp.pl
-||wp.pl/*-FwkqOxhmGz4XCSo7GGYbPhcJKjsYZhs-$script,domain=~pilot.wp.pl
+||wp.pl/*-FwkqOxhmGz4XCSo7GGYbPhcJKjsYZhs-$script,domain=~pilot.wp.pl|~www.dobreprogramy.pl
 !
 !33
 czat.wp.pl,infografika.wp.pl,dladzieci.pl,muzyka.wp.pl,niewiarygodne.pl,sportowybar.wp.pl,forum.o2.pl,topnews.wp.pl,ogloszenia.wp.pl

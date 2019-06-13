@@ -425,8 +425,8 @@
         "state": "future"
     },
     "elka.pl": {
-        "epoch": "1560297600",
-        "expiration_date": "12-jun-2019",
+        "epoch": 1592524800,
+        "expiration_date": "19-jun-2020",
         "state": "future"
     },
     "eluban.pl": {
@@ -842,6 +842,11 @@
     "lubliniec.net": {
         "epoch": "1555977600",
         "expiration_date": "23-apr-2019",
+        "state": "future"
+    },
+    "maciekkurier.info": {
+        "epoch": 1591747200,
+        "expiration_date": "10-jun-2020",
         "state": "future"
     },
     "magviz-secondsz.com": {
