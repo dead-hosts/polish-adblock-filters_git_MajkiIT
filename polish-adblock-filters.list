@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2019061202
+v.2019061303
 !
 !
 !1
@@ -159,7 +159,7 @@ popkiller.pl,tygodnikpodhalanski.pl,cnc.info.pl
 ~przegladsportowy.pl,~medonet.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,pl
 ~przegladsportowy.pl,~medonet.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,pl
 ~przegladsportowy.pl,~playpuls.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,~gry-online.pl,~tv6.com.pl,~trojmiasto.pl,~otomoto.pl,~medonet.pl,pl
-~przegladsportowy.pl,~playpuls.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,~gry-online.pl,~tv6.com.pl,~trojmiasto.pl,~otomoto.pl,~dziennikwschodni.pl,~obalamyglupote.pl,pl,~pornohd.pl,~polskieszlaki.pl,~poczta.interia.pl,~comperia.pl,~filmweb.pl,~semtalk.pl,~eurogamer.pl,~mapa-turystyczna.pl
+~przegladsportowy.pl,~playpuls.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,~gry-online.pl,~tv6.com.pl,~trojmiasto.pl,~otomoto.pl,~dziennikwschodni.pl,~obalamyglupote.pl,pl,~pornohd.pl,~polskieszlaki.pl,~poczta.interia.pl,~comperia.pl,~filmweb.pl,~semtalk.pl,~eurogamer.pl,~mapa-turystyczna.pl,~otodom.pl
 /reklamy/*$image,object,subdocument,domain=~selgros24.pl|~jacus.pl
 ~timeanddate.com,~sanalmarket.com.tr
 ~livacha.com,~uk,~kraken.com,~elton.com.ua,~alexbranding.com,~unitheme.net,~konsoleigry.pl,~megadyskont.pl
@@ -602,11 +602,11 @@ dlalejdis.pl
 www.dlanauczyciela.pl
 dla-pupila.pl
 doba.pl
-doba.pl,trojmiasto.pl,operatorzy.pl
+doba.pl,trojmiasto.pl,operatorzy.pl,2x45.info
 dobra-mama.pl
 dobramama.pl,tablety.pl,elektroda.pl
 dobrastacja.pl
-dobrewiadomosci.net.pl,getlevel.info
+dobrewiadomosci.net.pl,getlevel.info,tyna.info.pl
 dodajauto.pl
 dodajzdjecie.funfootball.pl
 dogry.pl
@@ -703,8 +703,6 @@ elblag.net,rawicz24.pl,zpleszewa.pl,gostynska.pl,jarocinska.pl
 elblag.net,zwielkopolski24.pl,gostynska.pl,jarocinska.pl
 elblag24.pl
 ele24.net
-elektroda.pl
-elektroda.pl
 elektroda.pl
 elektroda.pl
 elektroda.pl
@@ -945,6 +943,7 @@ gazetacz.com.pl
 gazetagazeta.com
 gazetakartuska.pl
 gazetaklobucka.pl
+gazetalokalna.com
 gazetalubliniecka.pl
 gazetalubliniecka.pl,kreator-muzea.pl
 gazetalubliniecka.pl
@@ -1030,6 +1029,7 @@ gowork.pl
 gowork.pl
 gowork.pl
 gotujzmaka.blogspot.com
+gp24.pl
 gpr24.pl
 gr4cze.pl
 grafmag.pl
@@ -1218,6 +1218,7 @@ iturek.net
 iturek.net
 iturek.net
 iturek.net
+itv24.com.pl
 itvpolska.pl
 itvpolska.pl
 itvpolska.pl
@@ -1515,6 +1516,7 @@ maritime.com.pl
 marketingibiznes.pl
 matematyka.pisz.pl
 matematyka.pisz.pl
+metropoliabydgoska.pl
 matzoo.pl
 maximgroup.pl
 mazury.info.pl
@@ -3062,6 +3064,7 @@ zwolen24.pl
 zwierciadlo.pl
 zwierciadlo.pl
 zycie.pl
+zyciekutna.pl
 zycie.pila.pl
 zyciebytomskie.pl
 zycieczestochowy.pl
