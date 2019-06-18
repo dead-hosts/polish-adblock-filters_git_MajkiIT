@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2019061303
+v.2019061702
 !
 !
 !1
@@ -1244,7 +1244,7 @@ jarzebski.pl
 jarzebski.pl
 jasnet.pl
 jastrzebieonline.pl,mfkip.pl,ogloszenia.plock.pl
-jaw.pl
+jaw.pl,jagodnik.pl
 jaw.pl
 jaw.pl
 jawor24h.pl
@@ -1338,7 +1338,7 @@ korkosfera.pl
 korso.pl,debica24.eu
 korsosanockie.pl,korso.pl
 koscian.net
-koszalininfo.pl,wlkp24.info,wwl24.info,b2-biznes.pl,sporteuro.pl,metropoliabydgoska.pl,brzeg24.pl,pabianice.tv,zambrowiacy.pl,e-play.pl,wrc.net.pl,dziennik.walbrzych.pl,asta24.pl,nswiecie.pl,blogtransportowy.pl,portalprzemyski.pl,wzielonej.pl,mikrokontroler.pl,naszawielkopolska.pl,radio-wrzesnia.pl,life4style.pl,zachodniemazowsze.info,mlecznepodroze.pl,ziemiadebicka.pl
+koszalininfo.pl,wlkp24.info,wwl24.info,b2-biznes.pl,sporteuro.pl,metropoliabydgoska.pl,brzeg24.pl,pabianice.tv,zambrowiacy.pl,e-play.pl,wrc.net.pl,dziennik.walbrzych.pl,asta24.pl,nswiecie.pl,blogtransportowy.pl,portalprzemyski.pl,wzielonej.pl,mikrokontroler.pl,naszawielkopolska.pl,radio-wrzesnia.pl,life4style.pl,zachodniemazowsze.info,mlecznepodroze.pl,ziemiadebicka.pl,szydlowiecki.eu,skarzyski.eu,konecki24.pl,starachowicki.eu
 kozaczek.pl
 kozaczek.pl
 kozienice24.pl
@@ -1606,6 +1606,7 @@ mistrzowie.org
 mistrzowie.org
 mistrzowie.org
 miziaforum.com
+mjakmama24.pl
 mklr.pl
 mlawa.fora.pl
 mlecznepodroze.onet.pl
@@ -2324,6 +2325,7 @@ silesia.fm,nowy.gryfickie.info
 silesia.fm,wxv.pl
 sitemag.pl
 sitemag.pl,infokatowice.pl,noweinfo.pl
+skarzysko24.pl
 skiny.pl
 sklep-muzyczny.com.pl
 sklep.edostawcze.pl
@@ -2639,7 +2641,7 @@ tvp.info,legia.net
 tvpolsat.info
 tv-polska.eu
 tvsudecka.pl
-tvsudecka.pl,tczewska.pl,slowopodlasia.pl,bydgoszcz.com,tvswinoujscie.pl,tygodnikoko.pl,tv-wschod.pl,inowroclaw.info.pl,korsosanockie.pl,supertydzien.pl,lokalnatelewizja.pl,wiara.pl,debica24.eu,zvami.tv,telewizjazary.pl,korsokolbuszowskie.pl,kociewiak.pl,cooltura24.co.uk,portalpomorza.pl,tvobiektyw.pl,echotygodnik.info,damitv.pl,ct.jaworzno.pl,narew.info,pzl24.pl,tvpogranicze.pl,tv-kwidzyn.pl,tvbelchatow.pl,tv-slupsk.pl,radiozamosc.pl,tvsierpc.pl,eluban.pl,auto-motor-i-sport.pl,menshealth.pl,womenshealth.pl,runners-world.pl,motocykl-online.pl,ox.pl,radiobonton.pl,dzienniknowy.pl,lokalna24.pl,tv.starachowice.pl,kronikatygodnia.pl,sandomierztv.pl,tarnowska.tv,telewizjamazury.pl,nasztomaszow.pl,slubice.tv,dziennikpowiatowy.pl
+tvsudecka.pl,tczewska.pl,slowopodlasia.pl,bydgoszcz.com,tvswinoujscie.pl,tygodnikoko.pl,tv-wschod.pl,inowroclaw.info.pl,korsosanockie.pl,supertydzien.pl,lokalnatelewizja.pl,wiara.pl,debica24.eu,zvami.tv,telewizjazary.pl,korsokolbuszowskie.pl,kociewiak.pl,cooltura24.co.uk,portalpomorza.pl,tvobiektyw.pl,echotygodnik.info,damitv.pl,ct.jaworzno.pl,narew.info,pzl24.pl,tvpogranicze.pl,tv-kwidzyn.pl,tvbelchatow.pl,tv-slupsk.pl,radiozamosc.pl,tvsierpc.pl,eluban.pl,auto-motor-i-sport.pl,menshealth.pl,womenshealth.pl,runners-world.pl,motocykl-online.pl,ox.pl,radiobonton.pl,dzienniknowy.pl,lokalna24.pl,tv.starachowice.pl,kronikatygodnia.pl,sandomierztv.pl,tarnowska.tv,telewizjamazury.pl,nasztomaszow.pl,slubice.tv,dziennikpowiatowy.pl,expresselblag.pl,truso.tv
 tvswinoujscie.pl
 tvwlodawa.pl
 twojahistoria.pl
@@ -2928,6 +2930,7 @@ www.lubliniec.info
 www.miechowski.pl
 www.miechowski.pl
 www.morele.net
+www.msn.com
 www.mycenter.pl
 www.naotwocku.pl
 www.naotwocku.pl
@@ -3416,6 +3419,7 @@ zywiecinfo.pl
 ||static.gazetaprawna.pl/dziennik/required/build/js/scrollRedirect.js$script,domain=dziennik.pl
 ||static.im-g.pl/static/content/front/content-generator/master/front/dist/importFrame-min.js
 ||static*jelonka.com^
+||static*.mylead.global^$image
 ||static.lokalna24.pl/data/wysiwig/$image
 ||static.osemka.pl/pixad/$image,domain=gry-online.poszkole.pl
 ||static.pogonsportnet.pl/*banery-$image
