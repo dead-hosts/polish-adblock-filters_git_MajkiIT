@@ -2,7 +2,8 @@
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
         "1560648546": {},
         "1560735067": {},
-        "1560821708": {
+        "1560821708": {},
+        "1560994409": {
             "*cda.pl": "INVALID",
             ".tradedoubler.com": "INVALID",
             "accounts.goouigle.net": "INACTIVE",

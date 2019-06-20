@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2019061702
+v.2019061902
 !
 !
 !1
@@ -1488,6 +1488,8 @@ lukow24.pl,cybersport.pl
 lulek.tv
 lulek.tv
 lumier.pl
+luzyce.info
+luzyce.info
 lwowecki.info
 lwypolnocy.pl
 m.poczta.gazeta.pl
@@ -1556,7 +1558,7 @@ memy.pl
 memy.pl
 memy.pl
 menshealth.pl
-mensis.pl
+mensis.pl,lubanski.eu
 meritum.gda.pl
 metalnews.pl
 meteo.pl
@@ -2174,6 +2176,7 @@ radio.bialystok.pl
 radio.kielce.pl
 radio.kielce.pl
 radio.kielce.pl
+radiopik.pl
 radio.opole.pl
 radio5.com.pl
 radioaoi.pl
@@ -2326,6 +2329,7 @@ silesia.fm,wxv.pl
 sitemag.pl
 sitemag.pl,infokatowice.pl,noweinfo.pl
 skarzysko24.pl
+skawinska.pl
 skiny.pl
 sklep-muzyczny.com.pl
 sklep.edostawcze.pl
@@ -2458,6 +2462,7 @@ sucha24.pl
 sucha24.pl
 sucha24.pl
 sucharry.pl
+sulecin24.pl
 super-torent.pl
 superdania.pl
 superdania.pl,zmianysolarne.pl
@@ -2762,6 +2767,7 @@ wbijam.pl
 wbj.pl
 wcograc.pl
 webcamera.pl
+webkod.pl
 webhelp.pl
 webhelp.pl
 webhostingtalk.pl
@@ -2840,6 +2846,7 @@ wrealu24.pl
 wrealu24.pl
 wrealu24.pl
 wronek.wikidot.com
+wrzesnia.info.pl
 wschodnik.pl
 wschodnik.pl
 wspomnijbliskich.pl
@@ -3418,7 +3425,7 @@ zywiecinfo.pl
 ||static.gazetaprawna.pl/dziennik/required/build/js/adexonLoader.js$script
 ||static.gazetaprawna.pl/dziennik/required/build/js/scrollRedirect.js$script,domain=dziennik.pl
 ||static.im-g.pl/static/content/front/content-generator/master/front/dist/importFrame-min.js
-||static*jelonka.com^
+||static*.jelonka.com^
 ||static*.mylead.global^$image
 ||static.lokalna24.pl/data/wysiwig/$image
 ||static.osemka.pl/pixad/$image,domain=gry-online.poszkole.pl
@@ -3821,7 +3828,7 @@ filmyfilmy.pl
 ||ipla.hit.stat24.com^$object,domain=ipla.tv,important
 !
 !25
-~poczta.wp.pl,wp.pl
+~pilot.wp.pl,~poczta.wp.pl,wp.pl
 !
 !26
 electro-torrent.pl
