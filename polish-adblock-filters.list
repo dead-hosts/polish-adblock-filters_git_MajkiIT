@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2019061902
+v.2019062401
 !
 !
 !1
@@ -201,6 +201,7 @@ popkiller.pl,tygodnikpodhalanski.pl,cnc.info.pl
 4lomza.pl,zambrow.org,miedziowe.pl
 4programmers.net
 6obcy.com.pl
+7dnikalisza.com
 7dni.pila.pl
 7dni.pila.pl
 90minut.pl
@@ -948,6 +949,7 @@ gazetalubliniecka.pl
 gazetalubliniecka.pl,kreator-muzea.pl
 gazetalubliniecka.pl
 gazeta-mosina.pl
+gazeta-olawa.pl
 gazetaostrowska.pl
 gazetapolska.pl
 gazetapolska.pl
@@ -1716,7 +1718,7 @@ my-navia.pl
 my-navia.pl
 mybboard.pl
 myhome.pl
-mylomza.pl,twojawierzbica.pl
+mylomza.pl,twojawierzbica.pl,kurierpodlaski.pl
 mysqlperformanceblog.com
 na-luzie.net
 nacjonalista.pl
@@ -2323,6 +2325,8 @@ sieradz.com.pl
 sieradz.com.pl,zdunskawola24.pl,filmaster.pl,perspektywy.pl
 signs.pl
 signs.pl
+sii.org.pl
+sii.org.pl
 silentiumpc.com
 silesia.fm,nowy.gryfickie.info
 silesia.fm,wxv.pl
@@ -2953,6 +2957,7 @@ www.pless.pl
 www.pokochasz.pl,probasket.pl,fantastyka.pl,ochrona-mienia.pl,wpodroz.com.pl,2x45.info
 www.policja2009.fora.pl
 www.ppe.pl
+www.portalmorski.pl
 www.press.pl
 www.ps4site.pl,www.golfpl.com
 www.skapiec.pl
@@ -3533,6 +3538,7 @@ zywiecinfo.pl
 ||www.pch24.pl/js/banery.js$script
 ||www.pgt.pl/rekl/$image
 ||www.piszanin.pl/img/img_bannery/$image
+||www.portalmorski.pl/modules/mod_ijoomla_adagency_zone/
 ||www.portalprzemyski.pl/wp-content/re/
 ||www.powiatsuski24.pl/banners/$image
 ||www.prostozopolskiego.pl/rekl/$image
