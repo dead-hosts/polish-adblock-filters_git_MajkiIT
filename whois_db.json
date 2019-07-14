@@ -909,6 +909,11 @@
         "expiration_date": "01-feb-2019",
         "state": "future"
     },
+    "mierzyn24.pl": {
+        "epoch": 1579910400,
+        "expiration_date": "25-jan-2020",
+        "state": "future"
+    },
     "mma.pl": {
         "epoch": "1555372800",
         "expiration_date": "16-apr-2019",
@@ -925,8 +930,8 @@
         "state": "future"
     },
     "mojaolesnica.pl": {
-        "epoch": "1563062400",
-        "expiration_date": "14-jul-2019",
+        "epoch": 1594684800,
+        "expiration_date": "14-jul-2020",
         "state": "future"
     },
     "mojeklocki.com": {
