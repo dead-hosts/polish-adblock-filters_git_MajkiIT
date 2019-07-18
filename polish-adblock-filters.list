@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2019071501
+v.2019071701
 !
 !
 !1
@@ -108,7 +108,7 @@ vshare.io
 ~przelewy24.pl,~allegro.pl,~zaq2.pl,~docer.pl,pl
 ~fakt.pl,pl
 ~avclub.gr
-~facebook.com
+~facebook.com,~pi.hole
 ~szydlowiecki.eu
 ~istotne.pl,pl
 ~joemonster.org
@@ -628,6 +628,7 @@ dotnetomaniak.pl
 dotnetomaniak.pl,dostawczakiem.pl
 download.net.pl
 doz.pl
+driverm.webd.pl
 drukowanka.pl
 dstar.pzk.pl
 dstar.pzk.pl
@@ -1504,6 +1505,7 @@ magazynvip.pl
 magia.onet.pl
 majsterkowo.pl
 malydziennik.pl
+magazynpsychologiasportu.pl
 make-cash.pl
 mamawdomu.pl
 mamkomputer.info,smartage.pl
@@ -1553,6 +1555,7 @@ medycznamarihuana.com
 medycznamarihuana.pl
 medme.pl
 megalotto.pl
+magazynpsychologiasportu.pl
 meloradio.pl
 memy.pl
 memy.pl
@@ -1858,6 +1861,7 @@ oknonet.pl
 oknonet.pl
 oknonet.pl
 oknoserwis.pl
+oknonawagrowiec.pl
 oleole.pl
 oleole.pl
 oleole.pl
@@ -3367,7 +3371,7 @@ zywiecinfo.pl
 ||panele5.llog.pl/$image
 ||partner.wfirma.pl/materials/show/$image,domain=legalniewsieci.pl
 ||partnerzyapi.ceneo.pl$script
-||pasaz.goryonline.com/?k=$subdocument,domain=snowboard-mds.pl
+||pasaz.goryonline.com/?k=$subdocument
 ||pclab.pl/img/extra/$image,domain=pclab.pl
 ||pclab.pl/img/special/*.jpg
 ||pclab.pl/partners/$image,subdocument,domain=pclab.pl
