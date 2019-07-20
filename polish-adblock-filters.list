@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2019071701
+v.2019071903
 !
 !
 !1
@@ -326,6 +326,7 @@ belchatow.bai.pl
 benchmark.pl
 benchmark.pl
 benchmark.pl
+beskidlive.pl
 beskidy.news
 beskidzka24.pl
 besty.pl
@@ -521,6 +522,7 @@ craftportal.pl
 craftportal.pl
 crazynauka.pl
 cro.pl
+cryptoprofit.pl
 cryptonews.pl
 cryptonews.pl
 cryptonews.pl
@@ -853,6 +855,7 @@ forbot.pl
 foreca.pl
 forex-nawigator.biz
 forsal.pl
+forsal.pl,dziennik.pl
 forsapl.info,mecze24.pl
 forum-kulturystyka.pl
 forum.alfaholicy.org
@@ -1040,6 +1043,7 @@ grajteraz.pl
 gram.pl
 gram.pl
 gram.pl
+gram.pl
 gramwzielone.pl
 gramynawynos.pl
 granicenauki.pl
@@ -1195,6 +1199,7 @@ interia.pl
 interia.pl
 interia.tv
 interia.tv
+interia.pl,pomponik.pl
 interpretacje-podatkowe.org
 inwestycje.pl
 inwestycje.pl
@@ -1339,7 +1344,7 @@ korkosfera.pl
 korso.pl,debica24.eu
 korsosanockie.pl,korso.pl
 koscian.net
-koszalininfo.pl,wlkp24.info,wwl24.info,b2-biznes.pl,sporteuro.pl,metropoliabydgoska.pl,brzeg24.pl,pabianice.tv,zambrowiacy.pl,e-play.pl,wrc.net.pl,dziennik.walbrzych.pl,asta24.pl,nswiecie.pl,blogtransportowy.pl,portalprzemyski.pl,wzielonej.pl,mikrokontroler.pl,naszawielkopolska.pl,radio-wrzesnia.pl,life4style.pl,zachodniemazowsze.info,mlecznepodroze.pl,ziemiadebicka.pl,szydlowiecki.eu,skarzyski.eu,konecki24.pl,starachowicki.eu,swiatmotocykli.pl
+koszalininfo.pl,wlkp24.info,wwl24.info,b2-biznes.pl,sporteuro.pl,metropoliabydgoska.pl,brzeg24.pl,pabianice.tv,zambrowiacy.pl,e-play.pl,wrc.net.pl,dziennik.walbrzych.pl,asta24.pl,nswiecie.pl,blogtransportowy.pl,portalprzemyski.pl,wzielonej.pl,mikrokontroler.pl,naszawielkopolska.pl,radio-wrzesnia.pl,life4style.pl,zachodniemazowsze.info,mlecznepodroze.pl,ziemiadebicka.pl,szydlowiecki.eu,skarzyski.eu,konecki24.pl,starachowicki.eu,swiatmotocykli.pl,magazyn.elubin.pl
 kozaczek.pl
 kozaczek.pl
 kozienice24.pl
@@ -3135,6 +3140,7 @@ zywiecinfo.pl
 ||adsnet.pl$script
 ||advertising.com^
 ||adv.wp.pl^
+!||adv.wp.pl/RM/Box/*.mp4$media,rewrite=abp-resource:blank-mp3
 ||ad.zanox.com$third-party
 ||aff.mediarotate.com/Click^
 ||affmy.pl/$script,domain=~affmy.pl
@@ -3296,6 +3302,7 @@ zywiecinfo.pl
 ||ki24.info/banery_extra/$image
 ||klikplej.pl/a_d/banner.gif
 ||konto.amronet.pl$subdocument,domain=dobreprogramy.pl
+||kopaczka.pl/ban/$image,subdocument
 ||kronikiwsi.powiatgostyn.pl/kronikiwsi/photos/adv_$image
 ||ladnydom.pl/aliasy/ladnydom/adblock_prompt.htm
 ||ladnydom.pl/pub/ips/
@@ -3398,6 +3405,7 @@ zywiecinfo.pl
 ||prl24.co.uk/res/rotate/$image
 ||q4.pl/media/20/*.gif$image
 ||qjse.quartic.pl/qjs/$script,domain=~quartic.pl
+!||r.dcs.redcdn.pl/webcache/rdf*/redefine/*$media,rewrite=abp-resource:blank-mp3,domain=twojapogoda.pl
 ||racjonalista.pl/img/strony/$image
 ||radioduch.pl/up_files/oferta/$image
 ||radio-wrzesnia.pl/wp-content/uploads/*/*/walll_$image
@@ -3407,7 +3415,8 @@ zywiecinfo.pl
 ||redcoon.pl/res/outer/201*/$image
 ||redir.atmcdn.pl/scale/o2/tvn/web-content/m/p2/i/81c8727c62e800be708dbf37c4695dff/$image,domain=tvnwarszawa.tvn24.pl
 ||redir.atmcdn.pl*swf$domain=tvn24.pl
-||redirector.redefine.pl/r/*.mp4$media,redirect=noopmp3-0.1s,domain=twojapogoda.pl
+!||redirector.redefine.pl/r/*$media,rewrite=abp-resource:blank-mp3,domain=www.polsatsport.pl|www.polsatnews.pl
+!||redirector.redefine.pl/r/*.mp4$media,rewrite=abp-resource:blank-mp3,domain=twojapogoda.pl
 ||reklamawadowice24.pl^$image
 ||reklama-lowicz.pl^$image
 ||reklamy.s3.amazonaws.com/bcg/$image
@@ -3466,6 +3475,7 @@ zywiecinfo.pl
 ||tabletowo.pl/wp-content/uploads/*/*/screening_$image
 ||tanidedyk.pl/templates/$image,domain=mybboard.pl
 ||tarnowiak.pl/grafika/super_*/$image
+||tkchopin.pl/cams/video_file/*$media,rewrite=abp-resource:blank-mp3,domain=tkchopin.pl
 ||t-mobile-trendy.pl/graph/backgrounds/$image
 ||track.cux.io^
 ||track.omgpl.com^$image
@@ -3490,11 +3500,13 @@ zywiecinfo.pl
 ||vixnixxer.com^$script,third-party
 ||vshare.io/static/button.css$stylesheet
 ||v.wpimg.pl^$media,domain=pilot.wp.pl|open.fm
+!||v.wpimg.pl/$media,rewrite=abp-resource:blank-mp3,domain=wp.pl|~www.wp.pl|autokult.pl|parenting.pl|echirurgia.pl|money.pl|o2.pl|portal.abczdrowie.pl|komorkomania.pl|fotoblogia.pl|gadzetomania.pl|pudelek.pl|jejswiat.pl|medycyna24.pl|dobreprogramy.pl|kafeteria.pl
 ||v.wpimg.pl/$subdocument,domain=gwiazdy.wp.pl
 ||wbj.pl/adv/
 ||wbj.pl/wp-content/plugins/adkingpro/js/adkingpro-functions.js$script
 ||weben1.com/scripts/generatewidget.js$script
 ||web-rynek.pl/baners/
+!||webcamera.pl/videointro/filead*.mp4$media,rewrite=abp-resource:blank-mp3
 ||webstat.pl/js.php
 ||webstat.pl/rkm/$image
 ||weszlo.com/?bsa_pro_id$popup
