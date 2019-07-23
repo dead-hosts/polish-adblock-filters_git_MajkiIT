@@ -960,8 +960,8 @@
         "state": "future"
     },
     "muratordom.pl": {
-        "epoch": "1563494400",
-        "expiration_date": "19-jul-2019",
+        "epoch": 1595116800,
+        "expiration_date": "19-jul-2020",
         "state": "future"
     },
     "mybboard.pl": {
@@ -1527,6 +1527,11 @@
     "thiksikr.com": {
         "epoch": "1577318400",
         "expiration_date": "26-dec-2019",
+        "state": "future"
+    },
+    "tkchopin.pl": {
+        "epoch": 1593388800,
+        "expiration_date": "29-jun-2020",
         "state": "future"
     },
     "tractors.pl": {
