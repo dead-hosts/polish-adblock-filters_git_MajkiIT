@@ -175,9 +175,9 @@
         "state": "future"
     },
     "b54m4qbmt0b9.com": {
-        "epoch": "1565395200",
+        "epoch": 1565395200,
         "expiration_date": "10-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "bankier.pl": {
         "epoch": "1553126400",
@@ -472,6 +472,16 @@
     "extragoals.com": {
         "epoch": 1590969600,
         "expiration_date": "01-jun-2020",
+        "state": "future"
+    },
+    "faidoud.com": {
+        "epoch": 1594252800,
+        "expiration_date": "09-jul-2020",
+        "state": "future"
+    },
+    "fb-zmiana-koloru.pl": {
+        "epoch": 1596412800,
+        "expiration_date": "03-aug-2020",
         "state": "future"
     },
     "fechallenge.com": {

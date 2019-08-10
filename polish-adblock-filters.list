@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2019070101
+v.2019070802
 !
 !
 !1
@@ -613,7 +613,6 @@ dobramama.pl,tablety.pl,elektroda.pl
 dobrastacja.pl
 dobrewiadomosci.net.pl,getlevel.info,tyna.info.pl
 dodajauto.pl
-dodajzdjecie.funfootball.pl
 dogry.pl
 dogry.pl
 dojrzalakobieta.pl
@@ -635,7 +634,6 @@ dotnetomaniak.pl,dostawczakiem.pl
 download.net.pl
 doz.pl
 driverm.webd.pl
-drukowanka.pl
 dstar.pzk.pl
 dstar.pzk.pl
 dvbtmap.eu
@@ -718,6 +716,7 @@ elektroinstalacje.info
 elektryka.org
 elka.pl
 elka.pl,miedziowe.pl
+elita-magazyn.pl
 elle.pl
 eloblog.pl
 eluban.pl,naszrynek.pl
@@ -746,6 +745,7 @@ eparczew.pl
 epd24.net
 epiotrkow.pl
 epoznan.pl
+erasmusu.com
 eredivisie.pl
 ergokantor.pl
 erocentrum.pl
@@ -835,7 +835,7 @@ fili.cc
 fili.cc,centrumdruku3d.pl,pebx.pl
 filmpolski.pl
 films4free.pl
-!filmweb.pl
+filmweb.pl
 firmy77.pl
 fishing-mart.com.pl
 flarrow.pl
@@ -952,7 +952,7 @@ gazetakartuska.pl
 gazetaklobucka.pl
 gazetalokalna.com
 gazetalubliniecka.pl
-gazetalubliniecka.pl,kreator-muzea.pl
+gazetalubliniecka.pl
 gazetalubliniecka.pl
 gazeta-mosina.pl
 gazeta-olawa.pl
@@ -1132,7 +1132,6 @@ horecabc.pl
 horizongamer.pl
 horrortube.pl
 hotfix.pl
-hotshare.pl
 housemarket.pl
 hqq.tv
 hqsite.org
@@ -1690,6 +1689,7 @@ morizon.pl
 morzeweb.pl
 moto.pl
 moto.pl
+moto.lca.pl
 motobanda.pl
 motocaina.pl
 motocykle125.pl
@@ -1875,6 +1875,7 @@ oleole.pl
 oleole.pl
 oleole.pl
 olesnica24.com
+olesnicainfo.pl
 olsztyn.com.pl
 olsztyn24.com
 olx.pl
@@ -2319,7 +2320,7 @@ satkurier.pl
 sci24.pl
 scie24.pl
 se.pl,~sport.se.pl,~www.se.pl,~superseriale.se.pl
-se.pl,poradnikzdrowie.pl
+se.pl,poradnikzdrowie.pl,eska.pl
 seciki.pl
 sejny.net
 sekrety-zdrowia.org
@@ -2726,6 +2727,7 @@ tyna.info.pl
 typosfera.net
 tysol.pl
 tv.pl
+tvdzierzgon.pl
 tvtoya.pl
 ulub.pl
 ulub.pl
@@ -2858,6 +2860,7 @@ wmzpn.pl
 wnet.fm
 wnp.pl
 wnp.pl
+worldcam.pl
 worms.fora.pl,qus.fora.pl
 wp.pl
 wp.pl
@@ -3274,6 +3277,7 @@ zywiecinfo.pl
 ||hipek.pl/kreacje/$image
 ||hiperogloszenia.pl/sys/ri.gif$image
 ||historia.org.pl/wp-content/uploads/20*/*1680x1050.jpg$image
+||horrortube.pl/public/dist/images/*-banner-*$image
 ||home.pl/nowemedia/public/www/shadowtactic/screening/$subdocument
 ||hostingnews.pl/wp-content/uploads/201*/*/*Banner$image
 ||hotcash.pl/bannery/*.gif
@@ -3366,7 +3370,6 @@ zywiecinfo.pl
 ||niebiescy.pl/bild/$image
 ||nokaut.pl/wigetyflash/$object
 ||nowywyszkowiak.pl/materialy/system_banerowy$image
-||nqp0852y7r.com/e6/52/26/e652267829a86c98499016a18555c207.js$script,domain=internetowa.ws
 ||nuteczki.eu/templates/KlubowaMuza/images/pobierz.png$image
 ||ocdn.eu/*.html$subdocument,domain=sniadaniezkadra.onet.pl
 ||ocs-pl.oktawave.com/*/reklamy$subdocument,domain=spidersweb.pl
@@ -3383,7 +3386,6 @@ zywiecinfo.pl
 ||ozoneo.pl/templates/images/rotators/$image
 ||pan-doradca.pl/index/noaidb/
 ||panele5.llog.pl/$image
-||partner.wfirma.pl/materials/show/$image,domain=legalniewsieci.pl
 ||partnerzyapi.ceneo.pl$script
 ||pasaz.goryonline.com/?k=$subdocument
 ||pclab.pl/img/extra/$image,domain=pclab.pl
@@ -3913,6 +3915,7 @@ horrortube.pl
 ||click.aliexpress.com^
 ||rinsouxy.com^
 ||roojouma.com^
+||faidoud.com^
 !
 !28
 /dropzone/$script,domain=filmbit.ws
@@ -4121,6 +4124,7 @@ money.pl,moneyv.wp.pl
 @@||wpolityce24.pl/imgcache/300x250/*/uploads/news/$image
 @@||www.buliba.pl/css/overlayad.css$stylesheet,domain=www.buliba.pl
 @@||vitalia.pl/gfx/*/reklama/danie.png$image,third-party,domain=diety.wp.pl
+@@||biznes2biznes.com/reklama/*$image,domain=biznes2biznes.com
 digest.com.pl
 e-stargard.pl,mojeinfo24.pl
 epainfo.pl
@@ -4153,6 +4157,7 @@ dziejesienapodkarpaciu.pl
 dziennikzwiazkowy.com
 extra.info.pl
 gamenerd.pl
+globalne-archiwum.pl
 hdtvpolska.com,ps4life.pl,rutatour.pl,luzyce.info,lifemanagerka.pl
 hiro.pl
 historykon.pl
