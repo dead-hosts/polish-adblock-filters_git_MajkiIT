@@ -1,12 +1,52 @@
 {
+    "24gliwice.pl": {
+        "epoch": 1578873600,
+        "expiration_date": "13-jan-2020",
+        "state": "future"
+    },
+    "24jgora.pl": {
+        "epoch": 1602892800,
+        "expiration_date": "17-oct-2020",
+        "state": "future"
+    },
     "24opole.pl": {
         "epoch": "1572739200",
         "expiration_date": "03-nov-2019",
         "state": "future"
     },
+    "24starogard.pl": {
+        "epoch": 1586908800,
+        "expiration_date": "15-apr-2020",
+        "state": "future"
+    },
+    "24wroclaw.pl": {
+        "epoch": 1579478400,
+        "expiration_date": "20-jan-2020",
+        "state": "future"
+    },
+    "2bstyle.pl": {
+        "epoch": 1570665600,
+        "expiration_date": "10-oct-2019",
+        "state": "future"
+    },
+    "2x45.info": {
+        "epoch": 1612656000,
+        "expiration_date": "07-feb-2021",
+        "state": "future"
+    },
+    "300polityka.pl": {
+        "epoch": 1573171200,
+        "expiration_date": "08-nov-2019",
+        "state": "future"
+    },
+    "3dwpraktyce.pl": {
+        "epoch": 1567123200,
+        "expiration_date": "30-aug-2019",
+        "state": "future"
+    },
     "40ton.net": {
-        "epoch": "1544054400",
-        "expiration_date": "06-dec-2018",
+        "epoch": 1575590400,
+        "expiration_date": "06-dec-2019",
         "state": "future"
     },
     "4b6994dfa47cee4.com": {
@@ -14,14 +54,44 @@
         "expiration_date": "12-may-2020",
         "state": "future"
     },
+    "4clubbers.com.pl": {
+        "epoch": 1583625600,
+        "expiration_date": "08-mar-2020",
+        "state": "future"
+    },
     "4lomza.pl": {
-        "epoch": "1553126400",
-        "expiration_date": "21-mar-2019",
+        "epoch": 1584748800,
+        "expiration_date": "21-mar-2020",
+        "state": "future"
+    },
+    "4programmers.net": {
+        "epoch": 1597795200,
+        "expiration_date": "19-aug-2020",
         "state": "future"
     },
     "69oxt4q05.com": {
         "epoch": "1571875200",
         "expiration_date": "24-oct-2019",
+        "state": "future"
+    },
+    "6obcy.com.pl": {
+        "epoch": 1624492800,
+        "expiration_date": "24-jun-2021",
+        "state": "future"
+    },
+    "7dni.pila.pl": {
+        "epoch": 1567123200,
+        "expiration_date": "30-aug-2019",
+        "state": "future"
+    },
+    "7dnikalisza.com": {
+        "epoch": 1574899200,
+        "expiration_date": "28-nov-2019",
+        "state": "future"
+    },
+    "90minut.pl": {
+        "epoch": 1625961600,
+        "expiration_date": "11-jul-2021",
         "state": "future"
     },
     "a-o.ninja": {
@@ -32,6 +102,11 @@
     "abcast.net": {
         "epoch": "1581724800",
         "expiration_date": "15-feb-2020",
+        "state": "future"
+    },
+    "accuweather.com": {
+        "epoch": 1635206400,
+        "expiration_date": "26-oct-2021",
         "state": "future"
     },
     "adclick.lt": {
@@ -54,9 +129,19 @@
         "expiration_date": "28-feb-2020",
         "state": "future"
     },
+    "administrator24.info": {
+        "epoch": 1584316800,
+        "expiration_date": "16-mar-2020",
+        "state": "future"
+    },
     "adocean.pl": {
         "epoch": "1584489600",
         "expiration_date": "18-mar-2020",
+        "state": "future"
+    },
+    "adonai.pl": {
+        "epoch": 1598054400,
+        "expiration_date": "22-aug-2020",
         "state": "future"
     },
     "adsb4track.com": {
@@ -84,6 +169,11 @@
         "expiration_date": "04-jan-2020",
         "state": "future"
     },
+    "adwokat-gostkowski.pl": {
+        "epoch": 1583539200,
+        "expiration_date": "07-mar-2020",
+        "state": "future"
+    },
     "affiliate44.com.pl": {
         "epoch": "1582848000",
         "expiration_date": "28-feb-2020",
@@ -99,9 +189,19 @@
         "expiration_date": "30-apr-2020",
         "state": "future"
     },
+    "agrofoto.pl": {
+        "epoch": 1589068800,
+        "expiration_date": "10-may-2020",
+        "state": "future"
+    },
     "ailegro.pl.ua": {
         "epoch": 1593734400,
         "expiration_date": "03-jul-2020",
+        "state": "future"
+    },
+    "akwarystyczne.info": {
+        "epoch": 1575763200,
+        "expiration_date": "08-dec-2019",
         "state": "future"
     },
     "alemiasto.pl": {
@@ -109,14 +209,44 @@
         "expiration_date": "17-mar-2020",
         "state": "future"
     },
+    "allegro.pl": {
+        "epoch": 1591056000,
+        "expiration_date": "02-jun-2020",
+        "state": "future"
+    },
     "allegrostatic.pl": {
         "epoch": "1572998400",
         "expiration_date": "06-nov-2019",
         "state": "future"
     },
+    "alltube.pl": {
+        "epoch": 1628899200,
+        "expiration_date": "14-aug-2021",
+        "state": "future"
+    },
     "alltube.tv": {
         "epoch": 1592265600,
         "expiration_date": "16-jun-2020",
+        "state": "future"
+    },
+    "ampolska.net": {
+        "epoch": 1595980800,
+        "expiration_date": "29-jul-2020",
+        "state": "future"
+    },
+    "android.com.pl": {
+        "epoch": 1585267200,
+        "expiration_date": "27-mar-2020",
+        "state": "future"
+    },
+    "anglia.today": {
+        "epoch": 1584748800,
+        "expiration_date": "21-mar-2020",
+        "state": "future"
+    },
+    "aniamaluje.com": {
+        "epoch": 1593043200,
+        "expiration_date": "25-jun-2020",
         "state": "future"
     },
     "anime24.pl": {
@@ -159,6 +289,26 @@
         "expiration_date": "06-feb-2019",
         "state": "past"
     },
+    "arka.tv": {
+        "epoch": 1587772800,
+        "expiration_date": "25-apr-2020",
+        "state": "future"
+    },
+    "astar.czest.pl": {
+        "epoch": 1598745600,
+        "expiration_date": "30-aug-2020",
+        "state": "future"
+    },
+    "astronomia24.com": {
+        "epoch": 1584662400,
+        "expiration_date": "20-mar-2020",
+        "state": "future"
+    },
+    "audiklub.org": {
+        "epoch": 1613088000,
+        "expiration_date": "12-feb-2021",
+        "state": "future"
+    },
     "autotrader.pl": {
         "epoch": "1555459200",
         "expiration_date": "17-apr-2019",
@@ -184,9 +334,24 @@
         "expiration_date": "21-mar-2019",
         "state": "future"
     },
+    "bebzol.com": {
+        "epoch": 1616371200,
+        "expiration_date": "22-mar-2021",
+        "state": "future"
+    },
+    "bejsment.com": {
+        "epoch": 1619568000,
+        "expiration_date": "28-apr-2021",
+        "state": "future"
+    },
     "benchmark.pl": {
         "epoch": "1564531200",
         "expiration_date": "31-jul-2019",
+        "state": "future"
+    },
+    "beskidy.news": {
+        "epoch": 1584403200,
+        "expiration_date": "17-mar-2020",
         "state": "future"
     },
     "betegy.com": {
@@ -199,6 +364,11 @@
         "expiration_date": "20-mar-2019",
         "state": "future"
     },
+    "bielsko.info": {
+        "epoch": 1578528000,
+        "expiration_date": "09-jan-2020",
+        "state": "future"
+    },
     "bitbay.net": {
         "epoch": "1585526400",
         "expiration_date": "30-mar-2020",
@@ -207,6 +377,11 @@
     "bithub.pl": {
         "epoch": "1594512000",
         "expiration_date": "12-jul-2020",
+        "state": "future"
+    },
+    "biznes2biznes.com": {
+        "epoch": 1574294400,
+        "expiration_date": "21-nov-2019",
         "state": "future"
     },
     "blogomaniak.pl": {
@@ -219,6 +394,31 @@
         "expiration_date": "22-oct-2019",
         "state": "future"
     },
+    "bokser.org": {
+        "epoch": 1593475200,
+        "expiration_date": "30-jun-2020",
+        "state": "future"
+    },
+    "brodnica.net": {
+        "epoch": 1598054400,
+        "expiration_date": "22-aug-2020",
+        "state": "future"
+    },
+    "brytol.com": {
+        "epoch": 1575676800,
+        "expiration_date": "07-dec-2019",
+        "state": "future"
+    },
+    "bukmacherzy.com": {
+        "epoch": 1585958400,
+        "expiration_date": "04-apr-2020",
+        "state": "future"
+    },
+    "cartests.net": {
+        "epoch": 1583366400,
+        "expiration_date": "05-mar-2020",
+        "state": "future"
+    },
     "cda.pl": {
         "epoch": "1566604800",
         "expiration_date": "24-aug-2019",
@@ -229,9 +429,19 @@
         "expiration_date": "09-apr-2020",
         "state": "future"
     },
+    "chilitonka.com": {
+        "epoch": 1575244800,
+        "expiration_date": "02-dec-2019",
+        "state": "future"
+    },
     "chlodnictwoiklimatyzacja.pl": {
         "epoch": "1557360000",
         "expiration_date": "09-may-2019",
+        "state": "future"
+    },
+    "chojnice.com": {
+        "epoch": 1590969600,
+        "expiration_date": "01-jun-2020",
         "state": "future"
     },
     "chomik-24.pl": {
@@ -299,6 +509,11 @@
         "expiration_date": "06-dec-2019",
         "state": "future"
     },
+    "cs-soplica.com": {
+        "epoch": 1615507200,
+        "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
     "czasdzieci.pl": {
         "epoch": "1559174400",
         "expiration_date": "30-may-2019",
@@ -319,9 +534,24 @@
         "expiration_date": "06-jan-2020",
         "state": "future"
     },
+    "darmowe.tv": {
+        "epoch": 1592697600,
+        "expiration_date": "21-jun-2020",
+        "state": "future"
+    },
     "datalandhobby.pl": {
         "epoch": "1567555200",
         "expiration_date": "04-sep-2019",
+        "state": "future"
+    },
+    "dbpolska.net": {
+        "epoch": 1590192000,
+        "expiration_date": "23-may-2020",
+        "state": "future"
+    },
+    "debica.tv": {
+        "epoch": 1649808000,
+        "expiration_date": "13-apr-2022",
         "state": "future"
     },
     "dekoder.ws": {
@@ -337,6 +567,11 @@
     "dexessee.com": {
         "epoch": "1583884800",
         "expiration_date": "11-mar-2020",
+        "state": "future"
+    },
+    "disco-polo.info": {
+        "epoch": 1590624000,
+        "expiration_date": "28-may-2020",
         "state": "future"
     },
     "disqusads.com": {
@@ -374,6 +609,11 @@
         "expiration_date": "14-aug-2019",
         "state": "future"
     },
+    "dotstream.tv": {
+        "epoch": 1586649600,
+        "expiration_date": "12-apr-2020",
+        "state": "future"
+    },
     "doubleclick.net": {
         "epoch": "1579219200",
         "expiration_date": "17-jan-2020",
@@ -389,9 +629,24 @@
         "expiration_date": "26-mar-2019",
         "state": "future"
     },
+    "dx-team.org": {
+        "epoch": 1568332800,
+        "expiration_date": "13-sep-2019",
+        "state": "future"
+    },
+    "dziennikzwiazkowy.com": {
+        "epoch": 1596672000,
+        "expiration_date": "06-aug-2020",
+        "state": "future"
+    },
     "e-aptekarodzinna.pl": {
         "epoch": "1569369600",
         "expiration_date": "25-sep-2019",
+        "state": "future"
+    },
+    "e-korepetycje.net": {
+        "epoch": 1598054400,
+        "expiration_date": "22-aug-2020",
         "state": "future"
     },
     "e-krajna.pl": {
@@ -399,9 +654,19 @@
         "expiration_date": "01-oct-2019",
         "state": "future"
     },
+    "e-restauracja.com": {
+        "epoch": 1573257600,
+        "expiration_date": "09-nov-2019",
+        "state": "future"
+    },
     "e-udanezakupy.pl": {
         "epoch": "1563408000",
         "expiration_date": "18-jul-2019",
+        "state": "future"
+    },
+    "echo24.tv": {
+        "epoch": 1594425600,
+        "expiration_date": "11-jul-2020",
         "state": "future"
     },
     "edynamic-dns.pl": {
@@ -414,9 +679,34 @@
         "expiration_date": "21-oct-2019",
         "state": "future"
     },
+    "egami-image.com": {
+        "epoch": 1606176000,
+        "expiration_date": "24-nov-2020",
+        "state": "future"
+    },
     "egnatius-ear.com": {
         "epoch": 1595203200,
         "expiration_date": "20-jul-2020",
+        "state": "future"
+    },
+    "ekinomaniak.tv": {
+        "epoch": 1601424000,
+        "expiration_date": "30-sep-2020",
+        "state": "future"
+    },
+    "eku24.net": {
+        "epoch": 1586649600,
+        "expiration_date": "12-apr-2020",
+        "state": "future"
+    },
+    "elblag.net": {
+        "epoch": 1653177600,
+        "expiration_date": "22-may-2022",
+        "state": "future"
+    },
+    "ele24.net": {
+        "epoch": 1583884800,
+        "expiration_date": "11-mar-2020",
         "state": "future"
     },
     "electro-torrent.pl": {
@@ -429,14 +719,34 @@
         "expiration_date": "16-jul-2019",
         "state": "future"
     },
+    "elektroinstalacje.info": {
+        "epoch": 1591660800,
+        "expiration_date": "09-jun-2020",
+        "state": "future"
+    },
+    "elektryka.org": {
+        "epoch": 1588032000,
+        "expiration_date": "28-apr-2020",
+        "state": "future"
+    },
     "elka.pl": {
         "epoch": 1592524800,
         "expiration_date": "19-jun-2020",
         "state": "future"
     },
+    "elubaczow.com": {
+        "epoch": 1579737600,
+        "expiration_date": "23-jan-2020",
+        "state": "future"
+    },
     "eluban.pl": {
         "epoch": "1563580800",
         "expiration_date": "20-jul-2019",
+        "state": "future"
+    },
+    "energetyka24.com": {
+        "epoch": 1597795200,
+        "expiration_date": "19-aug-2020",
         "state": "future"
     },
     "energylandia-pl.win": {
@@ -447,6 +757,26 @@
     "eostroleka.pl": {
         "epoch": "1544832000",
         "expiration_date": "15-dec-2018",
+        "state": "future"
+    },
+    "epd24.net": {
+        "epoch": 1586649600,
+        "expiration_date": "12-apr-2020",
+        "state": "future"
+    },
+    "erasmusu.com": {
+        "epoch": 1596067200,
+        "expiration_date": "30-jul-2020",
+        "state": "future"
+    },
+    "etychy.org": {
+        "epoch": 1590105600,
+        "expiration_date": "22-may-2020",
+        "state": "future"
+    },
+    "eufigames.com": {
+        "epoch": 1591228800,
+        "expiration_date": "04-jun-2020",
         "state": "future"
     },
     "eurogol.pl": {
@@ -474,6 +804,11 @@
         "expiration_date": "01-jun-2020",
         "state": "future"
     },
+    "ezg24.net": {
+        "epoch": 1586649600,
+        "expiration_date": "12-apr-2020",
+        "state": "future"
+    },
     "faidoud.com": {
         "epoch": 1594252800,
         "expiration_date": "09-jul-2020",
@@ -487,6 +822,26 @@
     "fechallenge.com": {
         "epoch": "1567296000",
         "expiration_date": "01-sep-2019",
+        "state": "future"
+    },
+    "files4you.org": {
+        "epoch": 1651104000,
+        "expiration_date": "28-apr-2022",
+        "state": "future"
+    },
+    "filesdark.com": {
+        "epoch": 1567209600,
+        "expiration_date": "31-aug-2019",
+        "state": "future"
+    },
+    "fili.cc": {
+        "epoch": 1581811200,
+        "expiration_date": "16-feb-2020",
+        "state": "future"
+    },
+    "filmbit.ws": {
+        "epoch": 1579910400,
+        "expiration_date": "25-jan-2020",
         "state": "future"
     },
     "filmoteka.tv": {
@@ -504,6 +859,11 @@
         "expiration_date": "11-jan-2020",
         "state": "future"
     },
+    "filmy.cool": {
+        "epoch": 1591833600,
+        "expiration_date": "11-jun-2020",
+        "state": "future"
+    },
     "finanse-payu.pl": {
         "epoch": "1574294400",
         "expiration_date": "21-nov-2019",
@@ -519,9 +879,34 @@
         "expiration_date": "15-jan-2020",
         "state": "future"
     },
+    "footbar.info": {
+        "epoch": 1579564800,
+        "expiration_date": "21-jan-2020",
+        "state": "future"
+    },
+    "forex-nawigator.biz": {
+        "epoch": 1576108800,
+        "expiration_date": "12-dec-2019",
+        "state": "future"
+    },
+    "forumrowerowe.org": {
+        "epoch": 1595116800,
+        "expiration_date": "19-jul-2020",
+        "state": "future"
+    },
+    "fotka.com": {
+        "epoch": 1596758400,
+        "expiration_date": "07-aug-2020",
+        "state": "future"
+    },
     "freedisc.pl": {
         "epoch": "1579910400",
         "expiration_date": "25-jan-2020",
+        "state": "future"
+    },
+    "freehdsport.com": {
+        "epoch": 1566950400,
+        "expiration_date": "28-aug-2019",
         "state": "future"
     },
     "freeware.info.pl": {
@@ -534,14 +919,39 @@
         "expiration_date": "26-sep-2019",
         "state": "future"
     },
+    "funkcje.net": {
+        "epoch": 1583798400,
+        "expiration_date": "10-mar-2020",
+        "state": "future"
+    },
     "futbol.pl": {
         "epoch": "1555286400",
         "expiration_date": "15-apr-2019",
         "state": "future"
     },
+    "futbolhd.tv": {
+        "epoch": 1566172800,
+        "expiration_date": "19-aug-2019",
+        "state": "future"
+    },
     "fwcdn.pl": {
         "epoch": "1544659200",
         "expiration_date": "13-dec-2018",
+        "state": "future"
+    },
+    "gamestough.com": {
+        "epoch": 1579132800,
+        "expiration_date": "16-jan-2020",
+        "state": "future"
+    },
+    "gazetagazeta.com": {
+        "epoch": 1568073600,
+        "expiration_date": "10-sep-2019",
+        "state": "future"
+    },
+    "gazetalokalna.com": {
+        "epoch": 1594166400,
+        "expiration_date": "08-jul-2020",
         "state": "future"
     },
     "gazetalubliniecka.pl": {
