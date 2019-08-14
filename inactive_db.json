@@ -1215,7 +1215,10 @@
             "/^https?:\\/\\/[a-z0-9]{5,}\\.(com|top)\\/[a-z0-9]{1,}\\/[a-z0-9]{1,}\\/[a-z0-9]{1,}\\/[a-z0-9/]{5,}\\.js/$script,domain=vidto.me|fileone.tv|alltube.tv|srkcast.com|vidfile.net|alltube.pl|whostreams.net|filmowo.co|szukajka.tv|cda-hd.co|horrortube.pl|otube.pl": "INVALID",
             "/banery/$image,subdocument,object,domain=oknoserwis.pl|sps24.pl|www.chojnice.com|usa.info.pl|jarocinska.pl|www.obud.pl|skijumping.pl|gintama.wbijam.pl|haczyk.pl|instalacjebudowlane.pl|jagiellonia.net|kdega.e-kei.pl|naszalomza.pl|pionki24.pl|mragowo24.info|lokalna24.pl|ebarlinek.pl|kuriergarwolinski.pl|bielsko.biala.pl|www.budownictwo.org|www.serwer.brodnica.net|www.sps24.pl|staleo.pl|super-nowa.pl|zwolen24.pl|7dni.pila.pl|www.gostynska.pl": "INVALID",
             "24wspolnota.pl,kociewiak.pl,cooltura24.co.uk,halogorlice.info,dziennikpowiatowy.pl,tczewska.pl,wejherowo24.info": "INVALID",
-            "ceo.com.pl,trzemeszno24.info": "INVALID"
+            "ceo.com.pl,trzemeszno24.info": "INVALID",
+            "mclista.pl,bialystokonline.pl,ewgt.com.pl,tugazeta.pl,dbpolska.net,mojmac.pl,piszanin.pl,tubasiedlec.pl,pracawkatowicach.com.pl,pracawkrakowie.com.pl,sevillafc.pl,miastokolobrzeg.pl,wirtualnynowydwor.pl": "INVALID",
+            "mylomza.pl,twojawierzbica.pl,kurierpodlaski.pl,ototorun.pl,twojglos.pl,nowinynyskie.com.pl,24jgora.pl": "INVALID",
+            "||kcynia.info/img/$image": "INVALID"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
