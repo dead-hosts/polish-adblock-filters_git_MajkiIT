@@ -1885,8 +1885,8 @@
         "state": "future"
     },
     "naszalomza.pl": {
-        "epoch": "1564617600",
-        "expiration_date": "01-aug-2019",
+        "epoch": 1567209600,
+        "expiration_date": "31-aug-2019",
         "state": "future"
     },
     "naszamlawa.pl": {
@@ -3162,6 +3162,11 @@
     "walbrzyszek.com": {
         "epoch": 1588118400,
         "expiration_date": "29-apr-2020",
+        "state": "future"
+    },
+    "waszwilanow.pl": {
+        "epoch": 1574380800,
+        "expiration_date": "22-nov-2019",
         "state": "future"
     },
     "wbj.pl": {
