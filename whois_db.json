@@ -3399,6 +3399,11 @@
         "expiration_date": "11-sep-2020",
         "state": "future"
     },
+    "twojwolanow.pl": {
+        "epoch": 1567468800,
+        "expiration_date": "03-sep-2019",
+        "state": "future"
+    },
     "tychy.info": {
         "epoch": 1583625600,
         "expiration_date": "08-mar-2020",
@@ -3497,6 +3502,11 @@
     "vshare.io": {
         "epoch": "1648857600",
         "expiration_date": "02-apr-2022",
+        "state": "future"
+    },
+    "wachamksiazki.pl": {
+        "epoch": 1580169600,
+        "expiration_date": "28-jan-2020",
         "state": "future"
     },
     "wagaciezka.com": {
