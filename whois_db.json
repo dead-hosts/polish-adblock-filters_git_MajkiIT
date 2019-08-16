@@ -2775,9 +2775,9 @@
         "state": "future"
     },
     "radiostar.net": {
-        "epoch": 1565740800,
-        "expiration_date": "14-aug-2019",
-        "state": "past"
+        "epoch": 1597363200,
+        "expiration_date": "14-aug-2020",
+        "state": "future"
     },
     "radiovia.com.pl": {
         "epoch": 1574380800,
@@ -3104,9 +3104,24 @@
         "expiration_date": "17-apr-2019",
         "state": "future"
     },
+    "sucha24.pl": {
+        "epoch": 1596585600,
+        "expiration_date": "05-aug-2020",
+        "state": "future"
+    },
+    "super-torent.pl": {
+        "epoch": 1578960000,
+        "expiration_date": "14-jan-2020",
+        "state": "future"
+    },
     "superfilm.pl": {
         "epoch": 1606608000,
         "expiration_date": "29-nov-2020",
+        "state": "future"
+    },
+    "surek.pl": {
+        "epoch": 1575331200,
+        "expiration_date": "03-dec-2019",
         "state": "future"
     },
     "suwalki.info": {
@@ -3114,9 +3129,19 @@
         "expiration_date": "19-jan-2020",
         "state": "future"
     },
+    "swarzedz24.pl": {
+        "epoch": 1579651200,
+        "expiration_date": "22-jan-2020",
+        "state": "future"
+    },
     "swiat-gier.com": {
         "epoch": "1575331200",
         "expiration_date": "03-dec-2019",
+        "state": "future"
+    },
+    "swiato-podglad.pl": {
+        "epoch": 1569110400,
+        "expiration_date": "22-sep-2019",
         "state": "future"
     },
     "swiecie24.pl": {
@@ -3177,6 +3202,11 @@
     "tarnowiak.pl": {
         "epoch": "1826668800",
         "expiration_date": "20-nov-2027",
+        "state": "future"
+    },
+    "telefonowal.pl": {
+        "epoch": 1595116800,
+        "expiration_date": "19-jul-2020",
         "state": "future"
     },
     "telko.in": {
@@ -3242,6 +3272,11 @@
     "tomaszowski.com.pl": {
         "epoch": 1571788800,
         "expiration_date": "23-oct-2019",
+        "state": "future"
+    },
+    "tp.com.pl": {
+        "epoch": 1586390400,
+        "expiration_date": "09-apr-2020",
         "state": "future"
     },
     "tractors.pl": {
