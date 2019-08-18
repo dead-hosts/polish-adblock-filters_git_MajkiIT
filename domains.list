@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2019081404
+v.2019081703
 !
 !
 !1
@@ -200,7 +200,6 @@ vshare.io
 
 
 
-
 .pl/www/sys/ajs*.php?$script
 /reklamy/*$image,object,subdocument,domain=~selgros24.pl|~jacus.pl
 /wp-content/uploads/*/baner$image,domain=lubanski.eu|miastoiludzie.pl|eksmagazyn.pl|infokatowice.pl|mma.pl|tvwlodawa.pl
@@ -246,6 +245,7 @@ popkiller.pl,tygodnikpodhalanski.pl,cnc.info.pl
 ~m3esolutions.com,~sloworegionu.pl,~4active.eu,~valida.pl,~foodprint.pl,~roztoczanskipn.pl
 ~milionczesci.pl,~dizibox.com,~2dehands.be,~www.pudelek.pl
 ~ool.ru,~24jgora.pl,~24wroclaw.pl
+~plonskwsieci.pl
 ~otodom.pl,~przegladsportowy.pl,~wpolityce.pl,~box.com,~hardcorowo.pl,~filmweb.pl,~fakro.pl,~dziennikwschodni.pl,~galilu.pl,~uwaga.tvn.pl,~gumtree.pl,pl
 ~przegladsportowy.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,pl
 ~przegladsportowy.pl,~medonet.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,pl
@@ -286,7 +286,7 @@ popkiller.pl,tygodnikpodhalanski.pl,cnc.info.pl
 24pr.pl,tu.swinoujscie.pl
 24starogard.pl
 24wroclaw.pl
-24wspolnota.pl,kociewiak.pl,cooltura24.co.uk,halogorlice.info,dziennikpowiatowy.pl,tczewska.pl,wejherowo24.info
+24wspolnota.pl,kociewiak.pl,cooltura24.co.uk,halogorlice.info,dziennikpowiatowy.pl,tczewska.pl,wejherowo24.info,koscierzyna24.info
 2bstyle.pl
 2conv.com,flvto.biz,glos.pl,cefarm24.pl
 2x45.info
@@ -425,6 +425,7 @@ bazarynek.pl
 bebzol.com
 beel.pl
 bejsment.com
+begio.pl
 belchatow.bai.pl
 benchmark.pl
 benchmark.pl
@@ -616,6 +617,7 @@ codziennikmlawski.pl
 comperia.pl
 comprix.pl
 computerworld.pl
+cooltura24.co.uk
 cozadzien.pl
 cpb.pl
 craftportal.pl
@@ -1237,6 +1239,7 @@ hqq.tv
 hqsite.org
 hyipforum.pl
 hyperreal.info
+iautomatyka.pl
 icelandnews.is
 ideagrafika.pl
 ideas2action.pl
@@ -1832,7 +1835,7 @@ my-navia.pl
 my-navia.pl
 mybboard.pl
 myhome.pl
-mylomza.pl,twojawierzbica.pl,kurierpodlaski.pl,ototorun.pl,twojglos.pl,nowinynyskie.com.pl,24jgora.pl
+mylomza.pl,twojawierzbica.pl,kurierpodlaski.pl,ototorun.pl,twojglos.pl,nowinynyskie.com.pl
 mysnet.pl
 mysqlperformanceblog.com
 na-luzie.net
@@ -2104,6 +2107,8 @@ plonskwsieci.pl
 plonskwsieci.pl
 plonskwsieci.pl
 plonskwsieci.pl
+plonskwsieci.pl
+plonskwsieci.pl
 plotek.pl
 plportal.pl
 plusforum.pl
@@ -2274,6 +2279,7 @@ pultusk24.pl
 pultusk24.pl
 pultusk24.pl,olawa24.pl
 punkt.media
+purepc.pl
 purepc.pl
 purepc.pl
 pykownia.pl
@@ -2713,6 +2719,7 @@ thinkapple.pl,repostuj.pl
 tibiopedia.pl
 ticketmaster.pl
 tinypic.pl
+tkn24.pl
 tkn24.pl
 toiowo.eu
 tojuzbylo.pl
@@ -3916,6 +3923,7 @@ xyz,mecz.tv,ipilka.info
 ||asa.allegrostatic.com/display-pl/2018/8429/Allegro-1200x400_showcase_22.02_FINAL$image
 ||https://cont6.naekranie.pl/wp-content/uploads/2018/04/westworld_sd.jpg$image
 ||mma.pl/wp-content/uploads/*/*-tlo.jpg$image
+||moja24.pl/wp-content/uploads/2017/01/reklama-moja-mala*.png
 ||ocs-pl.oktawave.com/v1/AUTH_*_screening_*.jpg$image
 ||ocs-pl.oktawave.com/v1/AUTH_*/*-screening-wallpaper_*.jpg$image
 ||ocs-pl.oktawave.com/*/*/bezprawnik/*/*_screening_smeo_promocja_*.png
