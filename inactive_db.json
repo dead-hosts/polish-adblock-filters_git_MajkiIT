@@ -1224,7 +1224,9 @@
         "1566093645": {
             "24wspolnota.pl,kociewiak.pl,cooltura24.co.uk,halogorlice.info,dziennikpowiatowy.pl,tczewska.pl,wejherowo24.info,koscierzyna24.info": "INVALID",
             "cdtracker.co.pl": "INACTIVE",
-            "infogazeta.pl": "INACTIVE"
+            "infogazeta.pl": "INACTIVE",
+            "||moja24.pl/wp-content/uploads/2017/01/reklama-moja-mala*.png": "INVALID",
+            "~plonskwsieci.pl": "INVALID"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
