@@ -4224,6 +4224,11 @@
         "expiration_date": "08-jun-2020",
         "state": "future"
     },
+    "nysa24.pl": {
+        "epoch": 1566864000,
+        "expiration_date": "27-aug-2019",
+        "state": "future"
+    },
     "obcasy.pl": {
         "epoch": 1605916800,
         "expiration_date": "21-nov-2020",
