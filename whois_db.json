@@ -5784,6 +5784,11 @@
         "expiration_date": "17-jun-2020",
         "state": "future"
     },
+    "tarnow.net.pl": {
+        "epoch": 1592006400,
+        "expiration_date": "13-jun-2020",
+        "state": "future"
+    },
     "tarnowiak.pl": {
         "epoch": "1826668800",
         "expiration_date": "20-nov-2027",
@@ -5797,6 +5802,11 @@
     "telefonowal.pl": {
         "epoch": 1595116800,
         "expiration_date": "19-jul-2020",
+        "state": "future"
+    },
+    "telemagazyn.pl": {
+        "epoch": 1582156800,
+        "expiration_date": "20-feb-2020",
         "state": "future"
     },
     "telko.in": {
