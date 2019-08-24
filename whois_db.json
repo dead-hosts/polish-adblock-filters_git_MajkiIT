@@ -6914,6 +6914,11 @@
         "expiration_date": "19-mar-2020",
         "state": "future"
     },
+    "wyborcza.pl": {
+        "epoch": 1611792000,
+        "expiration_date": "28-jan-2021",
+        "state": "future"
+    },
     "wychowawcy.pl": {
         "epoch": "1561161600",
         "expiration_date": "22-jun-2019",
@@ -7014,6 +7019,11 @@
         "expiration_date": "25-feb-2020",
         "state": "future"
     },
+    "zepsute.pl": {
+        "epoch": 1591228800,
+        "expiration_date": "04-jun-2020",
+        "state": "future"
+    },
     "zolti.pl": {
         "epoch": "1557705600",
         "expiration_date": "13-may-2019",
@@ -7047,6 +7057,16 @@
     "zw.pl": {
         "epoch": "1571356800",
         "expiration_date": "18-oct-2019",
+        "state": "future"
+    },
+    "zwolen24.pl": {
+        "epoch": 1569369600,
+        "expiration_date": "25-sep-2019",
+        "state": "future"
+    },
+    "zycie.pila.pl": {
+        "epoch": 1587168000,
+        "expiration_date": "18-apr-2020",
         "state": "future"
     },
     "zyciesokolowa.pl": {
