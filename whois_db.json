@@ -6819,9 +6819,24 @@
         "expiration_date": "28-jan-2020",
         "state": "future"
     },
+    "wadowice24.pl": {
+        "epoch": 1594944000,
+        "expiration_date": "17-jul-2020",
+        "state": "future"
+    },
+    "wadowiceonline.pl": {
+        "epoch": 1590451200,
+        "expiration_date": "26-may-2020",
+        "state": "future"
+    },
     "wagaciezka.com": {
         "epoch": 1587081600,
         "expiration_date": "17-apr-2020",
+        "state": "future"
+    },
+    "wakai.pl": {
+        "epoch": 1582070400,
+        "expiration_date": "19-feb-2020",
         "state": "future"
     },
     "walbrzych24.com": {
@@ -6834,9 +6849,34 @@
         "expiration_date": "29-apr-2020",
         "state": "future"
     },
+    "warszawiak.pl": {
+        "epoch": 1604707200,
+        "expiration_date": "07-nov-2020",
+        "state": "future"
+    },
+    "waszdzienpodniu.pl": {
+        "epoch": 1595635200,
+        "expiration_date": "25-jul-2020",
+        "state": "future"
+    },
     "waszwilanow.pl": {
         "epoch": 1574380800,
         "expiration_date": "22-nov-2019",
+        "state": "future"
+    },
+    "wavepc.pl": {
+        "epoch": 1610496000,
+        "expiration_date": "13-jan-2021",
+        "state": "future"
+    },
+    "waw4free.pl": {
+        "epoch": 1592870400,
+        "expiration_date": "23-jun-2020",
+        "state": "future"
+    },
+    "wawalove.pl": {
+        "epoch": 1631491200,
+        "expiration_date": "13-sep-2021",
         "state": "future"
     },
     "wbj.pl": {
@@ -6844,14 +6884,44 @@
         "expiration_date": "25-jan-2020",
         "state": "future"
     },
+    "wcograc.pl": {
+        "epoch": 1593475200,
+        "expiration_date": "30-jun-2020",
+        "state": "future"
+    },
     "web-rynek.pl": {
         "epoch": "1587168000",
         "expiration_date": "18-apr-2020",
         "state": "future"
     },
+    "webcamera.pl": {
+        "epoch": 1590883200,
+        "expiration_date": "31-may-2020",
+        "state": "future"
+    },
     "weben1.com": {
         "epoch": "1574640000",
         "expiration_date": "25-nov-2019",
+        "state": "future"
+    },
+    "webhelp.pl": {
+        "epoch": 1596844800,
+        "expiration_date": "08-aug-2020",
+        "state": "future"
+    },
+    "webhostingtalk.pl": {
+        "epoch": 1585526400,
+        "expiration_date": "30-mar-2020",
+        "state": "future"
+    },
+    "webkod.pl": {
+        "epoch": 1579046400,
+        "expiration_date": "15-jan-2020",
+        "state": "future"
+    },
+    "webmasteruj.pl": {
+        "epoch": 1590105600,
+        "expiration_date": "22-may-2020",
         "state": "future"
     },
     "webshark.pl": {
@@ -6884,9 +6954,24 @@
         "expiration_date": "08-jan-2020",
         "state": "future"
     },
+    "whitemad.pl": {
+        "epoch": 1585958400,
+        "expiration_date": "04-apr-2020",
+        "state": "future"
+    },
+    "wiadomosci24.pl": {
+        "epoch": 1578700800,
+        "expiration_date": "11-jan-2020",
+        "state": "future"
+    },
     "wiarygodnafirma24.pl": {
         "epoch": "1550016000",
         "expiration_date": "13-feb-2019",
+        "state": "future"
+    },
+    "widzewiak.pl": {
+        "epoch": 1592697600,
+        "expiration_date": "21-jun-2020",
         "state": "future"
     },
     "widzewtomy.net": {
@@ -6899,9 +6984,24 @@
         "expiration_date": "12-dec-2019",
         "state": "future"
     },
+    "wimieprawdy.pl": {
+        "epoch": 1580860800,
+        "expiration_date": "05-feb-2020",
+        "state": "future"
+    },
     "wiocha.pl": {
         "epoch": "1596931200",
         "expiration_date": "09-aug-2020",
+        "state": "future"
+    },
+    "wir-com.pl": {
+        "epoch": 1584057600,
+        "expiration_date": "13-mar-2020",
+        "state": "future"
+    },
+    "wirtualnyelk.pl": {
+        "epoch": 1583712000,
+        "expiration_date": "09-mar-2020",
         "state": "future"
     },
     "wirtualnygarwolin.pl": {
@@ -6924,6 +7024,11 @@
         "expiration_date": "31-mar-2020",
         "state": "future"
     },
+    "wmeritum.pl": {
+        "epoch": 1585267200,
+        "expiration_date": "27-mar-2020",
+        "state": "future"
+    },
     "worldsport.me": {
         "epoch": 1578096000,
         "expiration_date": "04-jan-2020",
@@ -6944,6 +7049,16 @@
         "expiration_date": "23-aug-2020",
         "state": "future"
     },
+    "wpolityce24.pl": {
+        "epoch": 1579392000,
+        "expiration_date": "19-jan-2020",
+        "state": "future"
+    },
+    "wrzesnia.info.pl": {
+        "epoch": 1569888000,
+        "expiration_date": "01-oct-2019",
+        "state": "future"
+    },
     "wyborcza.biz": {
         "epoch": 1584576000,
         "expiration_date": "19-mar-2020",
@@ -6962,6 +7077,11 @@
     "wykop.pl": {
         "epoch": "1577491200",
         "expiration_date": "28-dec-2019",
+        "state": "future"
+    },
+    "xboxforum.pl": {
+        "epoch": 1584835200,
+        "expiration_date": "22-mar-2020",
         "state": "future"
     },
     "xlkredyt.pl": {
@@ -7102,6 +7222,11 @@
     "zycie.pila.pl": {
         "epoch": 1587168000,
         "expiration_date": "18-apr-2020",
+        "state": "future"
+    },
+    "zycieczestochowy.pl": {
+        "epoch": 1567296000,
+        "expiration_date": "01-sep-2019",
         "state": "future"
     },
     "zyciesokolowa.pl": {

@@ -5,7 +5,8 @@
         "1565921248": {},
         "1566093645": {},
         "1566266956": {},
-        "1566613335": {
+        "1566613335": {},
+        "1566785222": {
             "!": "INVALID",
             "!/^https:\\/\\/v\\.wpimg\\.pl\\/[a-zA-Z0-9]{90,100}/$image,domain=www.money.pl": "INVALID",
             "!/uploads-no-w3tc/$image,domain=naekranie.pl": "INVALID",
@@ -545,7 +546,9 @@
             "v.2019081403": "INVALID",
             "v.2019081404": "INVALID",
             "v.2019081703": "INVALID",
+            "v.2019082202": "INVALID",
             "vanessa.fm,portal.region.info.pl": "INVALID",
+            "videoquality.pl": "INACTIVE",
             "vidfile.net,epiotrkow.pl,infobowling.pl": "INVALID",
             "w203.pl,w210.pl": "INVALID",
             "walbrzych24.com,zloty-pociag.com": "INVALID",
@@ -661,6 +664,7 @@
             "||brand.ad^": "INVALID",
             "||burdaffi.burdadigital.pl^": "INVALID",
             "||businessclick.*/$script": "INVALID",
+            "||c.evidon.com$script": "INVALID",
             "||cda.pl/player.php": "INVALID",
             "||cdn.comperia.pl^$domain=~digitalmoney.pl": "INVALID",
             "||cdn.dtxngr.com/$script": "INVALID",
@@ -808,6 +812,7 @@
             "||imgwykop.pl/*/*/paylink_$image,domain=www.wykop.pl": "INVALID",
             "||info.elblag.pl/images/banerki$script,object": "INVALID",
             "||info.elblag.pl/media/layout/tla/$image": "INVALID",
+            "||info.evidon.com$script": "INVALID",
             "||info.stargard.pl/~tomi/$image": "INVALID",
             "||inframe.platform.onet.pl/v1/": "INVALID",
             "||inowroclaw.info.pl/static/files/inline_images/123/$image": "INVALID",
@@ -1226,12 +1231,6 @@
             "~www.cba.pl,cba.pl": "INVALID",
             "~www.wp.pl,wp.pl": "INVALID",
             "~zso53.pl,~katywroclawskie.pl,~rozklad-pkp.pl,~gwarant.czest.pl,~sukniaonline.pl,~pepco.pl": "INVALID"
-        },
-        "1566785222": {
-            "v.2019082202": "INVALID",
-            "videoquality.pl": "INACTIVE",
-            "||c.evidon.com$script": "INVALID",
-            "||info.evidon.com$script": "INVALID"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
