@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2019081703
+v.2019082202
 !
 !
 !1
@@ -3299,6 +3299,7 @@ zywiecinfo.pl
 ||brand.ad^
 ||burdaffi.burdadigital.pl^
 ||businessclick.*/$script
+||c.evidon.com$script
 ||cda.pl/player.php
 ||cdn.dtxngr.com/$script
 ||cdn.forumpc.pl/partner$image
@@ -3411,6 +3412,7 @@ zywiecinfo.pl
 ||img.targeo.pl/i/cache/a/$image,domain=mapa.targeo.pl
 ||info.elblag.pl/images/banerki$script,object
 ||info.elblag.pl/media/layout/tla/$image
+||info.evidon.com$script
 ||info.stargard.pl/~tomi/$image
 ||inframe.platform.onet.pl/v1/
 ||inowroclaw.info.pl/static/files/inline_images/123/$image

@@ -1226,6 +1226,10 @@
             "~www.cba.pl,cba.pl": "INVALID",
             "~www.wp.pl,wp.pl": "INVALID",
             "~zso53.pl,~katywroclawskie.pl,~rozklad-pkp.pl,~gwarant.czest.pl,~sukniaonline.pl,~pepco.pl": "INVALID"
+        },
+        "1566785222": {
+            "||c.evidon.com$script": "INVALID",
+            "||info.evidon.com$script": "INVALID"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
