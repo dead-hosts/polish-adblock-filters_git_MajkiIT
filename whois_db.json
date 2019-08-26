@@ -5405,8 +5405,8 @@
         "state": "future"
     },
     "nowywyszkowiak.pl": {
-        "epoch": "1545264000",
-        "expiration_date": "20-dec-2018",
+        "epoch": 1576800000,
+        "expiration_date": "20-dec-2019",
         "state": "future"
     },
     "nqp0852y7r.com": {
@@ -5449,6 +5449,11 @@
         "expiration_date": "21-nov-2020",
         "state": "future"
     },
+    "obcasypodlasia.pl": {
+        "epoch": 1584316800,
+        "expiration_date": "16-mar-2020",
+        "state": "future"
+    },
     "obligacje.pl": {
         "epoch": 1583625600,
         "expiration_date": "08-mar-2020",
@@ -5479,14 +5484,29 @@
         "expiration_date": "14-jan-2019",
         "state": "future"
     },
+    "ogrodnikleszek.pl": {
+        "epoch": 1578182400,
+        "expiration_date": "05-jan-2020",
+        "state": "future"
+    },
     "olawa24.pl": {
         "epoch": 1581984000,
         "expiration_date": "18-feb-2020",
         "state": "future"
     },
+    "oleole.pl": {
+        "epoch": 1663804800,
+        "expiration_date": "22-sep-2022",
+        "state": "future"
+    },
     "olesnica24.com": {
         "epoch": 1566950400,
         "expiration_date": "28-aug-2019",
+        "state": "future"
+    },
+    "olesnicainfo.pl": {
+        "epoch": 1573084800,
+        "expiration_date": "07-nov-2019",
         "state": "future"
     },
     "olgasmile.com": {
@@ -5647,6 +5667,11 @@
     "pclab.pl": {
         "epoch": "1588896000",
         "expiration_date": "08-may-2020",
+        "state": "future"
+    },
+    "pcworld.pl": {
+        "epoch": 1568678400,
+        "expiration_date": "17-sep-2019",
         "state": "future"
     },
     "pebx.pl": {
@@ -5842,6 +5867,11 @@
     "pracait.com": {
         "epoch": 1568505600,
         "expiration_date": "15-sep-2019",
+        "state": "future"
+    },
+    "pracuj.pl": {
+        "epoch": 1623369600,
+        "expiration_date": "11-jun-2021",
         "state": "future"
     },
     "privatestream.tv": {
@@ -6672,6 +6702,11 @@
     "twoje-seriale.tv": {
         "epoch": 1599782400,
         "expiration_date": "11-sep-2020",
+        "state": "future"
+    },
+    "twojecentrum.pl": {
+        "epoch": 1597104000,
+        "expiration_date": "11-aug-2020",
         "state": "future"
     },
     "twojwolanow.pl": {
