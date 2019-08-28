@@ -6,7 +6,8 @@
         "1566093645": {},
         "1566266956": {},
         "1566613335": {},
-        "1566785222": {
+        "1566785222": {},
+        "1566958877": {
             "!": "INVALID",
             "!/^https:\\/\\/v\\.wpimg\\.pl\\/[a-zA-Z0-9]{90,100}/$image,domain=www.money.pl": "INVALID",
             "!/uploads-no-w3tc/$image,domain=naekranie.pl": "INVALID",
@@ -478,6 +479,7 @@
             "poranny.pl,polskatimes.pl": "INVALID",
             "portalgorski.pl,miedziowe.pl": "INVALID",
             "postawnaswoim.pl,forum.tweaks.pl,androidhacksgames.com,mobilegameshack4u.com,solarkurier.pl,miniskrypt.hubaiitv.pl,swirtv.czo.pl,precyl.com,przeklej.org,club4you.pl,darmowetv.pl,forum.vwgolf.pl,szuman.eu,audiostereo.pl,ogloszenia.gazeta.ie,legio24.pl,sdcv.pl,dostawcy-internetu.pl,forum.bukmacherskie.com,nasze.fm,lovekrakow.pl,mh24.pl,faktykonopne.pl,lajfy.com,disco-polo.info,pokemon-go.pl,gazeta-wiesci.pl,polskaniepodlegla.pl,lpg-forum.pl,kuszotv.pl,meczelive.tv,tablety.pl,polskatimes.pl,gazetakrakowska.pl,nacjonalista.pl,ostrowiecnews.pl,medianarodowe.com,prawy.pl,hobby-elektronika.eu,lowiczanin.info,kurier-w.pl,protestanci.info,wachtyrz.eu": "INVALID",
+            "potplayerclub.pl": "INACTIVE",
             "press.pl,ogrodinfo.pl": "INVALID",
             "privatestream.tv/images/player_logo.png": "INVALID",
             "progressforpoland.com,cyfrowaekonomia.pl,expresselblag.pl": "INVALID",
@@ -547,6 +549,7 @@
             "v.2019081404": "INVALID",
             "v.2019081703": "INVALID",
             "v.2019082202": "INVALID",
+            "v.2019082701": "INVALID",
             "vanessa.fm,portal.region.info.pl": "INVALID",
             "videoquality.pl": "INACTIVE",
             "vidfile.net,epiotrkow.pl,infobowling.pl": "INVALID",
@@ -1058,6 +1061,7 @@
             "||tvsat-sklep.com/baner/$image,domain=portal.dvhk.to": "INVALID",
             "||tvwlodawa.pl/wp-content/uploads/*/*/logo-$image": "INVALID",
             "||twojahistoria.pl/uploads/20*/*/*-bg.jpg$image": "INVALID",
+            "||udater.net^": "INVALID",
             "||unknow.now.sh^": "INVALID",
             "||uod2quk646.com^": "INVALID",
             "||up.4clubbers.pl/out.php/$image": "INVALID",
@@ -1098,6 +1102,7 @@
             "||wp.com/niestatystyczny.pl/wp-content/uploads/*/tlo$image,domain=niestatystyczny.pl": "INVALID",
             "||wp.pl/*-FwkqOxhmGz4XCSo7GGYbPhcJKjsYZhs-$script,domain=~pilot.wp.pl|~www.dobreprogramy.pl": "INVALID",
             "||wp.pl/*/reklamawp-$image": "INVALID",
+            "||wp.pl/b3RvQ2h1TVIzFCcBR0pAR3*DtBSkw=$script,domain=~pilot.wp.pl|~www.dobreprogramy.pl": "INVALID",
             "||wp.pl/staticad/$xmlhttprequest": "INVALID",
             "||wpkoszyk.wp.pl/api/koszyk$xmlhttprequest": "INVALID",
             "||www.24opole.pl/cimg/$image": "INVALID",
@@ -1231,9 +1236,6 @@
             "~www.cba.pl,cba.pl": "INVALID",
             "~www.wp.pl,wp.pl": "INVALID",
             "~zso53.pl,~katywroclawskie.pl,~rozklad-pkp.pl,~gwarant.czest.pl,~sukniaonline.pl,~pepco.pl": "INVALID"
-        },
-        "1566958877": {
-            "potplayerclub.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
