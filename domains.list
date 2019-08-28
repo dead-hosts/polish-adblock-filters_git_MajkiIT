@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2019082202
+v.2019082701
 !
 !
 !1
@@ -620,6 +620,7 @@ computerworld.pl
 cooltura24.co.uk
 cozadzien.pl
 cpb.pl
+crafted.pl
 craftportal.pl
 craftportal.pl
 craftportal.pl
@@ -3964,6 +3965,7 @@ autocentrum.pl,demotywatory.pl,dziennik.pl,facetemjestem.pl,gala.pl,garnek.pl,gr
 !
 !23
 filmyfilmy.pl
+||udater.net^
 !
 !24
 ||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=exs.pl,important
@@ -4083,6 +4085,9 @@ open.fm
 open.fm
 open.fm
 open.fm
+pogoda.wp.pl
+pogoda.wp.pl
+pogoda.wp.pl
 portal-abczdrowie.wp.pl
 portal.abczdrowie.pl
 portal.abczdrowie.pl
@@ -4096,7 +4101,7 @@ wp.tv
 !32
 ||i.wp.pl/*/stg/wpjslib-nojq.js$script,domain=www.dobreprogramy.pl
 ||v.wpimg.pl/M*fxc*==$image,domain=sportowefakty.wp.pl
-||wp.pl/*-FwkqOxhmGz4XCSo7GGYbPhcJKjsYZhs-$script,domain=~pilot.wp.pl|~www.dobreprogramy.pl
+||wp.pl/b3RvQ2h1TVIzFCcBR0pAR3*DtBSkw=$script,domain=~pilot.wp.pl|~www.dobreprogramy.pl
 ||wpkoszyk.wp.pl/api/koszyk$xmlhttprequest
 ||www.wp.pl/*.okazje-kokpit.chunk.js
 ||xml.enovatis.pl/mrdsl/json.php$xmlhttprequest,domain=turystyka.wp.pl

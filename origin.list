@@ -9,9 +9,9 @@
 ! Wsparcie:
 !   Patronite ==> https://patronite.pl/polskiefiltry
 !   PayPal ==> https://www.paypal.com/pools/c/87zNJ8OJ3I
-! Last modified: 22 August 2019
+! Last modified: 27 August 2019
 ! Expires: 1 day
-! Version: 2019082202
+! Version: 2019082701
 ! Support:
 !   Email >> errors@certyficate.it
 !   Discord >> http://ds.certyficate.it
@@ -20,7 +20,7 @@
 ! License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ! Copyright © 2019 Certyficate IT
 ! Najnowsza wersja zawsze na: https://www.certyficate.it/adblock
-! v.2019082202 aktualizacja: czw, 22 sierpnia 2019, 10:00:00
+! v.2019082701 aktualizacja: wto, 27 sierpnia 2019, 19:27:00
 !
 !
 !1#-----------------------General advert blocking filters-----------------------!
@@ -425,7 +425,7 @@ bazarynek.pl##a[href^="http://www.bazarynek.pl/reklama.php"]
 bebzol.com###right-col > .r-stick-box
 beel.pl##.box:nth-of-type(4)
 bejsment.com##.widget_sp_image-image-link
-begio.pl##.penci-adsense-below-slider
+begio.pl##.penci-adsense-below-slider, #text-8
 belchatow.bai.pl##.rekls
 benchmark.pl###marketplaceProductBox
 benchmark.pl##.screenContainer
@@ -620,6 +620,7 @@ computerworld.pl###tui-animation
 cooltura24.co.uk##.bgad
 cozadzien.pl##.box_bnewshome
 cpb.pl###artbaner
+crafted.pl#?#.ipsComment.ipsBox.cPost:-abp-has(.cAuthorPane_info > li:-abp-contains(/^Reklama$/))
 craftportal.pl###secondary
 craftportal.pl##.bbc_center
 craftportal.pl##A[alt] > IMG:last-child
@@ -1971,7 +1972,7 @@ ogloszenia.niedziela.nl##.modulebanner
 ogloszenia.niedziela.nl,phrasal-verbs.pl##.banner_container
 ogrodnikleszek.pl##.block-block.block.widget
 okiemrolnika.pl##.bannergroup > span, .partner_portalu, #Mod241, .ls-popup-visible.ls-popup, .adSidebar.bannergroup
-oknonawagrowiec.pl##[id^="penci-banner_box--"]
+oknonawagrowiec.pl##[id^="penci-banner_box--"], .penci-promo-item
 oknonet.pl###mainbaner, #AdBig, .oknoad-news, #AdSmall
 oknonet.pl##a[href^="/openurl.php"]
 oknonet.pl#?#.left-zobacz:-abp-has(a[href^="/openurl.php"])
@@ -3964,6 +3965,7 @@ autocentrum.pl,demotywatory.pl,dziennik.pl,facetemjestem.pl,gala.pl,garnek.pl,gr
 !
 !23#--------------------------Pages with bad reputation------------!
 filmyfilmy.pl###play
+||udater.net^
 !
 !24#--------------------------Rules for ublock, but can be use with adblock------------!
 ||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=exs.pl,important
@@ -4083,6 +4085,9 @@ open.fm###openfm-player > DIV[class] > DIV[class]
 open.fm##.bnr-con2
 open.fm##A[class][href*=".wp.pl/"] IMG[class][src^="https://v.wpimg.pl/"]
 open.fm##[class^="bnr-player-"]
+pogoda.wp.pl#?#.desktop > div:nth-of-type(4):-abp-has(div:empty)
+pogoda.wp.pl#?#.desktop > div:nth-of-type(7):-abp-has(div:empty)
+pogoda.wp.pl#?#.narrow.grid-right > div:nth-of-type(1):-abp-has(div:empty)
 portal-abczdrowie.wp.pl##.article__side__stickblock, .article__textbox
 portal.abczdrowie.pl##.article__textbox
 portal.abczdrowie.pl##.sidebar-box--promo
@@ -4096,7 +4101,7 @@ wp.tv##.y9xe8qn
 !32#--------------------------WP element block------------!
 ||i.wp.pl/*/stg/wpjslib-nojq.js$script,domain=www.dobreprogramy.pl
 ||v.wpimg.pl/M*fxc*==$image,domain=sportowefakty.wp.pl
-||wp.pl/*-FwkqOxhmGz4XCSo7GGYbPhcJKjsYZhs-$script,domain=~pilot.wp.pl|~www.dobreprogramy.pl
+||wp.pl/b3RvQ2h1TVIzFCcBR0pAR3*DtBSkw=$script,domain=~pilot.wp.pl|~www.dobreprogramy.pl
 ||wpkoszyk.wp.pl/api/koszyk$xmlhttprequest
 ||www.wp.pl/*.okazje-kokpit.chunk.js
 ||xml.enovatis.pl/mrdsl/json.php$xmlhttprequest,domain=turystyka.wp.pl
