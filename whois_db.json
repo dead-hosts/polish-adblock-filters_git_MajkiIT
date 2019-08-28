@@ -5015,8 +5015,8 @@
         "state": "future"
     },
     "msg.org.pl": {
-        "epoch": 1566777600,
-        "expiration_date": "26-aug-2019",
+        "epoch": 1569369600,
+        "expiration_date": "25-sep-2019",
         "state": "future"
     },
     "msmobile.pl": {
@@ -5130,8 +5130,8 @@
         "state": "future"
     },
     "nakolei.pl": {
-        "epoch": 1566604800,
-        "expiration_date": "24-aug-2019",
+        "epoch": 1598227200,
+        "expiration_date": "24-aug-2020",
         "state": "future"
     },
     "namasce.pl": {
@@ -5374,6 +5374,11 @@
         "expiration_date": "29-mar-2020",
         "state": "future"
     },
+    "nowafarmacja.pl": {
+        "epoch": 1620864000,
+        "expiration_date": "13-may-2021",
+        "state": "future"
+    },
     "nowagazeta.pl": {
         "epoch": 1590105600,
         "expiration_date": "22-may-2020",
@@ -5504,6 +5509,21 @@
         "expiration_date": "05-jan-2020",
         "state": "future"
     },
+    "okiemrolnika.pl": {
+        "epoch": 1578960000,
+        "expiration_date": "14-jan-2020",
+        "state": "future"
+    },
+    "oknonawagrowiec.pl": {
+        "epoch": 1581379200,
+        "expiration_date": "11-feb-2020",
+        "state": "future"
+    },
+    "oknonet.pl": {
+        "epoch": 1675209600,
+        "expiration_date": "01-feb-2023",
+        "state": "future"
+    },
     "olawa24.pl": {
         "epoch": 1581984000,
         "expiration_date": "18-feb-2020",
@@ -5517,7 +5537,7 @@
     "olesnica24.com": {
         "epoch": 1566950400,
         "expiration_date": "28-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "olesnicainfo.pl": {
         "epoch": 1573084800,
@@ -5534,9 +5554,24 @@
         "expiration_date": "07-nov-2019",
         "state": "future"
     },
+    "olx.pl": {
+        "epoch": 1573344000,
+        "expiration_date": "10-nov-2019",
+        "state": "future"
+    },
     "onenima.com": {
         "epoch": "1580860800",
         "expiration_date": "05-feb-2020",
+        "state": "future"
+    },
+    "onepiece.com.pl": {
+        "epoch": 1581120000,
+        "expiration_date": "08-feb-2020",
+        "state": "future"
+    },
+    "onet.pl": {
+        "epoch": 1660953600,
+        "expiration_date": "20-aug-2022",
         "state": "future"
     },
     "onlinekredyty.pl": {
@@ -5547,6 +5582,11 @@
     "onlineradio.pl": {
         "epoch": 1595030400,
         "expiration_date": "18-jul-2020",
+        "state": "future"
+    },
+    "onlinesudoku.pl": {
+        "epoch": 1589587200,
+        "expiration_date": "16-may-2020",
         "state": "future"
     },
     "openkatalog.com": {
@@ -5584,6 +5624,11 @@
         "expiration_date": "13-oct-2021",
         "state": "future"
     },
+    "originals24.pl": {
+        "epoch": 1583020800,
+        "expiration_date": "01-mar-2020",
+        "state": "future"
+    },
     "oscarrak.pl": {
         "epoch": 1596326400,
         "expiration_date": "02-aug-2020",
@@ -5599,6 +5644,11 @@
         "expiration_date": "01-dec-2019",
         "state": "future"
     },
+    "ostrowiecnr1.pl": {
+        "epoch": 1590710400,
+        "expiration_date": "29-may-2020",
+        "state": "future"
+    },
     "ostrowmaz.com": {
         "epoch": 1591833600,
         "expiration_date": "11-jun-2020",
@@ -5607,6 +5657,11 @@
     "ostrzeszowinfo.pl": {
         "epoch": "1567468800",
         "expiration_date": "03-sep-2019",
+        "state": "future"
+    },
+    "oswiecim112.pl": {
+        "epoch": 1583884800,
+        "expiration_date": "11-mar-2020",
         "state": "future"
     },
     "oswiecimonline.pl": {
@@ -5619,9 +5674,29 @@
         "expiration_date": "10-aug-2020",
         "state": "future"
     },
+    "otodom.pl": {
+        "epoch": 1584230400,
+        "expiration_date": "15-mar-2020",
+        "state": "future"
+    },
     "otomoto.site": {
         "epoch": "1574294400",
         "expiration_date": "21-nov-2019",
+        "state": "future"
+    },
+    "otopanorama.pl": {
+        "epoch": 1572393600,
+        "expiration_date": "30-oct-2019",
+        "state": "future"
+    },
+    "ototorun.pl": {
+        "epoch": 1572652800,
+        "expiration_date": "02-nov-2019",
+        "state": "future"
+    },
+    "otozawiercie.pl": {
+        "epoch": 1577059200,
+        "expiration_date": "23-dec-2019",
         "state": "future"
     },
     "outletto24.com": {
@@ -5674,6 +5749,11 @@
         "expiration_date": "26-apr-2019",
         "state": "future"
     },
+    "pccentre.pl": {
+        "epoch": 1583020800,
+        "expiration_date": "01-mar-2020",
+        "state": "future"
+    },
     "pch24.pl": {
         "epoch": 1579651200,
         "expiration_date": "22-jan-2020",
@@ -5689,9 +5769,24 @@
         "expiration_date": "17-sep-2019",
         "state": "future"
     },
+    "pdasite.pl": {
+        "epoch": 1582588800,
+        "expiration_date": "25-feb-2020",
+        "state": "future"
+    },
     "pebx.pl": {
         "epoch": 1593820800,
         "expiration_date": "04-jul-2020",
+        "state": "future"
+    },
+    "pecetowicz.pl": {
+        "epoch": 1599264000,
+        "expiration_date": "05-sep-2020",
+        "state": "future"
+    },
+    "pekao.com.pl": {
+        "epoch": 1603497600,
+        "expiration_date": "24-oct-2020",
         "state": "future"
     },
     "perfektusplus.pl": {
@@ -5712,6 +5807,11 @@
     "pielegniarki.info.pl": {
         "epoch": 1570147200,
         "expiration_date": "04-oct-2019",
+        "state": "future"
+    },
+    "pieniny.net.pl": {
+        "epoch": 1590192000,
+        "expiration_date": "23-may-2020",
         "state": "future"
     },
     "pikio.pl": {
@@ -5735,8 +5835,8 @@
         "state": "future"
     },
     "pionki24.pl": {
-        "epoch": "1544227200",
-        "expiration_date": "08-dec-2018",
+        "epoch": 1575763200,
+        "expiration_date": "08-dec-2019",
         "state": "future"
     },
     "piszanin.pl": {
@@ -5774,19 +5874,44 @@
         "expiration_date": "21-nov-2019",
         "state": "future"
     },
+    "plejada.pl": {
+        "epoch": 1576022400,
+        "expiration_date": "11-dec-2019",
+        "state": "future"
+    },
+    "pless.pl": {
+        "epoch": 1591488000,
+        "expiration_date": "07-jun-2020",
+        "state": "future"
+    },
     "plonskwsieci.pl": {
         "epoch": "1549929600",
         "expiration_date": "12-feb-2019",
         "state": "future"
     },
+    "plusforum.pl": {
+        "epoch": 1569888000,
+        "expiration_date": "01-oct-2019",
+        "state": "future"
+    },
     "podhale24.pl": {
-        "epoch": "1544227200",
-        "expiration_date": "08-dec-2018",
+        "epoch": 1625184000,
+        "expiration_date": "02-jul-2021",
+        "state": "future"
+    },
+    "podhaleregion.pl": {
+        "epoch": 1586131200,
+        "expiration_date": "06-apr-2020",
         "state": "future"
     },
     "podlasie24.pl": {
         "epoch": "1545868800",
         "expiration_date": "27-dec-2018",
+        "state": "future"
+    },
+    "pogonsportnet.pl": {
+        "epoch": 1585267200,
+        "expiration_date": "27-mar-2020",
         "state": "future"
     },
     "polacywewloszech.com": {
