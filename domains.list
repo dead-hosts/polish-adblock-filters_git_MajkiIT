@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2019082701
+v.2019082801
 !
 !
 !1
@@ -4101,7 +4101,7 @@ wp.tv
 !32
 ||i.wp.pl/*/stg/wpjslib-nojq.js$script,domain=www.dobreprogramy.pl
 ||v.wpimg.pl/M*fxc*==$image,domain=sportowefakty.wp.pl
-||wp.pl/b3RvQ2h1TVIzFCcBR0pAR3*DtBSkw=$script,domain=~pilot.wp.pl|~www.dobreprogramy.pl
+!||wp.pl/b3RvQ2h1TVIzFCcBR0pAR3*DtBSkw=$script,domain=~pilot.wp.pl|~www.dobreprogramy.pl
 ||wpkoszyk.wp.pl/api/koszyk$xmlhttprequest
 ||www.wp.pl/*.okazje-kokpit.chunk.js
 ||xml.enovatis.pl/mrdsl/json.php$xmlhttprequest,domain=turystyka.wp.pl
