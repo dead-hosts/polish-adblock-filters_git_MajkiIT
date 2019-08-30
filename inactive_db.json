@@ -7,7 +7,8 @@
         "1566266956": {},
         "1566613335": {},
         "1566785222": {},
-        "1566958877": {
+        "1566958877": {},
+        "1567132058": {
             "!": "INVALID",
             "!/^https:\\/\\/v\\.wpimg\\.pl\\/[a-zA-Z0-9]{90,100}/$image,domain=www.money.pl": "INVALID",
             "!/uploads-no-w3tc/$image,domain=naekranie.pl": "INVALID",
@@ -76,6 +77,7 @@
             "!||v.wpimg.pl/$media,rewrite=abp-resource:blank-mp3,domain=wp.pl|~www.wp.pl|autokult.pl|parenting.pl|echirurgia.pl|money.pl|o2.pl|portal.abczdrowie.pl|komorkomania.pl|fotoblogia.pl|gadzetomania.pl|pudelek.pl|jejswiat.pl|medycyna24.pl|dobreprogramy.pl|kafeteria.pl": "INVALID",
             "!||webcamera.pl/videointro/filead*.mp4$media,rewrite=abp-resource:blank-mp3": "INVALID",
             "!||weszlo.com/wp-content/uploads/bsa-pro-upload/1517841983-screening.jpg$image": "INVALID",
+            "!||wp.pl/b3RvQ2h1TVIzFCcBR0pAR3*DtBSkw=$script,domain=~pilot.wp.pl|~www.dobreprogramy.pl": "INVALID",
             ".*sales*.pl/offers/$image": "INVALID",
             ".php?c=$popup,domain=alltube.pl": "INVALID",
             ".pl/*/adds/": "INVALID",
@@ -386,7 +388,6 @@
             "forum.ebiznesy.pl,operatorzy.pl": "INVALID",
             "forum.komputerswiat.pl,forumrowerowe.org,katalogi.pl,forum-sportu.pl,kfd.pl": "INVALID",
             "futbolhd.tv,polishcorrector.com,korektoronline.pl": "INVALID",
-            "galeriastron.pl": "INACTIVE",
             "geoforum.pl,eurobuildcee.com": "INVALID",
             "glogow-info.pl,glogow.info.pl": "INVALID",
             "goal.pl,eredivisie.pl": "INVALID",
@@ -397,9 +398,7 @@
             "gsmmaniak.pl,acermaniak.pl,activemaniak.pl,agdmaniak.pl,appmaniak.pl,blogomaniak.pl,fotomaniak.pl,gizmaniak.pl,luxmaniak.pl,mobimaniak.pl,tabletmaniak.pl": "INVALID",
             "haker.com.pl,mojaolesnica.pl": "INVALID",
             "hdtvpolska.com,ps4life.pl,rutatour.pl,luzyce.info,lifemanagerka.pl": "INVALID",
-            "heynet.pl": "INACTIVE",
             "historia.pl,portal.pl": "INVALID",
-            "horizongamer.pl": "INACTIVE",
             "igostyn.pl,ikalisz.pl,iostrowwlkp.pl,ijarocin.pl,ipleszew.pl": "INVALID",
             "informacja.wroclaw.pl,twojatv.info": "INVALID",
             "infoship.pl,infoair.pl,infobike.pl,infotram.pl,inforail.pl,transinfo.pl,infobus.pl": "INVALID",
@@ -479,7 +478,6 @@
             "poranny.pl,polskatimes.pl": "INVALID",
             "portalgorski.pl,miedziowe.pl": "INVALID",
             "postawnaswoim.pl,forum.tweaks.pl,androidhacksgames.com,mobilegameshack4u.com,solarkurier.pl,miniskrypt.hubaiitv.pl,swirtv.czo.pl,precyl.com,przeklej.org,club4you.pl,darmowetv.pl,forum.vwgolf.pl,szuman.eu,audiostereo.pl,ogloszenia.gazeta.ie,legio24.pl,sdcv.pl,dostawcy-internetu.pl,forum.bukmacherskie.com,nasze.fm,lovekrakow.pl,mh24.pl,faktykonopne.pl,lajfy.com,disco-polo.info,pokemon-go.pl,gazeta-wiesci.pl,polskaniepodlegla.pl,lpg-forum.pl,kuszotv.pl,meczelive.tv,tablety.pl,polskatimes.pl,gazetakrakowska.pl,nacjonalista.pl,ostrowiecnews.pl,medianarodowe.com,prawy.pl,hobby-elektronika.eu,lowiczanin.info,kurier-w.pl,protestanci.info,wachtyrz.eu": "INVALID",
-            "potplayerclub.pl": "INACTIVE",
             "press.pl,ogrodinfo.pl": "INVALID",
             "privatestream.tv/images/player_logo.png": "INVALID",
             "progressforpoland.com,cyfrowaekonomia.pl,expresselblag.pl": "INVALID",
@@ -510,7 +508,6 @@
             "sporteuro.pl,life4style.pl": "INVALID",
             "sportowebeskidy.pl,naklo.fm": "INVALID",
             "sportowefakty.wp.pl,kobieta.wp.pl,moto.wp.pl,tech.wp.pl,gry.wp.pl,opinie.wp.pl,turystyka.wp.pl,pogoda.wp.pl,tv.wp.pl,finanse.wp.pl": "INVALID",
-            "startkariery.pl": "INACTIVE",
             "stooq.pl,stooq.com": "INVALID",
             "studentnews.pl,gramatyka-angielska.info": "INVALID",
             "superdania.pl,zmianysolarne.pl": "INVALID",
@@ -537,7 +534,6 @@
             "tvmalbork.pl,tvsztum.pl,zulawyimierzeja24.pl,tvregionalna24.pl": "INVALID",
             "tvp.info,legia.net": "INVALID",
             "tvsudecka.pl,tczewska.pl,slowopodlasia.pl,bydgoszcz.com,tvswinoujscie.pl,tygodnikoko.pl,tv-wschod.pl,inowroclaw.info.pl,korsosanockie.pl,supertydzien.pl,lokalnatelewizja.pl,wiara.pl,debica24.eu,zvami.tv,telewizjazary.pl,korsokolbuszowskie.pl,kociewiak.pl,cooltura24.co.uk,portalpomorza.pl,tvobiektyw.pl,echotygodnik.info,damitv.pl,ct.jaworzno.pl,narew.info,pzl24.pl,tvpogranicze.pl,tv-kwidzyn.pl,tvbelchatow.pl,tv-slupsk.pl,radiozamosc.pl,tvsierpc.pl,eluban.pl,auto-motor-i-sport.pl,menshealth.pl,womenshealth.pl,runners-world.pl,motocykl-online.pl,ox.pl,radiobonton.pl,dzienniknowy.pl,lokalna24.pl,tv.starachowice.pl,kronikatygodnia.pl,sandomierztv.pl,tarnowska.tv,telewizjamazury.pl,nasztomaszow.pl,slubice.tv,dziennikpowiatowy.pl,expresselblag.pl,truso.tv,naszrynek.pl,olesnica24.com": "INVALID",
-            "twojakowala.pl": "INACTIVE",
             "twojakowala.pl,twojawierzbica.pl,twojskaryszew.pl": "INVALID",
             "twojakowala.pl,twojawierzbica.pl,twojwolanow.pl,twojskaryszew.pl,twojzwolen.pl": "INVALID",
             "twojakowala.pl,twojawierzbica.pl,twojwolanow.pl,twojskaryszew.pl,twojzwolen.pl,twojradom.pl": "INVALID",
@@ -550,8 +546,8 @@
             "v.2019081703": "INVALID",
             "v.2019082202": "INVALID",
             "v.2019082701": "INVALID",
+            "v.2019082801": "INVALID",
             "vanessa.fm,portal.region.info.pl": "INVALID",
-            "videoquality.pl": "INACTIVE",
             "vidfile.net,epiotrkow.pl,infobowling.pl": "INVALID",
             "w203.pl,w210.pl": "INVALID",
             "walbrzych24.com,zloty-pociag.com": "INVALID",
@@ -1236,9 +1232,6 @@
             "~www.cba.pl,cba.pl": "INVALID",
             "~www.wp.pl,wp.pl": "INVALID",
             "~zso53.pl,~katywroclawskie.pl,~rozklad-pkp.pl,~gwarant.czest.pl,~sukniaonline.pl,~pepco.pl": "INVALID"
-        },
-        "1567132058": {
-            "v.2019082801": "INVALID"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
