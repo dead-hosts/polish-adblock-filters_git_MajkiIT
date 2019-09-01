@@ -2175,8 +2175,8 @@
         "state": "future"
     },
     "facetpo40.pl": {
-        "epoch": 1567296000,
-        "expiration_date": "01-sep-2019",
+        "epoch": 1598918400,
+        "expiration_date": "01-sep-2020",
         "state": "future"
     },
     "fachowydekarz.pl": {
@@ -2240,8 +2240,8 @@
         "state": "future"
     },
     "fechallenge.com": {
-        "epoch": "1567296000",
-        "expiration_date": "01-sep-2019",
+        "epoch": 1598918400,
+        "expiration_date": "01-sep-2020",
         "state": "future"
     },
     "fileland.pl": {
@@ -2257,7 +2257,7 @@
     "filesdark.com": {
         "epoch": 1567209600,
         "expiration_date": "31-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "fili.cc": {
         "epoch": 1581811200,
