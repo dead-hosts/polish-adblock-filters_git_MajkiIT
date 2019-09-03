@@ -9,7 +9,8 @@
         "1566785222": {},
         "1566958877": {},
         "1567132058": {},
-        "1567305136": {
+        "1567305136": {},
+        "1567477573": {
             "!": "INVALID",
             "!/^https:\\/\\/v\\.wpimg\\.pl\\/[a-zA-Z0-9]{90,100}/$image,domain=www.money.pl": "INVALID",
             "!/uploads-no-w3tc/$image,domain=naekranie.pl": "INVALID",
@@ -500,6 +501,7 @@
             "silesia.fm,nowy.gryfickie.info": "INVALID",
             "silesia.fm,wxv.pl": "INVALID",
             "sitemag.pl,infokatowice.pl,noweinfo.pl": "INVALID",
+            "skok-rafineria.pl": "INACTIVE",
             "sloworegionu.pl,glucholazyonline.com.pl,zlubaczowa.pl": "INVALID",
             "slubice24.pl,wirtualnemedia.pl,nowywyszkowiak.pl": "INVALID",
             "slupca.pl,gry-online.pl": "INVALID",
@@ -535,11 +537,13 @@
             "tvmalbork.pl,tvsztum.pl,zulawyimierzeja24.pl,tvregionalna24.pl": "INVALID",
             "tvp.info,legia.net": "INVALID",
             "tvsudecka.pl,tczewska.pl,slowopodlasia.pl,bydgoszcz.com,tvswinoujscie.pl,tygodnikoko.pl,tv-wschod.pl,inowroclaw.info.pl,korsosanockie.pl,supertydzien.pl,lokalnatelewizja.pl,wiara.pl,debica24.eu,zvami.tv,telewizjazary.pl,korsokolbuszowskie.pl,kociewiak.pl,cooltura24.co.uk,portalpomorza.pl,tvobiektyw.pl,echotygodnik.info,damitv.pl,ct.jaworzno.pl,narew.info,pzl24.pl,tvpogranicze.pl,tv-kwidzyn.pl,tvbelchatow.pl,tv-slupsk.pl,radiozamosc.pl,tvsierpc.pl,eluban.pl,auto-motor-i-sport.pl,menshealth.pl,womenshealth.pl,runners-world.pl,motocykl-online.pl,ox.pl,radiobonton.pl,dzienniknowy.pl,lokalna24.pl,tv.starachowice.pl,kronikatygodnia.pl,sandomierztv.pl,tarnowska.tv,telewizjamazury.pl,nasztomaszow.pl,slubice.tv,dziennikpowiatowy.pl,expresselblag.pl,truso.tv,naszrynek.pl,olesnica24.com": "INVALID",
+            "twojakowala.pl": "INACTIVE",
             "twojakowala.pl,twojawierzbica.pl,twojskaryszew.pl": "INVALID",
             "twojakowala.pl,twojawierzbica.pl,twojwolanow.pl,twojskaryszew.pl,twojzwolen.pl": "INVALID",
             "twojakowala.pl,twojawierzbica.pl,twojwolanow.pl,twojskaryszew.pl,twojzwolen.pl,twojradom.pl": "INVALID",
             "twojakowala.pl,twojawierzbica.pl,twojwolanow.pl,twojskaryszew.pl,twojzwolen.pl,twojradom.pl,inowroclaw.info.pl,ototorun.pl,ciechanowinaczej.pl": "INVALID",
             "twojradom.pl,pultusk24.pl": "INVALID",
+            "twojwolanow.pl": "INACTIVE",
             "uploaduj.net,pielegniarki.info.pl": "INVALID",
             "v.2019081201": "INVALID",
             "v.2019081403": "INVALID",
@@ -548,6 +552,7 @@
             "v.2019082202": "INVALID",
             "v.2019082701": "INVALID",
             "v.2019082801": "INVALID",
+            "v.2019090102": "INVALID",
             "vanessa.fm,portal.region.info.pl": "INVALID",
             "vidfile.net,epiotrkow.pl,infobowling.pl": "INVALID",
             "w203.pl,w210.pl": "INVALID",
@@ -1233,12 +1238,6 @@
             "~www.cba.pl,cba.pl": "INVALID",
             "~www.wp.pl,wp.pl": "INVALID",
             "~zso53.pl,~katywroclawskie.pl,~rozklad-pkp.pl,~gwarant.czest.pl,~sukniaonline.pl,~pepco.pl": "INVALID"
-        },
-        "1567477573": {
-            "skok-rafineria.pl": "INACTIVE",
-            "twojakowala.pl": "INACTIVE",
-            "twojwolanow.pl": "INACTIVE",
-            "v.2019090102": "INVALID"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
