@@ -1233,6 +1233,12 @@
             "~www.cba.pl,cba.pl": "INVALID",
             "~www.wp.pl,wp.pl": "INVALID",
             "~zso53.pl,~katywroclawskie.pl,~rozklad-pkp.pl,~gwarant.czest.pl,~sukniaonline.pl,~pepco.pl": "INVALID"
+        },
+        "1567477573": {
+            "skok-rafineria.pl": "INACTIVE",
+            "twojakowala.pl": "INACTIVE",
+            "twojwolanow.pl": "INACTIVE",
+            "v.2019090102": "INVALID"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
