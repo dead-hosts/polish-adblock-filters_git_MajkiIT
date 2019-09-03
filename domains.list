@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2019082801
+v.2019090102
 !
 !
 !1
@@ -2023,6 +2023,7 @@ ototorun.pl
 ototorun.pl
 ototorun.pl
 ototorun.pl
+otube.pl
 otozawiercie.pl
 otozawiercie.pl
 ozoneo.pl
@@ -3300,7 +3301,6 @@ zywiecinfo.pl
 ||brand.ad^
 ||burdaffi.burdadigital.pl^
 ||businessclick.*/$script
-||c.evidon.com$script
 ||cda.pl/player.php
 ||cdn.dtxngr.com/$script
 ||cdn.forumpc.pl/partner$image
