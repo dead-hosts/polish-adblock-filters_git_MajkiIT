@@ -10,7 +10,8 @@
         "1566958877": {},
         "1567132058": {},
         "1567305136": {},
-        "1567477573": {
+        "1567477573": {},
+        "1567650907": {
             "!": "INVALID",
             "!/^https:\\/\\/v\\.wpimg\\.pl\\/[a-zA-Z0-9]{90,100}/$image,domain=www.money.pl": "INVALID",
             "!/uploads-no-w3tc/$image,domain=naekranie.pl": "INVALID",
