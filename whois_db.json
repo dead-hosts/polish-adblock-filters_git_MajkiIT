@@ -1075,8 +1075,8 @@
         "state": "future"
     },
     "ciekawostkihistoryczne.pl": {
-        "epoch": "1567641600",
-        "expiration_date": "05-sep-2019",
+        "epoch": 1658793600,
+        "expiration_date": "26-jul-2022",
         "state": "future"
     },
     "cieplowent.pl": {
@@ -1530,8 +1530,8 @@
         "state": "future"
     },
     "domowyprzedszkolak.pl": {
-        "epoch": 1567641600,
-        "expiration_date": "05-sep-2019",
+        "epoch": 1599264000,
+        "expiration_date": "05-sep-2020",
         "state": "future"
     },
     "domzdrowia.pl": {
