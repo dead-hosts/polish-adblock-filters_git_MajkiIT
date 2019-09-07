@@ -4985,8 +4985,8 @@
         "state": "future"
     },
     "motopodhale.info": {
-        "epoch": 1567728000,
-        "expiration_date": "06-sep-2019",
+        "epoch": 1599350400,
+        "expiration_date": "06-sep-2020",
         "state": "future"
     },
     "motormag.pl": {
@@ -5739,6 +5739,11 @@
         "expiration_date": "23-dec-2019",
         "state": "future"
     },
+    "otube.pl": {
+        "epoch": 1592006400,
+        "expiration_date": "13-jun-2020",
+        "state": "future"
+    },
     "outletto24.com": {
         "epoch": "1566432000",
         "expiration_date": "22-aug-2019",
@@ -6329,6 +6334,11 @@
         "expiration_date": "31-oct-2019",
         "state": "future"
     },
+    "pozyteczna.pl": {
+        "epoch": 1578009600,
+        "expiration_date": "03-jan-2020",
+        "state": "future"
+    },
     "pozytywniej.pl": {
         "epoch": 1569715200,
         "expiration_date": "29-sep-2019",
@@ -6610,8 +6620,8 @@
         "state": "future"
     },
     "q4.pl": {
-        "epoch": "1567814400",
-        "expiration_date": "07-sep-2019",
+        "epoch": 1580342400,
+        "expiration_date": "30-jan-2020",
         "state": "future"
     },
     "qfant.pl": {
@@ -8209,6 +8219,11 @@
         "expiration_date": "25-oct-2019",
         "state": "future"
     },
+    "tvswietokrzyska.pl": {
+        "epoch": 1591747200,
+        "expiration_date": "10-jun-2020",
+        "state": "future"
+    },
     "tvswinoujscie.pl": {
         "epoch": 1600473600,
         "expiration_date": "19-sep-2020",
@@ -8260,9 +8275,9 @@
         "state": "future"
     },
     "twojepajeczno.pl": {
-        "epoch": 1567641600,
-        "expiration_date": "05-sep-2019",
-        "state": "past"
+        "epoch": 1599264000,
+        "expiration_date": "05-sep-2020",
+        "state": "future"
     },
     "twojepc.pl": {
         "epoch": 1582761600,
@@ -8287,6 +8302,11 @@
     "twojwolanow.pl": {
         "epoch": 1567468800,
         "expiration_date": "03-sep-2019",
+        "state": "future"
+    },
+    "twojzwolen.pl": {
+        "epoch": 1587686400,
+        "expiration_date": "24-apr-2020",
         "state": "future"
     },
     "tychy.info": {
@@ -8354,6 +8374,11 @@
         "expiration_date": "22-mar-2020",
         "state": "future"
     },
+    "tygpowisla.pulawy.pl": {
+        "epoch": 1573084800,
+        "expiration_date": "07-nov-2019",
+        "state": "future"
+    },
     "tylkoastronomia.pl": {
         "epoch": 1581811200,
         "expiration_date": "16-feb-2020",
@@ -8362,6 +8387,11 @@
     "tylkomedycyna.pl": {
         "epoch": 1599350400,
         "expiration_date": "06-sep-2020",
+        "state": "future"
+    },
+    "tylkonauka.pl": {
+        "epoch": 1598486400,
+        "expiration_date": "27-aug-2020",
         "state": "future"
     },
     "tyna.info.pl": {
@@ -8459,6 +8489,11 @@
         "expiration_date": "09-sep-2020",
         "state": "future"
     },
+    "vape.pl": {
+        "epoch": 1607558400,
+        "expiration_date": "10-dec-2020",
+        "state": "future"
+    },
     "vbtpc.pl": {
         "epoch": 1570752000,
         "expiration_date": "11-oct-2019",
@@ -8519,9 +8554,19 @@
         "expiration_date": "15-sep-2020",
         "state": "future"
     },
+    "vitalia.pl": {
+        "epoch": 1578614400,
+        "expiration_date": "10-jan-2020",
+        "state": "future"
+    },
     "vixnixxer.com": {
         "epoch": "1588809600",
         "expiration_date": "07-may-2020",
+        "state": "future"
+    },
+    "vlepiamy.pl": {
+        "epoch": 1587513600,
+        "expiration_date": "22-apr-2020",
         "state": "future"
     },
     "vodbox.pl": {
@@ -8687,6 +8732,11 @@
     "webstat.pl": {
         "epoch": "1585094400",
         "expiration_date": "25-mar-2020",
+        "state": "future"
+    },
+    "wedkarstwo-lublin.pl": {
+        "epoch": 1599350400,
+        "expiration_date": "06-sep-2020",
         "state": "future"
     },
     "weeb.tv": {
