@@ -1239,6 +1239,14 @@
             "~www.cba.pl,cba.pl": "INVALID",
             "~www.wp.pl,wp.pl": "INVALID",
             "~zso53.pl,~katywroclawskie.pl,~rozklad-pkp.pl,~gwarant.czest.pl,~sukniaonline.pl,~pepco.pl": "INVALID"
+        },
+        "1567822285": {
+            "24jgora.pl,24wroclaw.pl,babice24.pl,brodnica-cbr.pl,ciechanowinaczej.pl,ddb24.pl,e-wyszogrod.pl,egarwolin.pl,egorzow.pl,ekspresjaroslawski.pl,esiemiatycze.pl,fakty.bialystok.pl,galopuje.pl,golub-cgd.pl,gpr24.pl,ibialoleka.pl,ibielsk.pl,ikampinos.pl,imokotow.pl,inowroclaw.info,iochota.pl,ipragapoludnie.pl,iskierniewice.pl,itvpiaseczno.pl,izabelin24.pl,izoliborz.pl,izyrardow.pl,kurierbytowski.com.pl,kurierpodlaski.pl,lipno-cli.pl,lowicz24.eu,mylomza.pl,nolesnica.pl,nowinynyskie.com.pl,nswiecie.pl,nwloclawek.pl,olawa24.pl,ototorun.pl,plonszczak.pl,poluje.pl,pultusk24.pl,rypin-cry.pl,sejny.net,splendo.pl,szczecinek.com,tp.com.pl,twojradom.pl,twojzwolen.pl,wabrzezno.pl,wio.waw.pl,wolomin24.info,wterenie.pl,zambrow.org,zlotowskie.pl,zycie.pila.pl,zyciekalisza.pl": "INVALID",
+            "||dspinner.net^": "INVALID",
+            "||faberville.com^": "INVALID",
+            "||goprediction.com^$domain=~goprediction.com": "INVALID",
+            "||gratissos.com^": "INVALID",
+            "||kitchencollectivecool.info^": "INVALID"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
