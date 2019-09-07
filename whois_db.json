@@ -7250,9 +7250,9 @@
         "state": "future"
     },
     "skok-rafineria.pl": {
-        "epoch": 1567296000,
-        "expiration_date": "01-sep-2019",
-        "state": "past"
+        "epoch": 1569888000,
+        "expiration_date": "01-oct-2019",
+        "state": "future"
     },
     "skokinarciarskie.pl": {
         "epoch": 1589414400,
@@ -8250,8 +8250,8 @@
         "state": "future"
     },
     "twojakowala.pl": {
-        "epoch": 1567382400,
-        "expiration_date": "02-sep-2019",
+        "epoch": 1568592000,
+        "expiration_date": "16-sep-2019",
         "state": "future"
     },
     "twojapogoda.pl": {
@@ -8300,8 +8300,8 @@
         "state": "future"
     },
     "twojwolanow.pl": {
-        "epoch": 1567468800,
-        "expiration_date": "03-sep-2019",
+        "epoch": 1568678400,
+        "expiration_date": "17-sep-2019",
         "state": "future"
     },
     "twojzwolen.pl": {
