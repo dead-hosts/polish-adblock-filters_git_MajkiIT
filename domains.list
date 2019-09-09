@@ -20,7 +20,7 @@ Redundant
 License:
 Copyright
 Najnowsza
-v.2019090602
+v.2019090801
 !
 !
 !1
@@ -268,7 +268,7 @@ popkiller.pl,tygodnikpodhalanski.pl,cnc.info.pl
 ~timeanddate.com,~sanalmarket.com.tr
 ~vestivrn.ru,~livacha.com,~uk,~kraken.com,~elton.com.ua,~alexbranding.com,~unitheme.net,~konsoleigry.pl,~megadyskont.pl
 ~wtkplay.pl,~epoznan.pl,pl
-~zso53.pl,~katywroclawskie.pl,~rozklad-pkp.pl,~gwarant.czest.pl,~sukniaonline.pl,~pepco.pl
+~zso53.pl,~katywroclawskie.pl,~rozklad-pkp.pl,~gwarant.czest.pl,~sukniaonline.pl,~pepco.pl,pl
 !
 !9
 100pompek.pl,podciaganie.pl,miesniebrzucha.pl,miesnienog.pl,biegaj40minut.pl,treningrozciagania.pl,treningaerobowy.pl
@@ -524,6 +524,7 @@ brytol.com
 budmatauto.pl
 budnet.pl
 budnet.pl
+budowlane.targibialystok.com
 bukowskilider.pl
 bukowskilider.pl
 bukowskilider.pl
@@ -3967,13 +3968,6 @@ autocentrum.pl,demotywatory.pl,dziennik.pl,facetemjestem.pl,gala.pl,garnek.pl,gr
 !23
 filmyfilmy.pl
 ||udater.net^
-||newsinsider.me^
-||dspinner.net^
-||faberville.com^
-||gratissos.com^
-||kitchencollectivecool.info^
-||pulsebiznesu.xyz^
-||pulse-biznesowe.xyz^
 !
 !24
 ||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=exs.pl,important
@@ -4256,8 +4250,9 @@ bielskiedrogi.pl
 bieznie-treningowe.pl,inforiders.pl,paleosmak.pl
 blogprezesa.pl,kryptowaluty.info.pl,litecoin.pl,starosadeckie.info
 blogujmy24.pl
-blogujmy24.pl,tarnow.in,ps4site.pl
+blogujmy24.pl,tarnow.in,ps4site.pl,bebetalent.pl
 businesstraveller.pl
+codojedzenia.pl
 craftportal.pl
 crypto-trader.pl
 cryptonews.pl
@@ -4273,7 +4268,7 @@ hiro.pl
 historykon.pl
 iknurow.pl
 jazdaprawna.pl
-jedzbawsie.pl,ekspert.ceneo.pl,slupca.pl,fsgk.pl,inforiders.pl,gadzet.telchina.pl,lifemanagerka.pl,eduzabawy.com
+jedzbawsie.pl,ekspert.ceneo.pl,slupca.pl,fsgk.pl,inforiders.pl,gadzet.telchina.pl,lifemanagerka.pl,eduzabawy.com,kucharenka.pl
 kamienskie.info
 kamienskie.info
 konflikty.pl
