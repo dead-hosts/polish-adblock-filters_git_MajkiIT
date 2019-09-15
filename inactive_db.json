@@ -330,7 +330,6 @@
             "_baner/980x200": "INVALID",
             "_banery/980x200": "INVALID",
             "alltube.tv,alltube.pl": "INVALID",
-            "aster18cdn.nl": "INACTIVE",
             "auto-motor-i-sport.pl,menshealth.pl,womenshealth.pl,runners-world.pl,motocykl-online.pl": "INVALID",
             "auto-swiat.pl,biala24.pl,trodatreleases.com,imagazine.pl": "INVALID",
             "autocentrum.pl,demotywatory.pl,dziennik.pl,facetemjestem.pl,gala.pl,garnek.pl,gry-online.pl,jegostrona.pl,joemonster.org,kobieta.pl,komixxy.pl,transfery.info,v10.pl,prawdaobiektywna.pl": "INVALID",
@@ -1258,6 +1257,11 @@
             "~www.cba.pl,cba.pl": "INVALID",
             "~www.wp.pl,wp.pl": "INVALID",
             "~zso53.pl,~katywroclawskie.pl,~rozklad-pkp.pl,~gwarant.czest.pl,~sukniaonline.pl,~pepco.pl": "INVALID"
+        },
+        "1568513786": {
+            "adsrv.eacdn.com": "INACTIVE",
+            "aster18cdn.nl": "INACTIVE",
+            "businessclick.*": "INVALID"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
