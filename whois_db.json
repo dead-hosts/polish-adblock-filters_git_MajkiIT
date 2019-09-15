@@ -3784,6 +3784,11 @@
         "expiration_date": "11-sep-2020",
         "state": "future"
     },
+    "info.stargard.pl": {
+        "epoch": 1599091200,
+        "expiration_date": "03-sep-2020",
+        "state": "future"
+    },
     "infoair.pl": {
         "epoch": 1583452800,
         "expiration_date": "06-mar-2020",
@@ -3844,6 +3849,11 @@
         "expiration_date": "01-jun-2020",
         "state": "future"
     },
+    "inforail.pl": {
+        "epoch": 1595030400,
+        "expiration_date": "18-jul-2020",
+        "state": "future"
+    },
     "inforiders.pl": {
         "epoch": 1595894400,
         "expiration_date": "28-jul-2020",
@@ -3852,6 +3862,11 @@
     "informacja.wroclaw.pl": {
         "epoch": 1569024000,
         "expiration_date": "21-sep-2019",
+        "state": "future"
+    },
+    "informacjelodzkie.pl": {
+        "epoch": 1571270400,
+        "expiration_date": "17-oct-2019",
         "state": "future"
     },
     "informatorbrzeski.pl": {
@@ -3867,6 +3882,11 @@
     "infoship.pl": {
         "epoch": 1578441600,
         "expiration_date": "08-jan-2020",
+        "state": "future"
+    },
+    "infosiedlce.pl": {
+        "epoch": 1591488000,
+        "expiration_date": "07-jun-2020",
         "state": "future"
     },
     "infoskierniewice.pl": {
@@ -3984,6 +4004,11 @@
         "expiration_date": "30-aug-2020",
         "state": "future"
     },
+    "ipragapoludnie.pl": {
+        "epoch": 1578960000,
+        "expiration_date": "14-jan-2020",
+        "state": "future"
+    },
     "irenakuczynska.pl": {
         "epoch": 1576108800,
         "expiration_date": "12-dec-2019",
@@ -4007,6 +4032,11 @@
     "ising.pl": {
         "epoch": 1640822400,
         "expiration_date": "30-dec-2021",
+        "state": "future"
+    },
+    "iskierniewice.pl": {
+        "epoch": 1593734400,
+        "expiration_date": "03-jul-2020",
         "state": "future"
     },
     "iswinoujscie.pl": {
@@ -4040,8 +4070,8 @@
         "state": "future"
     },
     "ittechblog.pl": {
-        "epoch": 1568073600,
-        "expiration_date": "10-sep-2019",
+        "epoch": 1599696000,
+        "expiration_date": "10-sep-2020",
         "state": "future"
     },
     "iturek.net": {
@@ -4057,6 +4087,11 @@
     "itvm.pl": {
         "epoch": 1580428800,
         "expiration_date": "31-jan-2020",
+        "state": "future"
+    },
+    "itvpiaseczno.pl": {
+        "epoch": 1588809600,
+        "expiration_date": "07-may-2020",
         "state": "future"
     },
     "itvpolska.pl": {
@@ -4077,6 +4112,11 @@
     "iv.pl": {
         "epoch": "1566432000",
         "expiration_date": "22-aug-2019",
+        "state": "future"
+    },
+    "izabelin24.pl": {
+        "epoch": 1584057600,
+        "expiration_date": "13-mar-2020",
         "state": "future"
     },
     "izaktv.pl": {
@@ -4329,6 +4369,11 @@
         "expiration_date": "12-may-2021",
         "state": "future"
     },
+    "kawiarniany.pl": {
+        "epoch": 1589587200,
+        "expiration_date": "16-may-2020",
+        "state": "future"
+    },
     "kb.pl": {
         "epoch": 1580256000,
         "expiration_date": "29-jan-2020",
@@ -4362,6 +4407,11 @@
     "kiep.pl": {
         "epoch": 1614816000,
         "expiration_date": "04-mar-2021",
+        "state": "future"
+    },
+    "kierunek.szczecin.pl": {
+        "epoch": 1578960000,
+        "expiration_date": "14-jan-2020",
         "state": "future"
     },
     "kierunekchorwacja.pl": {
@@ -4469,6 +4519,11 @@
         "expiration_date": "15-oct-2019",
         "state": "future"
     },
+    "komixxy.pl": {
+        "epoch": 1572652800,
+        "expiration_date": "02-nov-2019",
+        "state": "future"
+    },
     "komorkomania.pl": {
         "epoch": 1586649600,
         "expiration_date": "12-apr-2020",
@@ -4554,6 +4609,11 @@
         "expiration_date": "11-dec-2019",
         "state": "future"
     },
+    "kotburger.pl": {
+        "epoch": 1589414400,
+        "expiration_date": "14-may-2020",
+        "state": "future"
+    },
     "kozaczek.pl": {
         "epoch": 1575331200,
         "expiration_date": "03-dec-2019",
@@ -4572,6 +4632,11 @@
     "kramik.pl": {
         "epoch": 1605830400,
         "expiration_date": "20-nov-2020",
+        "state": "future"
+    },
+    "krasnik24.pl": {
+        "epoch": 1599091200,
+        "expiration_date": "03-sep-2020",
         "state": "future"
     },
     "kreskoweczki.pl": {
@@ -4855,8 +4920,8 @@
         "state": "future"
     },
     "lexus-forum.pl": {
-        "epoch": 1568419200,
-        "expiration_date": "14-sep-2019",
+        "epoch": 1600041600,
+        "expiration_date": "14-sep-2020",
         "state": "future"
     },
     "lezajsk4u.pl": {
@@ -4872,6 +4937,11 @@
     "lidl.pl": {
         "epoch": "1557187200",
         "expiration_date": "07-may-2019",
+        "state": "future"
+    },
+    "life4style.pl": {
+        "epoch": 1568851200,
+        "expiration_date": "19-sep-2019",
         "state": "future"
     },
     "lijjt.com": {
@@ -7022,6 +7092,11 @@
     "pomorska.pl": {
         "epoch": 1593820800,
         "expiration_date": "04-jul-2020",
+        "state": "future"
+    },
+    "pomorskifutbol.pl": {
+        "epoch": 1586131200,
+        "expiration_date": "06-apr-2020",
         "state": "future"
     },
     "pomorskiprzewodnikwedkarski.pl": {
