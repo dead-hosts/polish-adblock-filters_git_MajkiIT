@@ -473,7 +473,6 @@
             "opolak.pl,poznaniak.pl,szczeciniak.pl,toruniak.pl,warszawiak.pl,wroclawiak.pl,katowiczak.pl,bialostoczak.pl,kaliszak.pl,gdyniak.pl,gdanszczak.pl,czestochowiak.pl,bydgoszczak.pl,krakusik.pl": "INVALID",
             "pabianice.tv,satinfo24.pl": "INVALID",
             "parenting.pl,parenting.wp.pl": "INVALID",
-            "pirackiekino.blogspot.com": "INACTIVE",
             "pl,com": "INVALID",
             "pl/*/rodzinnawycieczka/$image,domain=wp.pl": "INVALID",
             "pl/popup.js|$script": "INVALID",
@@ -1261,7 +1260,10 @@
         "1568513786": {
             "adsrv.eacdn.com": "INACTIVE",
             "aster18cdn.nl": "INACTIVE",
-            "businessclick.*": "INVALID"
+            "businessclick.*": "INVALID",
+            "lezajsk4u.pl": "INACTIVE",
+            "livemecz.*": "INVALID",
+            "pirackiekino.blogspot.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
