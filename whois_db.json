@@ -10450,8 +10450,8 @@
         "state": "future"
     },
     "zolti.pl": {
-        "epoch": "1557705600",
-        "expiration_date": "13-may-2019",
+        "epoch": 1589328000,
+        "expiration_date": "13-may-2020",
         "state": "future"
     },
     "zoomica.pl": {
@@ -10524,6 +10524,11 @@
         "expiration_date": "19-aug-2020",
         "state": "future"
     },
+    "zwielkopolski24.pl": {
+        "epoch": 1594512000,
+        "expiration_date": "12-jul-2020",
+        "state": "future"
+    },
     "zwierciadlo.pl": {
         "epoch": 1610150400,
         "expiration_date": "09-jan-2021",
@@ -10552,6 +10557,11 @@
     "zycieczestochowy.pl": {
         "epoch": 1598918400,
         "expiration_date": "01-sep-2020",
+        "state": "future"
+    },
+    "zyciekalisza.pl": {
+        "epoch": 1581379200,
+        "expiration_date": "11-feb-2020",
         "state": "future"
     },
     "zyciekutna.pl": {
