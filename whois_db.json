@@ -814,6 +814,11 @@
         "expiration_date": "08-mar-2020",
         "state": "future"
     },
+    "biala24.pl": {
+        "epoch": 1621036800,
+        "expiration_date": "15-may-2021",
+        "state": "future"
+    },
     "bialostoczak.pl": {
         "epoch": 1592265600,
         "expiration_date": "16-jun-2020",
@@ -1169,6 +1174,11 @@
         "expiration_date": "05-feb-2020",
         "state": "future"
     },
+    "bydgoszczak.pl": {
+        "epoch": 1611878400,
+        "expiration_date": "29-jan-2021",
+        "state": "future"
+    },
     "bytomski.pl": {
         "epoch": 1571356800,
         "expiration_date": "18-oct-2019",
@@ -1254,6 +1264,11 @@
         "expiration_date": "18-jul-2020",
         "state": "future"
     },
+    "ceo.com.pl": {
+        "epoch": 1571875200,
+        "expiration_date": "24-oct-2019",
+        "state": "future"
+    },
     "cgm.pl": {
         "epoch": 1636243200,
         "expiration_date": "07-nov-2021",
@@ -1292,6 +1307,11 @@
     "chillizet.pl": {
         "epoch": 1588118400,
         "expiration_date": "29-apr-2020",
+        "state": "future"
+    },
+    "chinytolubie.pl": {
+        "epoch": 1569974400,
+        "expiration_date": "02-oct-2019",
         "state": "future"
     },
     "chip.pl": {
@@ -1684,6 +1704,11 @@
         "expiration_date": "23-may-2020",
         "state": "future"
     },
+    "ddb24.pl": {
+        "epoch": 1576627200,
+        "expiration_date": "18-dec-2019",
+        "state": "future"
+    },
     "ddbelchatow.pl": {
         "epoch": 1569628800,
         "expiration_date": "28-sep-2019",
@@ -1742,6 +1767,11 @@
     "di.com.pl": {
         "epoch": 1582156800,
         "expiration_date": "20-feb-2020",
+        "state": "future"
+    },
+    "di.pl": {
+        "epoch": 1580342400,
+        "expiration_date": "30-jan-2020",
         "state": "future"
     },
     "diagnozujmy.pl": {
