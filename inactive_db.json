@@ -1254,9 +1254,6 @@
             "~zso53.pl,~katywroclawskie.pl,~rozklad-pkp.pl,~gwarant.czest.pl,~sukniaonline.pl,~pepco.pl": "INVALID"
         },
         "1568513786": {
-            "adsrv.eacdn.com": "INACTIVE",
-            "aster18cdn.nl": "INACTIVE",
-            "businessclick.*": "INVALID",
             "lezajsk4u.pl": "INACTIVE",
             "livemecz.*": "INVALID",
             "pirackiekino.blogspot.com": "INACTIVE",
@@ -1268,6 +1265,11 @@
             "twojawierzbica.pl": "INACTIVE",
             "vidoza*.github.io": "INVALID",
             "www2.payback.pl": "INACTIVE"
+        },
+        "1568686646": {
+            "adsrv.eacdn.com": "INACTIVE",
+            "aster18cdn.nl": "INACTIVE",
+            "businessclick.*": "INVALID"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
