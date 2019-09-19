@@ -3774,6 +3774,11 @@
         "expiration_date": "14-jan-2020",
         "state": "future"
     },
+    "ibielsk.pl": {
+        "epoch": 1579910400,
+        "expiration_date": "25-jan-2020",
+        "state": "future"
+    },
     "ibillboard.com": {
         "epoch": "1577577600",
         "expiration_date": "29-dec-2019",
@@ -3797,6 +3802,11 @@
     "ifotos.pl": {
         "epoch": 1595894400,
         "expiration_date": "28-jul-2020",
+        "state": "future"
+    },
+    "ifrancja.fr": {
+        "epoch": 1570838400,
+        "expiration_date": "12-oct-2019",
         "state": "future"
     },
     "igostyn.pl": {
@@ -4804,6 +4814,11 @@
         "expiration_date": "15-dec-2020",
         "state": "future"
     },
+    "kronikamontrealska.com": {
+        "epoch": 1583193600,
+        "expiration_date": "03-mar-2020",
+        "state": "future"
+    },
     "kronikatygodnia.pl": {
         "epoch": 1601424000,
         "expiration_date": "30-sep-2020",
@@ -5117,7 +5132,7 @@
     "life4style.pl": {
         "epoch": 1568851200,
         "expiration_date": "19-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "lifemanagerka.pl": {
         "epoch": 1572912000,
@@ -5160,8 +5175,8 @@
         "state": "future"
     },
     "linuxhelp.in": {
-        "epoch": 1568764800,
-        "expiration_date": "18-sep-2019",
+        "epoch": 1600387200,
+        "expiration_date": "18-sep-2020",
         "state": "future"
     },
     "linuxiarze.pl": {
@@ -6574,6 +6589,11 @@
         "expiration_date": "03-jul-2019",
         "state": "future"
     },
+    "niestatystyczny.pl": {
+        "epoch": 1619654400,
+        "expiration_date": "29-apr-2021",
+        "state": "future"
+    },
     "niewygodne.info.pl": {
         "epoch": 1625788800,
         "expiration_date": "09-jul-2021",
@@ -6694,6 +6714,11 @@
         "expiration_date": "13-may-2020",
         "state": "future"
     },
+    "nowytydzien.pl": {
+        "epoch": 1599609600,
+        "expiration_date": "09-sep-2020",
+        "state": "future"
+    },
     "nowywyszkowiak.pl": {
         "epoch": 1576800000,
         "expiration_date": "20-dec-2019",
@@ -6702,6 +6727,11 @@
     "nqp0852y7r.com": {
         "epoch": 1591574400,
         "expiration_date": "08-jun-2020",
+        "state": "future"
+    },
+    "nswiecie.pl": {
+        "epoch": 1653782400,
+        "expiration_date": "29-may-2022",
         "state": "future"
     },
     "nto.pl": {
@@ -6764,6 +6794,11 @@
         "expiration_date": "15-dec-2019",
         "state": "future"
     },
+    "obud.pl": {
+        "epoch": 1576368000,
+        "expiration_date": "15-dec-2019",
+        "state": "future"
+    },
     "obywatelenieba.pl": {
         "epoch": 1595894400,
         "expiration_date": "28-jul-2020",
@@ -6782,6 +6817,11 @@
     "oczamiostrego.pl": {
         "epoch": 1578960000,
         "expiration_date": "14-jan-2020",
+        "state": "future"
+    },
+    "odkryjbitcoin.pl": {
+        "epoch": 1583280000,
+        "expiration_date": "04-mar-2020",
         "state": "future"
     },
     "odkryjpomorze.pl": {
@@ -7109,6 +7149,11 @@
         "expiration_date": "05-jun-2020",
         "state": "future"
     },
+    "pasja-informatyki.pl": {
+        "epoch": 1577923200,
+        "expiration_date": "02-jan-2020",
+        "state": "future"
+    },
     "patriot24.net": {
         "epoch": 1576800000,
         "expiration_date": "20-dec-2019",
@@ -7187,6 +7232,11 @@
     "perfektusplus.pl": {
         "epoch": 1614211200,
         "expiration_date": "25-feb-2021",
+        "state": "future"
+    },
+    "perfuforum.pl": {
+        "epoch": 1584316800,
+        "expiration_date": "16-mar-2020",
         "state": "future"
     },
     "perfumik.pl": {
@@ -7552,6 +7602,11 @@
     "pomorskiprzewodnikwedkarski.pl": {
         "epoch": 1586995200,
         "expiration_date": "16-apr-2020",
+        "state": "future"
+    },
+    "pomponik.pl": {
+        "epoch": 1584662400,
+        "expiration_date": "20-mar-2020",
         "state": "future"
     },
     "pomu.pl": {
