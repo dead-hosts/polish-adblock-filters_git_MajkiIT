@@ -3734,6 +3734,11 @@
         "expiration_date": "01-oct-2019",
         "state": "future"
     },
+    "grajewo24.pl": {
+        "epoch": 1586822400,
+        "expiration_date": "14-apr-2020",
+        "state": "future"
+    },
     "grajteraz.pl": {
         "epoch": 1581379200,
         "expiration_date": "11-feb-2020",
@@ -3824,6 +3829,11 @@
         "expiration_date": "29-aug-2020",
         "state": "future"
     },
+    "gs24.pl": {
+        "epoch": 1573948800,
+        "expiration_date": "17-nov-2019",
+        "state": "future"
+    },
     "gsim.pl": {
         "epoch": 1594166400,
         "expiration_date": "08-jul-2020",
@@ -3887,6 +3897,11 @@
     "haczyk.pl": {
         "epoch": "1572220800",
         "expiration_date": "28-oct-2019",
+        "state": "future"
+    },
+    "haker.com.pl": {
+        "epoch": 1585353600,
+        "expiration_date": "28-mar-2020",
         "state": "future"
     },
     "halamadrid.pl": {
@@ -3959,6 +3974,11 @@
         "expiration_date": "19-may-2020",
         "state": "future"
     },
+    "highlab.pl": {
+        "epoch": 1597017600,
+        "expiration_date": "10-aug-2020",
+        "state": "future"
+    },
     "hip-hop.pl": {
         "epoch": 1586563200,
         "expiration_date": "11-apr-2020",
@@ -3984,9 +4004,19 @@
         "expiration_date": "22-jun-2020",
         "state": "future"
     },
+    "histografy.pl": {
+        "epoch": 1578528000,
+        "expiration_date": "09-jan-2020",
+        "state": "future"
+    },
     "historia.org.pl": {
         "epoch": 1572307200,
         "expiration_date": "29-oct-2019",
+        "state": "future"
+    },
+    "historia.pl": {
+        "epoch": 1583971200,
+        "expiration_date": "12-mar-2020",
         "state": "future"
     },
     "historiasportu.info": {
@@ -4335,8 +4365,8 @@
         "state": "future"
     },
     "informacja.wroclaw.pl": {
-        "epoch": 1569024000,
-        "expiration_date": "21-sep-2019",
+        "epoch": 1600646400,
+        "expiration_date": "21-sep-2020",
         "state": "future"
     },
     "informacjelodzkie.pl": {
@@ -4467,7 +4497,7 @@
     "iotwock.info": {
         "epoch": 1569024000,
         "expiration_date": "21-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "ipilka.info": {
         "epoch": 1571529600,
@@ -5485,9 +5515,9 @@
         "state": "future"
     },
     "life4style.pl": {
-        "epoch": 1568851200,
-        "expiration_date": "19-sep-2019",
-        "state": "past"
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
+        "state": "future"
     },
     "lifemanagerka.pl": {
         "epoch": 1572912000,
@@ -6070,8 +6100,8 @@
         "state": "future"
     },
     "metalnews.pl": {
-        "epoch": 1569024000,
-        "expiration_date": "21-sep-2019",
+        "epoch": 1600646400,
+        "expiration_date": "21-sep-2020",
         "state": "future"
     },
     "meteo.pl": {
@@ -6949,6 +6979,11 @@
         "expiration_date": "29-apr-2021",
         "state": "future"
     },
+    "niewiarygodne.pl": {
+        "epoch": 1637798400,
+        "expiration_date": "25-nov-2021",
+        "state": "future"
+    },
     "niewygodne.info.pl": {
         "epoch": 1625788800,
         "expiration_date": "09-jul-2021",
@@ -7104,6 +7139,11 @@
         "expiration_date": "03-jan-2022",
         "state": "future"
     },
+    "nwloclawek.pl": {
+        "epoch": 1749945600,
+        "expiration_date": "15-jun-2025",
+        "state": "future"
+    },
     "nysa24.pl": {
         "epoch": 1656547200,
         "expiration_date": "30-jun-2022",
@@ -7147,6 +7187,11 @@
     "oboom.com": {
         "epoch": 1576368000,
         "expiration_date": "15-dec-2019",
+        "state": "future"
+    },
+    "obserwatorfinansowy.pl": {
+        "epoch": 1633651200,
+        "expiration_date": "08-oct-2021",
         "state": "future"
     },
     "obud.pl": {
@@ -7274,6 +7319,11 @@
         "expiration_date": "10-nov-2019",
         "state": "future"
     },
+    "onalubi.pl": {
+        "epoch": 1580688000,
+        "expiration_date": "03-feb-2020",
+        "state": "future"
+    },
     "onenima.com": {
         "epoch": "1580860800",
         "expiration_date": "05-feb-2020",
@@ -7312,6 +7362,16 @@
     "opensubtitles.org": {
         "epoch": "1575331200",
         "expiration_date": "03-dec-2019",
+        "state": "future"
+    },
+    "operatorzy.pl": {
+        "epoch": 1624579200,
+        "expiration_date": "25-jun-2021",
+        "state": "future"
+    },
+    "opinieouczelniach.pl": {
+        "epoch": 1589068800,
+        "expiration_date": "10-may-2020",
         "state": "future"
     },
     "opoka.news": {
@@ -7412,6 +7472,11 @@
     "otopanorama.pl": {
         "epoch": 1572393600,
         "expiration_date": "30-oct-2019",
+        "state": "future"
+    },
+    "otopodhale.pl": {
+        "epoch": 1571443200,
+        "expiration_date": "19-oct-2019",
         "state": "future"
     },
     "ototorun.pl": {
@@ -7595,8 +7660,8 @@
         "state": "future"
     },
     "perfumik.pl": {
-        "epoch": 1567987200,
-        "expiration_date": "09-sep-2019",
+        "epoch": 1599609600,
+        "expiration_date": "09-sep-2020",
         "state": "future"
     },
     "perspektywy.pl": {
@@ -7624,9 +7689,19 @@
         "expiration_date": "26-oct-2020",
         "state": "future"
     },
+    "phrasal-verbs.pl": {
+        "epoch": 1593907200,
+        "expiration_date": "05-jul-2020",
+        "state": "future"
+    },
     "piekary.pl": {
         "epoch": 1592265600,
         "expiration_date": "16-jun-2020",
+        "state": "future"
+    },
+    "piekielni.pl": {
+        "epoch": 1584316800,
+        "expiration_date": "16-mar-2020",
         "state": "future"
     },
     "pieknojestwtobie.com": {
@@ -7759,6 +7834,11 @@
         "expiration_date": "12-feb-2020",
         "state": "future"
     },
+    "plonszczak.pl": {
+        "epoch": 1571702400,
+        "expiration_date": "22-oct-2019",
+        "state": "future"
+    },
     "plotek.pl": {
         "epoch": 1626998400,
         "expiration_date": "23-jul-2021",
@@ -7777,6 +7857,21 @@
     "plusliga.pl": {
         "epoch": 1583280000,
         "expiration_date": "04-mar-2020",
+        "state": "future"
+    },
+    "podajdalej.info.pl": {
+        "epoch": 1584576000,
+        "expiration_date": "19-mar-2020",
+        "state": "future"
+    },
+    "podciaganie.pl": {
+        "epoch": 1575849600,
+        "expiration_date": "09-dec-2019",
+        "state": "future"
+    },
+    "podgorze.pl": {
+        "epoch": 1578096000,
+        "expiration_date": "04-jan-2020",
         "state": "future"
     },
     "podhale-sport.pl": {
