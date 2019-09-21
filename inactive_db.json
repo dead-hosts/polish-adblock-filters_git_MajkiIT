@@ -1256,14 +1256,6 @@
         "1568513786": {},
         "1568686646": {},
         "1568859514": {
-            "redir.atmcdn.pl*swf": "INVALID",
-            "s1.postimg.org": "INACTIVE",
-            "swieta.wp.pl": "INACTIVE",
-            "swirtv.czo.pl": "INACTIVE",
-            "twojakowala.pl": "INACTIVE",
-            "twojawierzbica.pl": "INACTIVE",
-            "twojwolanow.pl": "INACTIVE",
-            "vidoza*.github.io": "INVALID",
             "www2.payback.pl": "INACTIVE"
         },
         "1569063743": {
@@ -1271,7 +1263,12 @@
             "aster18cdn.nl": "INACTIVE",
             "businessclick.*": "INVALID",
             "livemecz.*": "INVALID",
-            "pirackiekino.blogspot.com": "INACTIVE"
+            "pirackiekino.blogspot.com": "INACTIVE",
+            "redir.atmcdn.pl*swf": "INVALID",
+            "s1.postimg.org": "INACTIVE",
+            "swieta.wp.pl": "INACTIVE",
+            "swirtv.czo.pl": "INACTIVE",
+            "vidoza*.github.io": "INVALID"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
