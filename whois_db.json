@@ -8490,8 +8490,8 @@
         "state": "future"
     },
     "prostozmostu.pl": {
-        "epoch": 1569110400,
-        "expiration_date": "22-sep-2019",
+        "epoch": 1600732800,
+        "expiration_date": "22-sep-2020",
         "state": "future"
     },
     "protestanci.info": {
@@ -10002,7 +10002,7 @@
     "swiato-podglad.pl": {
         "epoch": 1569110400,
         "expiration_date": "22-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "swiatogloszen.net.pl": {
         "epoch": 1575331200,
@@ -11185,8 +11185,8 @@
         "state": "future"
     },
     "vinowisko.pl": {
-        "epoch": 1569110400,
-        "expiration_date": "22-sep-2019",
+        "epoch": 1600732800,
+        "expiration_date": "22-sep-2020",
         "state": "future"
     },
     "vipmultimedia.pl": {
