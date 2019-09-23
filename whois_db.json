@@ -905,8 +905,8 @@
         "state": "future"
     },
     "bitcoin-info.pl": {
-        "epoch": 1569110400,
-        "expiration_date": "22-sep-2019",
+        "epoch": 1600732800,
+        "expiration_date": "22-sep-2020",
         "state": "future"
     },
     "bitcoin-online.pl": {
@@ -1455,8 +1455,8 @@
         "state": "future"
     },
     "coin-have.com": {
-        "epoch": "1569196800",
-        "expiration_date": "23-sep-2019",
+        "epoch": 1600819200,
+        "expiration_date": "23-sep-2020",
         "state": "future"
     },
     "coin-hive.com": {
@@ -2947,7 +2947,7 @@
     "filmy-tv.pl": {
         "epoch": 1569196800,
         "expiration_date": "23-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "filmy.cool": {
         "epoch": 1591833600,
@@ -3447,6 +3447,11 @@
     "gexe.pl": {
         "epoch": 1598745600,
         "expiration_date": "30-aug-2020",
+        "state": "future"
+    },
+    "gf24.pl": {
+        "epoch": 1586304000,
+        "expiration_date": "08-apr-2020",
         "state": "future"
     },
     "gieldaigospodarka.pl": {
@@ -4027,6 +4032,11 @@
     "historykon.pl": {
         "epoch": 1592352000,
         "expiration_date": "17-jun-2020",
+        "state": "future"
+    },
+    "hmt.pl": {
+        "epoch": 1581638400,
+        "expiration_date": "14-feb-2020",
         "state": "future"
     },
     "hobby.pl": {
