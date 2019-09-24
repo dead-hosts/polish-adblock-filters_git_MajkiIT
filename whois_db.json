@@ -672,7 +672,7 @@
     "awangardafutbolu.pl": {
         "epoch": 1569283200,
         "expiration_date": "24-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "b1.pl": {
         "epoch": 1580342400,
@@ -2945,9 +2945,9 @@
         "state": "future"
     },
     "filmy-tv.pl": {
-        "epoch": 1569196800,
-        "expiration_date": "23-sep-2019",
-        "state": "past"
+        "epoch": 1600819200,
+        "expiration_date": "23-sep-2020",
+        "state": "future"
     },
     "filmy.cool": {
         "epoch": 1591833600,
