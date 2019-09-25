@@ -8565,8 +8565,8 @@
         "state": "future"
     },
     "przekultura.pl": {
-        "epoch": 1569369600,
-        "expiration_date": "25-sep-2019",
+        "epoch": 1600992000,
+        "expiration_date": "25-sep-2020",
         "state": "future"
     },
     "przemysl.info.pl": {
@@ -10800,9 +10800,9 @@
         "state": "future"
     },
     "tvsierpc.pl": {
-        "epoch": 1569283200,
-        "expiration_date": "24-sep-2019",
-        "state": "past"
+        "epoch": 1571875200,
+        "expiration_date": "24-oct-2019",
+        "state": "future"
     },
     "tvsudecka.pl": {
         "epoch": 1571961600,
