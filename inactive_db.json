@@ -1258,9 +1258,7 @@
         "1568859514": {},
         "1569063743": {},
         "1569205254": {},
-        "1569320065": {
-            "www2.payback.pl": "INACTIVE"
-        },
+        "1569320065": {},
         "1569407597": {
             "adsrv.eacdn.com": "INACTIVE",
             "aster18cdn.nl": "INACTIVE",
@@ -1273,7 +1271,8 @@
             "s1.postimg.org": "INACTIVE",
             "swieta.wp.pl": "INACTIVE",
             "swirtv.czo.pl": "INACTIVE",
-            "vidoza*.github.io": "INVALID"
+            "vidoza*.github.io": "INVALID",
+            "www2.payback.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
