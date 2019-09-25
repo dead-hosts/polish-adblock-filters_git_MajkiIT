@@ -6610,8 +6610,8 @@
         "state": "future"
     },
     "msg.org.pl": {
-        "epoch": 1569369600,
-        "expiration_date": "25-sep-2019",
+        "epoch": 1598400000,
+        "expiration_date": "26-aug-2020",
         "state": "future"
     },
     "msmobile.pl": {
@@ -6647,7 +6647,7 @@
     "muzodajka.pl": {
         "epoch": 1569369600,
         "expiration_date": "25-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "muzykazreklam.tv": {
         "epoch": 1586736000,
