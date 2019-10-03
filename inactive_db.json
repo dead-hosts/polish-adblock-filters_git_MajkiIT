@@ -1264,10 +1264,6 @@
         "1569666546": {},
         "1569810342": {},
         "1569983202": {
-            "adsrv.eacdn.com": "INACTIVE",
-            "aster18cdn.nl": "INACTIVE",
-            "businessclick.*": "INVALID",
-            "ewpl.com.au": "INACTIVE",
             "livemecz.*": "INVALID",
             "pirackiekino.blogspot.com": "INACTIVE",
             "redir.atmcdn.pl*swf": "INVALID",
@@ -1276,6 +1272,12 @@
             "swirtv.czo.pl": "INACTIVE",
             "vidoza*.github.io": "INVALID",
             "www2.payback.pl": "INACTIVE"
+        },
+        "1570098572": {
+            "adsrv.eacdn.com": "INACTIVE",
+            "aster18cdn.nl": "INACTIVE",
+            "businessclick.*": "INVALID",
+            "ewpl.com.au": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
