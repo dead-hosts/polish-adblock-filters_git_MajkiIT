@@ -1238,7 +1238,6 @@
             "~zso53.pl,~katywroclawskie.pl,~rozklad-pkp.pl,~gwarant.czest.pl,~sukniaonline.pl,~pepco.pl": "INVALID"
         },
         "1570098572": {
-            "pirackiekino.blogspot.com": "INACTIVE",
             "s1.postimg.org": "INACTIVE",
             "swieta.wp.pl": "INACTIVE",
             "swirtv.czo.pl": "INACTIVE",
@@ -1452,6 +1451,9 @@
         },
         "1571401212": {
             "get.x-link.pl": "INACTIVE"
+        },
+        "1571402548": {
+            "pirackiekino.blogspot.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
