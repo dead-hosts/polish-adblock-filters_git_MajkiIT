@@ -8839,6 +8839,11 @@
         "expiration_date": "26-oct-2019",
         "state": "future"
     },
+    "radiofest.pl": {
+        "epoch": 1584403200,
+        "expiration_date": "17-mar-2020",
+        "state": "future"
+    },
     "radiofm-online.com": {
         "epoch": 1595462400,
         "expiration_date": "23-jul-2020",
@@ -8995,8 +9000,8 @@
         "state": "future"
     },
     "redbullmobile.pl": {
-        "epoch": 1570838400,
-        "expiration_date": "12-oct-2019",
+        "epoch": 1602460800,
+        "expiration_date": "12-oct-2020",
         "state": "future"
     },
     "redcoon.pl": {
@@ -9265,8 +9270,8 @@
         "state": "future"
     },
     "sadistic.pl": {
-        "epoch": 1570147200,
-        "expiration_date": "04-oct-2019",
+        "epoch": 1601769600,
+        "expiration_date": "04-oct-2020",
         "state": "future"
     },
     "sadnowoczesny.pl": {
@@ -9415,8 +9420,8 @@
         "state": "future"
     },
     "sgforum.pl": {
-        "epoch": 1570665600,
-        "expiration_date": "10-oct-2019",
+        "epoch": 1602288000,
+        "expiration_date": "10-oct-2020",
         "state": "future"
     },
     "shebang.pl": {
@@ -9500,8 +9505,8 @@
         "state": "future"
     },
     "sitemag.pl": {
-        "epoch": 1570320000,
-        "expiration_date": "06-oct-2019",
+        "epoch": 1572912000,
+        "expiration_date": "05-nov-2019",
         "state": "future"
     },
     "skarzysko24.pl": {
@@ -9620,9 +9625,9 @@
         "state": "future"
     },
     "sluzby-ratownicze.pl": {
-        "epoch": 1570060800,
-        "expiration_date": "03-oct-2019",
-        "state": "past"
+        "epoch": 1572652800,
+        "expiration_date": "02-nov-2019",
+        "state": "future"
     },
     "smart-test.pl": {
         "epoch": 1595462400,
@@ -9675,8 +9680,8 @@
         "state": "future"
     },
     "sokolka.tv": {
-        "epoch": 1571356800,
-        "expiration_date": "18-oct-2019",
+        "epoch": 1602979200,
+        "expiration_date": "18-oct-2020",
         "state": "future"
     },
     "solarkurier.pl": {
@@ -9790,8 +9795,8 @@
         "state": "future"
     },
     "spryciarze.pl": {
-        "epoch": 1570838400,
-        "expiration_date": "12-oct-2019",
+        "epoch": 1602460800,
+        "expiration_date": "12-oct-2020",
         "state": "future"
     },
     "sprzedajemy.pl": {
@@ -9882,6 +9887,11 @@
     "stepstone.pl": {
         "epoch": 1570924800,
         "expiration_date": "13-oct-2019",
+        "state": "future"
+    },
+    "stoczniowcy.pl": {
+        "epoch": 1588809600,
+        "expiration_date": "07-may-2020",
         "state": "future"
     },
     "stomil.olsztyn.pl": {
@@ -10395,8 +10405,8 @@
         "state": "future"
     },
     "terazgrodkow24.pl": {
-        "epoch": 1570233600,
-        "expiration_date": "05-oct-2019",
+        "epoch": 1601856000,
+        "expiration_date": "05-oct-2020",
         "state": "future"
     },
     "tersawards.pl": {
@@ -10535,8 +10545,8 @@
         "state": "future"
     },
     "transinfo.pl": {
-        "epoch": 1570147200,
-        "expiration_date": "04-oct-2019",
+        "epoch": 1601769600,
+        "expiration_date": "04-oct-2020",
         "state": "future"
     },
     "trasa.info": {
@@ -10705,8 +10715,8 @@
         "state": "future"
     },
     "turystykakulturowa.org": {
-        "epoch": 1570665600,
-        "expiration_date": "10-oct-2019",
+        "epoch": 1602288000,
+        "expiration_date": "10-oct-2020",
         "state": "future"
     },
     "tustolica.pl": {
@@ -11005,8 +11015,8 @@
         "state": "future"
     },
     "tygodniknarodowy.pl": {
-        "epoch": 1570320000,
-        "expiration_date": "06-oct-2019",
+        "epoch": 1601942400,
+        "expiration_date": "06-oct-2020",
         "state": "future"
     },
     "tygodnikoko.pl": {
@@ -11200,8 +11210,8 @@
         "state": "future"
     },
     "vbtpc.pl": {
-        "epoch": 1570752000,
-        "expiration_date": "11-oct-2019",
+        "epoch": 1602374400,
+        "expiration_date": "11-oct-2020",
         "state": "future"
     },
     "vdztrack.com": {
@@ -11305,8 +11315,8 @@
         "state": "future"
     },
     "voxfm.pl": {
-        "epoch": 1570406400,
-        "expiration_date": "07-oct-2019",
+        "epoch": 1602028800,
+        "expiration_date": "07-oct-2020",
         "state": "future"
     },
     "vshare.io": {
@@ -11710,8 +11720,8 @@
         "state": "future"
     },
     "wloclawek.info.pl": {
-        "epoch": 1570752000,
-        "expiration_date": "11-oct-2019",
+        "epoch": 1602374400,
+        "expiration_date": "11-oct-2020",
         "state": "future"
     },
     "wmeritum.pl": {
@@ -11745,8 +11755,8 @@
         "state": "future"
     },
     "womenshealth.pl": {
-        "epoch": 1571356800,
-        "expiration_date": "18-oct-2019",
+        "epoch": 1602979200,
+        "expiration_date": "18-oct-2020",
         "state": "future"
     },
     "worldcam.pl": {
