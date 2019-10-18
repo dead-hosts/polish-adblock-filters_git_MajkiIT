@@ -1237,133 +1237,6 @@
             "~www.wp.pl,wp.pl": "INVALID",
             "~zso53.pl,~katywroclawskie.pl,~rozklad-pkp.pl,~gwarant.czest.pl,~sukniaonline.pl,~pepco.pl": "INVALID"
         },
-        "1571348894": {
-            "abcast.net": "INVALID",
-            "ad.adview.pl": "INVALID",
-            "ad.docer.pl": "INVALID"
-        },
-        "1571348895": {
-            "ad.facetpo40.pl": "INVALID",
-            "ad.gazeta.pl": "INVALID",
-            "adk.docer.pl": "INVALID"
-        },
-        "1571348896": {
-            "ad.vider.pl": "INVALID",
-            "ad.webshark.pl": "INVALID",
-            "ad.zanox.com": "INVALID",
-            "ads.gry-online.pl": "INVALID",
-            "adv.wp.pl": "INVALID"
-        },
-        "1571348900": {
-            "api-content-generator.gazeta.pl": "INVALID",
-            "api.systempartnerski.pl": "INVALID",
-            "assets.bro.adca.st": "INVALID",
-            "aster18cdn.nl": "INVALID",
-            "b54m4qbmt0b9.com": "INVALID"
-        },
-        "1571348901": {
-            "bi.adview.pl": "INVALID"
-        },
-        "1571348902": {
-            "burdaffi.burdadigital.pl": "INVALID",
-            "businessclick.*": "INVALID",
-            "cdn.comperia.pl": "INVALID",
-            "cdn1.pebx.pl": "INVALID"
-        },
-        "1571348903": {
-            "cdn.dtxngr.com": "INVALID",
-            "cdn.mediaessence.net": "INVALID",
-            "cdn.pkwteile.de": "INVALID",
-            "cdn.salesmedia.pl": "INVALID",
-            "cdn.syndication.twitter.com": "INVALID"
-        },
-        "1571348904": {
-            "click.aliexpress.com": "INVALID"
-        },
-        "1571348905": {
-            "corto.www.wp.pl": "INVALID",
-            "csr.onet.pl": "INVALID"
-        },
-        "1571348906": {
-            "dfp.gazeta.pl": "INVALID",
-            "dot.wp.pl": "INVALID",
-            "dynacrems.wp.pl": "INVALID"
-        },
-        "1571348907": {
-            "ec.bankier.pl": "INVALID",
-            "embed.powercontent.pl": "INVALID",
-            "embed.wprost.pl": "INVALID",
-            "emisja.adsearch.pl": "INVALID",
-            "emisja.contentstream.pl": "INVALID"
-        },
-        "1571348908": {
-            "f01.esfr.pl": "INVALID"
-        },
-        "1571348909": {
-            "forms.e-petrol.pl": "INVALID",
-            "foto.stalowka.net": "INVALID",
-            "gasurvey.gemius.com": "INVALID"
-        },
-        "1571348910": {
-            "g.cda.pl": "INVALID",
-            "gfx.antyradio.pl": "INVALID"
-        },
-        "1571348911": {
-            "hoqqzlvwukpo.com": "INVALID"
-        },
-        "1571348912": {
-            "hyphenion.com": "INVALID",
-            "i.imgur.com": "INVALID",
-            "ib.gazeta.pl": "INVALID"
-        },
-        "1571348913": {
-            "imasdk.googleapis.com": "INVALID",
-            "img.dvhk.to": "INVALID",
-            "img.targeo.pl": "INVALID"
-        },
-        "1571348914": {
-            "info.evidon.com": "INVALID",
-            "inframe.platform.onet.pl": "INVALID",
-            "ipla.hit.stat24.com": "INVALID"
-        },
-        "1571348915": {
-            "i.wp.pl": "INVALID",
-            "js.iplsc.com": "INVALID",
-            "konto.amronet.pl": "INVALID"
-        },
-        "1571348916": {
-            "lib.onet.pl": "INVALID",
-            "lib.wtg-ads.com": "INVALID"
-        },
-        "1571348917": {
-            "livemecz.*": "INVALID",
-            "marketing.wfirma.pl": "INVALID",
-            "media.empik.com": "INVALID",
-            "media.spidersweb.pl": "INVALID",
-            "media2.cinema-city.pl": "INVALID"
-        },
-        "1571348918": {
-            "mon.services.tvn.pl": "INVALID",
-            "mrex.exs.pl": "INVALID"
-        },
-        "1571348919": {
-            "news.targeo.pl": "INVALID"
-        },
-        "1571348920": {
-            "ovh.webshark.pl": "INVALID"
-        },
-        "1571348921": {
-            "partnerzyapi.ceneo.pl": "INVALID",
-            "picsrv.fora.pl": "INVALID",
-            "players.brightcove.net": "INVALID",
-            "pobierak.jeja.pl": "INVALID",
-            "pogodynka.onet.pl": "INVALID"
-        },
-        "1571348922": {
-            "portalmorski.pl": "INVALID",
-            "pp.funhub.pl": "INVALID",
-            "ppwidget.skapiec.pl": "INVALID"
-        },
         "1571348923": {
             "qjse.quartic.pl": "INVALID",
             "rect.b2bpersonals.net": "INVALID",
@@ -1469,6 +1342,74 @@
         },
         "1571404670": {
             "www.ziemiakepinska.pl": "INACTIVE"
+        },
+        "1571439948": {
+            "ad.docer.pl": "INACTIVE"
+        },
+        "1571439954": {
+            "ad.facetpo40.pl": "INACTIVE"
+        },
+        "1571439955": {
+            "ad.vider.pl": "INACTIVE",
+            "adk.docer.pl": "INACTIVE"
+        },
+        "1571439956": {
+            "ad.webshark.pl": "INACTIVE",
+            "adv.wp.pl": "INACTIVE"
+        },
+        "1571439957": {
+            "api-content-generator.gazeta.pl": "INACTIVE"
+        },
+        "1571439958": {
+            "aster18cdn.nl": "INACTIVE"
+        },
+        "1571439959": {
+            "bi.adview.pl": "INACTIVE"
+        },
+        "1571439960": {
+            "businessclick.*": "INVALID"
+        },
+        "1571439961": {
+            "cdn.pkwteile.de": "INACTIVE"
+        },
+        "1571439962": {
+            "cdn.syndication.twitter.com": "INACTIVE"
+        },
+        "1571439966": {
+            "dfp.gazeta.pl": "INACTIVE"
+        },
+        "1571439967": {
+            "dynacrems.wp.pl": "INACTIVE"
+        },
+        "1571439968": {
+            "embed.powercontent.pl": "INACTIVE"
+        },
+        "1571439972": {
+            "g.cda.pl": "INACTIVE"
+        },
+        "1571439973": {
+            "imasdk.googleapis.com": "INACTIVE"
+        },
+        "1571439979": {
+            "img.dvhk.to": "INACTIVE"
+        },
+        "1571439984": {
+            "inframe.platform.onet.pl": "INACTIVE"
+        },
+        "1571440029": {
+            "js.iplsc.com": "INACTIVE"
+        },
+        "1571440119": {
+            "lib.onet.pl": "INACTIVE"
+        },
+        "1571440126": {
+            "livemecz.*": "INVALID"
+        },
+        "1571440454": {
+            "picsrv.fora.pl": "INACTIVE"
+        },
+        "1571440466": {
+            "players.brightcove.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
