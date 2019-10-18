@@ -1237,62 +1237,7 @@
             "~www.wp.pl,wp.pl": "INVALID",
             "~zso53.pl,~katywroclawskie.pl,~rozklad-pkp.pl,~gwarant.czest.pl,~sukniaonline.pl,~pepco.pl": "INVALID"
         },
-        "1571348923": {
-            "qjse.quartic.pl": "INVALID",
-            "rect.b2bpersonals.net": "INVALID",
-            "redir.atmcdn.pl": "INVALID",
-            "redir.atmcdn.pl*swf": "INVALID",
-            "rek.www.wp.pl": "INVALID",
-            "reklamy.sterta.pl": "INVALID"
-        },
-        "1571348924": {
-            "request.dqst.pl": "INVALID",
-            "sklep.gry-online.pl": "INVALID"
-        },
-        "1571348925": {
-            "smart.idmnet.pl": "INVALID"
-        },
-        "1571348926": {
-            "static.biedronka.pl": "INVALID",
-            "static.bro.adca.st": "INVALID",
-            "static.dpcdn.pl": "INVALID",
-            "static.gazeta.pl": "INVALID",
-            "static.gazetaprawna.pl": "INVALID",
-            "static.im-g.pl": "INVALID"
-        },
-        "1571348927": {
-            "statics.d404.pl": "INVALID",
-            "statics.tarsago.pl": "INVALID"
-        },
-        "1571348928": {
-            "track.cux.io": "INVALID"
-        },
-        "1571348930": {
-            "v.wpimg.pl": "INVALID",
-            "video.vid4u.org": "INVALID",
-            "vidoza*.github.io": "INVALID"
-        },
-        "1571348932": {
-            "widget.plastream.net": "INVALID",
-            "wpkoszyk.wp.pl": "INVALID"
-        },
-        "1571348933": {
-            "www.audiostereo.pl": "INVALID",
-            "www.benchmark.pl": "INVALID",
-            "www.cda.pl": "INVALID",
-            "www.koscian.net": "INVALID",
-            "www.kupbon.pl": "INVALID",
-            "www.moja-ostroleka.pl": "INVALID"
-        },
-        "1571348934": {
-            "www.one-solution.pl": "INVALID",
-            "www.pch24.pl": "INVALID"
-        },
         "1571348935": {
-            "www.portalmorski.pl": "INVALID",
-            "www.portalprzemyski.pl": "INVALID",
-            "www.purepc.pl": "INVALID",
-            "www.tv.pl": "INVALID",
             "www.wp.pl": "INVALID"
         },
         "1571348936": {
@@ -1410,6 +1355,43 @@
         },
         "1571440466": {
             "players.brightcove.net": "INACTIVE"
+        },
+        "1571442622": {
+            "redir.atmcdn.pl": "INACTIVE",
+            "redir.atmcdn.pl*swf": "INVALID"
+        },
+        "1571442627": {
+            "rek.www.wp.pl": "INACTIVE"
+        },
+        "1571442628": {
+            "request.dqst.pl": "INACTIVE"
+        },
+        "1571442688": {
+            "sklep.gry-online.pl": "INACTIVE"
+        },
+        "1571442731": {
+            "static.gazeta.pl": "INACTIVE"
+        },
+        "1571442732": {
+            "static.im-g.pl": "INACTIVE"
+        },
+        "1571442944": {
+            "video.vid4u.org": "INACTIVE"
+        },
+        "1571442945": {
+            "vidoza*.github.io": "INVALID"
+        },
+        "1571442952": {
+            "v.wpimg.pl": "INACTIVE"
+        },
+        "1571442993": {
+            "widget.plastream.net": "INACTIVE"
+        },
+        "1571443020": {
+            "wpkoszyk.wp.pl": "INACTIVE"
+        },
+        "1571443070": {
+            "www.f1fanklub.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
