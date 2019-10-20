@@ -1237,9 +1237,6 @@
             "~www.wp.pl,wp.pl": "INVALID",
             "~zso53.pl,~katywroclawskie.pl,~rozklad-pkp.pl,~gwarant.czest.pl,~sukniaonline.pl,~pepco.pl": "INVALID"
         },
-        "1571404670": {
-            "www.ziemiakepinska.pl": "INACTIVE"
-        },
         "1571540534": {
             "ad.docer.pl": "INACTIVE"
         },
@@ -1384,6 +1381,9 @@
         },
         "1571542444": {
             "www.f1fanklub.pl": "INACTIVE"
+        },
+        "1571542620": {
+            "www.ziemiakepinska.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
