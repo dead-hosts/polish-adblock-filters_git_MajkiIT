@@ -865,9 +865,9 @@
         "state": "future"
     },
     "bielski24.pl": {
-        "epoch": 1571616000,
-        "expiration_date": "21-oct-2019",
-        "state": "past"
+        "epoch": 1572825600,
+        "expiration_date": "04-nov-2019",
+        "state": "future"
     },
     "bielskiedrogi.pl": {
         "epoch": 1576368000,
