@@ -1237,74 +1237,6 @@
             "~www.wp.pl,wp.pl": "INVALID",
             "~zso53.pl,~katywroclawskie.pl,~rozklad-pkp.pl,~gwarant.czest.pl,~sukniaonline.pl,~pepco.pl": "INVALID"
         },
-        "1571540534": {
-            "ad.docer.pl": "INACTIVE"
-        },
-        "1571540541": {
-            "ad.facetpo40.pl": "INACTIVE"
-        },
-        "1571540542": {
-            "adk.docer.pl": "INACTIVE"
-        },
-        "1571540545": {
-            "adsrv.eacdn.com": "INACTIVE"
-        },
-        "1571540547": {
-            "ad.vider.pl": "INACTIVE"
-        },
-        "1571540548": {
-            "ad.webshark.pl": "INACTIVE",
-            "adv.wp.pl": "INACTIVE",
-            "advmanager.techfun.pl": "INACTIVE"
-        },
-        "1571540589": {
-            "api-content-generator.gazeta.pl": "INACTIVE"
-        },
-        "1571540594": {
-            "aster18cdn.nl": "INACTIVE"
-        },
-        "1571540627": {
-            "bi.adview.pl": "INACTIVE"
-        },
-        "1571540673": {
-            "businessclick.*": "INVALID"
-        },
-        "1571540685": {
-            "cdn.syndication.twitter.com": "INACTIVE"
-        },
-        "1571540745": {
-            "delivery.clickonometrics.pl": "INACTIVE"
-        },
-        "1571540747": {
-            "dfp.gazeta.pl": "INACTIVE"
-        },
-        "1571540778": {
-            "dynacrems.wp.pl": "INACTIVE"
-        },
-        "1571540827": {
-            "embed.powercontent.pl": "INACTIVE"
-        },
-        "1571540865": {
-            "ewpl.com.au": "INACTIVE"
-        },
-        "1571540926": {
-            "forum.dvhk.to": "INACTIVE"
-        },
-        "1571540939": {
-            "forum.optymalizacja.com": "INACTIVE"
-        },
-        "1571540991": {
-            "g.cda.pl": "INACTIVE"
-        },
-        "1571540995": {
-            "get.x-link.pl": "INACTIVE"
-        },
-        "1571541104": {
-            "imasdk.googleapis.com": "INACTIVE"
-        },
-        "1571541110": {
-            "img.dvhk.to": "INACTIVE"
-        },
         "1571541235": {
             "inframe.platform.onet.pl": "INACTIVE"
         },
@@ -1384,6 +1316,77 @@
         },
         "1571542620": {
             "www.ziemiakepinska.pl": "INACTIVE"
+        },
+        "1571652828": {
+            "ad.docer.pl": "INACTIVE"
+        },
+        "1571652835": {
+            "ad.facetpo40.pl": "INACTIVE"
+        },
+        "1571652836": {
+            "adk.docer.pl": "INACTIVE"
+        },
+        "1571652840": {
+            "adsrv.eacdn.com": "INACTIVE"
+        },
+        "1571652842": {
+            "ad.vider.pl": "INACTIVE",
+            "advmanager.techfun.pl": "INACTIVE"
+        },
+        "1571652843": {
+            "ad.webshark.pl": "INACTIVE",
+            "adv.wp.pl": "INACTIVE"
+        },
+        "1571652876": {
+            "api-content-generator.gazeta.pl": "INACTIVE"
+        },
+        "1571652882": {
+            "aster18cdn.nl": "INACTIVE"
+        },
+        "1571652912": {
+            "bi.adview.pl": "INACTIVE"
+        },
+        "1571652959": {
+            "businessclick.*": "INVALID"
+        },
+        "1571652969": {
+            "cdn.pkwteile.de": "INACTIVE"
+        },
+        "1571652970": {
+            "cdn.syndication.twitter.com": "INACTIVE"
+        },
+        "1571653036": {
+            "delivery.clickonometrics.pl": "INACTIVE"
+        },
+        "1571653038": {
+            "dfp.gazeta.pl": "INACTIVE"
+        },
+        "1571653072": {
+            "dynacrems.wp.pl": "INACTIVE"
+        },
+        "1571653117": {
+            "embed.powercontent.pl": "INACTIVE"
+        },
+        "1571653152": {
+            "ewpl.com.au": "INACTIVE"
+        },
+        "1571653217": {
+            "forum.dvhk.to": "INACTIVE"
+        },
+        "1571653229": {
+            "forum.optymalizacja.com": "INACTIVE"
+        },
+        "1571653279": {
+            "g.cda.pl": "INACTIVE"
+        },
+        "1571653283": {
+            "get.x-link.pl": "INACTIVE"
+        },
+        "1571653395": {
+            "imasdk.googleapis.com": "INACTIVE"
+        },
+        "1571653401": {
+            "img.dvhk.to": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
