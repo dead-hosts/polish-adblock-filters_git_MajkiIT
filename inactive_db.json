@@ -1237,27 +1237,6 @@
             "~www.wp.pl,wp.pl": "INVALID",
             "~zso53.pl,~katywroclawskie.pl,~rozklad-pkp.pl,~gwarant.czest.pl,~sukniaonline.pl,~pepco.pl": "INVALID"
         },
-        "1571541235": {
-            "inframe.platform.onet.pl": "INACTIVE"
-        },
-        "1571541288": {
-            "js.iplsc.com": "INACTIVE"
-        },
-        "1571541376": {
-            "lib.onet.pl": "INACTIVE"
-        },
-        "1571541384": {
-            "livemecz.*": "INVALID"
-        },
-        "1571541710": {
-            "picsrv.fora.pl": "INACTIVE"
-        },
-        "1571541717": {
-            "pirackiekino.blogspot.com": "INACTIVE"
-        },
-        "1571541721": {
-            "players.brightcove.net": "INACTIVE"
-        },
         "1571541972": {
             "redir.atmcdn.pl": "INACTIVE",
             "redir.atmcdn.pl*swf": "INVALID"
@@ -1387,6 +1366,27 @@
         },
         "1571653401": {
             "img.dvhk.to": "INACTIVE"
+        },
+        "1571654530": {
+            "inframe.platform.onet.pl": "INACTIVE"
+        },
+        "1571654582": {
+            "js.iplsc.com": "INACTIVE"
+        },
+        "1571654674": {
+            "lib.onet.pl": "INACTIVE"
+        },
+        "1571654682": {
+            "livemecz.*": "INVALID"
+        },
+        "1571655004": {
+            "picsrv.fora.pl": "INACTIVE"
+        },
+        "1571655017": {
+            "pirackiekino.blogspot.com": "INACTIVE"
+        },
+        "1571655021": {
+            "players.brightcove.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
