@@ -10580,9 +10580,9 @@
         "state": "future"
     },
     "triathlonpoland.tv": {
-        "epoch": "1571616000",
+        "epoch": 1571616000,
         "expiration_date": "21-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "tripolo.pl": {
         "epoch": 1575417600,
