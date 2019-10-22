@@ -1065,9 +1065,9 @@
         "state": "future"
     },
     "bodelen.com": {
-        "epoch": "1571702400",
+        "epoch": 1571702400,
         "expiration_date": "22-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "bokser.org": {
         "epoch": 1593475200,
@@ -3622,7 +3622,7 @@
     "gomoney.pl": {
         "epoch": 1571702400,
         "expiration_date": "22-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "goniec.net": {
         "epoch": 1601337600,
