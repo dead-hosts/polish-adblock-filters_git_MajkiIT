@@ -1289,27 +1289,6 @@
         "1571747952": {
             "www2.payback.pl": "INACTIVE"
         },
-        "1571831355": {
-            "inframe.platform.onet.pl": "INACTIVE"
-        },
-        "1571831401": {
-            "js.iplsc.com": "INACTIVE"
-        },
-        "1571831479": {
-            "lib.onet.pl": "INACTIVE"
-        },
-        "1571831486": {
-            "livemecz.*": "INVALID"
-        },
-        "1571831789": {
-            "picsrv.fora.pl": "INACTIVE"
-        },
-        "1571831800": {
-            "pirackiekino.blogspot.com": "INACTIVE"
-        },
-        "1571831803": {
-            "players.brightcove.net": "INACTIVE"
-        },
         "1571832144": {
             "sklep.gry-online.pl": "INACTIVE"
         },
@@ -1386,6 +1365,27 @@
         },
         "1572038962": {
             "img.dvhk.to": "INACTIVE"
+        },
+        "1572042035": {
+            "inframe.platform.onet.pl": "INACTIVE"
+        },
+        "1572042087": {
+            "js.iplsc.com": "INACTIVE"
+        },
+        "1572042172": {
+            "lib.onet.pl": "INACTIVE"
+        },
+        "1572042181": {
+            "livemecz.*": "INVALID"
+        },
+        "1572042483": {
+            "picsrv.fora.pl": "INACTIVE"
+        },
+        "1572042490": {
+            "pirackiekino.blogspot.com": "INACTIVE"
+        },
+        "1572042493": {
+            "players.brightcove.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
