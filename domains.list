@@ -9,9 +9,9 @@
 ! Wsparcie:
 !   Patronite ==> https://patronite.pl/polskiefiltry
 !   PayPal ==> https://www.paypal.com/pools/c/87zNJ8OJ3I
-! Last modified: 22 October 2019
+! Last modified: 25 October 2019
 ! Expires: 1 day
-! Version: 2019102201
+! Version: 2019102502
 ! Support:
 !   Email >> errorsfilters@certyficate.it
 !   Github >> https://github.com/MajkiIT/polish-ads-filter/issues
@@ -19,7 +19,7 @@
 ! License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ! Copyright © 2019 Certyficate IT
 ! Najnowsza wersja zawsze na: https://www.certyficate.it/adblock
-! v.2019102201 aktualizacja: wt, 22 października 2019, 11:50:00
+! v.2019102502 aktualizacja: ptk, 25 października 2019, 18:52:00
 !
 !
 !1#-----------------------General advert blocking filters-----------------------!
@@ -555,7 +555,7 @@ cardsplitter.pl##[target="_blank"] > IMG[src^="/images/loga/"][height="249"]
 cartests.net##.td-container > .td-header-sp-recs
 cashowsky.pl##IMG[alt^="Baner"]
 cda.pl##.f-img, #glowna_banner_wrapper
-cda.pl##.top-anonco-auto-height90
+cda.pl##.top-anonco-auto-height90, .muimErPIa > .minaitura > .img-description
 cdahd.pl##.positioner-height
 cdtracker.co.pl###block--managed-0
 cenabiznesu.pl,elubaczow.com##.img-responsive
@@ -3676,6 +3676,7 @@ zywiecinfo.pl##.promoted
 ||wp.com/niestatystyczny.pl/wp-content/uploads/*/tlo$image,domain=niestatystyczny.pl
 ||wp.pl/*/reklamawp-$image
 ||wp.pl/staticad/$xmlhttprequest
+||wtg-ads.com^
 ||www.24opole.pl/cimg/$image
 ||www.24opole.pl/dimg/$image
 ||www.adfreestyle.pl^$domain=~www.adfreestyle.pl
@@ -4188,7 +4189,7 @@ www.wp.pl#?#div[class*=" "]:-abp-has(> img[src$="/i.wp.pl/a/i/stg/pkf/bg.png"])
 ~www.wp.pl,wp.pl##A[href*=".wp.pl/"] > DIV > IMG[class][src^="https://v.wpimg.pl/"]
 ~www.wp.pl,wp.pl##DIV[style*="overflow: hidden; z-index: 310;"]
 ~www.wp.pl,wp.pl##[class^="__bc_layer"]
-~www.wp.pl,wp.pl##[class^="css-"]
+~www.wp.pl,~pilot.wp.pl,wp.pl##[class^="css-"]
 ~www.wp.pl,wp.pl##body > script + iframe + div:not([id])[class]
 !
 !34#--------------------------Pudelek/Pudelekx element hide------------!
@@ -4407,6 +4408,8 @@ zwiedzamyparyz.pl###text-6, .a-single, .gyg-widget
 !41#--------------------------Dobreprogramy WL ------------!
 !
 !42#--------------------------Dobreprogramy hide elements ------------!
+@@||www.dobreprogramy.pl^$generichide
+||wp.pl^$subdocument,domain=www.dobreprogramy.pl
 dobreprogramy.pl##.block > div[style$="height: 600px; width: 300;"]
 dobreprogramy.pl##.gamescarousel, .pattern > div
 dobreprogramy.pl##.list.block-content > div[style$="height: 180px; width: 630;"]

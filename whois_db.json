@@ -1,7 +1,7 @@
 {
     "100pompek.pl": {
-        "epoch": 1571875200,
-        "expiration_date": "24-oct-2019",
+        "epoch": 1603497600,
+        "expiration_date": "24-oct-2020",
         "state": "future"
     },
     "112tychy.pl": {
@@ -135,8 +135,8 @@
         "state": "future"
     },
     "69oxt4q05.com": {
-        "epoch": "1571875200",
-        "expiration_date": "24-oct-2019",
+        "epoch": 1603497600,
+        "expiration_date": "24-oct-2020",
         "state": "future"
     },
     "6obcy.com.pl": {
@@ -965,8 +965,8 @@
         "state": "future"
     },
     "biznesnafali.pl": {
-        "epoch": 1571875200,
-        "expiration_date": "24-oct-2019",
+        "epoch": 1603497600,
+        "expiration_date": "24-oct-2020",
         "state": "future"
     },
     "bizneston.pl": {
@@ -1290,8 +1290,8 @@
         "state": "future"
     },
     "ceo.com.pl": {
-        "epoch": 1571875200,
-        "expiration_date": "24-oct-2019",
+        "epoch": 1603497600,
+        "expiration_date": "24-oct-2020",
         "state": "future"
     },
     "cgm.pl": {
@@ -3800,8 +3800,8 @@
         "state": "future"
     },
     "granicenauki.pl": {
-        "epoch": 1571961600,
-        "expiration_date": "25-oct-2019",
+        "epoch": 1603584000,
+        "expiration_date": "25-oct-2020",
         "state": "future"
     },
     "grapplerinfo.pl": {
@@ -4020,8 +4020,8 @@
         "state": "future"
     },
     "hiperogloszenia.pl": {
-        "epoch": "1571961600",
-        "expiration_date": "25-oct-2019",
+        "epoch": 1574553600,
+        "expiration_date": "24-nov-2019",
         "state": "future"
     },
     "hiro.pl": {
