@@ -1280,8 +1280,8 @@
         "state": "future"
     },
     "centrumwitalnosci.pl": {
-        "epoch": 1572134400,
-        "expiration_date": "27-oct-2019",
+        "epoch": 1603756800,
+        "expiration_date": "27-oct-2020",
         "state": "future"
     },
     "centrumxp.pl": {
@@ -1535,8 +1535,8 @@
         "state": "future"
     },
     "cpb.pl": {
-        "epoch": 1572134400,
-        "expiration_date": "27-oct-2019",
+        "epoch": 1603756800,
+        "expiration_date": "27-oct-2020",
         "state": "future"
     },
     "crafted.pl": {
@@ -3870,8 +3870,8 @@
         "state": "future"
     },
     "gsmmaniak.pl": {
-        "epoch": 1572134400,
-        "expiration_date": "27-oct-2019",
+        "epoch": 1603756800,
+        "expiration_date": "27-oct-2020",
         "state": "future"
     },
     "gsmservice.pl": {
