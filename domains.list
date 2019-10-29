@@ -9,9 +9,9 @@
 ! Wsparcie:
 !   Patronite ==> https://patronite.pl/polskiefiltry
 !   PayPal ==> https://www.paypal.com/pools/c/87zNJ8OJ3I
-! Last modified: 25 October 2019
+! Last modified: 27 October 2019
 ! Expires: 1 day
-! Version: 2019102502
+! Version: 2019102703
 ! Support:
 !   Email >> errorsfilters@certyficate.it
 !   Github >> https://github.com/MajkiIT/polish-ads-filter/issues
@@ -19,7 +19,7 @@
 ! License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ! Copyright © 2019 Certyficate IT
 ! Najnowsza wersja zawsze na: https://www.certyficate.it/adblock
-! v.2019102502 aktualizacja: ptk, 25 października 2019, 18:52:00
+! v.2019102703 aktualizacja: nie, 27 października 2019, 16:40:00
 !
 !
 !1#-----------------------General advert blocking filters-----------------------!
@@ -556,6 +556,7 @@ cartests.net##.td-container > .td-header-sp-recs
 cashowsky.pl##IMG[alt^="Baner"]
 cda.pl##.f-img, #glowna_banner_wrapper
 cda.pl##.top-anonco-auto-height90, .muimErPIa > .minaitura > .img-description
+cdahd.ml###div1
 cdahd.pl##.positioner-height
 cdtracker.co.pl###block--managed-0
 cenabiznesu.pl,elubaczow.com##.img-responsive
@@ -669,6 +670,7 @@ czestochowskie24.pl##.custom-html-widget.textwidget > IMG, #text-75, #text-89, #
 czluchow.com.pl##.wrap
 czluchow.com.pl##td > table > tbody > tr > td:nth-of-type(3)
 czyliwiesz.pl##[id^="paszonecont_"]
+cztery-lapy.pl##.top_banner_wrapper
 dajnewsa.pl##.active.carousel-item > .mt-3.border.card
 dajnewsa.pl##.img-fluid.d-block.mx-auto
 dajnewsa.pl##div.d-md-block.d-none > div > div.carousel-fade.slide.carousel
@@ -944,7 +946,7 @@ filesdark.com##[href*="/adac.php"]
 centrumdruku3d.pl##a[href^="https://goo.gl/"]
 filmpolski.pl##.obrazek_bez_ramki
 films4free.pl##.M2U3OGQ4ZGY1
-filmweb.pl##^#advertBar-pl_PL
+filmweb.pl##^#advertBar-pl_PL, #skyBanner
 firmy77.pl##div.rBoxLeft
 fishing-mart.com.pl##td:nth-of-type(6) > .norm11:nth-of-type(4)
 flarrow.pl##[class^="td_block_wrap td_block_text_with_title td_uid_"]
@@ -1042,6 +1044,7 @@ gamesfanatic.pl##.gofollow > IMG[src*="wp-content/uploads/"]
 gamesfanatic.pl##[target="_blank"] > IMG[src*="wp-content/uploads/"]:last-child
 gamestough.com##.sbs_1600
 gamezilla.pl##DIV[style="width: 600px; height: 400px; margin: 20px auto;"]
+gamingsociety.pl##.all-screening
 ganjaskill.eu###ipsBox
 gazeo.pl##.point
 gazeta-mlawska.pl##.clear.box_tekstowy_mainpage:nth-of-type(4)
@@ -1587,7 +1590,7 @@ londynek.net##.bannersZoneB1
 londynek.net##.jd-content-to-left.jd-content-3-2
 londynek.net##.jd-oaz
 londynek.net##.jd-sponsored-links-top
-londynek.net##.slTop
+londynek.net##.slTop, .content-outer > .text
 lotto-centrum.com##.bg_pkd750
 lovekrakow.pl##.advert-next-to-logo
 lowcygier.pl###moneymaker-1
@@ -3517,6 +3520,11 @@ zywiecinfo.pl##.promoted
 ||napisy24.pl/images/bg-allplayer-*.png
 ||napisy24.pl/run/js/all_corners.js
 ||naszamlawa.pl/images/banner/$object,image,subdocument
+||naszarola.pl/wp-content/uploads/201*/*/*1200x200*.jpg
+||naszarola.pl/wp-content/uploads/201*/*/reklam*.jpg
+||naszarola.pl/wp-content/uploads/201*/*/baner*.jpg
+||naszarola.pl/wp-content/uploads/201*/*/Baner.jpg
+||naszarola.pl/wp-content/uploads/201*/*/*-baner-1200na250.jpg
 ||naszawielkopolska.pl/wp-content/uploads/*/reklama$image
 ||nazwa.pl/a.php?$object-subrequest,domain=rmfon.pl
 ||nazwa.pl/video/$object-subrequest,media,domain=rmfon.pl
@@ -3603,8 +3611,7 @@ zywiecinfo.pl##.promoted
 ||sportslaski.pl/materialy/foto_tlo/$image
 ||spottedskarzysko.pl/images/data/*/UNINET-MAJ2.gif
 ||sprzedaz.akademiazysku.pl/program/baner.php$subdocument
-||stalowemiasto.pl/_reklamy/$image
-||stalowemiasto.pl/colada2/_pliki/emisje/$object,image
+||stalowemiasto.pl//colada2/
 ||static*.jelonka.com^
 ||static*.mylead.global^$image
 ||static.biedronka.pl/*/background/$domain=www.biedronka.pl
@@ -4055,7 +4062,8 @@ horrortube.pl##A[href*="viliaff.com"]
 ||zukxd6fkxqn.com^
 !
 !28#--------------------------Rules for pages with random adv scripts regex------------!
-/\/[0-9a-zA-Z]{1,10}\.html$/$subdocument,domain=filmy.cool|horrortube.pl
+/apu.php?zoneid
+/\/[0-9a-zA-Z]{1,10}\.html$/$subdocument,domain=filmy.cool|horrortube.pl|cdahd.ml
 /\/[a-z]{3,5}\.php\?zoneid=[0-9]{3,7}/$script
 /^http:\/\/((?!192\.168)(?!10\.)(?!172\.16)(?!172\.17)(?!172\.18)(?!172\.19)(?!172\.2)(?!172\.30)(?!172\.31)([0-9]|[1-9][0-9]|1[0-9]{2}|2[0-4][0-9]|25[0-5])\.){3}([0-9]|[1-9][0-9]|1[0-9]{2}|2[0-4][0-9]|25[0-5])\/[a-zA-Z0-9]{30,}/$script,popup
 /^http:\/\/p[0-9]{6,10}\.[a-z]{5,10}\.com\/itab\/[a-z?=A-Z_0-9&]{10,}Zippyshare\.com[a-z0-9A-Z%.'-]{5,}/$popup
@@ -4073,10 +4081,10 @@ horrortube.pl##A[href*="viliaff.com"]
 /^https?:\/\/[a-zA-Z.0-9]{7,}\.(com|bid|info)\/[a-zA-Z.-]{1,}\.js/$script,domain=devil-torrents.pl|electro-torrent.pl|vidlox.tv|segos.es|fileone.tv|streamango.com|nasze-kino.online|raptu.com|rapidvideo.com|vidfile.net|sharevideo.pl|sharing-box.cloud|vidstream.xyz|openkatalog.ml|nasze-kino.tv|kino123.pl|boxfilm.pl|cloudupload.co|allonline.pl|openload.co|cdax.online|abcast.net|darmowa-tv.pl|veecast.net|centrum-mangi.ninja|openkatalog.com|shinden.pl|tele-wizja.is|ekinomaniak.tv|tele-wizja.ru|hqq.watch|whostreams.net|seriale-po-polsku.pl|virpe.com|kinoseans.pl|horrortube.pl|otube.pl
 /^https?:\/\/[a-zA-Z0-9]{10,}\.cloudfront\.net\/[a-zA-Z0-9%?=]{10,}/$script,domain=seriale-po-polsku.pl|animezone.pl|filmbit.ws
 /^https?:\/\/[a-zA-Z0-9]{15,}\.com\//$domain=horrortube.pl
-/^https?:\/\/[a-zA-Z0-9]{5,10}\.[a-z]{2,10}\/[a-zA-Z0-9?_=&-.%]{50,70}/$subdocument,script,popup,domain=filmtu.pl|darmowa-tv.pl|cdax.online|tele-wizja.is|widestream.io
+/^https?:\/\/[a-zA-Z0-9]{5,10}\.[a-z]{2,10}\/[a-zA-Z0-9?_=&-.%]{50,70}/$subdocument,script,popup,domain=filmtu.pl|darmowa-tv.pl|cdax.online|tele-wizja.is|widestream.io|cdahd.ml
 /^https?:\/\/[a-zA-Z0-9]{5,15}\.(com|net)\/[a-z]{4,10}\/[0-9a-z.?=%A-Z-&]{60,100}/$script,popup,domain=veecast.net|darmowa-tv.pl
-/^https?:\/\/[a-z]{3,10}\.[a-z]{3,4}\/[\w-]{4,10}.(css|png)[\w\W]{30,80}/$stylesheet,image,domain=filmbit.ws|freedisc.pl|filmy.cool
-/^https?:\/\/[a-z]{3,10}\.[a-z]{3,4}\/[a-z]{3,10}\.json/$xmlhttprequest,domain=filmbit.ws|freedisc.pl|filmy.cool
+/^https?:\/\/[a-z]{3,10}\.[a-z]{3,4}\/[\w-]{4,10}.(css|png)[\w\W]{30,80}/$stylesheet,image,domain=filmbit.ws|freedisc.pl|filmy.cool|cdahd.ml
+/^https?:\/\/[a-z]{3,10}\.[a-z]{3,4}\/[a-z]{3,10}\.json/$xmlhttprequest,domain=filmbit.ws|freedisc.pl|filmy.cool|cdahd.ml
 /^https?:\/\/[a-z]{4,10}\.com\/[0-9]{5,10}.\html/$popup,domain=filmy.cool|horrortube.pl
 /^https?:\/\/[a-z]{5,10}\.com\/[a-zA-Z0-9+]{80,}/$subdocument,domain=embed.nowvideo.sx|cloudtime.to|darmowa-telewizja.info
 /^https?:\/\/s[1-9]\.amazonaws\.com\/[a-z0-9]{30,60}\/[0-9a-z]{10,30}/$xmlhttprequest,script,domain=kinoseans.pl
