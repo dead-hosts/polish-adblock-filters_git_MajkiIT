@@ -1240,27 +1240,6 @@
         "1571542620": {
             "www.ziemiakepinska.pl": "INACTIVE"
         },
-        "1572144607": {
-            "inframe.platform.onet.pl": "INACTIVE"
-        },
-        "1572144846": {
-            "js.iplsc.com": "INACTIVE"
-        },
-        "1572144933": {
-            "lib.onet.pl": "INACTIVE"
-        },
-        "1572144940": {
-            "livemecz.*": "INVALID"
-        },
-        "1572145250": {
-            "picsrv.fora.pl": "INACTIVE"
-        },
-        "1572145261": {
-            "pirackiekino.blogspot.com": "INACTIVE"
-        },
-        "1572145265": {
-            "players.brightcove.net": "INACTIVE"
-        },
         "1572145533": {
             "redir.atmcdn.pl": "INACTIVE",
             "redir.atmcdn.pl*swf": "INVALID"
@@ -1386,6 +1365,27 @@
         },
         "1572317484": {
             "img.dvhk.to": "INACTIVE"
+        },
+        "1572317618": {
+            "inframe.platform.onet.pl": "INACTIVE"
+        },
+        "1572317663": {
+            "js.iplsc.com": "INACTIVE"
+        },
+        "1572317752": {
+            "lib.onet.pl": "INACTIVE"
+        },
+        "1572317758": {
+            "livemecz.*": "INVALID"
+        },
+        "1572318063": {
+            "picsrv.fora.pl": "INACTIVE"
+        },
+        "1572318071": {
+            "pirackiekino.blogspot.com": "INACTIVE"
+        },
+        "1572318074": {
+            "players.brightcove.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {

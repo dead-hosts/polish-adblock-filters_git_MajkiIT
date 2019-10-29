@@ -5705,8 +5705,8 @@
         "state": "future"
     },
     "lokalne-firmy.pl": {
-        "epoch": 1572307200,
-        "expiration_date": "29-oct-2019",
+        "epoch": 1603929600,
+        "expiration_date": "29-oct-2020",
         "state": "future"
     },
     "lolmania.pl": {
@@ -6859,6 +6859,11 @@
         "expiration_date": "27-nov-2020",
         "state": "future"
     },
+    "naszarola.pl": {
+        "epoch": 1599609600,
+        "expiration_date": "09-sep-2020",
+        "state": "future"
+    },
     "naszawielkopolska.pl": {
         "epoch": 1591574400,
         "expiration_date": "08-jun-2020",
@@ -7600,8 +7605,8 @@
         "state": "future"
     },
     "pan-doradca.pl": {
-        "epoch": "1572307200",
-        "expiration_date": "29-oct-2019",
+        "epoch": 1667001600,
+        "expiration_date": "29-oct-2022",
         "state": "future"
     },
     "panoramafirm.pl": {
