@@ -1129,6 +1129,11 @@
         "expiration_date": "13-jul-2020",
         "state": "future"
     },
+    "brzozow24.pl": {
+        "epoch": 1591056000,
+        "expiration_date": "02-jun-2020",
+        "state": "future"
+    },
     "budmatauto.pl": {
         "epoch": 1579996800,
         "expiration_date": "26-jan-2020",
@@ -1152,6 +1157,11 @@
     "bukowskilider.pl": {
         "epoch": 1602720000,
         "expiration_date": "15-oct-2020",
+        "state": "future"
+    },
+    "bukowsko24.pl": {
+        "epoch": 1577059200,
+        "expiration_date": "23-dec-2019",
         "state": "future"
     },
     "busiarze.com.pl": {
@@ -1325,8 +1335,8 @@
         "state": "future"
     },
     "chillitorun.pl": {
-        "epoch": 1572393600,
-        "expiration_date": "30-oct-2019",
+        "epoch": 1604016000,
+        "expiration_date": "30-oct-2020",
         "state": "future"
     },
     "chillizet.pl": {
