@@ -1240,33 +1240,6 @@
         "1571542620": {
             "www.ziemiakepinska.pl": "INACTIVE"
         },
-        "1572317478": {
-            "imasdk.googleapis.com": "INACTIVE"
-        },
-        "1572317484": {
-            "img.dvhk.to": "INACTIVE"
-        },
-        "1572317618": {
-            "inframe.platform.onet.pl": "INACTIVE"
-        },
-        "1572317663": {
-            "js.iplsc.com": "INACTIVE"
-        },
-        "1572317752": {
-            "lib.onet.pl": "INACTIVE"
-        },
-        "1572317758": {
-            "livemecz.*": "INVALID"
-        },
-        "1572318063": {
-            "picsrv.fora.pl": "INACTIVE"
-        },
-        "1572318071": {
-            "pirackiekino.blogspot.com": "INACTIVE"
-        },
-        "1572318074": {
-            "players.brightcove.net": "INACTIVE"
-        },
         "1572318344": {
             "redir.atmcdn.pl": "INACTIVE",
             "redir.atmcdn.pl*swf": "INVALID"
@@ -1383,6 +1356,33 @@
         },
         "1572430651": {
             "get.x-link.pl": "INACTIVE"
+        },
+        "1572431356": {
+            "imasdk.googleapis.com": "INACTIVE"
+        },
+        "1572431362": {
+            "img.dvhk.to": "INACTIVE"
+        },
+        "1572431392": {
+            "inframe.platform.onet.pl": "INACTIVE"
+        },
+        "1572431442": {
+            "js.iplsc.com": "INACTIVE"
+        },
+        "1572431535": {
+            "lib.onet.pl": "INACTIVE"
+        },
+        "1572431543": {
+            "livemecz.*": "INVALID"
+        },
+        "1572431874": {
+            "picsrv.fora.pl": "INACTIVE"
+        },
+        "1572431882": {
+            "pirackiekino.blogspot.com": "INACTIVE"
+        },
+        "1572431885": {
+            "players.brightcove.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
