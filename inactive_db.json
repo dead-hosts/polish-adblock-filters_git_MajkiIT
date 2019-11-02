@@ -1240,67 +1240,6 @@
         "1571542620": {
             "www.ziemiakepinska.pl": "INACTIVE"
         },
-        "1572525394": {
-            "prawo.money.pl": "INACTIVE"
-        },
-        "1572525473": {
-            "redir.atmcdn.pl": "INACTIVE",
-            "redir.atmcdn.pl*swf": "INVALID"
-        },
-        "1572525476": {
-            "rek.www.wp.pl": "INACTIVE"
-        },
-        "1572525478": {
-            "request.dqst.pl": "INACTIVE"
-        },
-        "1572525499": {
-            "s1.postimg.org": "INACTIVE"
-        },
-        "1572525508": {
-            "s.click.aliexpress.com": "INACTIVE"
-        },
-        "1572525511": {
-            "serwery.wiaderko.com": "INACTIVE"
-        },
-        "1572525579": {
-            "static.biedronka.pl": "INACTIVE"
-        },
-        "1572525582": {
-            "static.gazeta.pl": "INACTIVE"
-        },
-        "1572525584": {
-            "static.im-g.pl": "INACTIVE"
-        },
-        "1572525635": {
-            "swieta.wp.pl": "INACTIVE"
-        },
-        "1572525636": {
-            "swirtv.czo.pl": "INACTIVE"
-        },
-        "1572525751": {
-            "tv.rp.pl": "INACTIVE"
-        },
-        "1572525812": {
-            "video.vid4u.org": "INACTIVE"
-        },
-        "1572525813": {
-            "vidoza*.github.io": "INVALID"
-        },
-        "1572525820": {
-            "v.wpimg.pl": "INACTIVE"
-        },
-        "1572525864": {
-            "widget.plastream.net": "INACTIVE"
-        },
-        "1572525893": {
-            "wpkoszyk.wp.pl": "INACTIVE"
-        },
-        "1572525915": {
-            "www2.payback.pl": "INACTIVE"
-        },
-        "1572528507": {
-            "www.f1fanklub.pl": "INACTIVE"
-        },
         "1572662637": {
             "ad.docer.pl": "INACTIVE"
         },
@@ -1392,6 +1331,61 @@
         },
         "1572663841": {
             "players.brightcove.net": "INACTIVE"
+        },
+        "1572664123": {
+            "redir.atmcdn.pl": "INACTIVE",
+            "redir.atmcdn.pl*swf": "INVALID"
+        },
+        "1572664126": {
+            "rek.www.wp.pl": "INACTIVE"
+        },
+        "1572664127": {
+            "request.dqst.pl": "INACTIVE"
+        },
+        "1572664147": {
+            "s1.postimg.org": "INACTIVE"
+        },
+        "1572664155": {
+            "s.click.aliexpress.com": "INACTIVE"
+        },
+        "1572664158": {
+            "serwery.wiaderko.com": "INACTIVE"
+        },
+        "1572664185": {
+            "sklep.gry-online.pl": "INACTIVE"
+        },
+        "1572664226": {
+            "static.gazeta.pl": "INACTIVE"
+        },
+        "1572664227": {
+            "static.im-g.pl": "INACTIVE"
+        },
+        "1572664276": {
+            "swieta.wp.pl": "INACTIVE"
+        },
+        "1572664277": {
+            "swirtv.czo.pl": "INACTIVE"
+        },
+        "1572664385": {
+            "tv.rp.pl": "INACTIVE"
+        },
+        "1572664433": {
+            "video.vid4u.org": "INACTIVE"
+        },
+        "1572664434": {
+            "vidoza*.github.io": "INVALID"
+        },
+        "1572664440": {
+            "v.wpimg.pl": "INACTIVE"
+        },
+        "1572664475": {
+            "widget.plastream.net": "INACTIVE"
+        },
+        "1572664500": {
+            "wpkoszyk.wp.pl": "INACTIVE"
+        },
+        "1572664524": {
+            "www2.payback.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
