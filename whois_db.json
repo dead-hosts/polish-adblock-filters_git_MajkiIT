@@ -8140,8 +8140,8 @@
         "state": "future"
     },
     "poludnie.com.pl": {
-        "epoch": 1572566400,
-        "expiration_date": "01-nov-2019",
+        "epoch": 1604188800,
+        "expiration_date": "01-nov-2020",
         "state": "future"
     },
     "poluje.pl": {
@@ -10300,8 +10300,8 @@
         "state": "future"
     },
     "tarnowska.tv": {
-        "epoch": 1572739200,
-        "expiration_date": "03-nov-2019",
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "tatromaniak.pl": {
@@ -10635,8 +10635,8 @@
         "state": "future"
     },
     "trodatreleases.com": {
-        "epoch": 1572739200,
-        "expiration_date": "03-nov-2019",
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "trojmiasto.pl": {
