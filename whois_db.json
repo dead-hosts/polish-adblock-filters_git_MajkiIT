@@ -25,8 +25,8 @@
         "state": "future"
     },
     "24opole.pl": {
-        "epoch": "1572739200",
-        "expiration_date": "03-nov-2019",
+        "epoch": 1575331200,
+        "expiration_date": "03-dec-2019",
         "state": "future"
     },
     "24pr.pl": {
@@ -867,7 +867,7 @@
     "bielski24.pl": {
         "epoch": 1572825600,
         "expiration_date": "04-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "bielskiedrogi.pl": {
         "epoch": 1576368000,
@@ -1215,8 +1215,8 @@
         "state": "future"
     },
     "bzdura.pl": {
-        "epoch": 1572739200,
-        "expiration_date": "03-nov-2019",
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "cadblog.pl": {
@@ -1990,8 +1990,8 @@
         "state": "future"
     },
     "dokumentalne.net": {
-        "epoch": 1572825600,
-        "expiration_date": "04-nov-2019",
+        "epoch": 1604448000,
+        "expiration_date": "04-nov-2020",
         "state": "future"
     },
     "domiporta.pl": {
@@ -3395,8 +3395,8 @@
         "state": "future"
     },
     "gazetaostrowska.pl": {
-        "epoch": 1572739200,
-        "expiration_date": "03-nov-2019",
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "gazetapolska.pl": {
