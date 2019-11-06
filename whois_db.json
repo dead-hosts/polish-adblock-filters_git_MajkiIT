@@ -8430,13 +8430,13 @@
         "state": "future"
     },
     "pracawkatowicach.com.pl": {
-        "epoch": 1572912000,
-        "expiration_date": "05-nov-2019",
+        "epoch": 1604534400,
+        "expiration_date": "05-nov-2020",
         "state": "future"
     },
     "pracawkrakowie.com.pl": {
-        "epoch": 1572912000,
-        "expiration_date": "05-nov-2019",
+        "epoch": 1604534400,
+        "expiration_date": "05-nov-2020",
         "state": "future"
     },
     "pracuj.pl": {
@@ -8455,8 +8455,8 @@
         "state": "future"
     },
     "prawicowyinternet.pl": {
-        "epoch": 1572998400,
-        "expiration_date": "06-nov-2019",
+        "epoch": 1604620800,
+        "expiration_date": "06-nov-2020",
         "state": "future"
     },
     "prawo.pl": {
@@ -9280,8 +9280,8 @@
         "state": "future"
     },
     "rynekzdrowia.pl": {
-        "epoch": 1572912000,
-        "expiration_date": "05-nov-2019",
+        "epoch": 1636070400,
+        "expiration_date": "05-nov-2021",
         "state": "future"
     },
     "rypin-cry.pl": {
@@ -9570,8 +9570,8 @@
         "state": "future"
     },
     "sitemag.pl": {
-        "epoch": 1572912000,
-        "expiration_date": "05-nov-2019",
+        "epoch": 1574121600,
+        "expiration_date": "19-nov-2019",
         "state": "future"
     },
     "skarzysko24.pl": {
@@ -9890,8 +9890,8 @@
         "state": "future"
     },
     "stalenierdzewne.pl": {
-        "epoch": 1572998400,
-        "expiration_date": "06-nov-2019",
+        "epoch": 1604620800,
+        "expiration_date": "06-nov-2020",
         "state": "future"
     },
     "stalker.pl": {
@@ -9912,6 +9912,11 @@
     "starcom-ntt.com.pl": {
         "epoch": 1594425600,
         "expiration_date": "11-jul-2020",
+        "state": "future"
+    },
+    "staresiolkowice.pl": {
+        "epoch": 1609977600,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "stargard.com.pl": {
@@ -9960,8 +9965,8 @@
         "state": "future"
     },
     "stomil.olsztyn.pl": {
-        "epoch": 1572912000,
-        "expiration_date": "05-nov-2019",
+        "epoch": 1604534400,
+        "expiration_date": "05-nov-2020",
         "state": "future"
     },
     "stooq.com": {
@@ -10404,6 +10409,11 @@
         "expiration_date": "31-may-2020",
         "state": "future"
     },
+    "telewizja.lukow.pl": {
+        "epoch": 1600041600,
+        "expiration_date": "14-sep-2020",
+        "state": "future"
+    },
     "telewizjaleszno.pl": {
         "epoch": 1574294400,
         "expiration_date": "21-nov-2019",
@@ -10764,6 +10774,11 @@
         "expiration_date": "04-feb-2020",
         "state": "future"
     },
+    "tulegnica.pl": {
+        "epoch": 1576886400,
+        "expiration_date": "21-dec-2019",
+        "state": "future"
+    },
     "tur-info.pl": {
         "epoch": 1582416000,
         "expiration_date": "23-feb-2020",
@@ -10837,6 +10852,11 @@
     "tvbelchatow.pl": {
         "epoch": 1579132800,
         "expiration_date": "16-jan-2020",
+        "state": "future"
+    },
+    "tvccls.pl": {
+        "epoch": 1604016000,
+        "expiration_date": "30-oct-2020",
         "state": "future"
     },
     "tvdzierzgon.pl": {
@@ -10937,6 +10957,11 @@
     "tvsierpc.pl": {
         "epoch": 1571875200,
         "expiration_date": "24-oct-2019",
+        "state": "future"
+    },
+    "tvskierniewice.pl": {
+        "epoch": 1589068800,
+        "expiration_date": "10-may-2020",
         "state": "future"
     },
     "tvsudecka.pl": {
@@ -11682,6 +11707,11 @@
     "wieliczkacity.pl": {
         "epoch": 1598400000,
         "expiration_date": "26-aug-2020",
+        "state": "future"
+    },
+    "wielkopolska.tv": {
+        "epoch": 1604188800,
+        "expiration_date": "01-nov-2020",
         "state": "future"
     },
     "wielodzietni.org": {
