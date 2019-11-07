@@ -1240,60 +1240,6 @@
         "1571542620": {
             "www.ziemiakepinska.pl": "INACTIVE"
         },
-        "1573009649": {
-            "pirackiekino.blogspot.com": "INACTIVE"
-        },
-        "1573009653": {
-            "players.brightcove.net": "INACTIVE"
-        },
-        "1573009924": {
-            "redir.atmcdn.pl": "INACTIVE"
-        },
-        "1573009925": {
-            "redir.atmcdn.pl*swf": "INVALID"
-        },
-        "1573009929": {
-            "rek.www.wp.pl": "INACTIVE"
-        },
-        "1573009930": {
-            "request.dqst.pl": "INACTIVE"
-        },
-        "1573009952": {
-            "s1.postimg.org": "INACTIVE"
-        },
-        "1573009960": {
-            "s.click.aliexpress.com": "INACTIVE"
-        },
-        "1573009963": {
-            "serwery.wiaderko.com": "INACTIVE"
-        },
-        "1573010028": {
-            "static.gazeta.pl": "INACTIVE"
-        },
-        "1573010029": {
-            "static.im-g.pl": "INACTIVE"
-        },
-        "1573010085": {
-            "swieta.wp.pl": "INACTIVE"
-        },
-        "1573010086": {
-            "swirtv.czo.pl": "INACTIVE"
-        },
-        "1573010208": {
-            "tv.rp.pl": "INACTIVE"
-        },
-        "1573010257": {
-            "video.vid4u.org": "INACTIVE"
-        },
-        "1573010258": {
-            "vidoza*.github.io": "INVALID"
-        },
-        "1573010264": {
-            "v.wpimg.pl": "INACTIVE"
-        },
-        "1573010316": {
-            "widget.plastream.net": "INACTIVE"
-        },
         "1573010344": {
             "wpkoszyk.wp.pl": "INACTIVE"
         },
@@ -1379,6 +1325,64 @@
         },
         "1573126841": {
             "picsrv.fora.pl": "INACTIVE"
+        },
+        "1573129783": {
+            "pirackiekino.blogspot.com": "INACTIVE"
+        },
+        "1573129787": {
+            "players.brightcove.net": "INACTIVE"
+        },
+        "1573129957": {
+            "redir.atmcdn.pl": "INACTIVE",
+            "redir.atmcdn.pl*swf": "INVALID"
+        },
+        "1573129961": {
+            "rek.www.wp.pl": "INACTIVE"
+        },
+        "1573129963": {
+            "request.dqst.pl": "INACTIVE"
+        },
+        "1573129982": {
+            "s1.postimg.org": "INACTIVE"
+        },
+        "1573129991": {
+            "s.click.aliexpress.com": "INACTIVE"
+        },
+        "1573129995": {
+            "serwery.wiaderko.com": "INACTIVE"
+        },
+        "1573130030": {
+            "sklep.gry-online.pl": "INACTIVE"
+        },
+        "1573130078": {
+            "static.gazeta.pl": "INACTIVE"
+        },
+        "1573130079": {
+            "static.im-g.pl": "INACTIVE"
+        },
+        "1573130116": {
+            "studio-mebli.eu": "INACTIVE"
+        },
+        "1573130161": {
+            "swieta.wp.pl": "INACTIVE"
+        },
+        "1573130162": {
+            "swirtv.czo.pl": "INACTIVE"
+        },
+        "1573130280": {
+            "tv.rp.pl": "INACTIVE"
+        },
+        "1573130336": {
+            "video.vid4u.org": "INACTIVE"
+        },
+        "1573130337": {
+            "vidoza*.github.io": "INVALID"
+        },
+        "1573130343": {
+            "v.wpimg.pl": "INACTIVE"
+        },
+        "1573130384": {
+            "widget.plastream.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
