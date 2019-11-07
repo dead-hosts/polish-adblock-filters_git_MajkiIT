@@ -1240,68 +1240,6 @@
         "1571542620": {
             "www.ziemiakepinska.pl": "INACTIVE"
         },
-        "1573008439": {
-            "ad.docer.pl": "INACTIVE"
-        },
-        "1573008441": {
-            "adk.docer.pl": "INACTIVE"
-        },
-        "1573008444": {
-            "adsrv.eacdn.com": "INACTIVE"
-        },
-        "1573008446": {
-            "ad.vider.pl": "INACTIVE"
-        },
-        "1573008447": {
-            "ad.webshark.pl": "INACTIVE",
-            "adv.wp.pl": "INACTIVE",
-            "advmanager.techfun.pl": "INACTIVE"
-        },
-        "1573008490": {
-            "api-content-generator.gazeta.pl": "INACTIVE"
-        },
-        "1573008496": {
-            "aster18cdn.nl": "INACTIVE"
-        },
-        "1573008524": {
-            "bi.adview.pl": "INACTIVE"
-        },
-        "1573008570": {
-            "businessclick.*": "INVALID"
-        },
-        "1573008582": {
-            "cdn.pkwteile.de": "INACTIVE"
-        },
-        "1573008583": {
-            "cdn.syndication.twitter.com": "INACTIVE"
-        },
-        "1573008650": {
-            "delivery.clickonometrics.pl": "INACTIVE"
-        },
-        "1573008652": {
-            "dfp.gazeta.pl": "INACTIVE"
-        },
-        "1573008686": {
-            "dynacrems.wp.pl": "INACTIVE"
-        },
-        "1573008731": {
-            "embed.powercontent.pl": "INACTIVE"
-        },
-        "1573008771": {
-            "ewpl.com.au": "INACTIVE"
-        },
-        "1573008835": {
-            "forum.dvhk.to": "INACTIVE"
-        },
-        "1573008847": {
-            "forum.optymalizacja.com": "INACTIVE"
-        },
-        "1573008904": {
-            "g.cda.pl": "INACTIVE"
-        },
-        "1573008909": {
-            "get.x-link.pl": "INACTIVE"
-        },
         "1573009143": {
             "imasdk.googleapis.com": "INACTIVE"
         },
@@ -1382,6 +1320,68 @@
         },
         "1573010368": {
             "www2.payback.pl": "INACTIVE"
+        },
+        "1573122397": {
+            "ad.docer.pl": "INACTIVE"
+        },
+        "1573122399": {
+            "adk.docer.pl": "INACTIVE"
+        },
+        "1573122403": {
+            "adsrv.eacdn.com": "INACTIVE"
+        },
+        "1573122405": {
+            "ad.vider.pl": "INACTIVE",
+            "advmanager.techfun.pl": "INACTIVE"
+        },
+        "1573122406": {
+            "ad.webshark.pl": "INACTIVE",
+            "adv.wp.pl": "INACTIVE"
+        },
+        "1573122438": {
+            "api-content-generator.gazeta.pl": "INACTIVE"
+        },
+        "1573122445": {
+            "aster18cdn.nl": "INACTIVE"
+        },
+        "1573122481": {
+            "bi.adview.pl": "INACTIVE"
+        },
+        "1573122531": {
+            "businessclick.*": "INVALID"
+        },
+        "1573122549": {
+            "cdn.pkwteile.de": "INACTIVE"
+        },
+        "1573122551": {
+            "cdn.syndication.twitter.com": "INACTIVE"
+        },
+        "1573122628": {
+            "delivery.clickonometrics.pl": "INACTIVE"
+        },
+        "1573122631": {
+            "dfp.gazeta.pl": "INACTIVE"
+        },
+        "1573122678": {
+            "dynacrems.wp.pl": "INACTIVE"
+        },
+        "1573122729": {
+            "embed.powercontent.pl": "INACTIVE"
+        },
+        "1573122772": {
+            "ewpl.com.au": "INACTIVE"
+        },
+        "1573122840": {
+            "forum.dvhk.to": "INACTIVE"
+        },
+        "1573122852": {
+            "forum.optymalizacja.com": "INACTIVE"
+        },
+        "1573122910": {
+            "g.cda.pl": "INACTIVE"
+        },
+        "1573122914": {
+            "get.x-link.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
