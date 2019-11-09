@@ -425,8 +425,8 @@
         "state": "future"
     },
     "androidpolska.pl": {
-        "epoch": 1573257600.0,
-        "expiration_date": "09-nov-2019",
+        "epoch": 1604880000.0,
+        "expiration_date": "09-nov-2020",
         "state": "future"
     },
     "anetakurier.info": {
@@ -2265,8 +2265,8 @@
         "state": "future"
     },
     "e-restauracja.com": {
-        "epoch": 1573257600.0,
-        "expiration_date": "09-nov-2019",
+        "epoch": 1604880000.0,
+        "expiration_date": "09-nov-2020",
         "state": "future"
     },
     "e-sadownictwo.pl": {
@@ -11710,9 +11710,9 @@
         "state": "future"
     },
     "widzewtomy.net": {
-        "epoch": 1573171200.0,
-        "expiration_date": "08-nov-2019",
-        "state": "past"
+        "epoch": 1604793600.0,
+        "expiration_date": "08-nov-2020",
+        "state": "future"
     },
     "wieleliter.pl": {
         "epoch": 1586995200,
