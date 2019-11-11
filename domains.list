@@ -9,9 +9,9 @@
 ! Wsparcie:
 !   Patronite ==> https://patronite.pl/polskiefiltry
 !   PayPal ==> https://www.paypal.com/pools/c/87zNJ8OJ3I
-! Last modified: 8 November 2019
+! Last modified: 10 November 2019
 ! Expires: 1 day
-! Version: 2019110801
+! Version: 2019111001
 ! Support:
 !   Email >> errorsfilters@certyficate.it
 !   Github >> https://github.com/MajkiIT/polish-ads-filter/issues
@@ -19,7 +19,7 @@
 ! License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ! Copyright © 2019 Certyficate IT
 ! Najnowsza wersja zawsze na: https://www.certyficate.it/adblock
-! v.2019110801 aktualizacja: ptk, 8 listopada 2019, 10:40:00
+! v.2019111001 aktualizacja: nie, 10 listopada 2019, 17:06:00
 !
 !
 !1#-----------------------General advert blocking filters-----------------------!
@@ -83,6 +83,7 @@ pl/*/rodzinnawycieczka/$image,domain=wp.pl
 !
 !4#-----------------------Popup filters on movie-----------------------!
 ||alltube.tv/pomoc$popup,domain=alltube.tv
+||alltube.pl/views_2.0/images/bg-blur.png$image
 ||ankieta-online.pl/q/*/*/invitation.html$domain=lab.ankieta-online.pl
 ||nextclick.pl^$script
 ||reklamy.sterta.pl/$object-subrequest,domain=patrz.pl
@@ -523,7 +524,7 @@ brainly.pl##.brn-ads-box
 brodnica.net##.stopka
 brodnica.net##[href^="/banery/click.php"]
 brodnica.net##td:nth-of-type(3) > table > tbody > tr:nth-of-type(1) > td:nth-of-type(2)
-bryk.pl,www.jawor.tv,lokalna.news,www.swiebodzin.tv##[class^="advert-"]
+bryk.pl,www.jawor.tv,lokalna.news,www.swiebodzin.tv,korso24.pl##[class^="advert-"]
 brytol.com###text-3
 budmatauto.pl##.popup-content, .popup-bg
 budnet.pl##a[href^="https://"] > IMG
@@ -948,7 +949,6 @@ filesdark.com##[href*="/adac.php"]
 centrumdruku3d.pl##a[href^="https://goo.gl/"]
 filmpolski.pl##.obrazek_bez_ramki
 films4free.pl##.M2U3OGQ4ZGY1
-filmweb.pl##^#advertBar-pl_PL, #skyBanner, .d_utru
 firmy77.pl##div.rBoxLeft
 fishing-mart.com.pl##td:nth-of-type(6) > .norm11:nth-of-type(4)
 flarrow.pl##[class^="td_block_wrap td_block_text_with_title td_uid_"]
@@ -2327,6 +2327,8 @@ q4.pl,chinytolubie.pl,filmyfantastyczne.pl,dts24.pl,przemysl.info.pl,eluban.pl,w
 qfant.pl###linkabletitlehtmlandphpwidget-2
 racjonalista.tv,goniecpolski.nl###execphp-2
 racjonalista.tv###execphp-3
+radio90.pl##.sec-promo.sec-margin
+radioem.pl##div.wp-has-title.wp-el.webpart-wrap-media.wp-bd:nth-of-type(13), .wp-el.webpart-wrap-layout_column.wp-bd > .wp-has-title.wp-el.webpart-wrap-links.wp-bd
 radiofest.pl##[class^="ad_type"]
 radio-internetowe.com##div[id^="ad"]
 radio-wrzesnia.pl##.td-a-rec-id-content_inline.td-a-rec, .td-a-rec-id-content_top.td-a-rec, .td-pb-span12, .td-a-rec-id-sidebar.td-a-rec > div.td-all-devices
@@ -2346,6 +2348,7 @@ radiohit.net.pl###custom_html-46, #custom_html-47
 radiojura.pl,radio90.pl##.index-rect.photo-rect
 radiolodz.pl##div.ext-link-box.box
 radiopik.pl##.promo, .rma
+radiopiekary.pl##.size-full.wp-image-44846441.aligncenter, #text-49, #text-73, #text-76, #text-77, #cycloneslider-baner-1
 radioplus.com.pl##.moduletable:nth-of-type(3), .moduletable:nth-of-type(4)
 radioplus.pl###bottom-ad
 radioradom.pl###itro_opaco, #itro_popup
@@ -2359,7 +2362,7 @@ radiowroclaw.pl###BannerHolder, .advLabel
 radiozet.pl###banner-radiostacja
 radiozet.pl##.adocean
 radioznin.fm###jm-footer-menu
-radiozw.com.pl###slider
+radiozw.com.pl###slider, #_ning_zone_253_1174457063
 radkow.it###srodek3 > div
 radom24.pl##.skyscaper
 radomnews.pl##[id^="banP"]
@@ -2693,6 +2696,7 @@ tabletowo.pl##[rel="nofollow"][target="_blank"]
 tabletowo.pl##a[href*="dhosting.pl"]
 tabletowo.pl##a[href*="goo.gl"]
 tabletowo.pl##a[onclick*="eventAction: 'Klik'"][target="_blank"]
+tabletowo.pl##footer div[id^="table"] > a > .i-amphtml-layout
 tablety.pl##[class^="post"] > div > div:nth-child(8) > a > img
 taksiegra.pl##body > center
 taniaksiazka.pl,gsmmaniak.pl,wieliczkacity.pl,aferyprawa.eu,tyna.info.pl,startkariery.pl,ziemialimanowska.pl,mojradom.pl##A[target="_self"] > IMG
@@ -3597,6 +3601,7 @@ zywiecinfo.pl##.promoted
 ||pttk.pl/grafika/liniag.gif
 ||q4.pl/media/20/*.gif$image
 ||qjse.quartic.pl/qjs/$script,domain=~quartic.pl
+||quantcast.mgr.consensu.org^
 ||racjonalista.pl/img/strony/$image
 ||radio-wrzesnia.pl/wp-content/uploads/*/*/walll_$image
 ||radioduch.pl/up_files/oferta/$image
@@ -4035,7 +4040,6 @@ autocentrum.pl,demotywatory.pl,dziennik.pl,facetemjestem.pl,gala.pl,garnek.pl,gr
 !
 !23#--------------------------Pages with bad reputation------------!
 filmyfilmy.pl###play
-||ipko.pl-weryfikacja-konta-bank-pko.j.pl^
 !
 !24#--------------------------Rules for ublock, but can be use with adblock------------!
 ||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=exs.pl,important
@@ -4496,11 +4500,16 @@ sport.pl##.cg4-ad, .mod_uzr_sport6.mod
 ||affiliate44.com.pl/widget/$script,domain=~pozyczkabez.pl
 ||cdn.comperia.pl^$domain=~digitalmoney.pl
 ||www.comperialead.pl^$domain=~digitalmoney.pl
+||rec-ir.quartic.pl^
+||shop.buybox.click^
+||extcdn.burdamedia.pl$script
+||static.quantcast.mgr.consensu.org^
 !
 !49#--------------------------EasyPrivacy Bugs------------!
 @@||tv.wp.pl/do/*/dotn?sw=$image,~third-party,domain=tv.wp.pl
 @@||staty.portalradiowy.pl/wstats/wstats.php$script,domain=discoparty.pl|discopolonew.cba.pl
 @@||fastwhitecat.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-download-tracker.js
+@@||hdtvpolska.com/wp-content/plugins/wpdiscuz/assets/third-party/wpdcookiejs/customcookie.js 
 !
 !50#--------------------------Video Players------------!
 ||vidoza.net/dl?op=view&*adb=$xmlhttprequest
