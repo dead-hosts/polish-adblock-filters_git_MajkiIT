@@ -4,20 +4,20 @@
         "adblock": true
     },
     "days_until_next_test": 0.0,
-    "finish_datetime": "2019-11-11T02:57:12.683438",
-    "finish_timestamp": 1573441032.683438,
-    "last_download_datetime": "2019-11-11T02:47:11.148400",
-    "last_download_timestamp": 1573440431.1484,
-    "latest_part_finish_datetime": "2019-11-11T02:57:12.683438",
-    "latest_part_finish_timestamp": 1573441032.683438,
-    "latest_part_start_datetime": "2019-11-11T02:47:11.824158",
-    "latest_part_start_timestamp": 1573440431.824158,
+    "finish_datetime": "2019-11-12T02:57:59.456738",
+    "finish_timestamp": 1573527479.456738,
+    "last_download_datetime": "2019-11-12T02:47:58.097597",
+    "last_download_timestamp": 1573526878.097597,
+    "latest_part_finish_datetime": "2019-11-12T02:57:59.456738",
+    "latest_part_finish_timestamp": 1573527479.456738,
+    "latest_part_start_datetime": "2019-11-12T02:47:58.812311",
+    "latest_part_start_timestamp": 1573526878.812311,
     "name": "polish-adblock-filters_git_MajkiIT",
     "own_management": false,
     "ping": [
         "@MajkiIT"
     ],
     "raw_link": "https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock.txt",
-    "start_datetime": "2019-11-11T02:47:11.819930",
-    "start_timestamp": 1573440431.81993
+    "start_datetime": "2019-11-12T02:47:58.808361",
+    "start_timestamp": 1573526878.808361
 }

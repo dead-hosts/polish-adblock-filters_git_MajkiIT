@@ -1460,8 +1460,8 @@
         "state": "future"
     },
     "cksport.pl": {
-        "epoch": 1573516800.0,
-        "expiration_date": "12-nov-2019",
+        "epoch": 1605139200.0,
+        "expiration_date": "12-nov-2020",
         "state": "future"
     },
     "cloudfront.net": {
@@ -2985,7 +2985,7 @@
         "state": "future"
     },
     "filmy-tv.pl": {
-        "epoch": 1600819200,
+        "epoch": 1600819200.0,
         "expiration_date": "23-sep-2020",
         "state": "future"
     },
@@ -4010,8 +4010,8 @@
         "state": "future"
     },
     "heronews.pl": {
-        "epoch": 1573516800.0,
-        "expiration_date": "12-nov-2019",
+        "epoch": 1576108800.0,
+        "expiration_date": "12-dec-2019",
         "state": "future"
     },
     "herozerogame.com": {
@@ -4715,37 +4715,37 @@
         "state": "future"
     },
     "jacus.pl": {
-        "epoch": 1593648000,
+        "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
         "state": "future"
     },
     "jadarhobby.pl": {
-        "epoch": 1595548800,
+        "epoch": 1595548800.0,
         "expiration_date": "24-jul-2020",
         "state": "future"
     },
     "jadlonomia.com": {
-        "epoch": 1601424000,
+        "epoch": 1601424000.0,
         "expiration_date": "30-sep-2020",
         "state": "future"
     },
     "jagiellonia.net": {
-        "epoch": 1589155200,
+        "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
         "state": "future"
     },
     "jagodnik.pl": {
-        "epoch": 1581811200,
+        "epoch": 1581811200.0,
         "expiration_date": "16-feb-2020",
         "state": "future"
     },
     "jaka-komorka.pl": {
-        "epoch": 1580774400,
+        "epoch": 1580774400.0,
         "expiration_date": "04-feb-2020",
         "state": "future"
     },
     "jakdojade.pl": {
-        "epoch": 1637971200,
+        "epoch": 1637971200.0,
         "expiration_date": "27-nov-2021",
         "state": "future"
     },
@@ -4755,12 +4755,12 @@
         "state": "future"
     },
     "jakzrobicwexcelu.pl": {
-        "epoch": 1579910400,
+        "epoch": 1579910400.0,
         "expiration_date": "25-jan-2020",
         "state": "future"
     },
     "jarmark.com.pl": {
-        "epoch": 1590019200,
+        "epoch": 1590019200.0,
         "expiration_date": "21-may-2020",
         "state": "future"
     },
@@ -4775,7 +4775,7 @@
         "state": "future"
     },
     "jarzebski.pl": {
-        "epoch": 1573689600,
+        "epoch": 1573689600.0,
         "expiration_date": "14-nov-2019",
         "state": "future"
     },
@@ -4790,12 +4790,12 @@
         "state": "future"
     },
     "jasnet.pl": {
-        "epoch": 1592697600,
+        "epoch": 1592697600.0,
         "expiration_date": "21-jun-2020",
         "state": "future"
     },
     "jastrzebieonline.pl": {
-        "epoch": "1575504000",
+        "epoch": 1575504000.0,
         "expiration_date": "05-dec-2019",
         "state": "future"
     },
@@ -5950,7 +5950,7 @@
         "state": "future"
     },
     "magnapolonia.org": {
-        "epoch": 1627948800,
+        "epoch": 1627948800.0,
         "expiration_date": "03-aug-2021",
         "state": "future"
     },
@@ -6235,7 +6235,7 @@
         "state": "future"
     },
     "mfkip.pl": {
-        "epoch": 1602115200,
+        "epoch": 1602115200.0,
         "expiration_date": "08-oct-2020",
         "state": "future"
     },
