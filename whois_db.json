@@ -1000,8 +1000,8 @@
         "state": "future"
     },
     "blbl.cr": {
-        "epoch": 1574121600.0,
-        "expiration_date": "19-nov-2019",
+        "epoch": 1605744000.0,
+        "expiration_date": "19-nov-2020",
         "state": "future"
     },
     "blogomaniak.pl": {
@@ -1230,8 +1230,8 @@
         "state": "future"
     },
     "calisia.pl": {
-        "epoch": 1574121600.0,
-        "expiration_date": "19-nov-2019",
+        "epoch": 1605744000.0,
+        "expiration_date": "19-nov-2020",
         "state": "future"
     },
     "cannabisnews.pl": {
@@ -1445,8 +1445,8 @@
         "state": "future"
     },
     "cieplowent.pl": {
-        "epoch": 1574035200.0,
-        "expiration_date": "18-nov-2019",
+        "epoch": 1605657600.0,
+        "expiration_date": "18-nov-2020",
         "state": "future"
     },
     "cinema-city.pl": {
@@ -2090,8 +2090,8 @@
         "state": "future"
     },
     "drhtv.com.pl": {
-        "epoch": 1573344000,
-        "expiration_date": "10-nov-2019",
+        "epoch": 1604966400.0,
+        "expiration_date": "10-nov-2020",
         "state": "future"
     },
     "dspinner.net": {
@@ -2245,8 +2245,8 @@
         "state": "future"
     },
     "e-kursy-walut.pl": {
-        "epoch": 1574035200.0,
-        "expiration_date": "18-nov-2019",
+        "epoch": 1605657600.0,
+        "expiration_date": "18-nov-2020",
         "state": "future"
     },
     "e-lubon.pl": {
@@ -3560,8 +3560,8 @@
         "state": "future"
     },
     "glogow-info.pl": {
-        "epoch": 1574121600.0,
-        "expiration_date": "19-nov-2019",
+        "epoch": 1605744000.0,
+        "expiration_date": "19-nov-2020",
         "state": "future"
     },
     "glogow.info.pl": {
@@ -4925,8 +4925,8 @@
         "state": "future"
     },
     "kantorbitcoin.pl": {
-        "epoch": 1573603200,
-        "expiration_date": "13-nov-2019",
+        "epoch": 1731456000.0,
+        "expiration_date": "13-nov-2024",
         "state": "future"
     },
     "kardiolo.pl": {
@@ -5105,8 +5105,8 @@
         "state": "future"
     },
     "kociesprawy.pl": {
-        "epoch": 1573171200,
-        "expiration_date": "08-nov-2019",
+        "epoch": 1604793600.0,
+        "expiration_date": "08-nov-2020",
         "state": "future"
     },
     "kociewiak.pl": {
@@ -6735,8 +6735,8 @@
         "state": "future"
     },
     "mtech.pl": {
-        "epoch": 1573516800,
-        "expiration_date": "12-nov-2019",
+        "epoch": 1605139200.0,
+        "expiration_date": "12-nov-2020",
         "state": "future"
     },
     "multi-head.pl": {
@@ -7070,8 +7070,8 @@
         "state": "future"
     },
     "nflix.pl": {
-        "epoch": 1573516800,
-        "expiration_date": "12-nov-2019",
+        "epoch": 1605139200.0,
+        "expiration_date": "12-nov-2020",
         "state": "future"
     },
     "nhl.pl": {
@@ -8195,8 +8195,8 @@
         "state": "future"
     },
     "polubione.pl": {
-        "epoch": 1574121600.0,
-        "expiration_date": "19-nov-2019",
+        "epoch": 1637280000.0,
+        "expiration_date": "19-nov-2021",
         "state": "future"
     },
     "poludnie.com.pl": {
@@ -9627,7 +9627,7 @@
     "sitemag.pl": {
         "epoch": 1574121600.0,
         "expiration_date": "19-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "skarzysko24.pl": {
         "epoch": 1582848000.0,
@@ -10015,8 +10015,8 @@
         "state": "future"
     },
     "stepstone.pl": {
-        "epoch": 1570924800,
-        "expiration_date": "13-oct-2019",
+        "epoch": 1602547200.0,
+        "expiration_date": "13-oct-2020",
         "state": "future"
     },
     "stoczniowcy.pl": {
@@ -11474,6 +11474,11 @@
         "expiration_date": "01-mar-2020",
         "state": "future"
     },
+    "vodgo.pl": {
+        "epoch": 1584576000.0,
+        "expiration_date": "19-mar-2020",
+        "state": "future"
+    },
     "voltahorse.pl": {
         "epoch": 1576454400.0,
         "expiration_date": "16-dec-2019",
@@ -12155,8 +12160,8 @@
         "state": "future"
     },
     "xlkredyt.pl": {
-        "epoch": "1562803200",
-        "expiration_date": "11-jul-2019",
+        "epoch": 1574380800.0,
+        "expiration_date": "22-nov-2019",
         "state": "future"
     },
     "xlomza.pl": {
@@ -12315,9 +12320,9 @@
         "state": "future"
     },
     "zblogowani.pl": {
-        "epoch": 1574035200.0,
-        "expiration_date": "18-nov-2019",
-        "state": "past"
+        "epoch": 1605657600.0,
+        "expiration_date": "18-nov-2020",
+        "state": "future"
     },
     "zd24.pl": {
         "epoch": 1579824000.0,
