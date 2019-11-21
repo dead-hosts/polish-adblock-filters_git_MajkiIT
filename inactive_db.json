@@ -1240,68 +1240,72 @@
         "1571542620": {
             "www.ziemiakepinska.pl": "INACTIVE"
         },
-        "1574159242": {
+        "1574304823": {
             "blog.nowebrzmienia.pl": "INACTIVE"
         },
-        "1574159282": {
+        "1574304861": {
             "ewpl.com.au": "INACTIVE"
         },
-        "1574159295": {
+        "1574304873": {
             "forum.dvhk.to": "INACTIVE"
         },
-        "1574159396": {
+        "1574304981": {
             "swirtv.czo.pl": "INACTIVE"
         },
-        "1574159427": {
+        "1574305018": {
             "serwery.wiaderko.com": "INACTIVE"
         },
-        "1574159445": {
+        "1574305038": {
             "s1.postimg.org": "INACTIVE"
         },
-        "1574159465": {
+        "1574305055": {
             "tv.rp.pl": "INACTIVE"
         },
-        "1574159559": {
+        "1574305144": {
             "www2.payback.pl": "INACTIVE"
         },
-        "1574159574": {
+        "1574305160": {
             "businessclick.*": "INVALID"
         },
-        "1574159582": {
+        "1574305161": {
+            "cdn.pkwteile.de": "INACTIVE"
+        },
+        "1574305168": {
             "embed.powercontent.pl": "INACTIVE"
         },
-        "1574159584": {
+        "1574305170": {
             "g.cda.pl": "INACTIVE"
         },
-        "1574159587": {
+        "1574305173": {
             "img.dvhk.to": "INACTIVE"
         },
-        "1574159609": {
+        "1574305189": {
             "redir.atmcdn.pl*swf": "INVALID"
         },
-        "1574159627": {
+        "1574305198": {
+            "sklep.gry-online.pl": "INACTIVE"
+        },
+        "1574305213": {
             "widget.plastream.net": "INACTIVE"
         },
-        "1574159639": {
+        "1574305227": {
             "adsrv.eacdn.com": "INACTIVE"
         },
-        "1574159640": {
+        "1574305228": {
             "livemecz.*": "INVALID"
         },
-        "1574159672": {
+        "1574305261": {
             "aster18cdn.nl": "INACTIVE"
         },
-        "1574159673": {
+        "1574305262": {
             "vidoza*.github.io": "INVALID"
         },
-        "1574159679": {
-            "gift.gifts-for-free.online": "INACTIVE"
-        },
-        "1574159703": {
-            "block734.oplatyi.pl": "INACTIVE"
-        },
-        "1574159717": {
+        "1574305269": {
+            "gift.gifts-for-free.online": "INACTIVE",
             "unknow.now.sh": "INACTIVE"
+        },
+        "1574305294": {
+            "block734.oplatyi.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
