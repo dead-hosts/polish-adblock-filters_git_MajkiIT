@@ -2575,8 +2575,8 @@
         "state": "future"
     },
     "eparczew.pl": {
-        "epoch": 1574467200.0,
-        "expiration_date": "23-nov-2019",
+        "epoch": 1606089600.0,
+        "expiration_date": "23-nov-2020",
         "state": "future"
     },
     "epd24.net": {
@@ -3655,9 +3655,9 @@
         "state": "future"
     },
     "gomoney.pl": {
-        "epoch": 1574294400.0,
-        "expiration_date": "21-nov-2019",
-        "state": "past"
+        "epoch": 1575504000.0,
+        "expiration_date": "05-dec-2019",
+        "state": "future"
     },
     "goniec.net": {
         "epoch": 1601337600.0,
@@ -4540,8 +4540,8 @@
         "state": "future"
     },
     "inthecage.pl": {
-        "epoch": 1574467200.0,
-        "expiration_date": "23-nov-2019",
+        "epoch": 1606089600.0,
+        "expiration_date": "23-nov-2020",
         "state": "future"
     },
     "inwestujwrozwoj.pl": {
@@ -11430,9 +11430,9 @@
         "state": "future"
     },
     "vipmultimedia.pl": {
-        "epoch": 1574294400.0,
-        "expiration_date": "21-nov-2019",
-        "state": "past"
+        "epoch": 1605916800.0,
+        "expiration_date": "21-nov-2020",
+        "state": "future"
     },
     "viralseedmedia.com": {
         "epoch": 1597449600.0,
