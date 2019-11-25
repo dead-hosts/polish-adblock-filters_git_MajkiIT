@@ -1240,39 +1240,7 @@
         "1571542620": {
             "www.ziemiakepinska.pl": "INACTIVE"
         },
-        "1574479595": {
-            "serwery.wiaderko.com": "INACTIVE"
-        },
-        "1574479600": {
-            "swirtv.czo.pl": "INACTIVE"
-        },
-        "1574479602": {
-            "s1.postimg.org": "INACTIVE"
-        },
-        "1574479605": {
-            "tv.rp.pl": "INACTIVE"
-        },
-        "1574480137": {
-            "www2.payback.pl": "INACTIVE"
-        },
-        "1574480140": {
-            "businessclick.*": "INVALID",
-            "cdn.pkwteile.de": "INACTIVE"
-        },
-        "1574480141": {
-            "embed.powercontent.pl": "INACTIVE",
-            "g.cda.pl": "INACTIVE",
-            "img.dvhk.to": "INACTIVE"
-        },
-        "1574480142": {
-            "redir.atmcdn.pl*swf": "INVALID",
-            "sklep.gry-online.pl": "INACTIVE"
-        },
-        "1574480143": {
-            "widget.plastream.net": "INACTIVE"
-        },
         "1574480144": {
-            "adsrv.eacdn.com": "INACTIVE",
             "livemecz.*": "INVALID"
         },
         "1574480150": {
@@ -1292,6 +1260,30 @@
         },
         "1574651076": {
             "forum.dvhk.to": "INACTIVE"
+        },
+        "1574652624": {
+            "serwery.wiaderko.com": "INACTIVE"
+        },
+        "1574652629": {
+            "swirtv.czo.pl": "INACTIVE"
+        },
+        "1574652630": {
+            "s1.postimg.org": "INACTIVE"
+        },
+        "1574652641": {
+            "www2.payback.pl": "INACTIVE"
+        },
+        "1574652644": {
+            "businessclick.*": "INVALID"
+        },
+        "1574652645": {
+            "img.dvhk.to": "INACTIVE"
+        },
+        "1574652646": {
+            "redir.atmcdn.pl*swf": "INVALID"
+        },
+        "1574652648": {
+            "adsrv.eacdn.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
