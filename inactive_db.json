@@ -1240,15 +1240,6 @@
         "1571542620": {
             "www.ziemiakepinska.pl": "INACTIVE"
         },
-        "1574478411": {
-            "blog.nowebrzmienia.pl": "INACTIVE"
-        },
-        "1574478424": {
-            "ewpl.com.au": "INACTIVE"
-        },
-        "1574478426": {
-            "forum.dvhk.to": "INACTIVE"
-        },
         "1574478446": {
             "magia.onet.pl": "INACTIVE"
         },
@@ -1298,6 +1289,12 @@
             "gift.gifts-for-free.online": "INACTIVE",
             "unknow.now.sh": "INACTIVE",
             "xlkredyt.pl": "INACTIVE"
+        },
+        "1574651074": {
+            "ewpl.com.au": "INACTIVE"
+        },
+        "1574651076": {
+            "forum.dvhk.to": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {

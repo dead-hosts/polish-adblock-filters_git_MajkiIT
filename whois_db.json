@@ -1395,8 +1395,8 @@
         "state": "future"
     },
     "chorzow.tv": {
-        "epoch": 1574640000.0,
-        "expiration_date": "25-nov-2019",
+        "epoch": 1606262400.0,
+        "expiration_date": "25-nov-2020",
         "state": "future"
     },
     "chorzowianin.pl": {
@@ -2160,8 +2160,8 @@
         "state": "future"
     },
     "dziennikpowiatowy.pl": {
-        "epoch": 1574640000.0,
-        "expiration_date": "25-nov-2019",
+        "epoch": 1606262400.0,
+        "expiration_date": "25-nov-2020",
         "state": "future"
     },
     "dziennikwschodni.pl": {
@@ -2210,8 +2210,8 @@
         "state": "future"
     },
     "e-grajewo.pl": {
-        "epoch": 1574553600.0,
-        "expiration_date": "24-nov-2019",
+        "epoch": 1606176000.0,
+        "expiration_date": "24-nov-2020",
         "state": "future"
     },
     "e-hip.pl": {
