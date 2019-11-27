@@ -1240,31 +1240,8 @@
         "1571542620": {
             "www.ziemiakepinska.pl": "INACTIVE"
         },
-        "1574652641": {
-            "www2.payback.pl": "INACTIVE"
-        },
-        "1574652644": {
-            "businessclick.*": "INVALID"
-        },
-        "1574652645": {
-            "img.dvhk.to": "INACTIVE"
-        },
-        "1574652646": {
-            "redir.atmcdn.pl*swf": "INVALID"
-        },
-        "1574652648": {
-            "adsrv.eacdn.com": "INACTIVE"
-        },
-        "1574652875": {
-            "livemecz.*": "INVALID"
-        },
-        "1574652880": {
-            "aster18cdn.nl": "INACTIVE"
-        },
         "1574652939": {
-            "block734.oplatyi.pl": "INACTIVE",
-            "gift.gifts-for-free.online": "INACTIVE",
-            "xlkredyt.pl": "INACTIVE"
+            "gift.gifts-for-free.online": "INACTIVE"
         },
         "1574823918": {
             "ewpl.com.au": "INACTIVE"
@@ -1280,6 +1257,29 @@
         },
         "1574824681": {
             "s1.postimg.org": "INACTIVE"
+        },
+        "1574825322": {
+            "www2.payback.pl": "INACTIVE"
+        },
+        "1574825325": {
+            "businessclick.*": "INVALID"
+        },
+        "1574825326": {
+            "img.dvhk.to": "INACTIVE",
+            "redir.atmcdn.pl*swf": "INVALID"
+        },
+        "1574825328": {
+            "adsrv.eacdn.com": "INACTIVE"
+        },
+        "1574825329": {
+            "livemecz.*": "INVALID"
+        },
+        "1574825335": {
+            "aster18cdn.nl": "INACTIVE"
+        },
+        "1574825390": {
+            "block734.oplatyi.pl": "INACTIVE",
+            "xlkredyt.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
