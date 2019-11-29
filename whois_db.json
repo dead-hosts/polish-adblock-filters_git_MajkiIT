@@ -2140,8 +2140,8 @@
         "state": "future"
     },
     "dzienniknowy.pl": {
-        "epoch": 1574985600.0,
-        "expiration_date": "29-nov-2019",
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
         "state": "future"
     },
     "dziennikplocki.pl": {
@@ -6745,8 +6745,8 @@
         "state": "future"
     },
     "multi-head.pl": {
-        "epoch": 1574899200.0,
-        "expiration_date": "28-nov-2019",
+        "epoch": 1606521600.0,
+        "expiration_date": "28-nov-2020",
         "state": "future"
     },
     "muratordom.pl": {
@@ -9195,8 +9195,8 @@
         "state": "future"
     },
     "resinet.pl": {
-        "epoch": 1574899200.0,
-        "expiration_date": "28-nov-2019",
+        "epoch": 1606521600.0,
+        "expiration_date": "28-nov-2020",
         "state": "future"
     },
     "resko24.pl": {
@@ -10370,8 +10370,8 @@
         "state": "future"
     },
     "tapenda.pl": {
-        "epoch": 1574899200.0,
-        "expiration_date": "28-nov-2019",
+        "epoch": 1606521600.0,
+        "expiration_date": "28-nov-2020",
         "state": "future"
     },
     "targeo.pl": {
