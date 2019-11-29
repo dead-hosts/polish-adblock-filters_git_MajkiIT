@@ -5339,6 +5339,11 @@
         "expiration_date": "28-apr-2021",
         "state": "future"
     },
+    "kryptoporadnik.pl": {
+        "epoch": 1576800000.0,
+        "expiration_date": "20-dec-2019",
+        "state": "future"
+    },
     "kryptoraport.pl": {
         "epoch": 1592697600.0,
         "expiration_date": "21-jun-2020",
