@@ -357,7 +357,7 @@
     "alilove.pl": {
         "epoch": 1575072000.0,
         "expiration_date": "30-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "allaboutmusic.pl": {
         "epoch": 1599868800.0,
@@ -650,8 +650,8 @@
         "state": "future"
     },
     "autokult.pl": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "autoline.com.pl": {
@@ -1935,8 +1935,8 @@
         "state": "future"
     },
     "doba.pl": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "dobra-mama.pl": {
@@ -2145,8 +2145,8 @@
         "state": "future"
     },
     "dziennikplocki.pl": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "dziennikpolicki.pl": {
@@ -3270,8 +3270,8 @@
         "state": "future"
     },
     "gadzetomania.pl": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "gala.pl": {
@@ -3890,8 +3890,8 @@
         "state": "future"
     },
     "grydladziewczyn.net.pl": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "grylogiczne.biz.pl": {
