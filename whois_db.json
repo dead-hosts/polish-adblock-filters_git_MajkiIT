@@ -11392,7 +11392,7 @@
     "valetudo.bialystok.pl": {
         "epoch": 1575158400.0,
         "expiration_date": "01-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "vampirediaries.pl": {
         "epoch": 1599609600.0,
