@@ -1250,8 +1250,8 @@
         "state": "future"
     },
     "cashowsky.pl": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
+        "epoch": 1577750400.0,
+        "expiration_date": "31-dec-2019",
         "state": "future"
     },
     "cba.pl": {
@@ -1262,6 +1262,11 @@
     "cda.pl": {
         "epoch": 1584748800.0,
         "expiration_date": "21-mar-2020",
+        "state": "future"
+    },
+    "cdaction.pl": {
+        "epoch": 1581292800.0,
+        "expiration_date": "10-feb-2020",
         "state": "future"
     },
     "cdahd.pl": {
@@ -1335,8 +1340,8 @@
         "state": "future"
     },
     "chilitonka.com": {
-        "epoch": 1575244800.0,
-        "expiration_date": "02-dec-2019",
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
         "state": "future"
     },
     "chillitorun.pl": {
