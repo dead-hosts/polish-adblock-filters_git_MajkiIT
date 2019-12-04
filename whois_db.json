@@ -2820,9 +2820,9 @@
         "state": "future"
     },
     "faberville.com": {
-        "epoch": 1575244800.0,
-        "expiration_date": "02-dec-2019",
-        "state": "past"
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
+        "state": "future"
     },
     "fabrykamemow.pl": {
         "epoch": 1583712000.0,
