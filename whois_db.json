@@ -1605,8 +1605,8 @@
         "state": "future"
     },
     "crystal-launcher.pl": {
-        "epoch": 1575504000.0,
-        "expiration_date": "05-dec-2019",
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
         "state": "future"
     },
     "cs-4frags.pl": {
@@ -1622,7 +1622,7 @@
     "cs-escape.pl": {
         "epoch": 1575504000.0,
         "expiration_date": "05-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "cs-nabani.pl": {
         "epoch": 1592697600.0,
