@@ -12424,6 +12424,11 @@
         "expiration_date": "24-jan-2020",
         "state": "future"
     },
+    "ziemniak-bonin.pl": {
+        "epoch": 1592006400.0,
+        "expiration_date": "13-jun-2020",
+        "state": "future"
+    },
     "zinfo.pl": {
         "epoch": 1639180800.0,
         "expiration_date": "11-dec-2021",
