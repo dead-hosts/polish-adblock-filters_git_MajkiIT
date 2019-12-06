@@ -1240,9 +1240,6 @@
         "1571542620": {
             "www.ziemiakepinska.pl": "INACTIVE"
         },
-        "1575550276": {
-            "pirackiekino.blogspot.com": "INACTIVE"
-        },
         "1575553788": {
             "www2.payback.pl": "INACTIVE"
         },
@@ -1251,12 +1248,6 @@
         },
         "1575553793": {
             "redir.atmcdn.pl*swf": "INVALID"
-        },
-        "1575553795": {
-            "adsrv.eacdn.com": "INACTIVE"
-        },
-        "1575553796": {
-            "livemecz.*": "INVALID"
         },
         "1575556274": {
             "aster18cdn.nl": "INACTIVE"
@@ -1277,6 +1268,13 @@
         },
         "1575636987": {
             "s1.postimg.org": "INACTIVE"
+        },
+        "1575640293": {
+            "pirackiekino.blogspot.com": "INACTIVE"
+        },
+        "1575640310": {
+            "adsrv.eacdn.com": "INACTIVE",
+            "livemecz.*": "INVALID"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
