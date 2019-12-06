@@ -2660,8 +2660,8 @@
         "state": "future"
     },
     "estradaistudio.pl": {
-        "epoch": 1575590400.0,
-        "expiration_date": "06-dec-2019",
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
         "state": "future"
     },
     "estrzelce.pl": {
@@ -7580,8 +7580,8 @@
         "state": "future"
     },
     "ostrodanews.pl": {
-        "epoch": 1575590400.0,
-        "expiration_date": "06-dec-2019",
+        "epoch": 1578182400.0,
+        "expiration_date": "05-jan-2020",
         "state": "future"
     },
     "ostrowiecnews.pl": {
@@ -11860,8 +11860,8 @@
         "state": "future"
     },
     "wirtualnemedia.pl": {
-        "epoch": 1575590400.0,
-        "expiration_date": "06-dec-2019",
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
         "state": "future"
     },
     "wirtualnepniewy.pl": {
