@@ -1585,8 +1585,8 @@
         "state": "future"
     },
     "cryptaloot.pro": {
-        "epoch": 1575590400.0,
-        "expiration_date": "06-dec-2019",
+        "epoch": 1582416000.0,
+        "expiration_date": "23-feb-2020",
         "state": "future"
     },
     "crypto-trader.pl": {
@@ -4519,6 +4519,11 @@
         "expiration_date": "06-nov-2020",
         "state": "future"
     },
+    "inpagepush.com": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
     "instalacjebudowlane.pl": {
         "epoch": 1603065600.0,
         "expiration_date": "19-oct-2020",
@@ -5195,8 +5200,8 @@
         "state": "future"
     },
     "konstancin.com": {
-        "epoch": 1575590400.0,
-        "expiration_date": "06-dec-2019",
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
         "state": "future"
     },
     "kopalniawiedzy.pl": {
@@ -7512,6 +7517,11 @@
     "onlinesudoku.pl": {
         "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
+        "state": "future"
+    },
+    "onlystream.tv": {
+        "epoch": 1590364800.0,
+        "expiration_date": "25-may-2020",
         "state": "future"
     },
     "openkatalog.com": {
