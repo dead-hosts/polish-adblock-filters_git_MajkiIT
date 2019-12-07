@@ -9937,7 +9937,7 @@
     "sportslaski.pl": {
         "epoch": 1575676800.0,
         "expiration_date": "07-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "spottedlublin.pl": {
         "epoch": 1618876800.0,
@@ -10352,7 +10352,7 @@
     "szwajcaria.net": {
         "epoch": 1575676800.0,
         "expiration_date": "07-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "szybka.pl": {
         "epoch": "1570752000",
