@@ -1240,18 +1240,6 @@
         "1571542620": {
             "www.ziemiakepinska.pl": "INACTIVE"
         },
-        "1575636987": {
-            "s1.postimg.org": "INACTIVE"
-        },
-        "1575640310": {
-            "adsrv.eacdn.com": "INACTIVE",
-            "livemecz.*": "INVALID"
-        },
-        "1575642987": {
-            "businessclick.*": "INVALID",
-            "redir.atmcdn.pl*swf": "INVALID",
-            "www2.payback.pl": "INACTIVE"
-        },
         "1575642992": {
             "aster18cdn.nl": "INACTIVE"
         },
@@ -1280,6 +1268,22 @@
         },
         "1575735138": {
             "swirtv.czo.pl": "INACTIVE"
+        },
+        "1575737968": {
+            "s1.postimg.org": "INACTIVE"
+        },
+        "1575737977": {
+            "www2.payback.pl": "INACTIVE"
+        },
+        "1575737980": {
+            "businessclick.*": "INVALID"
+        },
+        "1575737981": {
+            "redir.atmcdn.pl*swf": "INVALID"
+        },
+        "1575737984": {
+            "adsrv.eacdn.com": "INACTIVE",
+            "livemecz.*": "INVALID"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
