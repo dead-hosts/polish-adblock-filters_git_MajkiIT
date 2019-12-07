@@ -1240,17 +1240,8 @@
         "1571542620": {
             "www.ziemiakepinska.pl": "INACTIVE"
         },
-        "1575636980": {
-            "serwery.wiaderko.com": "INACTIVE"
-        },
-        "1575636985": {
-            "swirtv.czo.pl": "INACTIVE"
-        },
         "1575636987": {
             "s1.postimg.org": "INACTIVE"
-        },
-        "1575640293": {
-            "pirackiekino.blogspot.com": "INACTIVE"
         },
         "1575640310": {
             "adsrv.eacdn.com": "INACTIVE",
@@ -1280,6 +1271,15 @@
         },
         "1575721326": {
             "ewpl.com.au": "INACTIVE"
+        },
+        "1575735119": {
+            "pirackiekino.blogspot.com": "INACTIVE"
+        },
+        "1575735133": {
+            "serwery.wiaderko.com": "INACTIVE"
+        },
+        "1575735138": {
+            "swirtv.czo.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
