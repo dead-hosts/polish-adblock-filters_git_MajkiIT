@@ -6915,8 +6915,8 @@
         "state": "future"
     },
     "napisy24.pl": {
-        "epoch": 1575763200.0,
-        "expiration_date": "08-dec-2019",
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
         "state": "future"
     },
     "narew.info": {
@@ -9945,9 +9945,9 @@
         "state": "future"
     },
     "sportslaski.pl": {
-        "epoch": 1575676800.0,
-        "expiration_date": "07-dec-2019",
-        "state": "past"
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
+        "state": "future"
     },
     "spottedlublin.pl": {
         "epoch": 1618876800.0,
@@ -10360,9 +10360,9 @@
         "state": "future"
     },
     "szwajcaria.net": {
-        "epoch": 1575676800.0,
-        "expiration_date": "07-dec-2019",
-        "state": "past"
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
+        "state": "future"
     },
     "szybka.pl": {
         "epoch": "1570752000",
