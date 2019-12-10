@@ -1255,15 +1255,8 @@
         "1575737977": {
             "www2.payback.pl": "INACTIVE"
         },
-        "1575737980": {
-            "businessclick.*": "INVALID"
-        },
-        "1575737981": {
-            "redir.atmcdn.pl*swf": "INVALID"
-        },
         "1575737984": {
-            "adsrv.eacdn.com": "INACTIVE",
-            "livemecz.*": "INVALID"
+            "adsrv.eacdn.com": "INACTIVE"
         },
         "1575739916": {
             "aster18cdn.nl": "INACTIVE"
@@ -1273,11 +1266,17 @@
             "gift.gifts-for-free.online": "INACTIVE",
             "xlkredyt.pl": "INACTIVE"
         },
-        "1575807841": {
-            "www.o2.pl": "INACTIVE"
-        },
         "1575947428": {
             "ewpl.com.au": "INACTIVE"
+        },
+        "1575949577": {
+            "businessclick.*": "INVALID"
+        },
+        "1575949578": {
+            "redir.atmcdn.pl*swf": "INVALID"
+        },
+        "1575949581": {
+            "livemecz.*": "INVALID"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
