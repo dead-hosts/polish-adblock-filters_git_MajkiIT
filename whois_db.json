@@ -3609,6 +3609,11 @@
         "expiration_date": "26-jan-2020",
         "state": "future"
     },
+    "glostorunia.pl": {
+        "epoch": 1589932800.0,
+        "expiration_date": "20-may-2020",
+        "state": "future"
+    },
     "gloswagrowiecki.pl": {
         "epoch": 1605916800.0,
         "expiration_date": "21-nov-2020",
@@ -4470,8 +4475,8 @@
         "state": "future"
     },
     "informatorbrzeski.pl": {
-        "epoch": 1575936000.0,
-        "expiration_date": "10-dec-2019",
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
         "state": "future"
     },
     "infosecurity24.pl": {
@@ -4865,9 +4870,9 @@
         "state": "future"
     },
     "jbzdy.pl": {
-        "epoch": 1575763200.0,
-        "expiration_date": "08-dec-2019",
-        "state": "past"
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
+        "state": "future"
     },
     "jdtech.pl": {
         "epoch": 1652659200.0,
@@ -6175,9 +6180,9 @@
         "state": "future"
     },
     "mediacv.pl": {
-        "epoch": 1575763200.0,
-        "expiration_date": "08-dec-2019",
-        "state": "past"
+        "epoch": 1578355200.0,
+        "expiration_date": "07-jan-2020",
+        "state": "future"
     },
     "mediaexpert.pl": {
         "epoch": 1782259200.0,
@@ -9627,7 +9632,7 @@
     "shrsl.com": {
         "epoch": 1575936000.0,
         "expiration_date": "10-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "siatka.org": {
         "epoch": 1584489600.0,
