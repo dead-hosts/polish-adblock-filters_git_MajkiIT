@@ -10084,6 +10084,11 @@
         "expiration_date": "10-feb-2020",
         "state": "future"
     },
+    "spacead.pl": {
+        "epoch": 1590192000.0,
+        "expiration_date": "23-may-2020",
+        "state": "future"
+    },
     "spaceforyou.cc": {
         "epoch": "1556236800",
         "expiration_date": "26-apr-2019",
@@ -12670,8 +12675,8 @@
         "state": "future"
     },
     "zebrra.tv": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "zegarkiclub.pl": {
