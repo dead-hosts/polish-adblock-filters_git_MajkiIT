@@ -3555,8 +3555,8 @@
         "state": "future"
     },
     "geoforum.pl": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "getionary.pl": {
@@ -3597,7 +3597,7 @@
     "gismeteo.pl": {
         "epoch": 1576022400.0,
         "expiration_date": "11-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "gizchina.com.pl": {
         "epoch": 1601856000.0,
@@ -3682,6 +3682,16 @@
     "gloskoninski.pl": {
         "epoch": 1579996800.0,
         "expiration_date": "26-jan-2020",
+        "state": "future"
+    },
+    "glosrybnika.pl": {
+        "epoch": 1579996800.0,
+        "expiration_date": "26-jan-2020",
+        "state": "future"
+    },
+    "glosrzeszowa.pl": {
+        "epoch": 1589932800.0,
+        "expiration_date": "20-may-2020",
         "state": "future"
     },
     "glostorunia.pl": {
@@ -5015,8 +5025,8 @@
         "state": "future"
     },
     "jelonka.com": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "jobs.pl": {
@@ -5385,8 +5395,8 @@
         "state": "future"
     },
     "koszalininfo.pl": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "kotburger.pl": {
@@ -5840,8 +5850,8 @@
         "state": "future"
     },
     "linkpolonia.com": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "linktopoland.com": {
@@ -9815,9 +9825,9 @@
         "state": "future"
     },
     "shrsl.com": {
-        "epoch": 1575936000.0,
-        "expiration_date": "10-dec-2019",
-        "state": "past"
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
+        "state": "future"
     },
     "siatka.org": {
         "epoch": 1584489600.0,
