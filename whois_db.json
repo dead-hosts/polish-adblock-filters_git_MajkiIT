@@ -7149,6 +7149,11 @@
         "expiration_date": "08-jun-2020",
         "state": "future"
     },
+    "naszciechanow.pl": {
+        "epoch": 1602374400.0,
+        "expiration_date": "11-oct-2020",
+        "state": "future"
+    },
     "naszekielce.com": {
         "epoch": 1597708800.0,
         "expiration_date": "18-aug-2020",
@@ -8185,8 +8190,8 @@
         "state": "future"
     },
     "plejada.pl": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "pless.pl": {
@@ -10535,8 +10540,8 @@
         "state": "future"
     },
     "szczeciniak.pl": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1639180800.0,
+        "expiration_date": "11-dec-2021",
         "state": "future"
     },
     "szczekaopada.pl": {
