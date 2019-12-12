@@ -7190,8 +7190,8 @@
         "state": "future"
     },
     "naszemiasto.pl": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
         "state": "future"
     },
     "naszemiastomiedzyzdroje.com.pl": {
@@ -9307,6 +9307,11 @@
     "radiosud.pl": {
         "epoch": 1602115200.0,
         "expiration_date": "08-oct-2020",
+        "state": "future"
+    },
+    "radioszczecin.pl": {
+        "epoch": 1587254400.0,
+        "expiration_date": "19-apr-2020",
         "state": "future"
     },
     "radiotczew.pl": {
