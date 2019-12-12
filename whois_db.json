@@ -2889,6 +2889,11 @@
         "expiration_date": "05-may-2020",
         "state": "future"
     },
+    "f5.pl": {
+        "epoch": 1618185600.0,
+        "expiration_date": "12-apr-2021",
+        "state": "future"
+    },
     "faberville.com": {
         "epoch": 1606867200.0,
         "expiration_date": "02-dec-2020",
@@ -3605,9 +3610,9 @@
         "state": "future"
     },
     "gismeteo.pl": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
-        "state": "past"
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
+        "state": "future"
     },
     "gizchina.com.pl": {
         "epoch": 1601856000.0,
@@ -3964,6 +3969,11 @@
         "expiration_date": "01-jun-2020",
         "state": "future"
     },
+    "grobla.net": {
+        "epoch": 1636848000.0,
+        "expiration_date": "14-nov-2021",
+        "state": "future"
+    },
     "grodzisknews.pl": {
         "epoch": 1601251200.0,
         "expiration_date": "28-sep-2020",
@@ -4150,8 +4160,8 @@
         "state": "future"
     },
     "heronews.pl": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
+        "epoch": 1605139200.0,
+        "expiration_date": "12-nov-2020",
         "state": "future"
     },
     "herozerogame.com": {
@@ -4545,8 +4555,8 @@
         "state": "future"
     },
     "infogliwice.pl": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
+        "epoch": 1639267200.0,
+        "expiration_date": "12-dec-2021",
         "state": "future"
     },
     "infoilawa.pl": {
@@ -4755,8 +4765,8 @@
         "state": "future"
     },
     "irenakuczynska.pl": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
         "state": "future"
     },
     "ironmangdynia.pl": {
@@ -4820,8 +4830,8 @@
         "state": "future"
     },
     "iturek.net": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
         "state": "future"
     },
     "itv24.com.pl": {
@@ -5585,8 +5595,8 @@
         "state": "future"
     },
     "kujawy.info": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
         "state": "future"
     },
     "kulisy.net": {
@@ -5935,8 +5945,8 @@
         "state": "future"
     },
     "lk-projekt.pl": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
         "state": "future"
     },
     "lm.pl": {
@@ -6550,8 +6560,8 @@
         "state": "future"
     },
     "miedzyrzec.info": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
         "state": "future"
     },
     "miedzyrzecz.biz": {
