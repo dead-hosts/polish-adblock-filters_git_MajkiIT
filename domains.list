@@ -9,9 +9,9 @@
 ! Wsparcie:
 !   Patronite ==> https://patronite.pl/polskiefiltry
 !   PayPal ==> https://www.paypal.com/pools/c/87zNJ8OJ3I
-! Last modified: 10 December 2019
+! Last modified: 12 December 2019
 ! Expires: 1 day
-! Version: 2019121004
+! Version: 2019121201
 ! Support:
 !   Email >> errorsfilters@certyficate.it
 !   Github >> https://github.com/MajkiIT/polish-ads-filter/issues
@@ -19,7 +19,7 @@
 ! License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ! Copyright © 2019 Certyficate IT
 ! Najnowsza wersja zawsze na: https://www.certyficate.it/adblock
-! v.2019121004 aktualizacja: wt, 10 grudnia 2019, 20:20:00
+! v.2019121201 aktualizacja: czw, 12 grudnia 2019, 09:25:00
 !
 !
 !1#-----------------------General advert blocking filters-----------------------!
@@ -32,7 +32,7 @@
 .pl/img/ad/
 .pl/wp-content/banners/
 /*300x300$image,domain=portalgwiazd.pl
-/\/(images|img|data|uploads)\/banners\//$image,object,domain=tsk24.pl|wschodnik.pl|nowawrzesnia.pl|glucholazyonline.com.pl|informacjelokalne.pl|muzyczneradio.com.pl|tvrep.pl|chwaszczyno.pl|msfera.pl|tygodnik-krapkowicki.info|darkplanet.pl|wroclawskiejedzenie.pl|magazyngitarzysta.pl|przegladkoninski.pl|radiopoznan.fm|fishing-test.pl|gostynin24.pl|wkonin.pl|orawa24.info|krakowski24.pl|muzyczneradio.pl|skijumping.pl
+/\/(images|img|data|uploads)\/banners\//$image,object,domain=tsk24.pl|wschodnik.pl|nowawrzesnia.pl|glucholazyonline.com.pl|informacjelokalne.pl|muzyczneradio.com.pl|tvrep.pl|chwaszczyno.pl|msfera.pl|tygodnik-krapkowicki.info|darkplanet.pl|wroclawskiejedzenie.pl|magazyngitarzysta.pl|przegladkoninski.pl|radiopoznan.fm|fishing-test.pl|gostynin24.pl|wkonin.pl|orawa24.info|krakowski24.pl|muzyczneradio.pl|skijumping.pl|brwinow.com
 /_adv/*
 /_baner/*$domain=www.ipon.pl|tygodnikzamojski.pl
 /adv/*$image,domain=~arriva.pl|~budus.pl|~filmweb.pl
@@ -425,6 +425,7 @@ barlinek24.pl###jm-content-top
 barlinek24.pl###jm-right > div > .jm-module:nth-of-type(1) > .jm-module-in
 barlinek24.pl###jm-right > div > .jm-module:nth-of-type(4) > .jm-module-in
 barlinek24.pl###jm-right > div > .jm-module:nth-of-type(6) > .jm-module-in
+bartoszyce24.pl###gafancybox-overlay265
 bazarynek.pl##a[href^="http://www.bazarynek.pl/reklama.php"]
 bebzol.com###right-col > .r-stick-box
 beel.pl##.box:nth-of-type(4)
@@ -1028,6 +1029,7 @@ fotka.com##[id^="billboard_"]
 fotoszok.pl###tablewraper > center
 fotoszok.pl##center > a[href="http://www.boxing.pl"]
 fpiec.pl###a-slot-content-13047-blog-body-7, [id^="offerID-"]
+fpiec.pl,f5.pl##[id^="offerID-"]
 fragrantica.pl##[id^="\35"]
 franchising.pl###right, .imgBnr
 franchising.pl##[id^="scrAd"]
@@ -1057,7 +1059,7 @@ gazeo.pl##.point
 gazeta-mlawska.pl##.clear.box_tekstowy_mainpage:nth-of-type(4)
 gazeta-mosina.pl##.mod-blank.module
 gazeta-mosina.pl##div.mod-line.module > .deepest.box-1 > P
-gazeta-olawa.pl##.absolute, #sidebar-primary-sidebar > div.row
+gazeta-olawa.pl##.absolute, #sidebar-primary-sidebar > div.row, .reklama-txt
 gazeta-olawa.pl##.style-normal.full-width.container.content-container.row, .betterad-link
 gazeta-olawa.pl##.vc_custom_1558347292737.vc_align_center.wpb_content_element.wpb_single_image, #advertisement-image-2
 gazeta-olawa.pl##img[width="300"][height="300"]
@@ -1126,6 +1128,7 @@ glokalna.pl##div.wp_bannerize_layout_vertical.wp_bannerize_container
 gloria.tv##A[href^="/advertisement/"]
 gloria.tv##footer
 glos.live###second_col
+glosgdyni.eu##.penci-pb-row.vc_row-fluid.vc_row_43491808.wpb_row.vc_row, .header__banner
 glos24.pl##IMG[src^="/files/adv/"]
 glosgminny.pl###text-30
 glostorunia.pl,glosrzeszowa.pl,glosrybnika.pl##.theiaStickySidebar > .widget.widget-4, .theiaStickySidebar > .widget.widget-3, .entry_content
@@ -1311,7 +1314,7 @@ informacja.wroclaw.pl,twojatv.info##[class*="popup"]
 informatorbrzeski.pl##.e3lan-top
 infoship.pl,infoair.pl,infobike.pl,infotram.pl,inforail.pl,transinfo.pl,infobus.pl##.reklamaR2Napis
 infoship.pl,infoair.pl,infobike.pl,infotram.pl,inforail.pl,transinfo.pl,infobus.pl##[id^="reklama"][idrekl]
-infoship.pl,infoair.pl,infobike.pl,infotram.pl,inforail.pl,transinfo.pl,infobus.pl,polskiedrogi-tv.pl,mckenzie.pl,devilpage.pl###banner
+infoship.pl,infoair.pl,infobike.pl,infotram.pl,inforail.pl,transinfo.pl,infobus.pl,polskiedrogi-tv.pl,mckenzie.pl,devilpage.pl,grobla.net###banner
 infoskierniewice.pl##[class*="td_uid_42_"]
 innemedium.pl###block-block-16, #block-block-19, #block-block-17, #block-views-reklama-block
 innemedium.pl###block-block-16, .even.field-item > div
@@ -1587,7 +1590,7 @@ lm.pl##.belka_z_banerami,.lista_ogloszen_reklama
 lokalna.com.pl##.leaderboard.col-lg-7.col-md-7
 lokalna.info##.td_block_template_4.td-pb-border-top.td-single-image-.td_uid_4_5c69b28607848_rand.vc_single_image.td-no-img-custom-url.td_block_wrap.td_block_single_image.wpb_wrapper
 lokalna24.pl##.custom > p > span, aside > div > .text-center
-lokalna24.pl##.top, .A1sub, .legal-notice
+lokalna24.pl##.top, .A1sub, .legal-notice, div.mw_aside > div > .text-center
 lokalna24.pl##IMG[src^="/banery/"]
 lokalna24.pl##OBJECT[data^="/banery/"]
 lokalnatelewizja.pl,echotygodnik.info##.A1sub
@@ -2291,6 +2294,7 @@ promocyjni.interia.pl##.l-app__content__paper-fold._qmandit > div, .l-app__conte
 promocyjni.pl##.autopromo-boxes-holder > .ap-ad.auto-promo-box
 promocyjni.pl##.autopromo-boxes-holder > .ap-pos-left
 promocyjni.pl##.autopromo-boxes-holder-2nd
+proszkow.eu###camera_wrap_293, .ic_marquee0
 prostaekonomia.pl###layerslider_2
 prostoomuzyce.pl##[id^="block-views-banery-block"]
 prostozmostu.net###ecoeconomy
@@ -2367,6 +2371,7 @@ radioradom.pl###itro_opaco, #itro_popup
 radiorsc.pl##div.margin-bottom30:nth-of-type(5) > .greybox
 radiostar.net##.widget_media_image.widget.td_block_template_4
 radiosud.pl,krasnik24.pl,czestochowanews.pl##[class^="banner"]
+radioszczecin.pl##.promoarea
 radiotczew.pl##[target="_blank"] > .img-responsive
 radiovia.com.pl##.imageBox > P[style="text-align: center;"]
 radiowarszawa.com.pl##.wpb_single_image.wpb_content_element.vc_align_center
@@ -2410,7 +2415,7 @@ resko24.pl###sidebar-b > .grid-v.width100.grid-box:nth-of-type(3)
 resko24.pl###top-b
 resko24.pl##.grid-v.width100.grid-box:nth-of-type(2)
 resko24.pl##.grid-v.width100.grid-box:nth-of-type(4)
-retailnet.pl##.elementor-top-column.elementor-col-100.elementor-column.elementor-element-6b199ea3.elementor-element
+retailnet.pl##.elementor-top-column.elementor-col-100.elementor-column.elementor-element-6b199ea3.elementor-element, #uranu-1679115127
 retrotraktor.pl##.main-bg > table:nth-of-type(1)
 rfbenchmark.pl###post-124
 rfbenchmark.pl##.rfb-news2ads-container
@@ -3035,7 +3040,7 @@ wpolityce.pl##.ad-stamp
 wpolityce.pl##.box-division-holder-right
 wpolityce24.pl###ai_widget-12, #ai_widget-13, #ai_widget-14, #custom_html-5, #ai_widget-10, #ai_widget-9
 wprost.pl##.box-list-item-adv, .page-screening, .page-header-technologie
-wpu24.pl##[href^="https://"] > .jch-lazyloaded.sppb-img-responsive, .sppb-text-center.sppb-carousel-inner, #section-id-1549389463278, #section-id-1545991885110, #sppb-addon-1545996102492, #section-id-1552052970744
+wpu24.pl##[href^="https://"] > .jch-lazyloaded.sppb-img-responsive, .sppb-text-center.sppb-carousel-inner, #section-id-1549389463278, #section-id-1545991885110, #sppb-addon-1545996102492, #section-id-1552052970744, #section-id-1552464468326, #section-id-1545996102489
 wrc.net.pl##.sidebar.col-sm-4.col-xs-12, .wall-bg-link, .wall-bg-banner
 wrealu24.pl##.article-podobne.section
 wrealu24.pl##.bannergroup
@@ -3256,6 +3261,7 @@ zdrowiewkrakowie.pl##body > div:not([class]):not([id])[style]:nth-of-type(1)
 zebrra.tv##.sam-container
 zegarkiclub.pl###dp3_aa, #sticky_sidebar_ad
 zeglarski.info##[style="margin-bottom: 20px; "] > A
+zegocina.in##.wpb_wrapper > .td-all-devices
 zepsute.pl###adv_main
 zespolmi.pl##a[href^="https://prisonwarsonline.com/"]
 zielonanews.pl##A.gofollow > IMG
@@ -3875,7 +3881,7 @@ zywiecinfo.pl##.promoted
 @@||hub.com.pl^$subdocument,domain=poczta.interia.pl
 @@||js-agent.newrelic.com/$script,domain=portal.abczdrowie.pl
 @@||katowickisport.pl^$generichide
- @@||lokalna24.pl^*^LOKALNA24_logo_
+@@||lokalna24.pl^*^LOKALNA24_logo_
 @@||lulektv.app.insyscd.net/Content/player/insysplayer/adTest.png$image,domain=lulektv.app.insyscd.net
 @@||naekranie.pl/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-download-tracker.js$script,~third-party
 @@||optimus.pl/temp/adrotator_miniatury/$image
@@ -3941,7 +3947,7 @@ drhtv.com.pl,meczenazywo.pl##[id^="popup"]
 estadios.pl##.kafelki_bukmacherskie
 freehdsport.com##[id*="overlay_Player"]
 futbol.pl###gbbill_866951
-futbol.pl##.adroll-block
+futbol.pl##.adroll-block, .advert-link
 futbol.pl##header > .container > a >img
 futbolhd.tv##.zareklamuj_sie_z_lewej
 futbolhd.tv##TD[style="margin-left: -25px; font-size: 14px; padding: 10px; padding-top: 3px; letter-spacing: -0.25px; text-align: center; color: #1e84ed"]
@@ -4333,6 +4339,7 @@ walbrzych24.com,zloty-pociag.com#@##gwd-ad
 !
 !38#--------------------------Wordpress element hide------------!
 7dni.pila.pl,petronews.pl###text-22
+7dni.pila.pl##.ag-block-index-3.ag-news-template-1.ag-news-block, .ag-block-index-4.ag-news-template-1.ag-news-block
 ambassador24.pl###text-6 > .textwidget
 autofakty.pl##.widget_text.widget
 bielskiedrogi.pl###block-block-9, #block-views-reklamy-block
