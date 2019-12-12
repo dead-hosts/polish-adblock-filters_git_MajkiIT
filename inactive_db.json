@@ -1258,15 +1258,6 @@
         "1575737984": {
             "adsrv.eacdn.com": "INACTIVE"
         },
-        "1576066496": {
-            "businessclick.*": "INVALID"
-        },
-        "1576066497": {
-            "redir.atmcdn.pl*swf": "INVALID"
-        },
-        "1576067752": {
-            "livemecz.*": "INVALID"
-        },
         "1576067821": {
             "aster18cdn.nl": "INACTIVE",
             "block734.oplatyi.pl": "INACTIVE",
@@ -1274,6 +1265,15 @@
         },
         "1576147367": {
             "ewpl.com.au": "INACTIVE"
+        },
+        "1576158792": {
+            "businessclick.*": "INVALID"
+        },
+        "1576158793": {
+            "redir.atmcdn.pl*swf": "INVALID"
+        },
+        "1576158796": {
+            "livemecz.*": "INVALID"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {

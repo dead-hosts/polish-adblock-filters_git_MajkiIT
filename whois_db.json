@@ -12130,8 +12130,8 @@
         "state": "future"
     },
     "wielodzietni.org": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
         "state": "future"
     },
     "wien.info": {
@@ -12727,6 +12727,11 @@
     "zeglarski.info": {
         "epoch": 1582588800.0,
         "expiration_date": "25-feb-2020",
+        "state": "future"
+    },
+    "zegocina.in": {
+        "epoch": 1576368000.0,
+        "expiration_date": "15-dec-2019",
         "state": "future"
     },
     "zepsute.pl": {
