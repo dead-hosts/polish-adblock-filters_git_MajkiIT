@@ -885,8 +885,8 @@
         "state": "future"
     },
     "bielskiedrogi.pl": {
-        "epoch": 1576368000.0,
-        "expiration_date": "15-dec-2019",
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
         "state": "future"
     },
     "bielsko.info": {
@@ -1305,8 +1305,8 @@
         "state": "future"
     },
     "cenabiznesu.pl": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "centrumaut.pl": {
@@ -1679,6 +1679,11 @@
         "expiration_date": "31-dec-2019",
         "state": "future"
     },
+    "cyber-sport.us": {
+        "epoch": 1711152000.0,
+        "expiration_date": "23-mar-2024",
+        "state": "future"
+    },
     "cyberdefence24.pl": {
         "epoch": 1577145600.0,
         "expiration_date": "24-dec-2019",
@@ -1847,6 +1852,11 @@
     "debica.tv": {
         "epoch": 1649808000.0,
         "expiration_date": "13-apr-2022",
+        "state": "future"
+    },
+    "deblinnews.pl": {
+        "epoch": 1603670400.0,
+        "expiration_date": "26-oct-2020",
         "state": "future"
     },
     "deccoria.pl": {
@@ -2300,8 +2310,8 @@
         "state": "future"
     },
     "e-lubon.pl": {
-        "epoch": 1576368000.0,
-        "expiration_date": "15-dec-2019",
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
         "state": "future"
     },
     "e-pingpong.pl": {
@@ -2625,8 +2635,8 @@
         "state": "future"
     },
     "eostroleka.pl": {
-        "epoch": 1576368000.0,
-        "expiration_date": "15-dec-2019",
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
         "state": "future"
     },
     "epainfo.pl": {
@@ -3565,8 +3575,8 @@
         "state": "future"
     },
     "gdzietymrazem.pl": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "geoforum.pl": {
@@ -7389,6 +7399,11 @@
         "expiration_date": "22-oct-2020",
         "state": "future"
     },
+    "nizanskie.info": {
+        "epoch": 1578009600.0,
+        "expiration_date": "03-jan-2020",
+        "state": "future"
+    },
     "nj24.pl": {
         "epoch": 1594684800.0,
         "expiration_date": "14-jul-2020",
@@ -8050,8 +8065,8 @@
         "state": "future"
     },
     "pepsieliot.com": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "perfektusplus.pl": {
