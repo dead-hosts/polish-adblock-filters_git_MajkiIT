@@ -7650,8 +7650,8 @@
         "state": "future"
     },
     "odmiana.net": {
-        "epoch": 1576281600.0,
-        "expiration_date": "14-dec-2019",
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
         "state": "future"
     },
     "off-road.pl": {
@@ -10594,6 +10594,11 @@
         "expiration_date": "15-jul-2020",
         "state": "future"
     },
+    "swoszowice.org.pl": {
+        "epoch": 1576454400.0,
+        "expiration_date": "16-dec-2019",
+        "state": "future"
+    },
     "systemyplatnosci.com": {
         "epoch": 1585267200.0,
         "expiration_date": "27-mar-2020",
@@ -11989,6 +11994,11 @@
         "expiration_date": "13-sep-2021",
         "state": "future"
     },
+    "wawernews.pl": {
+        "epoch": 1600041600.0,
+        "expiration_date": "14-sep-2020",
+        "state": "future"
+    },
     "wbijam.pl": {
         "epoch": 1595635200.0,
         "expiration_date": "25-jul-2020",
@@ -12022,6 +12032,11 @@
     "weben1.com": {
         "epoch": 1606262400.0,
         "expiration_date": "25-nov-2020",
+        "state": "future"
+    },
+    "webep1.com": {
+        "epoch": 1606435200.0,
+        "expiration_date": "27-nov-2020",
         "state": "future"
     },
     "webhelp.pl": {
@@ -12182,6 +12197,11 @@
     "wikirose.pl": {
         "epoch": 1579996800.0,
         "expiration_date": "26-jan-2020",
+        "state": "future"
+    },
+    "wilanownews.pl": {
+        "epoch": 1583366400.0,
+        "expiration_date": "05-mar-2020",
         "state": "future"
     },
     "wimieprawdy.pl": {
@@ -12762,7 +12782,7 @@
     "zegocina.in": {
         "epoch": 1576368000.0,
         "expiration_date": "15-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "zepsute.pl": {
         "epoch": 1591228800.0,
