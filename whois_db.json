@@ -4240,8 +4240,8 @@
         "state": "future"
     },
     "historiasportu.info": {
-        "epoch": 1576368000.0,
-        "expiration_date": "15-dec-2019",
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
         "state": "future"
     },
     "historykon.pl": {
@@ -7164,6 +7164,11 @@
         "expiration_date": "01-apr-2020",
         "state": "future"
     },
+    "naszabramow.pl": {
+        "epoch": 1592611200.0,
+        "expiration_date": "20-jun-2020",
+        "state": "future"
+    },
     "naszafloryda.com": {
         "epoch": 1577923200.0,
         "expiration_date": "02-jan-2020",
@@ -9450,8 +9455,8 @@
         "state": "future"
     },
     "regentpolski.pl": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1578787200.0,
+        "expiration_date": "12-jan-2020",
         "state": "future"
     },
     "regionfan.pl": {
@@ -11427,7 +11432,7 @@
     "twojakowala.pl": {
         "epoch": 1576368000.0,
         "expiration_date": "15-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "twojapogoda.pl": {
         "epoch": 1652313600.0,
@@ -11560,8 +11565,8 @@
         "state": "future"
     },
     "tygodnikpodlaski.pl": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "tygodnikponidzia.pl": {
