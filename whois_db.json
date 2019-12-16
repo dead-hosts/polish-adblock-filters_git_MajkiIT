@@ -10035,8 +10035,8 @@
         "state": "future"
     },
     "slodkipomysl.pl": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
         "state": "future"
     },
     "slowianskibestiariusz.pl": {
@@ -11440,9 +11440,9 @@
         "state": "future"
     },
     "twojakowala.pl": {
-        "epoch": 1576368000.0,
-        "expiration_date": "15-dec-2019",
-        "state": "past"
+        "epoch": 1577577600.0,
+        "expiration_date": "29-dec-2019",
+        "state": "future"
     },
     "twojapogoda.pl": {
         "epoch": 1652313600.0,
@@ -11522,7 +11522,7 @@
     "twojwolanow.pl": {
         "epoch": 1576454400.0,
         "expiration_date": "16-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "twojzwolen.pl": {
         "epoch": 1587686400.0,
@@ -11865,8 +11865,8 @@
         "state": "future"
     },
     "voltahorse.pl": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
+        "epoch": 1605484800.0,
+        "expiration_date": "16-nov-2020",
         "state": "future"
     },
     "vorek.pl": {
