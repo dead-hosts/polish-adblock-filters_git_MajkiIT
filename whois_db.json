@@ -7504,6 +7504,11 @@
         "expiration_date": "03-sep-2020",
         "state": "future"
     },
+    "nowezyciepabianic.pl": {
+        "epoch": 1580515200.0,
+        "expiration_date": "01-feb-2020",
+        "state": "future"
+    },
     "nowinynyskie.com.pl": {
         "epoch": 1586476800.0,
         "expiration_date": "10-apr-2020",
