@@ -1945,8 +1945,8 @@
         "state": "future"
     },
     "disqusads.com": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
+        "epoch": 1639612800.0,
+        "expiration_date": "16-dec-2021",
         "state": "future"
     },
     "dj24.pl": {
@@ -10600,8 +10600,8 @@
         "state": "future"
     },
     "swoszowice.org.pl": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
+        "epoch": 1579046400.0,
+        "expiration_date": "15-jan-2020",
         "state": "future"
     },
     "systemyplatnosci.com": {
@@ -11422,7 +11422,7 @@
     "tvtoss.com": {
         "epoch": 1576454400.0,
         "expiration_date": "16-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "tvtoya.pl": {
         "epoch": 1576972800.0,
@@ -12785,9 +12785,9 @@
         "state": "future"
     },
     "zegocina.in": {
-        "epoch": 1576368000.0,
-        "expiration_date": "15-dec-2019",
-        "state": "past"
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
+        "state": "future"
     },
     "zepsute.pl": {
         "epoch": 1591228800.0,
