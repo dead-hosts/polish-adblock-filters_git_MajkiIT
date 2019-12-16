@@ -6115,9 +6115,9 @@
         "state": "future"
     },
     "lubsport.pl": {
-        "epoch": 1576368000.0,
-        "expiration_date": "15-dec-2019",
-        "state": "past"
+        "epoch": 1578960000.0,
+        "expiration_date": "14-jan-2020",
+        "state": "future"
     },
     "lukow24.pl": {
         "epoch": 1605312000.0,
@@ -7505,9 +7505,9 @@
         "state": "future"
     },
     "nowodworski24.pl": {
-        "epoch": 1576368000.0,
-        "expiration_date": "15-dec-2019",
-        "state": "past"
+        "epoch": 1578960000.0,
+        "expiration_date": "14-jan-2020",
+        "state": "future"
     },
     "nowwatchtvlive.co": {
         "epoch": "1589414400",
@@ -7952,6 +7952,11 @@
     "pabianice.tv": {
         "epoch": 1588377600.0,
         "expiration_date": "02-may-2020",
+        "state": "future"
+    },
+    "pacanow.online": {
+        "epoch": 1603238400.0,
+        "expiration_date": "21-oct-2020",
         "state": "future"
     },
     "paczkomat.biz.pl": {
