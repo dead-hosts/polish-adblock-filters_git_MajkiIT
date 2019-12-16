@@ -1819,6 +1819,11 @@
         "expiration_date": "10-nov-2021",
         "state": "future"
     },
+    "db2010.pl": {
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
+        "state": "future"
+    },
     "dbnao.net": {
         "epoch": 1594598400.0,
         "expiration_date": "13-jul-2020",
