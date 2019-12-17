@@ -11430,9 +11430,9 @@
         "state": "future"
     },
     "tvtoss.com": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
-        "state": "past"
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
+        "state": "future"
     },
     "tvtoya.pl": {
         "epoch": 1576972800.0,
