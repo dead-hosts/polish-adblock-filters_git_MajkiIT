@@ -2415,8 +2415,8 @@
         "state": "future"
     },
     "eduzabawy.com": {
-        "epoch": 1576540800.0,
-        "expiration_date": "17-dec-2019",
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "edynamic-dns.pl": {
@@ -11562,6 +11562,11 @@
     "tygodnik.szczytno.pl": {
         "epoch": 1605830400.0,
         "expiration_date": "20-nov-2020",
+        "state": "future"
+    },
+    "tygodnikketrzynski.pl": {
+        "epoch": 1591747200.0,
+        "expiration_date": "10-jun-2020",
         "state": "future"
     },
     "tygodnikkrag.pl": {
