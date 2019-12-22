@@ -1258,9 +1258,6 @@
         "1575737984": {
             "adsrv.eacdn.com": "INACTIVE"
         },
-        "1576812383": {
-            "twojawierzbica.pl": "INACTIVE"
-        },
         "1576813090": {
             "sitemag.pl": "INACTIVE"
         },
@@ -1284,6 +1281,9 @@
         },
         "1576984552": {
             "gazetka.be": "INACTIVE"
+        },
+        "1576985243": {
+            "twojawierzbica.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
