@@ -8465,8 +8465,8 @@
         "state": "future"
     },
     "polskaniepodlegla.pl": {
-        "epoch": 1576972800.0,
-        "expiration_date": "22-dec-2019",
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
         "state": "future"
     },
     "polskatimes.pl": {
@@ -9110,9 +9110,9 @@
         "state": "future"
     },
     "pszczynska.pl": {
-        "epoch": 1576886400.0,
-        "expiration_date": "21-dec-2019",
-        "state": "past"
+        "epoch": 1579478400.0,
+        "expiration_date": "20-jan-2020",
+        "state": "future"
     },
     "pttk.pl": {
         "epoch": 1593475200.0,
@@ -9210,9 +9210,9 @@
         "state": "future"
     },
     "qfant.pl": {
-        "epoch": 1576886400.0,
-        "expiration_date": "21-dec-2019",
-        "state": "past"
+        "epoch": 1579478400.0,
+        "expiration_date": "20-jan-2020",
+        "state": "future"
     },
     "racingforum.pl": {
         "epoch": 1580428800.0,
@@ -11455,8 +11455,8 @@
         "state": "future"
     },
     "tvtoya.pl": {
-        "epoch": 1576972800.0,
-        "expiration_date": "22-dec-2019",
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
         "state": "future"
     },
     "tvwlodawa.pl": {
@@ -12017,7 +12017,7 @@
     "waszwilanow.pl": {
         "epoch": 1576972800.0,
         "expiration_date": "22-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "wavepc.pl": {
         "epoch": 1610496000.0,
