@@ -3539,6 +3539,11 @@
         "expiration_date": "06-nov-2020",
         "state": "future"
     },
+    "gazetatwojeinfo.pl": {
+        "epoch": 1581638400.0,
+        "expiration_date": "14-feb-2020",
+        "state": "future"
+    },
     "gazetatychy.pl": {
         "epoch": 1580428800.0,
         "expiration_date": "31-jan-2020",
@@ -7750,8 +7755,8 @@
         "state": "future"
     },
     "olsztyn.com.pl": {
-        "epoch": 1577059200.0,
-        "expiration_date": "23-dec-2019",
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
         "state": "future"
     },
     "olsztyn24.com": {
@@ -7940,8 +7945,8 @@
         "state": "future"
     },
     "otozawiercie.pl": {
-        "epoch": 1577059200.0,
-        "expiration_date": "23-dec-2019",
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
         "state": "future"
     },
     "otube.pl": {
