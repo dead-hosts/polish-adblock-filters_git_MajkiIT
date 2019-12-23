@@ -1258,24 +1258,6 @@
         "1575737984": {
             "adsrv.eacdn.com": "INACTIVE"
         },
-        "1576986416": {
-            "businessclick.*": "INVALID"
-        },
-        "1576986417": {
-            "redir.atmcdn.pl*swf": "INVALID"
-        },
-        "1576986419": {
-            "auth.alleqro-pl.clownstage.ml": "INACTIVE",
-            "cdn.mediaessence.net": "INACTIVE",
-            "livemecz.*": "INVALID"
-        },
-        "1576986478": {
-            "gift.gifts-for-free.online": "INACTIVE"
-        },
-        "1576986479": {
-            "aster18cdn.nl": "INACTIVE",
-            "block734.oplatyi.pl": "INACTIVE"
-        },
         "1577099270": {
             "twojawierzbica.pl": "INACTIVE"
         },
@@ -1284,6 +1266,22 @@
         },
         "1577100829": {
             "www.booclick.pl": "INACTIVE"
+        },
+        "1577102421": {
+            "businessclick.*": "INVALID"
+        },
+        "1577102422": {
+            "redir.atmcdn.pl*swf": "INVALID"
+        },
+        "1577102425": {
+            "auth.alleqro-pl.clownstage.ml": "INACTIVE",
+            "cdn.mediaessence.net": "INACTIVE",
+            "livemecz.*": "INVALID"
+        },
+        "1577102485": {
+            "aster18cdn.nl": "INACTIVE",
+            "block734.oplatyi.pl": "INACTIVE",
+            "gift.gifts-for-free.online": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
