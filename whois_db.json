@@ -920,8 +920,8 @@
         "state": "future"
     },
     "biotechnologia.pl": {
-        "epoch": 1577404800.0,
-        "expiration_date": "27-dec-2019",
+        "epoch": 1584576000.0,
+        "expiration_date": "19-mar-2020",
         "state": "future"
     },
     "bitbay.net": {
@@ -2975,8 +2975,8 @@
         "state": "future"
     },
     "fakty.pl": {
-        "epoch": 1577318400.0,
-        "expiration_date": "26-dec-2019",
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
         "state": "future"
     },
     "faktyct.pl": {
@@ -4827,7 +4827,7 @@
     "isanok.pl": {
         "epoch": 1577404800.0,
         "expiration_date": "27-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "isel.edu.pl": {
         "epoch": 1602547200.0,
