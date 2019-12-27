@@ -8905,8 +8905,8 @@
         "state": "future"
     },
     "primeradivision.pl": {
-        "epoch": 1577404800.0,
-        "expiration_date": "27-dec-2019",
+        "epoch": 1640563200.0,
+        "expiration_date": "27-dec-2021",
         "state": "future"
     },
     "prisonwarsonline.com": {
@@ -10005,8 +10005,8 @@
         "state": "future"
     },
     "silesia24.pl": {
-        "epoch": 1577318400.0,
-        "expiration_date": "26-dec-2019",
+        "epoch": 1608940800.0,
+        "expiration_date": "26-dec-2020",
         "state": "future"
     },
     "sitebravefull.info": {
@@ -10250,8 +10250,8 @@
         "state": "future"
     },
     "spliff.pl": {
-        "epoch": 1577404800.0,
-        "expiration_date": "27-dec-2019",
+        "epoch": 1609027200.0,
+        "expiration_date": "27-dec-2020",
         "state": "future"
     },
     "spolecznosci.net": {
@@ -11115,8 +11115,8 @@
         "state": "future"
     },
     "transfery.info": {
-        "epoch": 1577404800.0,
-        "expiration_date": "27-dec-2019",
+        "epoch": 1609027200.0,
+        "expiration_date": "27-dec-2020",
         "state": "future"
     },
     "transinfo.pl": {
@@ -11765,9 +11765,9 @@
         "state": "future"
     },
     "uploaduj.net": {
-        "epoch": 1577232000.0,
-        "expiration_date": "25-dec-2019",
-        "state": "past"
+        "epoch": 1608854400.0,
+        "expiration_date": "25-dec-2020",
+        "state": "future"
     },
     "uptimemadeeasy.com": {
         "epoch": 1595376000.0,
