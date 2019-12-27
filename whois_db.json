@@ -4347,7 +4347,7 @@
     "hotcpm.pl": {
         "epoch": 1577404800.0,
         "expiration_date": "27-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "hotfix.pl": {
         "epoch": 1604016000.0,
@@ -11002,7 +11002,7 @@
     "thiksikr.com": {
         "epoch": 1577318400.0,
         "expiration_date": "26-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "thinkapple.pl": {
         "epoch": 1599696000.0,
