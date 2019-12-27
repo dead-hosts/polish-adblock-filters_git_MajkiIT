@@ -5980,8 +5980,8 @@
         "state": "future"
     },
     "live.com": {
-        "epoch": 1577404800.0,
-        "expiration_date": "27-dec-2019",
+        "epoch": 1609027200.0,
+        "expiration_date": "27-dec-2020",
         "state": "future"
     },
     "livemecz.pl": {
@@ -6677,7 +6677,7 @@
     "minecraft-list.pl": {
         "epoch": 1577404800.0,
         "expiration_date": "27-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "minecraft.org.pl": {
         "epoch": 1579651200.0,
