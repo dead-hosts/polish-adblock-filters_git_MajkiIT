@@ -3830,8 +3830,8 @@
         "state": "future"
     },
     "goral.info.pl": {
-        "epoch": 1577577600.0,
-        "expiration_date": "29-dec-2019",
+        "epoch": 1609200000.0,
+        "expiration_date": "29-dec-2020",
         "state": "future"
     },
     "goralpoleca.pl": {
@@ -4390,8 +4390,8 @@
         "state": "future"
     },
     "hyipforum.pl": {
-        "epoch": 1577491200.0,
-        "expiration_date": "28-dec-2019",
+        "epoch": 1609113600.0,
+        "expiration_date": "28-dec-2020",
         "state": "future"
     },
     "hyperreal.info": {
@@ -6625,8 +6625,8 @@
         "state": "future"
     },
     "miejscawewroclawiu.pl": {
-        "epoch": 1577491200.0,
-        "expiration_date": "28-dec-2019",
+        "epoch": 1609113600.0,
+        "expiration_date": "28-dec-2020",
         "state": "future"
     },
     "miejscowa.pl": {
@@ -6675,9 +6675,9 @@
         "state": "future"
     },
     "minecraft-list.pl": {
-        "epoch": 1577404800.0,
-        "expiration_date": "27-dec-2019",
-        "state": "past"
+        "epoch": 1640563200.0,
+        "expiration_date": "27-dec-2021",
+        "state": "future"
     },
     "minecraft.org.pl": {
         "epoch": 1579651200.0,
@@ -6882,7 +6882,7 @@
     "mojewronki.pl": {
         "epoch": 1577577600.0,
         "expiration_date": "29-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "mojgdow.pl": {
         "epoch": 1590364800.0,
@@ -7170,8 +7170,8 @@
         "state": "future"
     },
     "namasce.pl": {
-        "epoch": 1577577600.0,
-        "expiration_date": "29-dec-2019",
+        "epoch": 1609200000.0,
+        "expiration_date": "29-dec-2020",
         "state": "future"
     },
     "nanarty.info": {
