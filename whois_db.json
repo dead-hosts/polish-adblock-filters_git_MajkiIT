@@ -400,8 +400,8 @@
         "state": "future"
     },
     "altair.com.pl": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
         "state": "future"
     },
     "amazon-adsystem.com": {
@@ -1272,7 +1272,7 @@
     "cashowsky.pl": {
         "epoch": 1577750400.0,
         "expiration_date": "31-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "cba.pl": {
         "epoch": 1659139200.0,
@@ -1935,8 +1935,8 @@
         "state": "future"
     },
     "digest.com.pl": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
         "state": "future"
     },
     "digi-tv.pl": {
@@ -3525,8 +3525,8 @@
         "state": "future"
     },
     "gazetapowiatowa.pl": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
         "state": "future"
     },
     "gazetaprawna.pl": {
