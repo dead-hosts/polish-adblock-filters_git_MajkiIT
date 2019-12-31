@@ -8350,8 +8350,8 @@
         "state": "future"
     },
     "poczta-polska.pl": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
         "state": "future"
     },
     "podajdalej.info.pl": {
@@ -8640,8 +8640,8 @@
         "state": "future"
     },
     "popularne.pl": {
-        "epoch": 1577664000.0,
-        "expiration_date": "30-dec-2019",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "popularnie.pl": {
@@ -9525,8 +9525,8 @@
         "state": "future"
     },
     "regionfan.pl": {
-        "epoch": 1577664000.0,
-        "expiration_date": "30-dec-2019",
+        "epoch": 1609286400.0,
+        "expiration_date": "30-dec-2020",
         "state": "future"
     },
     "reklama-lowicz.pl": {
