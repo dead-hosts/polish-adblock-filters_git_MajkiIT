@@ -1289,6 +1289,11 @@
         "expiration_date": "10-feb-2020",
         "state": "future"
     },
+    "cdahd.ml": {
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
+        "state": "future"
+    },
     "cdahd.pl": {
         "epoch": 1579219200.0,
         "expiration_date": "17-jan-2020",
@@ -3805,8 +3810,8 @@
         "state": "future"
     },
     "goo.gl": {
-        "epoch": 1577836800.0,
-        "expiration_date": "01-jan-2020",
+        "epoch": 1609459200.0,
+        "expiration_date": "01-jan-2021",
         "state": "future"
     },
     "google.com": {
@@ -6555,8 +6560,8 @@
         "state": "future"
     },
     "miastko24.pl": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
         "state": "future"
     },
     "miasto-gazeta.pl": {
