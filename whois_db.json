@@ -3802,7 +3802,7 @@
     "gomoney.pl": {
         "epoch": 1578096000.0,
         "expiration_date": "04-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "goniec.net": {
         "epoch": 1601337600.0,
@@ -4155,8 +4155,8 @@
         "state": "future"
     },
     "halamadrid.pl": {
-        "epoch": 1578009600.0,
-        "expiration_date": "03-jan-2020",
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
         "state": "future"
     },
     "halogorlice.info": {
@@ -7360,8 +7360,8 @@
         "state": "future"
     },
     "netinfo24.pl": {
-        "epoch": 1578096000.0,
-        "expiration_date": "04-jan-2020",
+        "epoch": 1609718400.0,
+        "expiration_date": "04-jan-2021",
         "state": "future"
     },
     "nettg.pl": {
@@ -8820,8 +8820,8 @@
         "state": "future"
     },
     "pozyteczna.pl": {
-        "epoch": 1578009600.0,
-        "expiration_date": "03-jan-2020",
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
         "state": "future"
     },
     "pozytywniej.pl": {
