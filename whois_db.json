@@ -255,8 +255,8 @@
         "state": "future"
     },
     "advertising.com": {
-        "epoch": 1578096000.0,
-        "expiration_date": "04-jan-2020",
+        "epoch": 1641254400.0,
+        "expiration_date": "04-jan-2022",
         "state": "future"
     },
     "adwokat-gostkowski.pl": {
@@ -8375,8 +8375,8 @@
         "state": "future"
     },
     "podgorze.pl": {
-        "epoch": 1578096000.0,
-        "expiration_date": "04-jan-2020",
+        "epoch": 1609718400.0,
+        "expiration_date": "04-jan-2021",
         "state": "future"
     },
     "podhale-sport.pl": {
@@ -10355,8 +10355,8 @@
         "state": "future"
     },
     "stacja-tluszcz.pl": {
-        "epoch": 1578009600.0,
-        "expiration_date": "03-jan-2020",
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
         "state": "future"
     },
     "stacja7.pl": {
@@ -12450,8 +12450,8 @@
         "state": "future"
     },
     "worldsport.me": {
-        "epoch": 1578096000.0,
-        "expiration_date": "04-jan-2020",
+        "epoch": 1609718400.0,
+        "expiration_date": "04-jan-2021",
         "state": "future"
     },
     "wp.com": {

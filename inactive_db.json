@@ -1258,27 +1258,6 @@
         "1575737984": {
             "adsrv.eacdn.com": "INACTIVE"
         },
-        "1577918778": {
-            "businessclick.*": "INVALID"
-        },
-        "1577918779": {
-            "redir.atmcdn.pl*swf": "INVALID"
-        },
-        "1577918781": {
-            "auth.alleqro-pl.clownstage.ml": "INACTIVE",
-            "cdn.mediaessence.net": "INACTIVE",
-            "livemecz.*": "INVALID"
-        },
-        "1577918786": {
-            "vidoza*.github.io": "INACTIVE"
-        },
-        "1577918833": {
-            "aster18cdn.nl": "INACTIVE",
-            "block734.oplatyi.pl": "INACTIVE"
-        },
-        "1577918834": {
-            "gift.gifts-for-free.online": "INACTIVE"
-        },
         "1578108235": {
             "cashowsky.pl": "INACTIVE"
         },
@@ -1290,6 +1269,25 @@
         },
         "1578109681": {
             "www.booclick.pl": "INACTIVE"
+        },
+        "1578110074": {
+            "businessclick.*": "INVALID"
+        },
+        "1578110075": {
+            "redir.atmcdn.pl*swf": "INVALID"
+        },
+        "1578110077": {
+            "auth.alleqro-pl.clownstage.ml": "INACTIVE",
+            "cdn.mediaessence.net": "INACTIVE",
+            "livemecz.*": "INVALID"
+        },
+        "1578110082": {
+            "vidoza*.github.io": "INACTIVE"
+        },
+        "1578110129": {
+            "aster18cdn.nl": "INACTIVE",
+            "block734.oplatyi.pl": "INACTIVE",
+            "gift.gifts-for-free.online": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
