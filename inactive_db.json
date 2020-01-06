@@ -1258,12 +1258,6 @@
         "1575737984": {
             "adsrv.eacdn.com": "INACTIVE"
         },
-        "1578109668": {
-            "sitemag.pl": "INACTIVE"
-        },
-        "1578109681": {
-            "www.booclick.pl": "INACTIVE"
-        },
         "1578110074": {
             "businessclick.*": "INVALID"
         },
@@ -1291,6 +1285,12 @@
         },
         "1578281802": {
             "twojawierzbica.pl": "INACTIVE"
+        },
+        "1578282510": {
+            "sitemag.pl": "INACTIVE"
+        },
+        "1578282523": {
+            "www.booclick.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
