@@ -1258,15 +1258,6 @@
         "1575737984": {
             "adsrv.eacdn.com": "INACTIVE"
         },
-        "1578454680": {
-            "gomoney.pl": "INACTIVE"
-        },
-        "1578454693": {
-            "mediacv.pl": "INACTIVE"
-        },
-        "1578454696": {
-            "twojawierzbica.pl": "INACTIVE"
-        },
         "1578455397": {
             "sitemag.pl": "INACTIVE"
         },
@@ -1299,6 +1290,12 @@
         },
         "1578626820": {
             "cashowsky.pl": "INACTIVE"
+        },
+        "1578627521": {
+            "gomoney.pl": "INACTIVE"
+        },
+        "1578627539": {
+            "twojawierzbica.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {

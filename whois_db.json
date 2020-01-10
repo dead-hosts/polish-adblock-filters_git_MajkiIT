@@ -1905,8 +1905,8 @@
         "state": "future"
     },
     "devilpage.pl": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
+        "epoch": 1641686400.0,
+        "expiration_date": "09-jan-2022",
         "state": "future"
     },
     "dexessee.com": {
@@ -4580,8 +4580,8 @@
         "state": "future"
     },
     "infobus.pl": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
         "state": "future"
     },
     "infobusko.pl": {
@@ -5295,8 +5295,8 @@
         "state": "future"
     },
     "kkslech.com": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
         "state": "future"
     },
     "klassikauto.pl": {
@@ -5560,8 +5560,8 @@
         "state": "future"
     },
     "krosno112.pl": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
         "state": "future"
     },
     "krosno24.pl": {
@@ -5980,8 +5980,8 @@
         "state": "future"
     },
     "litosci.pl": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
+        "epoch": 1581206400.0,
+        "expiration_date": "09-feb-2020",
         "state": "future"
     },
     "live.com": {
@@ -6102,7 +6102,7 @@
     "lsw24.pl": {
         "epoch": 1578614400.0,
         "expiration_date": "10-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "lubaczow.tv": {
         "epoch": 1600992000.0,
