@@ -1632,7 +1632,7 @@
     "crypto-trader.pl": {
         "epoch": 1578873600.0,
         "expiration_date": "13-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "cryptonews.pl": {
         "epoch": 1593907200.0,
@@ -3222,6 +3222,11 @@
     "forex-nawigator.biz": {
         "epoch": 1670803200.0,
         "expiration_date": "12-dec-2022",
+        "state": "future"
+    },
+    "forguides.pl": {
+        "epoch": 1605398400.0,
+        "expiration_date": "15-nov-2020",
         "state": "future"
     },
     "forsal.pl": {
@@ -8289,6 +8294,11 @@
         "expiration_date": "24-jul-2020",
         "state": "future"
     },
+    "pl-pulsbiz.net": {
+        "epoch": 1590278400.0,
+        "expiration_date": "24-may-2020",
+        "state": "future"
+    },
     "pl-ticket.today": {
         "epoch": "1559952000",
         "expiration_date": "08-jun-2019",
@@ -8347,6 +8357,11 @@
     "plonszczak.pl": {
         "epoch": 1603324800.0,
         "expiration_date": "22-oct-2020",
+        "state": "future"
+    },
+    "ploskonax.com": {
+        "epoch": 1609718400.0,
+        "expiration_date": "04-jan-2021",
         "state": "future"
     },
     "plotek.pl": {
@@ -9192,6 +9207,11 @@
     "pukawka.pl": {
         "epoch": 1582416000.0,
         "expiration_date": "23-feb-2020",
+        "state": "future"
+    },
+    "puls-biznesu.info": {
+        "epoch": 1590883200.0,
+        "expiration_date": "31-may-2020",
         "state": "future"
     },
     "pulsciechanowa.pl": {
