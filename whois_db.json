@@ -9685,8 +9685,8 @@
         "state": "future"
     },
     "roosevelta81.pl": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
         "state": "future"
     },
     "roztocze.net": {
@@ -12074,6 +12074,11 @@
         "expiration_date": "19-mar-2024",
         "state": "future"
     },
+    "waszaturystyka.pl": {
+        "epoch": 1598054400.0,
+        "expiration_date": "22-aug-2020",
+        "state": "future"
+    },
     "waszdzienpodniu.pl": {
         "epoch": 1595635200.0,
         "expiration_date": "25-jul-2020",
@@ -12622,7 +12627,7 @@
     "wxv.pl": {
         "epoch": 1578873600.0,
         "expiration_date": "13-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "wyborcza.biz": {
         "epoch": 1584576000.0,
