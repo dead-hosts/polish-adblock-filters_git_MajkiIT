@@ -7744,6 +7744,11 @@
         "expiration_date": "05-jan-2021",
         "state": "future"
     },
+    "okazjepodroznika.pl": {
+        "epoch": 1582243200.0,
+        "expiration_date": "21-feb-2020",
+        "state": "future"
+    },
     "okiemrolnika.pl": {
         "epoch": 1578960000.0,
         "expiration_date": "14-jan-2020",
@@ -8697,6 +8702,11 @@
     "portal-firma.pl": {
         "epoch": "1542412800",
         "expiration_date": "17-nov-2018",
+        "state": "future"
+    },
+    "portal.dlugoleka.pl": {
+        "epoch": 1602547200.0,
+        "expiration_date": "13-oct-2020",
         "state": "future"
     },
     "portal.pl": {
