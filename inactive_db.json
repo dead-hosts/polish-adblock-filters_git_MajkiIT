@@ -1258,9 +1258,6 @@
         "1575737984": {
             "adsrv.eacdn.com": "INACTIVE"
         },
-        "1578918258": {
-            "aster18cdn.nl": "INACTIVE"
-        },
         "1579004115": {
             "cashowsky.pl": "INACTIVE"
         },
@@ -1297,6 +1294,9 @@
         "1579010003": {
             "block734.oplatyi.pl": "INACTIVE",
             "gift.gifts-for-free.online": "INACTIVE"
+        },
+        "1579011500": {
+            "aster18cdn.nl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
