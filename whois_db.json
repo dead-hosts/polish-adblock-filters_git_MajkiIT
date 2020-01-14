@@ -8535,8 +8535,8 @@
         "state": "future"
     },
     "polskatradycja.pl": {
-        "epoch": 1578960000.0,
-        "expiration_date": "14-jan-2020",
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
         "state": "future"
     },
     "polski-tenis.pl": {
@@ -8910,8 +8910,8 @@
         "state": "future"
     },
     "prawo.pl": {
-        "epoch": 1578960000.0,
-        "expiration_date": "14-jan-2020",
+        "epoch": 1582070400.0,
+        "expiration_date": "19-feb-2020",
         "state": "future"
     },
     "prawodrogowe.pl": {
@@ -9605,8 +9605,8 @@
         "state": "future"
     },
     "reporterzy.info": {
-        "epoch": 1578960000.0,
-        "expiration_date": "14-jan-2020",
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
         "state": "future"
     },
     "repostuj.pl": {
@@ -10595,8 +10595,8 @@
         "state": "future"
     },
     "super-torent.pl": {
-        "epoch": 1578960000.0,
-        "expiration_date": "14-jan-2020",
+        "epoch": 1581552000.0,
+        "expiration_date": "13-feb-2020",
         "state": "future"
     },
     "superchodziez.pl": {
@@ -12645,9 +12645,9 @@
         "state": "future"
     },
     "wxv.pl": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
-        "state": "past"
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
+        "state": "future"
     },
     "wyborcza.biz": {
         "epoch": 1584576000.0,
