@@ -1630,9 +1630,9 @@
         "state": "future"
     },
     "crypto-trader.pl": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
-        "state": "past"
+        "epoch": 1581465600.0,
+        "expiration_date": "12-feb-2020",
+        "state": "future"
     },
     "cryptonews.pl": {
         "epoch": 1593907200.0,
@@ -1805,8 +1805,8 @@
         "state": "future"
     },
     "darmowa-telewizja.online": {
-        "epoch": 1578268800.0,
-        "expiration_date": "06-jan-2020",
+        "epoch": 1609891200.0,
+        "expiration_date": "06-jan-2021",
         "state": "future"
     },
     "darmowe.tv": {
@@ -5260,8 +5260,8 @@
         "state": "future"
     },
     "kierunek.szczecin.pl": {
-        "epoch": 1578960000.0,
-        "expiration_date": "14-jan-2020",
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
         "state": "future"
     },
     "kierunekchorwacja.pl": {
@@ -12700,8 +12700,8 @@
         "state": "future"
     },
     "xiegarnia.pl": {
-        "epoch": 1578960000.0,
-        "expiration_date": "14-jan-2020",
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
         "state": "future"
     },
     "xlkredyt.pl": {
