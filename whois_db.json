@@ -2977,7 +2977,7 @@
     "fakty.bialystok.pl": {
         "epoch": 1578960000.0,
         "expiration_date": "14-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "fakty.elblag.pl": {
         "epoch": 1606176000.0,
@@ -4425,8 +4425,8 @@
         "state": "future"
     },
     "ibialoleka.pl": {
-        "epoch": 1578960000.0,
-        "expiration_date": "14-jan-2020",
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
         "state": "future"
     },
     "ibielsk.pl": {
@@ -4535,8 +4535,8 @@
         "state": "future"
     },
     "imokotow.pl": {
-        "epoch": 1578960000.0,
-        "expiration_date": "14-jan-2020",
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
         "state": "future"
     },
     "imperiumobuwia.pl": {
@@ -4790,8 +4790,8 @@
         "state": "future"
     },
     "iochota.pl": {
-        "epoch": 1578960000.0,
-        "expiration_date": "14-jan-2020",
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
         "state": "future"
     },
     "iostrowwlkp.pl": {
@@ -4825,8 +4825,8 @@
         "state": "future"
     },
     "ipragapoludnie.pl": {
-        "epoch": 1578960000.0,
-        "expiration_date": "14-jan-2020",
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
         "state": "future"
     },
     "irenakuczynska.pl": {
@@ -4950,8 +4950,8 @@
         "state": "future"
     },
     "izoliborz.pl": {
-        "epoch": 1578960000.0,
-        "expiration_date": "14-jan-2020",
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
         "state": "future"
     },
     "izyrardow.pl": {
