@@ -2975,9 +2975,9 @@
         "state": "future"
     },
     "fakty.bialystok.pl": {
-        "epoch": 1578960000.0,
-        "expiration_date": "14-jan-2020",
-        "state": "past"
+        "epoch": 1581552000.0,
+        "expiration_date": "13-feb-2020",
+        "state": "future"
     },
     "fakty.elblag.pl": {
         "epoch": 1606176000.0,
