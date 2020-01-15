@@ -2110,8 +2110,8 @@
         "state": "future"
     },
     "dostawcy-internetu.pl": {
-        "epoch": 1579046400.0,
-        "expiration_date": "15-jan-2020",
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
         "state": "future"
     },
     "dostawczakiem.pl": {
@@ -10817,7 +10817,7 @@
     "taksiegra.pl": {
         "epoch": 1579046400.0,
         "expiration_date": "15-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "taniaksiazka.pl": {
         "epoch": 1646611200.0,
@@ -11455,8 +11455,8 @@
         "state": "future"
     },
     "tvnfakty.pl": {
-        "epoch": 1579046400.0,
-        "expiration_date": "15-jan-2020",
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
         "state": "future"
     },
     "tvnights.pl": {
@@ -12180,8 +12180,8 @@
         "state": "future"
     },
     "webkod.pl": {
-        "epoch": 1579046400.0,
-        "expiration_date": "15-jan-2020",
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
         "state": "future"
     },
     "webmasteruj.pl": {
