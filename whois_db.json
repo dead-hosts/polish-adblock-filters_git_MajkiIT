@@ -1199,6 +1199,11 @@
         "expiration_date": "23-dec-2020",
         "state": "future"
     },
+    "businesspuls.online": {
+        "epoch": 1591315200.0,
+        "expiration_date": "05-jun-2020",
+        "state": "future"
+    },
     "businesstraveller.pl": {
         "epoch": 1596499200.0,
         "expiration_date": "04-aug-2020",
@@ -3080,8 +3085,8 @@
         "state": "future"
     },
     "filmoteka.tv": {
-        "epoch": 1579046400.0,
-        "expiration_date": "15-jan-2020",
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
         "state": "future"
     },
     "filmozercy.com": {
@@ -6310,8 +6315,8 @@
         "state": "future"
     },
     "mambiznes.pl": {
-        "epoch": 1579046400.0,
-        "expiration_date": "15-jan-2020",
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
         "state": "future"
     },
     "mamkomputer.info": {
@@ -10715,8 +10720,8 @@
         "state": "future"
     },
     "swoszowice.org.pl": {
-        "epoch": 1579046400.0,
-        "expiration_date": "15-jan-2020",
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
         "state": "future"
     },
     "systemyplatnosci.com": {
