@@ -3305,9 +3305,9 @@
         "state": "future"
     },
     "fotoszok.pl": {
-        "epoch": 1579219200.0,
-        "expiration_date": "17-jan-2020",
-        "state": "past"
+        "epoch": 1580428800.0,
+        "expiration_date": "31-jan-2020",
+        "state": "future"
     },
     "fpiec.pl": {
         "epoch": 1585526400.0,
