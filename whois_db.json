@@ -3787,7 +3787,7 @@
     "goal.pl": {
         "epoch": 1579219200.0,
         "expiration_date": "17-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "godealla.pl": {
         "epoch": 1599091200.0,
@@ -5280,9 +5280,9 @@
         "state": "future"
     },
     "kino123.pl": {
-        "epoch": 1579046400.0,
-        "expiration_date": "15-jan-2020",
-        "state": "past"
+        "epoch": 1581638400.0,
+        "expiration_date": "14-feb-2020",
+        "state": "future"
     },
     "kino24-tv.pl": {
         "epoch": 1574553600,
@@ -6342,6 +6342,11 @@
     "manjaro.pl": {
         "epoch": 1581033600.0,
         "expiration_date": "07-feb-2020",
+        "state": "future"
+    },
+    "mapabts.pl": {
+        "epoch": 1591833600.0,
+        "expiration_date": "11-jun-2020",
         "state": "future"
     },
     "marihuana.info.pl": {
@@ -7650,8 +7655,8 @@
         "state": "future"
     },
     "o.pl": {
-        "epoch": 1579219200.0,
-        "expiration_date": "17-jan-2020",
+        "epoch": 1591488000.0,
+        "expiration_date": "07-jun-2020",
         "state": "future"
     },
     "o2.pl": {
