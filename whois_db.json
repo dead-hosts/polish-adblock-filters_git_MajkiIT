@@ -1305,8 +1305,8 @@
         "state": "future"
     },
     "cdahd.pl": {
-        "epoch": 1579219200.0,
-        "expiration_date": "17-jan-2020",
+        "epoch": 1581811200.0,
+        "expiration_date": "16-feb-2020",
         "state": "future"
     },
     "cdn.gallery": {
@@ -1420,8 +1420,8 @@
         "state": "future"
     },
     "chojna24.pl": {
-        "epoch": 1579132800.0,
-        "expiration_date": "16-jan-2020",
+        "epoch": 1673827200.0,
+        "expiration_date": "16-jan-2023",
         "state": "future"
     },
     "chojnice.com": {
@@ -3307,7 +3307,7 @@
     "fotoszok.pl": {
         "epoch": 1579219200.0,
         "expiration_date": "17-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "fpiec.pl": {
         "epoch": 1585526400.0,
@@ -3440,8 +3440,8 @@
         "state": "future"
     },
     "gamestough.com": {
-        "epoch": 1579132800.0,
-        "expiration_date": "16-jan-2020",
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
         "state": "future"
     },
     "gamezilla.pl": {
@@ -9220,8 +9220,8 @@
         "state": "future"
     },
     "pulsciechanowa.pl": {
-        "epoch": 1579219200.0,
-        "expiration_date": "17-jan-2020",
+        "epoch": 1581811200.0,
+        "expiration_date": "16-feb-2020",
         "state": "future"
     },
     "pulse-biznesowe.xyz": {
