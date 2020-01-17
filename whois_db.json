@@ -2135,8 +2135,8 @@
         "state": "future"
     },
     "doubleclick.net": {
-        "epoch": 1579219200.0,
-        "expiration_date": "17-jan-2020",
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
         "state": "future"
     },
     "dowcip.net": {
@@ -7400,8 +7400,8 @@
         "state": "future"
     },
     "newsinsider.me": {
-        "epoch": 1579219200.0,
-        "expiration_date": "17-jan-2020",
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
         "state": "future"
     },
     "newsweek.pl": {
@@ -9732,7 +9732,7 @@
     "rtbnowads.com": {
         "epoch": 1579132800.0,
         "expiration_date": "16-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "rtvagdpro.net": {
         "epoch": "1567728000",
@@ -13027,7 +13027,7 @@
     "zpazurem.pl": {
         "epoch": 1579219200.0,
         "expiration_date": "17-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "zpleszewa.pl": {
         "epoch": 1594512000.0,
