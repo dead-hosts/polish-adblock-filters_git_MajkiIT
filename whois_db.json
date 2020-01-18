@@ -472,7 +472,7 @@
     "anime24.pl": {
         "epoch": 1579305600.0,
         "expiration_date": "18-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "animeholik.pl": {
         "epoch": 1610928000.0,
@@ -9730,9 +9730,9 @@
         "state": "future"
     },
     "rtbnowads.com": {
-        "epoch": 1579132800.0,
-        "expiration_date": "16-jan-2020",
-        "state": "past"
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
+        "state": "future"
     },
     "rtvagdpro.net": {
         "epoch": "1567728000",
@@ -12555,8 +12555,8 @@
         "state": "future"
     },
     "wrealu24.pl": {
-        "epoch": 1579305600.0,
-        "expiration_date": "18-jan-2020",
+        "epoch": 1580169600.0,
+        "expiration_date": "28-jan-2020",
         "state": "future"
     },
     "wrestleone.pl": {
@@ -13025,9 +13025,9 @@
         "state": "future"
     },
     "zpazurem.pl": {
-        "epoch": 1579219200.0,
-        "expiration_date": "17-jan-2020",
-        "state": "past"
+        "epoch": 1581811200.0,
+        "expiration_date": "16-feb-2020",
+        "state": "future"
     },
     "zpleszewa.pl": {
         "epoch": 1594512000.0,
