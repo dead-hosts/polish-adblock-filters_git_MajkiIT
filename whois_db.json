@@ -470,9 +470,9 @@
         "state": "future"
     },
     "anime24.pl": {
-        "epoch": 1579305600.0,
-        "expiration_date": "18-jan-2020",
-        "state": "past"
+        "epoch": 1581897600.0,
+        "expiration_date": "17-feb-2020",
+        "state": "future"
     },
     "animeholik.pl": {
         "epoch": 1610928000.0,
@@ -10320,8 +10320,8 @@
         "state": "future"
     },
     "sport.pl": {
-        "epoch": 1579392000.0,
-        "expiration_date": "19-jan-2020",
+        "epoch": 1611100800.0,
+        "expiration_date": "20-jan-2021",
         "state": "future"
     },
     "sportdziennik.pl": {
@@ -12530,8 +12530,8 @@
         "state": "future"
     },
     "wpolityce24.pl": {
-        "epoch": 1579392000.0,
-        "expiration_date": "19-jan-2020",
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
         "state": "future"
     },
     "wpr24.pl": {
