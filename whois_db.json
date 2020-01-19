@@ -3600,8 +3600,8 @@
         "state": "future"
     },
     "gb.pl": {
-        "epoch": 1579392000.0,
-        "expiration_date": "19-jan-2020",
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
         "state": "future"
     },
     "gdanszczak.pl": {
@@ -9250,8 +9250,8 @@
         "state": "future"
     },
     "purepc.pl": {
-        "epoch": 1579392000.0,
-        "expiration_date": "19-jan-2020",
+        "epoch": 1648684800.0,
+        "expiration_date": "31-mar-2022",
         "state": "future"
     },
     "pykownia.pl": {
@@ -10640,8 +10640,8 @@
         "state": "future"
     },
     "suwalki.info": {
-        "epoch": 1579392000.0,
-        "expiration_date": "19-jan-2020",
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
         "state": "future"
     },
     "suwalki24.pl": {
