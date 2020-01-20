@@ -1258,14 +1258,6 @@
         "1575737984": {
             "adsrv.eacdn.com": "INACTIVE"
         },
-        "1579397342": {
-            "vidoza*.github.io": "INACTIVE"
-        },
-        "1579397393": {
-            "aster18cdn.nl": "INACTIVE",
-            "block734.oplatyi.pl": "INACTIVE",
-            "gift.gifts-for-free.online": "INACTIVE"
-        },
         "1579491137": {
             "cashowsky.pl": "INACTIVE"
         },
@@ -1298,6 +1290,16 @@
         "1579493245": {
             "auth.alleqro-pl.clownstage.ml": "INACTIVE",
             "dhl-paczka.eu": "INACTIVE"
+        },
+        "1579493371": {
+            "vidoza*.github.io": "INACTIVE"
+        },
+        "1579493421": {
+            "block734.oplatyi.pl": "INACTIVE",
+            "gift.gifts-for-free.online": "INACTIVE"
+        },
+        "1579493422": {
+            "aster18cdn.nl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
