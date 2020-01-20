@@ -1258,29 +1258,6 @@
         "1575737984": {
             "adsrv.eacdn.com": "INACTIVE"
         },
-        "1579397330": {
-            "www.booclick.pl": "INACTIVE"
-        },
-        "1579397331": {
-            "www.naotwocku.pl": "INACTIVE"
-        },
-        "1579397333": {
-            "businessclick.*": "INVALID"
-        },
-        "1579397334": {
-            "media2.cinema-city.pl": "INACTIVE"
-        },
-        "1579397335": {
-            "redir.atmcdn.pl*swf": "INVALID"
-        },
-        "1579397337": {
-            "auth.alleqro-pl.clownstage.ml": "INACTIVE",
-            "cdn.mediaessence.net": "INACTIVE",
-            "dhl-paczka.eu": "INACTIVE",
-            "hotcpm.pl": "INACTIVE",
-            "livemecz.*": "INVALID",
-            "polska-telewizja-online.ayz.pl": "INACTIVE"
-        },
         "1579397342": {
             "vidoza*.github.io": "INACTIVE"
         },
@@ -1300,6 +1277,27 @@
         },
         "1579492544": {
             "sitemag.pl": "INACTIVE"
+        },
+        "1579493238": {
+            "www.booclick.pl": "INACTIVE",
+            "www.naotwocku.pl": "INACTIVE"
+        },
+        "1579493241": {
+            "businessclick.*": "INVALID"
+        },
+        "1579493242": {
+            "media2.cinema-city.pl": "INACTIVE",
+            "redir.atmcdn.pl*swf": "INVALID"
+        },
+        "1579493244": {
+            "cdn.mediaessence.net": "INACTIVE",
+            "hotcpm.pl": "INACTIVE",
+            "livemecz.*": "INVALID",
+            "polska-telewizja-online.ayz.pl": "INACTIVE"
+        },
+        "1579493245": {
+            "auth.alleqro-pl.clownstage.ml": "INACTIVE",
+            "dhl-paczka.eu": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
