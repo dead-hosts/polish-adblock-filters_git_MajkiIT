@@ -5300,8 +5300,8 @@
         "state": "future"
     },
     "kinonet.pl": {
-        "epoch": 1579824000.0,
-        "expiration_date": "24-jan-2020",
+        "epoch": 1611446400.0,
+        "expiration_date": "24-jan-2021",
         "state": "future"
     },
     "kitchencollectivecool.info": {
@@ -5382,7 +5382,7 @@
     "kodiwpigulce.pl": {
         "epoch": 1579824000.0,
         "expiration_date": "24-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "kokosik1207.pl": {
         "epoch": 1573689600,
