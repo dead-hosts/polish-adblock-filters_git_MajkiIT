@@ -2200,8 +2200,8 @@
         "state": "future"
     },
     "dziennik.walbrzych.pl": {
-        "epoch": 1579824000.0,
-        "expiration_date": "24-jan-2020",
+        "epoch": 1611446400.0,
+        "expiration_date": "24-jan-2021",
         "state": "future"
     },
     "dzienniknarodowy.pl": {
@@ -3182,6 +3182,11 @@
     "follofop.com": {
         "epoch": "1579046400",
         "expiration_date": "15-jan-2020",
+        "state": "future"
+    },
+    "food-forum.pl": {
+        "epoch": 1594944000.0,
+        "expiration_date": "17-jul-2020",
         "state": "future"
     },
     "foodpanda.pl": {
@@ -4847,6 +4852,11 @@
     "isanok.pl": {
         "epoch": 1609027200.0,
         "expiration_date": "27-dec-2020",
+        "state": "future"
+    },
+    "isbzdrowie.pl": {
+        "epoch": 1598313600.0,
+        "expiration_date": "25-aug-2020",
         "state": "future"
     },
     "isel.edu.pl": {
@@ -12810,8 +12820,8 @@
         "state": "future"
     },
     "zambrow.org": {
-        "epoch": 1579824000.0,
-        "expiration_date": "24-jan-2020",
+        "epoch": 1611446400.0,
+        "expiration_date": "24-jan-2021",
         "state": "future"
     },
     "zambrowiacy.pl": {
@@ -12890,8 +12900,8 @@
         "state": "future"
     },
     "zd24.pl": {
-        "epoch": 1579824000.0,
-        "expiration_date": "24-jan-2020",
+        "epoch": 1611446400.0,
+        "expiration_date": "24-jan-2021",
         "state": "future"
     },
     "zdrowiewkrakowie.pl": {
