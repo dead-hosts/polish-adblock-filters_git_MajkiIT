@@ -1295,17 +1295,17 @@
         "1579493422": {
             "aster18cdn.nl": "INACTIVE"
         },
-        "1579868856": {
-            "cashowsky.pl": "INACTIVE"
-        },
-        "1579868871": {
-            "gomoney.pl": "INACTIVE"
-        },
         "1579886698": {
             "forum.kodiwpigulce.pl": "INACTIVE"
         },
         "1579937231": {
             "forum.vwgolf.pl": "INACTIVE"
+        },
+        "1579957765": {
+            "cashowsky.pl": "INACTIVE"
+        },
+        "1579957779": {
+            "gomoney.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
