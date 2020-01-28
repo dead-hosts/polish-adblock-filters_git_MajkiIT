@@ -3559,6 +3559,11 @@
         "expiration_date": "13-jul-2020",
         "state": "future"
     },
+    "gazetaregionalna.pl": {
+        "epoch": 1593907200.0,
+        "expiration_date": "05-jul-2020",
+        "state": "future"
+    },
     "gazetasenior.pl": {
         "epoch": 1604620800.0,
         "expiration_date": "06-nov-2020",
