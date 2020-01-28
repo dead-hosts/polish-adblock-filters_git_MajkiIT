@@ -1792,7 +1792,7 @@
     "dajnewsa.pl": {
         "epoch": 1580169600.0,
         "expiration_date": "28-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "damdaj.pl": {
         "epoch": "1551916800",
@@ -3382,7 +3382,7 @@
     "futbol.pl": {
         "epoch": 1580169600.0,
         "expiration_date": "28-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "futbolfejs.pl": {
         "epoch": 1593993600.0,
@@ -10597,7 +10597,7 @@
     "styl.pl": {
         "epoch": 1580169600.0,
         "expiration_date": "28-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "sucha24.pl": {
         "epoch": 1596585600.0,
@@ -10832,7 +10832,7 @@
     "tablety.pl": {
         "epoch": 1580169600.0,
         "expiration_date": "28-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "taksiegra.pl": {
         "epoch": 1610668800.0,
@@ -12377,7 +12377,7 @@
     "wio.waw.pl": {
         "epoch": 1580169600.0,
         "expiration_date": "28-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "wiocha.pl": {
         "epoch": 1596931200.0,
