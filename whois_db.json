@@ -3380,9 +3380,9 @@
         "state": "future"
     },
     "futbol.pl": {
-        "epoch": 1580169600.0,
-        "expiration_date": "28-jan-2020",
-        "state": "past"
+        "epoch": 1586908800.0,
+        "expiration_date": "15-apr-2020",
+        "state": "future"
     },
     "futbolfejs.pl": {
         "epoch": 1593993600.0,
@@ -10595,9 +10595,9 @@
         "state": "future"
     },
     "styl.pl": {
-        "epoch": 1580169600.0,
-        "expiration_date": "28-jan-2020",
-        "state": "past"
+        "epoch": 1581984000.0,
+        "expiration_date": "18-feb-2020",
+        "state": "future"
     },
     "sucha24.pl": {
         "epoch": 1596585600.0,
@@ -10830,9 +10830,9 @@
         "state": "future"
     },
     "tablety.pl": {
-        "epoch": 1580169600.0,
-        "expiration_date": "28-jan-2020",
-        "state": "past"
+        "epoch": 1585008000.0,
+        "expiration_date": "24-mar-2020",
+        "state": "future"
     },
     "taksiegra.pl": {
         "epoch": 1610668800.0,
@@ -12375,9 +12375,9 @@
         "state": "future"
     },
     "wio.waw.pl": {
-        "epoch": 1580169600.0,
-        "expiration_date": "28-jan-2020",
-        "state": "past"
+        "epoch": 1611792000.0,
+        "expiration_date": "28-jan-2021",
+        "state": "future"
     },
     "wiocha.pl": {
         "epoch": 1596931200.0,
