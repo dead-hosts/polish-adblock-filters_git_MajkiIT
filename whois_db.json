@@ -695,8 +695,8 @@
         "state": "future"
     },
     "b1.pl": {
-        "epoch": 1580342400.0,
-        "expiration_date": "30-jan-2020",
+        "epoch": 1592524800.0,
+        "expiration_date": "19-jun-2020",
         "state": "future"
     },
     "b2-biznes.pl": {
@@ -3192,7 +3192,7 @@
     "foodpanda.pl": {
         "epoch": 1580342400.0,
         "expiration_date": "30-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "footbar.info": {
         "epoch": 1611187200.0,
@@ -13000,8 +13000,8 @@
         "state": "future"
     },
     "zlotowskie.pl": {
-        "epoch": 1580342400.0,
-        "expiration_date": "30-jan-2020",
+        "epoch": 1611964800.0,
+        "expiration_date": "30-jan-2021",
         "state": "future"
     },
     "zloty-pociag.com": {
