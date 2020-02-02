@@ -882,7 +882,7 @@
     "bielski24.pl": {
         "epoch": 1580601600.0,
         "expiration_date": "02-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "bielskiedrogi.pl": {
         "epoch": 1607990400.0,
@@ -4715,8 +4715,8 @@
         "state": "future"
     },
     "infostrow.pl": {
-        "epoch": 1580601600.0,
-        "expiration_date": "02-feb-2020",
+        "epoch": 1583193600.0,
+        "expiration_date": "03-mar-2020",
         "state": "future"
     },
     "infotram.pl": {
