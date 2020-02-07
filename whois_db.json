@@ -6945,9 +6945,9 @@
         "state": "future"
     },
     "mojmac.pl": {
-        "epoch": 1581033600.0,
-        "expiration_date": "07-feb-2020",
-        "state": "past"
+        "epoch": 1675728000.0,
+        "expiration_date": "07-feb-2023",
+        "state": "future"
     },
     "mojprzewodnik.pl": {
         "epoch": 1596067200.0,
