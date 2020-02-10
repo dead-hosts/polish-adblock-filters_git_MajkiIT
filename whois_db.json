@@ -1295,8 +1295,8 @@
         "state": "future"
     },
     "cdaction.pl": {
-        "epoch": 1581292800.0,
-        "expiration_date": "10-feb-2020",
+        "epoch": 1612915200.0,
+        "expiration_date": "10-feb-2021",
         "state": "future"
     },
     "cdahd.ml": {
@@ -1592,7 +1592,7 @@
     "cooltura24.co.uk": {
         "epoch": 1581292800.0,
         "expiration_date": "10-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "cosplayjav.pl": {
         "epoch": "1558828800",
@@ -3727,7 +3727,7 @@
     "glokalna.pl": {
         "epoch": 1581292800.0,
         "expiration_date": "10-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "gloria.tv": {
         "epoch": 1603411200.0,
