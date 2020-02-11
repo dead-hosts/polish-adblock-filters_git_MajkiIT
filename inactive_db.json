@@ -1298,9 +1298,6 @@
         "1581290762": {
             "infogazeta.pl": "INACTIVE"
         },
-        "1581340450": {
-            "gomoney.pl": "INACTIVE"
-        },
         "1581348171": {
             "dajnewsa.pl": "INACTIVE"
         },
@@ -1312,6 +1309,9 @@
         },
         "1581396633": {
             "f1.dziel-pasje.pl": "INACTIVE"
+        },
+        "1581427897": {
+            "gomoney.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
