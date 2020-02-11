@@ -1005,8 +1005,8 @@
         "state": "future"
     },
     "blaugrana.pl": {
-        "epoch": 1581379200.0,
-        "expiration_date": "11-feb-2020",
+        "epoch": 1644537600.0,
+        "expiration_date": "11-feb-2022",
         "state": "future"
     },
     "blbl.cr": {
@@ -1217,7 +1217,7 @@
     "busradar.pl": {
         "epoch": 1581379200.0,
         "expiration_date": "11-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "busy-krk.pl": {
         "epoch": 1587945600.0,
@@ -2340,8 +2340,8 @@
         "state": "future"
     },
     "e-play.pl": {
-        "epoch": 1581379200.0,
-        "expiration_date": "11-feb-2020",
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
         "state": "future"
     },
     "e-restauracja.com": {
@@ -3987,7 +3987,7 @@
     "grajteraz.pl": {
         "epoch": 1581379200.0,
         "expiration_date": "11-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "gralandia.tv": {
         "epoch": 1585267200.0,
@@ -5740,8 +5740,8 @@
         "state": "future"
     },
     "kurierlubelski.pl": {
-        "epoch": 1581379200.0,
-        "expiration_date": "11-feb-2020",
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
         "state": "future"
     },
     "kurierpodlaski.pl": {
@@ -6695,8 +6695,8 @@
         "state": "future"
     },
     "miesnienog.pl": {
-        "epoch": 1581379200.0,
-        "expiration_date": "11-feb-2020",
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
         "state": "future"
     },
     "mieszkaniec.pl": {
@@ -13140,8 +13140,8 @@
         "state": "future"
     },
     "zyciekalisza.pl": {
-        "epoch": 1581379200.0,
-        "expiration_date": "11-feb-2020",
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
         "state": "future"
     },
     "zyciekutna.pl": {
