@@ -177,7 +177,7 @@
     "abcjanikowo24.pl": {
         "epoch": 1581638400.0,
         "expiration_date": "14-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "accuweather.com": {
         "epoch": 1635206400.0,
@@ -1075,8 +1075,8 @@
         "state": "future"
     },
     "bochniazbliska.pl": {
-        "epoch": 1581638400.0,
-        "expiration_date": "14-feb-2020",
+        "epoch": 1613260800.0,
+        "expiration_date": "14-feb-2021",
         "state": "future"
     },
     "bodelen.com": {
@@ -1370,8 +1370,8 @@
         "state": "future"
     },
     "chelmno.com.pl": {
-        "epoch": 1581638400.0,
-        "expiration_date": "14-feb-2020",
+        "epoch": 1613260800.0,
+        "expiration_date": "14-feb-2021",
         "state": "future"
     },
     "chelmza365.pl": {
@@ -3575,8 +3575,8 @@
         "state": "future"
     },
     "gazetatwojeinfo.pl": {
-        "epoch": 1581638400.0,
-        "expiration_date": "14-feb-2020",
+        "epoch": 1613260800.0,
+        "expiration_date": "14-feb-2021",
         "state": "future"
     },
     "gazetatychy.pl": {
@@ -4305,8 +4305,8 @@
         "state": "future"
     },
     "hmt.pl": {
-        "epoch": 1581638400.0,
-        "expiration_date": "14-feb-2020",
+        "epoch": 1613260800.0,
+        "expiration_date": "14-feb-2021",
         "state": "future"
     },
     "hobby.pl": {
@@ -7322,7 +7322,7 @@
     "naszradziejow.pl": {
         "epoch": 1581638400.0,
         "expiration_date": "14-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "naszrybnik.com": {
         "epoch": 1583712000.0,
