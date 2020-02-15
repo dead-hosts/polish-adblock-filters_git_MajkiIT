@@ -1301,17 +1301,17 @@
         "1581682049": {
             "cashowsky.pl": "INACTIVE"
         },
-        "1581682052": {
-            "dajnewsa.pl": "INACTIVE"
-        },
-        "1581682064": {
-            "gomoney.pl": "INACTIVE"
-        },
         "1581697667": {
             "infogazeta.pl": "INACTIVE"
         },
         "1581764405": {
             "alemeksyk.eu": "INACTIVE"
+        },
+        "1581768788": {
+            "dajnewsa.pl": "INACTIVE"
+        },
+        "1581768799": {
+            "gomoney.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
