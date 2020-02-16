@@ -1295,12 +1295,6 @@
         "1579493422": {
             "aster18cdn.nl": "INACTIVE"
         },
-        "1581768788": {
-            "dajnewsa.pl": "INACTIVE"
-        },
-        "1581768799": {
-            "gomoney.pl": "INACTIVE"
-        },
         "1581772473": {
             "bielski24.pl": "INACTIVE"
         },
@@ -1309,6 +1303,12 @@
         },
         "1581812107": {
             "infogazeta.pl": "INACTIVE"
+        },
+        "1581858890": {
+            "dajnewsa.pl": "INACTIVE"
+        },
+        "1581858901": {
+            "gomoney.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
