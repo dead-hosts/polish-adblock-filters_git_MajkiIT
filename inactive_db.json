@@ -1295,17 +1295,17 @@
         "1579493422": {
             "aster18cdn.nl": "INACTIVE"
         },
-        "1582038809": {
-            "bielski24.pl": "INACTIVE"
-        },
-        "1582038813": {
-            "cashowsky.pl": "INACTIVE"
-        },
         "1582125254": {
             "dajnewsa.pl": "INACTIVE"
         },
         "1582125265": {
             "gomoney.pl": "INACTIVE"
+        },
+        "1582128872": {
+            "bielski24.pl": "INACTIVE"
+        },
+        "1582128875": {
+            "cashowsky.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
