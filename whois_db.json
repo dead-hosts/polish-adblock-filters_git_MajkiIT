@@ -737,7 +737,7 @@
     "barciany.pl": {
         "epoch": 1582243200.0,
         "expiration_date": "21-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "barlinek24.pl": {
         "epoch": 1675123200.0,
@@ -2242,7 +2242,7 @@
     "dziennikzachodni.pl": {
         "epoch": 1582243200.0,
         "expiration_date": "21-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "dziennikzwiazkowy.com": {
         "epoch": 1596672000.0,
@@ -2702,7 +2702,7 @@
     "erocentrum.pl": {
         "epoch": 1582243200.0,
         "expiration_date": "21-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "erosyndc.com": {
         "epoch": 1592438400.0,
@@ -2965,8 +2965,8 @@
         "state": "future"
     },
     "fajowe.pl": {
-        "epoch": 1582243200.0,
-        "expiration_date": "21-feb-2020",
+        "epoch": 1613865600.0,
+        "expiration_date": "21-feb-2021",
         "state": "future"
     },
     "fakt.pl": {
@@ -12457,7 +12457,7 @@
     "wkikole.pl": {
         "epoch": 1582243200.0,
         "expiration_date": "21-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "wkinie.tv": {
         "epoch": 1585612800.0,
