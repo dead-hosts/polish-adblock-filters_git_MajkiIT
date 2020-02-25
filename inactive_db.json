@@ -1295,9 +1295,6 @@
         "1579493422": {
             "aster18cdn.nl": "INACTIVE"
         },
-        "1582573205": {
-            "dajnewsa.pl": "INACTIVE"
-        },
         "1582577544": {
             "bielski24.pl": "INACTIVE"
         },
@@ -1312,6 +1309,9 @@
         },
         "1582659788": {
             "discopolonew.cba.pl": "INACTIVE"
+        },
+        "1582661930": {
+            "dajnewsa.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
