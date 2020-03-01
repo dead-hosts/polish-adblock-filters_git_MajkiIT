@@ -1295,9 +1295,6 @@
         "1579493422": {
             "aster18cdn.nl": "INACTIVE"
         },
-        "1583011994": {
-            "gomoney.pl": "INACTIVE"
-        },
         "1583015969": {
             "dajnewsa.pl": "INACTIVE"
         },
@@ -1312,6 +1309,9 @@
         },
         "1583081284": {
             "ddz24.eu": "INACTIVE"
+        },
+        "1583102463": {
+            "gomoney.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
