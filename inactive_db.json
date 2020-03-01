@@ -1295,9 +1295,6 @@
         "1579493422": {
             "aster18cdn.nl": "INACTIVE"
         },
-        "1582956823": {
-            "heynet.pl": "INACTIVE"
-        },
         "1583011994": {
             "gomoney.pl": "INACTIVE"
         },
@@ -1309,6 +1306,9 @@
         },
         "1583024517": {
             "bielski24.pl": "INACTIVE"
+        },
+        "1583045217": {
+            "heynet.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
