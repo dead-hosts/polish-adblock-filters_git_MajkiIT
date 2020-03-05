@@ -640,8 +640,8 @@
         "state": "future"
     },
     "autodoradca.pl": {
-        "epoch": 1583366400.0,
-        "expiration_date": "05-mar-2020",
+        "epoch": 1614902400.0,
+        "expiration_date": "05-mar-2021",
         "state": "future"
     },
     "autofakty.pl": {
@@ -1275,8 +1275,8 @@
         "state": "future"
     },
     "cartests.net": {
-        "epoch": 1583366400.0,
-        "expiration_date": "05-mar-2020",
+        "epoch": 1614902400.0,
+        "expiration_date": "05-mar-2021",
         "state": "future"
     },
     "cashowsky.pl": {
@@ -1770,8 +1770,8 @@
         "state": "future"
     },
     "cztery-lapy.pl": {
-        "epoch": 1583366400.0,
-        "expiration_date": "05-mar-2020",
+        "epoch": 1614902400.0,
+        "expiration_date": "05-mar-2021",
         "state": "future"
     },
     "czyliwiesz.pl": {
@@ -2995,8 +2995,8 @@
         "state": "future"
     },
     "faktyct.pl": {
-        "epoch": 1583366400.0,
-        "expiration_date": "05-mar-2020",
+        "epoch": 1614902400.0,
+        "expiration_date": "05-mar-2021",
         "state": "future"
     },
     "faktykaliskie.pl": {
@@ -11657,7 +11657,7 @@
     "twojradom.pl": {
         "epoch": 1583366400.0,
         "expiration_date": "05-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "twojskaryszew.pl": {
         "epoch": 1580688000.0,
