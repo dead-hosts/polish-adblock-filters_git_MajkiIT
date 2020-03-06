@@ -985,8 +985,8 @@
         "state": "future"
     },
     "bizneston.pl": {
-        "epoch": 1583452800.0,
-        "expiration_date": "06-mar-2020",
+        "epoch": 1614988800.0,
+        "expiration_date": "06-mar-2021",
         "state": "future"
     },
     "biznestuba.pl": {
@@ -1057,7 +1057,7 @@
     "boardtime.pl": {
         "epoch": 1583452800.0,
         "expiration_date": "06-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "bobasmiesiaca.pl": {
         "epoch": 1598486400.0,
