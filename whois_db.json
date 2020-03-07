@@ -1299,6 +1299,11 @@
         "expiration_date": "10-feb-2021",
         "state": "future"
     },
+    "cdahd.co": {
+        "epoch": 1614038400.0,
+        "expiration_date": "23-feb-2021",
+        "state": "future"
+    },
     "cdahd.ml": {
         "epoch": 1609372800.0,
         "expiration_date": "31-dec-2020",
