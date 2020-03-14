@@ -2540,8 +2540,8 @@
         "state": "future"
     },
     "ekurdwanow.pl": {
-        "epoch": 1584144000.0,
-        "expiration_date": "14-mar-2020",
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
         "state": "future"
     },
     "ekutno.pl": {
@@ -4152,7 +4152,7 @@
     "gwiazdor.pl": {
         "epoch": 1584144000.0,
         "expiration_date": "14-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "gwiazdybasketu.pl": {
         "epoch": 1585180800.0,
@@ -12102,7 +12102,7 @@
     "walbrzych365.pl": {
         "epoch": 1584144000.0,
         "expiration_date": "14-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "walbrzyszek.com": {
         "epoch": 1588118400.0,
