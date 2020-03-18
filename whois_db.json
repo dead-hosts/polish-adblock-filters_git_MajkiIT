@@ -585,9 +585,9 @@
         "state": "future"
     },
     "astropolis.pl": {
-        "epoch": 1584489600.0,
-        "expiration_date": "18-mar-2020",
-        "state": "past"
+        "epoch": 1587081600.0,
+        "expiration_date": "17-apr-2020",
+        "state": "future"
     },
     "atssi.pl": {
         "epoch": 1612569600.0,
