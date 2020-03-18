@@ -587,7 +587,7 @@
     "astropolis.pl": {
         "epoch": 1584489600.0,
         "expiration_date": "18-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "atssi.pl": {
         "epoch": 1612569600.0,
@@ -3050,8 +3050,8 @@
         "state": "future"
     },
     "fcinter.pl": {
-        "epoch": 1584489600.0,
-        "expiration_date": "18-mar-2020",
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
         "state": "future"
     },
     "fechallenge.com": {
@@ -4015,8 +4015,8 @@
         "state": "future"
     },
     "gramynawynos.pl": {
-        "epoch": 1584489600.0,
-        "expiration_date": "18-mar-2020",
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
         "state": "future"
     },
     "granicenauki.pl": {
@@ -4340,8 +4340,8 @@
         "state": "future"
     },
     "hopaj.pl": {
-        "epoch": 1584489600.0,
-        "expiration_date": "18-mar-2020",
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
         "state": "future"
     },
     "hoqqzlvwukpo.com": {
