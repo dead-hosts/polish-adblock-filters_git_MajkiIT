@@ -120,8 +120,8 @@
         "state": "future"
     },
     "4lomza.pl": {
-        "epoch": 1584748800.0,
-        "expiration_date": "21-mar-2020",
+        "epoch": 1616284800.0,
+        "expiration_date": "21-mar-2021",
         "state": "future"
     },
     "4programmers.net": {
@@ -442,7 +442,7 @@
     "anglia.today": {
         "epoch": 1584748800.0,
         "expiration_date": "21-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "anglia4u.pl": {
         "epoch": 1585440000.0,
@@ -1290,8 +1290,8 @@
         "state": "future"
     },
     "cda.pl": {
-        "epoch": 1584748800.0,
-        "expiration_date": "21-mar-2020",
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
         "state": "future"
     },
     "cdaction.pl": {
@@ -3822,7 +3822,7 @@
     "goleniowska.com": {
         "epoch": 1584748800.0,
         "expiration_date": "21-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "golub-cgd.pl": {
         "epoch": 1588809600.0,
