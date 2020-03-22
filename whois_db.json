@@ -3820,9 +3820,9 @@
         "state": "future"
     },
     "goleniowska.com": {
-        "epoch": 1584748800.0,
-        "expiration_date": "21-mar-2020",
-        "state": "past"
+        "epoch": 1616284800.0,
+        "expiration_date": "21-mar-2021",
+        "state": "future"
     },
     "golub-cgd.pl": {
         "epoch": 1588809600.0,
