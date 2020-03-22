@@ -1295,9 +1295,6 @@
         "1579493422": {
             "aster18cdn.nl": "INACTIVE"
         },
-        "1584806263": {
-            "cashowsky.pl": "INACTIVE"
-        },
         "1584810100": {
             "bielski24.pl": "INACTIVE"
         },
@@ -1306,6 +1303,9 @@
         },
         "1584847425": {
             "heynet.pl": "INACTIVE"
+        },
+        "1584895698": {
+            "cashowsky.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
