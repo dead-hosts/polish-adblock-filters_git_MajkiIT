@@ -510,8 +510,8 @@
         "state": "future"
     },
     "antyweb.pl": {
-        "epoch": 1585008000.0,
-        "expiration_date": "24-mar-2020",
+        "epoch": 1679616000.0,
+        "expiration_date": "24-mar-2023",
         "state": "future"
     },
     "anwil24.pl": {
@@ -10845,8 +10845,8 @@
         "state": "future"
     },
     "tablety.pl": {
-        "epoch": 1585008000.0,
-        "expiration_date": "24-mar-2020",
+        "epoch": 1616544000.0,
+        "expiration_date": "24-mar-2021",
         "state": "future"
     },
     "taksiegra.pl": {
