@@ -3485,9 +3485,9 @@
         "state": "future"
     },
     "gazeta-olawa.pl": {
-        "epoch": 1585094400.0,
-        "expiration_date": "25-mar-2020",
-        "state": "past"
+        "epoch": 1587686400.0,
+        "expiration_date": "24-apr-2020",
+        "state": "future"
     },
     "gazeta-wiesci.pl": {
         "epoch": 1609804800.0,
