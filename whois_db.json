@@ -3290,8 +3290,8 @@
         "state": "future"
     },
     "forumpps.pl": {
-        "epoch": 1585094400.0,
-        "expiration_date": "25-mar-2020",
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
         "state": "future"
     },
     "forumrowerowe.org": {
@@ -3487,7 +3487,7 @@
     "gazeta-olawa.pl": {
         "epoch": 1585094400.0,
         "expiration_date": "25-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "gazeta-wiesci.pl": {
         "epoch": 1609804800.0,
@@ -4510,8 +4510,8 @@
         "state": "future"
     },
     "ijarocin.pl": {
-        "epoch": 1585094400.0,
-        "expiration_date": "25-mar-2020",
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
         "state": "future"
     },
     "ikalisz.pl": {
@@ -4535,8 +4535,8 @@
         "state": "future"
     },
     "ikrotoszyn.pl": {
-        "epoch": 1585094400.0,
-        "expiration_date": "25-mar-2020",
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
         "state": "future"
     },
     "ilawa24.pl": {
@@ -4830,8 +4830,8 @@
         "state": "future"
     },
     "ipleszew.pl": {
-        "epoch": 1585094400.0,
-        "expiration_date": "25-mar-2020",
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
         "state": "future"
     },
     "ipoddebice.pl": {
