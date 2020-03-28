@@ -1295,9 +1295,6 @@
         "1579493422": {
             "aster18cdn.nl": "INACTIVE"
         },
-        "1585266728": {
-            "gomoney.pl": "INACTIVE"
-        },
         "1585294698": {
             "heynet.pl": "INACTIVE"
         },
@@ -1310,6 +1307,9 @@
         "1585349144": {
             "cashowsky.pl": "INACTIVE",
             "cdtracker.co.pl": "INACTIVE"
+        },
+        "1585353978": {
+            "gomoney.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
