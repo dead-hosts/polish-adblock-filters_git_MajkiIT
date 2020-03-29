@@ -1295,12 +1295,6 @@
         "1579493422": {
             "aster18cdn.nl": "INACTIVE"
         },
-        "1585437411": {
-            "bielski24.pl": "INACTIVE"
-        },
-        "1585437414": {
-            "cashowsky.pl": "INACTIVE"
-        },
         "1585441429": {
             "gomoney.pl": "INACTIVE"
         },
@@ -1309,6 +1303,12 @@
         },
         "1585476673": {
             "forum.dvhk.to": "INACTIVE"
+        },
+        "1585525788": {
+            "bielski24.pl": "INACTIVE"
+        },
+        "1585525792": {
+            "cashowsky.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
