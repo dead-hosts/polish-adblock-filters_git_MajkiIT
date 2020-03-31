@@ -2387,7 +2387,7 @@
     "e-wyszogrod.pl": {
         "epoch": 1585612800.0,
         "expiration_date": "31-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "ebelchatow.pl": {
         "epoch": 1590796800.0,
