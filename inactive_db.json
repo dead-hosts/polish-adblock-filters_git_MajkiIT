@@ -1295,20 +1295,20 @@
         "1579493422": {
             "aster18cdn.nl": "INACTIVE"
         },
-        "1585795720": {
-            "bielski24.pl": "INACTIVE"
-        },
-        "1585795723": {
-            "cashowsky.pl": "INACTIVE"
-        },
-        "1585799630": {
-            "gomoney.pl": "INACTIVE"
-        },
-        "1585831160": {
-            "forum.dvhk.to": "INACTIVE"
-        },
         "1585835208": {
             "heynet.pl": "INACTIVE"
+        },
+        "1585975947": {
+            "bielski24.pl": "INACTIVE"
+        },
+        "1585975950": {
+            "cashowsky.pl": "INACTIVE"
+        },
+        "1585975961": {
+            "forum.dvhk.to": "INACTIVE"
+        },
+        "1585975964": {
+            "gomoney.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
