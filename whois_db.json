@@ -4754,6 +4754,11 @@
         "expiration_date": "30-nov-2020",
         "state": "future"
     },
+    "inpost.pl": {
+        "epoch": 1618012800.0,
+        "expiration_date": "10-apr-2021",
+        "state": "future"
+    },
     "instalacjebudowlane.pl": {
         "epoch": 1603065600.0,
         "expiration_date": "19-oct-2020",
