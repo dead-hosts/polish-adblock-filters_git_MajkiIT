@@ -5540,9 +5540,9 @@
         "state": "future"
     },
     "kozieglowy365.pl": {
-        "epoch": 1586476800.0,
-        "expiration_date": "10-apr-2020",
-        "state": "past"
+        "epoch": 1589068800.0,
+        "expiration_date": "10-may-2020",
+        "state": "future"
     },
     "kozienice24.pl": {
         "epoch": 1596412800.0,
