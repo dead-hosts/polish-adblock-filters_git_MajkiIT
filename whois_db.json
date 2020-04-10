@@ -2727,7 +2727,7 @@
     "esiemiatycze.pl": {
         "epoch": 1586476800.0,
         "expiration_date": "10-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "eska.pl": {
         "epoch": 1638489600.0,
@@ -5542,7 +5542,7 @@
     "kozieglowy365.pl": {
         "epoch": 1586476800.0,
         "expiration_date": "10-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "kozienice24.pl": {
         "epoch": 1596412800.0,
@@ -7615,8 +7615,8 @@
         "state": "future"
     },
     "nowinynyskie.com.pl": {
-        "epoch": 1586476800.0,
-        "expiration_date": "10-apr-2020",
+        "epoch": 1618012800.0,
+        "expiration_date": "10-apr-2021",
         "state": "future"
     },
     "nowodworski24.pl": {
