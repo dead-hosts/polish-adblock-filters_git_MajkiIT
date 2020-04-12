@@ -1095,8 +1095,8 @@
         "state": "future"
     },
     "booklips.pl": {
-        "epoch": 1586649600.0,
-        "expiration_date": "12-apr-2020",
+        "epoch": 1618185600.0,
+        "expiration_date": "12-apr-2021",
         "state": "future"
     },
     "booksclub.pl": {
@@ -2537,7 +2537,7 @@
     "eku24.net": {
         "epoch": 1586649600.0,
         "expiration_date": "12-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "ekurdwanow.pl": {
         "epoch": 1615680000.0,
@@ -2677,7 +2677,7 @@
     "epd24.net": {
         "epoch": 1586649600.0,
         "expiration_date": "12-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "epiotrkow.pl": {
         "epoch": 1621814400.0,
@@ -2917,7 +2917,7 @@
     "ezg24.net": {
         "epoch": 1586649600.0,
         "expiration_date": "12-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "f1wm.pl": {
         "epoch": 1588636800.0,
