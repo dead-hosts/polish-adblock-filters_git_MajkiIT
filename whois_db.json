@@ -2535,9 +2535,9 @@
         "state": "future"
     },
     "eku24.net": {
-        "epoch": 1586649600.0,
-        "expiration_date": "12-apr-2020",
-        "state": "past"
+        "epoch": 1618185600.0,
+        "expiration_date": "12-apr-2021",
+        "state": "future"
     },
     "ekurdwanow.pl": {
         "epoch": 1615680000.0,
@@ -2675,9 +2675,9 @@
         "state": "future"
     },
     "epd24.net": {
-        "epoch": 1586649600.0,
-        "expiration_date": "12-apr-2020",
-        "state": "past"
+        "epoch": 1618185600.0,
+        "expiration_date": "12-apr-2021",
+        "state": "future"
     },
     "epiotrkow.pl": {
         "epoch": 1621814400.0,
@@ -2915,9 +2915,9 @@
         "state": "future"
     },
     "ezg24.net": {
-        "epoch": 1586649600.0,
-        "expiration_date": "12-apr-2020",
-        "state": "past"
+        "epoch": 1618185600.0,
+        "expiration_date": "12-apr-2021",
+        "state": "future"
     },
     "f1wm.pl": {
         "epoch": 1588636800.0,
