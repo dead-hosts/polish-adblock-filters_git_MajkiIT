@@ -610,8 +610,8 @@
         "state": "future"
     },
     "augustowskireporter.pl": {
-        "epoch": 1586995200.0,
-        "expiration_date": "16-apr-2020",
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
         "state": "future"
     },
     "augustyna.pl": {
@@ -1015,8 +1015,8 @@
         "state": "future"
     },
     "blogomaniak.pl": {
-        "epoch": 1586995200.0,
-        "expiration_date": "16-apr-2020",
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
         "state": "future"
     },
     "blogprezesa.pl": {
@@ -2520,8 +2520,8 @@
         "state": "future"
     },
     "ekspresjaroslawski.pl": {
-        "epoch": 1586995200.0,
-        "expiration_date": "16-apr-2020",
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
         "state": "future"
     },
     "ekstrasierpc.pl": {
@@ -3232,7 +3232,7 @@
     "foreca.pl": {
         "epoch": 1586995200.0,
         "expiration_date": "16-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "forex-nawigator.biz": {
         "epoch": 1670803200.0,
@@ -3685,8 +3685,8 @@
         "state": "future"
     },
     "gizmaniak.pl": {
-        "epoch": 1586995200.0,
-        "expiration_date": "16-apr-2020",
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
         "state": "future"
     },
     "gizycko.info.pl": {
@@ -4900,8 +4900,8 @@
         "state": "future"
     },
     "iszczecinek.pl": {
-        "epoch": 1586995200.0,
-        "expiration_date": "16-apr-2020",
+        "epoch": 1681603200.0,
+        "expiration_date": "16-apr-2023",
         "state": "future"
     },
     "it-manuals.info": {
@@ -6830,8 +6830,8 @@
         "state": "future"
     },
     "mobimaniak.pl": {
-        "epoch": 1586995200.0,
-        "expiration_date": "16-apr-2020",
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
         "state": "future"
     },
     "mobirank.pl": {
