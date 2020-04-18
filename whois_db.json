@@ -2332,7 +2332,7 @@
     "e-lokalne.pl": {
         "epoch": 1587168000.0,
         "expiration_date": "18-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "e-lubon.pl": {
         "epoch": 1607990400.0,
@@ -2792,7 +2792,7 @@
     "euractiv.pl": {
         "epoch": 1587168000.0,
         "expiration_date": "18-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "euro.com.pl": {
         "epoch": 1672444800.0,
@@ -7012,7 +7012,7 @@
     "motocykl-online.pl": {
         "epoch": 1587168000.0,
         "expiration_date": "18-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "motocykle125.pl": {
         "epoch": 1604793600.0,
@@ -13142,7 +13142,7 @@
     "zycie.pila.pl": {
         "epoch": 1587168000.0,
         "expiration_date": "18-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "zycie.pl": {
         "epoch": 1651881600.0,
