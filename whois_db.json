@@ -2330,9 +2330,9 @@
         "state": "future"
     },
     "e-lokalne.pl": {
-        "epoch": 1587168000.0,
-        "expiration_date": "18-apr-2020",
-        "state": "past"
+        "epoch": 1589760000.0,
+        "expiration_date": "18-may-2020",
+        "state": "future"
     },
     "e-lubon.pl": {
         "epoch": 1607990400.0,
