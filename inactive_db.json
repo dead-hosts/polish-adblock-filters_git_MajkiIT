@@ -14,6 +14,13 @@
             "last_retested_at_iso": "2020-04-26T22:44:49.200745",
             "status": "INACTIVE"
         },
+        "ddz24.eu": {
+            "included_at_epoch": 1587980939.550387,
+            "included_at_iso": "2020-04-27T09:48:59.550387",
+            "last_retested_at_epoch": 1587980939.550387,
+            "last_retested_at_iso": "2020-04-27T09:48:59.550387",
+            "status": "INACTIVE"
+        },
         "forum.cdaction.pl": {
             "included_at_epoch": 1587976844.029926,
             "included_at_iso": "2020-04-27T08:40:44.029926",
