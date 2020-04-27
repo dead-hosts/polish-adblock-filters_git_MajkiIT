@@ -14,6 +14,13 @@
             "last_retested_at_iso": "2020-04-26T22:44:49.200745",
             "status": "INACTIVE"
         },
+        "forum.cdaction.pl": {
+            "included_at_epoch": 1587976844.029926,
+            "included_at_iso": "2020-04-27T08:40:44.029926",
+            "last_retested_at_epoch": 1587976844.029926,
+            "last_retested_at_iso": "2020-04-27T08:40:44.029926",
+            "status": "INACTIVE"
+        },
         "forum.dvhk.to": {
             "included_at_epoch": 1587194679.0,
             "included_at_iso": "2020-04-18T07:24:39",
