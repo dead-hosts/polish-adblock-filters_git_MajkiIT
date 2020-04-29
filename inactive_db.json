@@ -34,6 +34,13 @@
             "last_retested_at_epoch": 1588119318.386883,
             "last_retested_at_iso": "2020-04-29T00:15:18.386883",
             "status": "INACTIVE"
+        },
+        "historyk.eu": {
+            "included_at_epoch": 1588168262.123389,
+            "included_at_iso": "2020-04-29T13:51:02.123389",
+            "last_retested_at_epoch": 1588168262.123389,
+            "last_retested_at_iso": "2020-04-29T13:51:02.123389",
+            "status": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
