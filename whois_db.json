@@ -222,7 +222,7 @@
     "adnow.com": {
         "epoch": 1588118400.0,
         "expiration_date": "29-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "adocean.pl": {
         "epoch": 1584489600.0,
@@ -1400,8 +1400,8 @@
         "state": "future"
     },
     "chillizet.pl": {
-        "epoch": 1588118400.0,
-        "expiration_date": "29-apr-2020",
+        "epoch": 1629676800.0,
+        "expiration_date": "23-aug-2021",
         "state": "future"
     },
     "chinytolubie.pl": {
@@ -1910,8 +1910,8 @@
         "state": "future"
     },
     "dentoforum.pl": {
-        "epoch": 1588118400.0,
-        "expiration_date": "29-apr-2020",
+        "epoch": 1619654400.0,
+        "expiration_date": "29-apr-2021",
         "state": "future"
     },
     "deon.pl": {
@@ -3455,8 +3455,8 @@
         "state": "future"
     },
     "gamesfanatic.pl": {
-        "epoch": 1588118400.0,
-        "expiration_date": "29-apr-2020",
+        "epoch": 1619654400.0,
+        "expiration_date": "29-apr-2021",
         "state": "future"
     },
     "gamestough.com": {
@@ -10775,8 +10775,8 @@
         "state": "future"
     },
     "swidniczka.com": {
-        "epoch": 1588118400.0,
-        "expiration_date": "29-apr-2020",
+        "epoch": 1619654400.0,
+        "expiration_date": "29-apr-2021",
         "state": "future"
     },
     "swiecie24.pl": {
@@ -12150,8 +12150,8 @@
         "state": "future"
     },
     "walbrzyszek.com": {
-        "epoch": 1588118400.0,
-        "expiration_date": "29-apr-2020",
+        "epoch": 1619654400.0,
+        "expiration_date": "29-apr-2021",
         "state": "future"
     },
     "warszawawpigulce.pl": {

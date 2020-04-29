@@ -3,36 +3,36 @@
         "bielski24.pl": {
             "included_at_epoch": 1587194665.0,
             "included_at_iso": "2020-04-18T07:24:25",
-            "last_retested_at_epoch": 1588031625.791033,
-            "last_retested_at_iso": "2020-04-27T23:53:45.791033",
+            "last_retested_at_epoch": 1588119298.674073,
+            "last_retested_at_iso": "2020-04-29T00:14:58.674073",
             "status": "INACTIVE"
         },
         "cashowsky.pl": {
             "included_at_epoch": 1587194668.0,
             "included_at_iso": "2020-04-18T07:24:28",
-            "last_retested_at_epoch": 1588031629.321232,
-            "last_retested_at_iso": "2020-04-27T23:53:49.321232",
+            "last_retested_at_epoch": 1588119302.073845,
+            "last_retested_at_iso": "2020-04-29T00:15:02.073845",
             "status": "INACTIVE"
         },
         "forum.dvhk.to": {
             "included_at_epoch": 1587194679.0,
             "included_at_iso": "2020-04-18T07:24:39",
-            "last_retested_at_epoch": 1588031640.844756,
-            "last_retested_at_iso": "2020-04-27T23:54:00.844756",
+            "last_retested_at_epoch": 1588119313.009642,
+            "last_retested_at_iso": "2020-04-29T00:15:13.009642",
             "status": "INACTIVE"
         },
         "gomoney.pl": {
             "included_at_epoch": 1587131957.0,
             "included_at_iso": "2020-04-17T13:59:17",
-            "last_retested_at_epoch": 1588031644.052497,
-            "last_retested_at_iso": "2020-04-27T23:54:04.052497",
+            "last_retested_at_epoch": 1588119316.046518,
+            "last_retested_at_iso": "2020-04-29T00:15:16.046518",
             "status": "INACTIVE"
         },
         "heynet.pl": {
             "included_at_epoch": 1587168215.0,
             "included_at_iso": "2020-04-18T00:03:35",
-            "last_retested_at_epoch": 1588031646.505854,
-            "last_retested_at_iso": "2020-04-27T23:54:06.505854",
+            "last_retested_at_epoch": 1588119318.386883,
+            "last_retested_at_iso": "2020-04-29T00:15:18.386883",
             "status": "INACTIVE"
         }
     },
