@@ -21,6 +21,13 @@
             "last_retested_at_iso": "2020-04-30T11:46:31.057918",
             "status": "INACTIVE"
         },
+        "forum.pcformat.pl": {
+            "included_at_epoch": 1588280234.310394,
+            "included_at_iso": "2020-04-30T20:57:14.310394",
+            "last_retested_at_epoch": 1588280234.310394,
+            "last_retested_at_iso": "2020-04-30T20:57:14.310394",
+            "status": "INACTIVE"
+        },
         "gomoney.pl": {
             "included_at_epoch": 1587131957.0,
             "included_at_iso": "2020-04-17T13:59:17",
