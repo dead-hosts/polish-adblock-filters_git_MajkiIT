@@ -55,6 +55,34 @@
             "last_retested_at_epoch": 1588335507.420503,
             "last_retested_at_iso": "2020-05-01T12:18:27.420503",
             "status": "INACTIVE"
+        },
+        "mlecznepodroze.onet.pl": {
+            "included_at_epoch": 1588346959.329053,
+            "included_at_iso": "2020-05-01T15:29:19.329053",
+            "last_retested_at_epoch": 1588346959.338084,
+            "last_retested_at_iso": "2020-05-01T15:29:19.338084",
+            "status": "INACTIVE"
+        },
+        "twojakowala.pl": {
+            "included_at_epoch": 1588346989.763237,
+            "included_at_iso": "2020-05-01T15:29:49.763237",
+            "last_retested_at_epoch": 1588346989.795176,
+            "last_retested_at_iso": "2020-05-01T15:29:49.795176",
+            "status": "INACTIVE"
+        },
+        "twojawierzbica.pl": {
+            "included_at_epoch": 1588346961.286423,
+            "included_at_iso": "2020-05-01T15:29:21.286423",
+            "last_retested_at_epoch": 1588346989.79142,
+            "last_retested_at_iso": "2020-05-01T15:29:49.791420",
+            "status": "INACTIVE"
+        },
+        "ustawmundial.weszlo.com": {
+            "included_at_epoch": 1588346977.107989,
+            "included_at_iso": "2020-05-01T15:29:37.107989",
+            "last_retested_at_epoch": 1588346977.107989,
+            "last_retested_at_iso": "2020-05-01T15:29:37.107989",
+            "status": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/polish-adblock-filters.list": {
