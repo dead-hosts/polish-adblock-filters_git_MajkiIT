@@ -14,6 +14,20 @@
             "last_retested_at_iso": "2020-04-30T11:46:20.065336",
             "status": "INACTIVE"
         },
+        "cdtracker.co.pl": {
+            "included_at_epoch": 1588292826.740111,
+            "included_at_iso": "2020-05-01T00:27:06.740111",
+            "last_retested_at_epoch": 1588292826.740111,
+            "last_retested_at_iso": "2020-05-01T00:27:06.740111",
+            "status": "INACTIVE"
+        },
+        "forum.cdaction.pl": {
+            "included_at_epoch": 1588292837.607549,
+            "included_at_iso": "2020-05-01T00:27:17.607549",
+            "last_retested_at_epoch": 1588292837.607549,
+            "last_retested_at_iso": "2020-05-01T00:27:17.607549",
+            "status": "INACTIVE"
+        },
         "forum.dvhk.to": {
             "included_at_epoch": 1587194679.0,
             "included_at_iso": "2020-04-18T07:24:39",
