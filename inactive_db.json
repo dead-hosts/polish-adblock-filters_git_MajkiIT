@@ -3,15 +3,15 @@
         "bielski24.pl": {
             "included_at_epoch": 1587194665.0,
             "included_at_iso": "2020-04-18T07:24:25",
-            "last_retested_at_epoch": 1588247176.688872,
-            "last_retested_at_iso": "2020-04-30T11:46:16.688872",
+            "last_retested_at_epoch": 1588335487.560766,
+            "last_retested_at_iso": "2020-05-01T12:18:07.560766",
             "status": "INACTIVE"
         },
         "cashowsky.pl": {
             "included_at_epoch": 1587194668.0,
             "included_at_iso": "2020-04-18T07:24:28",
-            "last_retested_at_epoch": 1588247180.065336,
-            "last_retested_at_iso": "2020-04-30T11:46:20.065336",
+            "last_retested_at_epoch": 1588335490.969002,
+            "last_retested_at_iso": "2020-05-01T12:18:10.969002",
             "status": "INACTIVE"
         },
         "cdtracker.co.pl": {
@@ -31,8 +31,8 @@
         "forum.dvhk.to": {
             "included_at_epoch": 1587194679.0,
             "included_at_iso": "2020-04-18T07:24:39",
-            "last_retested_at_epoch": 1588247191.057918,
-            "last_retested_at_iso": "2020-04-30T11:46:31.057918",
+            "last_retested_at_epoch": 1588335501.971235,
+            "last_retested_at_iso": "2020-05-01T12:18:21.971235",
             "status": "INACTIVE"
         },
         "forum.pcformat.pl": {
@@ -45,15 +45,15 @@
         "gomoney.pl": {
             "included_at_epoch": 1587131957.0,
             "included_at_iso": "2020-04-17T13:59:17",
-            "last_retested_at_epoch": 1588247194.126843,
-            "last_retested_at_iso": "2020-04-30T11:46:34.126843",
+            "last_retested_at_epoch": 1588335505.04776,
+            "last_retested_at_iso": "2020-05-01T12:18:25.047760",
             "status": "INACTIVE"
         },
         "heynet.pl": {
             "included_at_epoch": 1587168215.0,
             "included_at_iso": "2020-04-18T00:03:35",
-            "last_retested_at_epoch": 1588247196.469661,
-            "last_retested_at_iso": "2020-04-30T11:46:36.469661",
+            "last_retested_at_epoch": 1588335507.420503,
+            "last_retested_at_iso": "2020-05-01T12:18:27.420503",
             "status": "INACTIVE"
         }
     },
