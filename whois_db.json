@@ -7104,6 +7104,11 @@
         "expiration_date": "01-feb-2021",
         "state": "future"
     },
+    "motohigh.pl": {
+        "epoch": 1609545600.0,
+        "expiration_date": "02-jan-2021",
+        "state": "future"
+    },
     "motomi.pl": {
         "epoch": 1691280000.0,
         "expiration_date": "06-aug-2023",
@@ -8150,9 +8155,9 @@
         "state": "future"
     },
     "pabianice.tv": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
-        "state": "past"
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
+        "state": "future"
     },
     "pacanow.online": {
         "epoch": 1603238400.0,
