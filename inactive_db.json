@@ -3,8 +3,8 @@
         "bielski24.pl": {
             "included_at_epoch": 1587194665.0,
             "included_at_iso": "2020-04-18T07:24:25",
-            "last_retested_at_epoch": 1588335487.560766,
-            "last_retested_at_iso": "2020-05-01T12:18:07.560766",
+            "last_retested_at_epoch": 1588480247.193648,
+            "last_retested_at_iso": "2020-05-03T04:30:47.193648",
             "status": "INACTIVE"
         },
         "businessclick.*": {
@@ -17,8 +17,8 @@
         "cashowsky.pl": {
             "included_at_epoch": 1587194668.0,
             "included_at_iso": "2020-04-18T07:24:28",
-            "last_retested_at_epoch": 1588335490.969002,
-            "last_retested_at_iso": "2020-05-01T12:18:10.969002",
+            "last_retested_at_epoch": 1588480250.522367,
+            "last_retested_at_iso": "2020-05-03T04:30:50.522367",
             "status": "INACTIVE"
         },
         "cdn.mediaessence.net": {
@@ -28,46 +28,25 @@
             "last_retested_at_iso": "2020-05-01T16:32:56.168065",
             "status": "INACTIVE"
         },
-        "cdtracker.co.pl": {
-            "included_at_epoch": 1588292826.740111,
-            "included_at_iso": "2020-05-01T00:27:06.740111",
-            "last_retested_at_epoch": 1588292826.740111,
-            "last_retested_at_iso": "2020-05-01T00:27:06.740111",
-            "status": "INACTIVE"
-        },
-        "forum.cdaction.pl": {
-            "included_at_epoch": 1588292837.607549,
-            "included_at_iso": "2020-05-01T00:27:17.607549",
-            "last_retested_at_epoch": 1588292837.607549,
-            "last_retested_at_iso": "2020-05-01T00:27:17.607549",
-            "status": "INACTIVE"
-        },
         "forum.dvhk.to": {
             "included_at_epoch": 1587194679.0,
             "included_at_iso": "2020-04-18T07:24:39",
-            "last_retested_at_epoch": 1588335501.971235,
-            "last_retested_at_iso": "2020-05-01T12:18:21.971235",
-            "status": "INACTIVE"
-        },
-        "forum.pcformat.pl": {
-            "included_at_epoch": 1588280234.310394,
-            "included_at_iso": "2020-04-30T20:57:14.310394",
-            "last_retested_at_epoch": 1588280234.310394,
-            "last_retested_at_iso": "2020-04-30T20:57:14.310394",
+            "last_retested_at_epoch": 1588480261.365412,
+            "last_retested_at_iso": "2020-05-03T04:31:01.365412",
             "status": "INACTIVE"
         },
         "gomoney.pl": {
             "included_at_epoch": 1587131957.0,
             "included_at_iso": "2020-04-17T13:59:17",
-            "last_retested_at_epoch": 1588335505.04776,
-            "last_retested_at_iso": "2020-05-01T12:18:25.047760",
+            "last_retested_at_epoch": 1588480264.452211,
+            "last_retested_at_iso": "2020-05-03T04:31:04.452211",
             "status": "INACTIVE"
         },
         "heynet.pl": {
             "included_at_epoch": 1587168215.0,
             "included_at_iso": "2020-04-18T00:03:35",
-            "last_retested_at_epoch": 1588335507.420503,
-            "last_retested_at_iso": "2020-05-01T12:18:27.420503",
+            "last_retested_at_epoch": 1588480266.82229,
+            "last_retested_at_iso": "2020-05-03T04:31:06.822290",
             "status": "INACTIVE"
         },
         "hotcpm.pl": {
