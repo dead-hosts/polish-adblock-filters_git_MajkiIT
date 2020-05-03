@@ -73,8 +73,8 @@
         "mlecznepodroze.onet.pl": {
             "included_at_epoch": 1588346959.329053,
             "included_at_iso": "2020-05-01T15:29:19.329053",
-            "last_retested_at_epoch": 1588346959.338084,
-            "last_retested_at_iso": "2020-05-01T15:29:19.338084",
+            "last_retested_at_epoch": 1588480985.214999,
+            "last_retested_at_iso": "2020-05-03T04:43:05.214999",
             "status": "INACTIVE"
         },
         "onenima.com": {
@@ -115,8 +115,8 @@
         "twojawierzbica.pl": {
             "included_at_epoch": 1588346961.286423,
             "included_at_iso": "2020-05-01T15:29:21.286423",
-            "last_retested_at_epoch": 1588346989.79142,
-            "last_retested_at_iso": "2020-05-01T15:29:49.791420",
+            "last_retested_at_epoch": 1588480987.18559,
+            "last_retested_at_iso": "2020-05-03T04:43:07.185590",
             "status": "INACTIVE"
         },
         "twojwolanow.pl": {
@@ -129,8 +129,8 @@
         "ustawmundial.weszlo.com": {
             "included_at_epoch": 1588346977.107989,
             "included_at_iso": "2020-05-01T15:29:37.107989",
-            "last_retested_at_epoch": 1588346977.107989,
-            "last_retested_at_iso": "2020-05-01T15:29:37.107989",
+            "last_retested_at_epoch": 1588481002.580532,
+            "last_retested_at_iso": "2020-05-03T04:43:22.580532",
             "status": "INACTIVE"
         },
         "vidoza*.github.io": {
