@@ -2999,6 +2999,11 @@
         "expiration_date": "16-nov-2020",
         "state": "future"
     },
+    "fads.online": {
+        "epoch": 1615075200.0,
+        "expiration_date": "07-mar-2021",
+        "state": "future"
+    },
     "faidoud.com": {
         "epoch": 1594252800.0,
         "expiration_date": "09-jul-2020",
@@ -5950,8 +5955,8 @@
         "state": "future"
     },
     "legiobiznes.pl": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "legionisci.com": {
@@ -6985,8 +6990,8 @@
         "state": "future"
     },
     "mojeinfo24.pl": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "mojejaworzno.pl": {
@@ -10325,8 +10330,8 @@
         "state": "future"
     },
     "slowopodlasia.pl": {
-        "epoch": 1580860800.0,
-        "expiration_date": "05-feb-2020",
+        "epoch": 1612483200.0,
+        "expiration_date": "05-feb-2021",
         "state": "future"
     },
     "sloworegionu.pl": {
@@ -11610,8 +11615,8 @@
         "state": "future"
     },
     "tvkstella.pl": {
-        "epoch": 1585872000.0,
-        "expiration_date": "03-apr-2020",
+        "epoch": 1617408000.0,
+        "expiration_date": "03-apr-2021",
         "state": "future"
     },
     "tvlancut.com": {
