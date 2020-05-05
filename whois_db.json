@@ -940,8 +940,8 @@
         "state": "future"
     },
     "bitcoin-online.pl": {
-        "epoch": 1588550400.0,
-        "expiration_date": "04-may-2020",
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
         "state": "future"
     },
     "bitcoin.edu.pl": {
@@ -2290,8 +2290,8 @@
         "state": "future"
     },
     "e-blogi.pl": {
-        "epoch": 1588550400.0,
-        "expiration_date": "04-may-2020",
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
         "state": "future"
     },
     "e-chelmno.pl": {
@@ -2310,8 +2310,8 @@
         "state": "future"
     },
     "e-fvat.pl": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
         "state": "future"
     },
     "e-grajewo.pl": {
@@ -2955,8 +2955,8 @@
         "state": "future"
     },
     "f1wm.pl": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
         "state": "future"
     },
     "f5.pl": {
@@ -11470,8 +11470,8 @@
         "state": "future"
     },
     "tu.swinoujscie.pl": {
-        "epoch": 1588550400.0,
-        "expiration_date": "04-may-2020",
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
         "state": "future"
     },
     "tubagliwic.pl": {
