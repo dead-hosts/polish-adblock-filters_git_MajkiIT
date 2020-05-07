@@ -1120,8 +1120,8 @@
         "state": "future"
     },
     "brodnica-cbr.pl": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "brodnica.net": {
@@ -3865,8 +3865,8 @@
         "state": "future"
     },
     "golub-cgd.pl": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "gomoney.pl": {
@@ -4675,8 +4675,8 @@
         "state": "future"
     },
     "infoilawa.pl": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "infokatowice.pl": {
@@ -4707,7 +4707,7 @@
     "infomogilno24.pl": {
         "epoch": 1588809600.0,
         "expiration_date": "07-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "infopodkarpacie.pl": {
         "epoch": 1590969600.0,
@@ -4990,8 +4990,8 @@
         "state": "future"
     },
     "itvpiaseczno.pl": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "itvpolska.pl": {
@@ -6070,8 +6070,8 @@
         "state": "future"
     },
     "lipno-cli.pl": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "listaserwerowmc.pl": {
@@ -9940,8 +9940,8 @@
         "state": "future"
     },
     "rypin-cry.pl": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "rytmklawiatury.pl": {
@@ -12210,8 +12210,8 @@
         "state": "future"
     },
     "wabrzezno-cwa.pl": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "wabrzezno.pl": {
