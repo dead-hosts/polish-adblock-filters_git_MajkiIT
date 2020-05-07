@@ -1137,7 +1137,7 @@
     "brumflix.com": {
         "epoch": 1588809600.0,
         "expiration_date": "07-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "bryk.pl": {
         "epoch": 1589932800.0,
@@ -1680,8 +1680,8 @@
         "state": "future"
     },
     "cs-creativ.pl": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "cs-escape.pl": {
@@ -6480,8 +6480,8 @@
         "state": "future"
     },
     "matzoo.pl": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "maximgroup.pl": {
@@ -10155,8 +10155,8 @@
         "state": "future"
     },
     "shebang.pl": {
-        "epoch": 1588723200.0,
-        "expiration_date": "06-may-2020",
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
         "state": "future"
     },
     "shinden.pl": {
