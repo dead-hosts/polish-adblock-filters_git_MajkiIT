@@ -3470,8 +3470,8 @@
         "state": "future"
     },
     "gamehag.com": {
-        "epoch": 1588723200.0,
-        "expiration_date": "06-may-2020",
+        "epoch": 1651795200.0,
+        "expiration_date": "06-may-2022",
         "state": "future"
     },
     "gamenerd.pl": {
@@ -10730,8 +10730,8 @@
         "state": "future"
     },
     "strzyzow24.pl": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "studentka.pl": {
@@ -12157,7 +12157,7 @@
     "vixnixxer.com": {
         "epoch": 1588809600.0,
         "expiration_date": "07-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "vlepiamy.pl": {
         "epoch": 1619049600.0,
