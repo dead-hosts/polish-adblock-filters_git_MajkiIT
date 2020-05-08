@@ -3,8 +3,8 @@
         "bielski24.pl": {
             "included_at_epoch": 1587194665.0,
             "included_at_iso": "2020-04-18T07:24:25",
-            "last_retested_at_epoch": 1588826166.002394,
-            "last_retested_at_iso": "2020-05-07T04:36:06.002394",
+            "last_retested_at_epoch": 1588978119.101065,
+            "last_retested_at_iso": "2020-05-08T22:48:39.101065",
             "status": "INACTIVE"
         },
         "businessclick.*": {
@@ -17,8 +17,8 @@
         "cashowsky.pl": {
             "included_at_epoch": 1587194668.0,
             "included_at_iso": "2020-04-18T07:24:28",
-            "last_retested_at_epoch": 1588826169.53595,
-            "last_retested_at_iso": "2020-05-07T04:36:09.535950",
+            "last_retested_at_epoch": 1588978122.59887,
+            "last_retested_at_iso": "2020-05-08T22:48:42.598870",
             "status": "INACTIVE"
         },
         "cdn.mediaessence.net": {
@@ -31,22 +31,22 @@
         "forum.dvhk.to": {
             "included_at_epoch": 1587194679.0,
             "included_at_iso": "2020-04-18T07:24:39",
-            "last_retested_at_epoch": 1588826180.993144,
-            "last_retested_at_iso": "2020-05-07T04:36:20.993144",
+            "last_retested_at_epoch": 1588978133.925826,
+            "last_retested_at_iso": "2020-05-08T22:48:53.925826",
             "status": "INACTIVE"
         },
         "gomoney.pl": {
             "included_at_epoch": 1587131957.0,
             "included_at_iso": "2020-04-17T13:59:17",
-            "last_retested_at_epoch": 1588826184.177338,
-            "last_retested_at_iso": "2020-05-07T04:36:24.177338",
+            "last_retested_at_epoch": 1588978137.085946,
+            "last_retested_at_iso": "2020-05-08T22:48:57.085946",
             "status": "INACTIVE"
         },
         "heynet.pl": {
             "included_at_epoch": 1587168215.0,
             "included_at_iso": "2020-04-18T00:03:35",
-            "last_retested_at_epoch": 1588826186.620061,
-            "last_retested_at_iso": "2020-05-07T04:36:26.620061",
+            "last_retested_at_epoch": 1588978139.498917,
+            "last_retested_at_iso": "2020-05-08T22:48:59.498917",
             "status": "INACTIVE"
         },
         "hotcpm.pl": {
