@@ -1135,9 +1135,9 @@
         "state": "future"
     },
     "brumflix.com": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
-        "state": "past"
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
+        "state": "future"
     },
     "bryk.pl": {
         "epoch": 1589932800.0,
@@ -5960,8 +5960,8 @@
         "state": "future"
     },
     "legionisci.com": {
-        "epoch": 1588896000.0,
-        "expiration_date": "08-may-2020",
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
         "state": "future"
     },
     "lelow365.pl": {
@@ -8245,8 +8245,8 @@
         "state": "future"
     },
     "pclab.pl": {
-        "epoch": 1588896000.0,
-        "expiration_date": "08-may-2020",
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
         "state": "future"
     },
     "pcworld.pl": {
@@ -10585,8 +10585,8 @@
         "state": "future"
     },
     "stalowemiasto.pl": {
-        "epoch": 1588896000.0,
-        "expiration_date": "08-may-2020",
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
         "state": "future"
     },
     "starachowicka.pl": {
