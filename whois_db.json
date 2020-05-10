@@ -5935,8 +5935,8 @@
         "state": "future"
     },
     "legalniewsieci.pl": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
         "state": "future"
     },
     "legalnybukmacher.com": {
@@ -8005,8 +8005,8 @@
         "state": "future"
     },
     "opinieouczelniach.pl": {
-        "epoch": 1589068800.0,
-        "expiration_date": "10-may-2020",
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
         "state": "future"
     },
     "opoka.news": {
@@ -8830,8 +8830,8 @@
         "state": "future"
     },
     "popularnie.pl": {
-        "epoch": 1589068800.0,
-        "expiration_date": "10-may-2020",
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
         "state": "future"
     },
     "poradnikhandlowca.com.pl": {
@@ -9470,8 +9470,8 @@
         "state": "future"
     },
     "radio.bialystok.pl": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
         "state": "future"
     },
     "radio.katowice.pl": {
@@ -9505,8 +9505,8 @@
         "state": "future"
     },
     "radiobiper.info": {
-        "epoch": 1589068800.0,
-        "expiration_date": "10-may-2020",
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
         "state": "future"
     },
     "radiobonton.pl": {
@@ -9635,8 +9635,8 @@
         "state": "future"
     },
     "radiozamosc.pl": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
         "state": "future"
     },
     "radiozet.pl": {
@@ -9910,8 +9910,8 @@
         "state": "future"
     },
     "ryms.pl": {
-        "epoch": 1589068800.0,
-        "expiration_date": "10-may-2020",
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
         "state": "future"
     },
     "rynek-turystyczny.pl": {
@@ -11697,7 +11697,7 @@
     "tvskierniewice.pl": {
         "epoch": 1589068800.0,
         "expiration_date": "10-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "tvsudecka.pl": {
         "epoch": 1603584000.0,
