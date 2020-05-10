@@ -300,8 +300,8 @@
         "state": "future"
     },
     "agrofoto.pl": {
-        "epoch": 1589068800.0,
-        "expiration_date": "10-may-2020",
+        "epoch": 1740614400.0,
+        "expiration_date": "27-feb-2025",
         "state": "future"
     },
     "agrokapital.pl": {
@@ -2755,8 +2755,8 @@
         "state": "future"
     },
     "esiemiatycze.pl": {
-        "epoch": 1589068800.0,
-        "expiration_date": "10-may-2020",
+        "epoch": 1618012800.0,
+        "expiration_date": "10-apr-2021",
         "state": "future"
     },
     "eska.pl": {
@@ -5605,8 +5605,8 @@
         "state": "future"
     },
     "kozieglowy365.pl": {
-        "epoch": 1589068800.0,
-        "expiration_date": "10-may-2020",
+        "epoch": 1618012800.0,
+        "expiration_date": "10-apr-2021",
         "state": "future"
     },
     "kozienice24.pl": {
