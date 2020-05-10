@@ -105,6 +105,13 @@
             "last_retested_at_iso": "2020-05-10T04:57:45.784902",
             "status": "INACTIVE"
         },
+        "tv-polska.eu": {
+            "included_at_epoch": 1589109807.581401,
+            "included_at_iso": "2020-05-10T11:23:27.581401",
+            "last_retested_at_epoch": 1589109807.581401,
+            "last_retested_at_iso": "2020-05-10T11:23:27.581401",
+            "status": "INACTIVE"
+        },
         "twojakowala.pl": {
             "included_at_epoch": 1588346989.763237,
             "included_at_iso": "2020-05-01T15:29:49.763237",
