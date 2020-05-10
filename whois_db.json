@@ -6535,8 +6535,8 @@
         "state": "future"
     },
     "meczenazywo.tv": {
-        "epoch": 1589068800.0,
-        "expiration_date": "10-may-2020",
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
         "state": "future"
     },
     "meczstudio.com": {
@@ -8645,9 +8645,9 @@
         "state": "future"
     },
     "polska-ie.com": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
-        "state": "past"
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
+        "state": "future"
     },
     "polska-zbrojna.pl": {
         "epoch": 1615680000.0,
