@@ -879,6 +879,11 @@
         "expiration_date": "21-aug-2020",
         "state": "future"
     },
+    "bieganie.pl": {
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
+        "state": "future"
+    },
     "bieganieuskrzydla.pl": {
         "epoch": 1617753600.0,
         "expiration_date": "07-apr-2021",
@@ -2525,8 +2530,8 @@
         "state": "future"
     },
     "ejarocin.pl": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
         "state": "future"
     },
     "ekino-tv.pl": {
@@ -6840,8 +6845,8 @@
         "state": "future"
     },
     "mklr.pl": {
-        "epoch": 1589241600.0,
-        "expiration_date": "12-may-2020",
+        "epoch": 1620777600.0,
+        "expiration_date": "12-may-2021",
         "state": "future"
     },
     "mlecznepodroze.pl": {
@@ -12082,7 +12087,7 @@
     "vdztrack.com": {
         "epoch": 1589241600.0,
         "expiration_date": "12-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "vetopedia.pl": {
         "epoch": 1617235200.0,
