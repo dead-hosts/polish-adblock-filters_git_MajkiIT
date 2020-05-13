@@ -97,7 +97,7 @@
     "4b6994dfa47cee4.com": {
         "epoch": 1589241600.0,
         "expiration_date": "12-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "4clubbers.com.pl": {
         "epoch": 1709856000.0,
@@ -247,7 +247,7 @@
     "adsnet.pl": {
         "epoch": 1589328000.0,
         "expiration_date": "13-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "adtelier.pl": {
         "epoch": 1611360000.0,
@@ -1307,6 +1307,11 @@
     "ccnews.pl": {
         "epoch": 1640649600.0,
         "expiration_date": "28-dec-2021",
+        "state": "future"
+    },
+    "cda-tv.online": {
+        "epoch": 1619827200.0,
+        "expiration_date": "01-may-2021",
         "state": "future"
     },
     "cda.pl": {
@@ -13205,8 +13210,8 @@
         "state": "future"
     },
     "zolti.pl": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
         "state": "future"
     },
     "zoomica.pl": {
