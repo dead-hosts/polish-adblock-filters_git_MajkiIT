@@ -245,9 +245,9 @@
         "state": "future"
     },
     "adsnet.pl": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
-        "state": "past"
+        "epoch": 1591920000.0,
+        "expiration_date": "12-jun-2020",
+        "state": "future"
     },
     "adtelier.pl": {
         "epoch": 1611360000.0,
@@ -2230,8 +2230,8 @@
         "state": "future"
     },
     "dziejesienapodkarpaciu.pl": {
-        "epoch": 1589500800.0,
-        "expiration_date": "15-may-2020",
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
         "state": "future"
     },
     "dziennik.pl": {
@@ -11960,8 +11960,8 @@
         "state": "future"
     },
     "typertv.com.pl": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
         "state": "future"
     },
     "typosfera.net": {
@@ -12055,8 +12055,8 @@
         "state": "future"
     },
     "ustrzyki24.pl": {
-        "epoch": 1589500800.0,
-        "expiration_date": "15-may-2020",
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
         "state": "future"
     },
     "v10.pl": {
