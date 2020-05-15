@@ -80,8 +80,8 @@
         "mlecznepodroze.onet.pl": {
             "included_at_epoch": 1588346959.329053,
             "included_at_iso": "2020-05-01T15:29:19.329053",
-            "last_retested_at_epoch": 1589345307.949948,
-            "last_retested_at_iso": "2020-05-13T04:48:27.949948",
+            "last_retested_at_epoch": 1589518147.458072,
+            "last_retested_at_iso": "2020-05-15T04:49:07.458072",
             "status": "INACTIVE"
         },
         "onenima.com": {
@@ -112,39 +112,32 @@
             "last_retested_at_iso": "2020-05-13T05:00:22.958601",
             "status": "INACTIVE"
         },
-        "tv-polska.eu": {
-            "included_at_epoch": 1589346009.220357,
-            "included_at_iso": "2020-05-13T05:00:09.220357",
-            "last_retested_at_epoch": 1589346009.220357,
-            "last_retested_at_iso": "2020-05-13T05:00:09.220357",
-            "status": "INACTIVE"
-        },
         "twojakowala.pl": {
             "included_at_epoch": 1588346989.763237,
             "included_at_iso": "2020-05-01T15:29:49.763237",
-            "last_retested_at_epoch": 1589346010.481681,
-            "last_retested_at_iso": "2020-05-13T05:00:10.481681",
+            "last_retested_at_epoch": 1589518178.365244,
+            "last_retested_at_iso": "2020-05-15T04:49:38.365244",
             "status": "INACTIVE"
         },
         "twojawierzbica.pl": {
             "included_at_epoch": 1588346961.286423,
             "included_at_iso": "2020-05-01T15:29:21.286423",
-            "last_retested_at_epoch": 1589345309.922249,
-            "last_retested_at_iso": "2020-05-13T04:48:29.922249",
+            "last_retested_at_epoch": 1589518178.332752,
+            "last_retested_at_iso": "2020-05-15T04:49:38.332752",
             "status": "INACTIVE"
         },
         "twojwolanow.pl": {
             "included_at_epoch": 1588350764.928685,
             "included_at_iso": "2020-05-01T16:32:44.928685",
-            "last_retested_at_epoch": 1589346010.759804,
-            "last_retested_at_iso": "2020-05-13T05:00:10.759804",
+            "last_retested_at_epoch": 1589518178.361204,
+            "last_retested_at_iso": "2020-05-15T04:49:38.361204",
             "status": "INACTIVE"
         },
         "ustawmundial.weszlo.com": {
             "included_at_epoch": 1588346977.107989,
             "included_at_iso": "2020-05-01T15:29:37.107989",
-            "last_retested_at_epoch": 1589345325.154292,
-            "last_retested_at_iso": "2020-05-13T04:48:45.154292",
+            "last_retested_at_epoch": 1589518165.297419,
+            "last_retested_at_iso": "2020-05-15T04:49:25.297419",
             "status": "INACTIVE"
         },
         "vidoza*.github.io": {
