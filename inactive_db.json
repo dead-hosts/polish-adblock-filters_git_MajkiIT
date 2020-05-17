@@ -1,10 +1,10 @@
 {
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/domains.list": {
         "bielski24.pl": {
-            "included_at_epoch": 1587194665.0,
-            "included_at_iso": "2020-04-18T07:24:25",
-            "last_retested_at_epoch": 1589517401.278614,
-            "last_retested_at_iso": "2020-05-15T04:36:41.278614",
+            "included_at_epoch": 1589690269.140768,
+            "included_at_iso": "2020-05-17T04:37:49.140768",
+            "last_retested_at_epoch": 1589690269.140768,
+            "last_retested_at_iso": "2020-05-17T04:37:49.140768",
             "status": "INACTIVE"
         },
         "businessclick.*": {
@@ -15,10 +15,10 @@
             "status": "INVALID"
         },
         "cashowsky.pl": {
-            "included_at_epoch": 1587194668.0,
-            "included_at_iso": "2020-04-18T07:24:28",
-            "last_retested_at_epoch": 1589517404.750928,
-            "last_retested_at_iso": "2020-05-15T04:36:44.750928",
+            "included_at_epoch": 1589690272.543966,
+            "included_at_iso": "2020-05-17T04:37:52.543966",
+            "last_retested_at_epoch": 1589690272.543966,
+            "last_retested_at_iso": "2020-05-17T04:37:52.543966",
             "status": "INACTIVE"
         },
         "cdn.mediaessence.net": {
@@ -29,24 +29,24 @@
             "status": "INACTIVE"
         },
         "forum.dvhk.to": {
-            "included_at_epoch": 1587194679.0,
-            "included_at_iso": "2020-04-18T07:24:39",
-            "last_retested_at_epoch": 1589517415.93114,
-            "last_retested_at_iso": "2020-05-15T04:36:55.931140",
+            "included_at_epoch": 1589690283.410253,
+            "included_at_iso": "2020-05-17T04:38:03.410253",
+            "last_retested_at_epoch": 1589690283.441001,
+            "last_retested_at_iso": "2020-05-17T04:38:03.441001",
             "status": "INACTIVE"
         },
         "gomoney.pl": {
-            "included_at_epoch": 1587131957.0,
-            "included_at_iso": "2020-04-17T13:59:17",
-            "last_retested_at_epoch": 1589517419.047583,
-            "last_retested_at_iso": "2020-05-15T04:36:59.047583",
+            "included_at_epoch": 1589690286.418371,
+            "included_at_iso": "2020-05-17T04:38:06.418371",
+            "last_retested_at_epoch": 1589690286.46661,
+            "last_retested_at_iso": "2020-05-17T04:38:06.466610",
             "status": "INACTIVE"
         },
         "heynet.pl": {
-            "included_at_epoch": 1587168215.0,
-            "included_at_iso": "2020-04-18T00:03:35",
-            "last_retested_at_epoch": 1589517421.431148,
-            "last_retested_at_iso": "2020-05-15T04:37:01.431148",
+            "included_at_epoch": 1589690288.801438,
+            "included_at_iso": "2020-05-17T04:38:08.801438",
+            "last_retested_at_epoch": 1589690288.80685,
+            "last_retested_at_iso": "2020-05-17T04:38:08.806850",
             "status": "INACTIVE"
         },
         "hoqqzlvwukpo.com": {
