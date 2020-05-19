@@ -35,6 +35,13 @@
             "last_retested_at_iso": "2020-05-19T04:39:10.510932",
             "status": "INACTIVE"
         },
+        "forum.vwgolf.pl": {
+            "included_at_epoch": 1589885185.913906,
+            "included_at_iso": "2020-05-19T10:46:25.913906",
+            "last_retested_at_epoch": 1589885185.913906,
+            "last_retested_at_iso": "2020-05-19T10:46:25.913906",
+            "status": "INACTIVE"
+        },
         "gomoney.pl": {
             "included_at_epoch": 1589690286.418371,
             "included_at_iso": "2020-05-17T04:38:06.418371",
