@@ -9245,8 +9245,8 @@
         "state": "future"
     },
     "przegladkoninski.pl": {
-        "epoch": 1589932800.0,
-        "expiration_date": "20-may-2020",
+        "epoch": 1592524800.0,
+        "expiration_date": "19-jun-2020",
         "state": "future"
     },
     "przegladoponiarski.pl": {
@@ -10627,6 +10627,11 @@
     "starosadeckie.info": {
         "epoch": 1606435200.0,
         "expiration_date": "27-nov-2020",
+        "state": "future"
+    },
+    "start.me": {
+        "epoch": 1682726400.0,
+        "expiration_date": "29-apr-2023",
         "state": "future"
     },
     "start24.pl": {

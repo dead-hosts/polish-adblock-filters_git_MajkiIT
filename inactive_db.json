@@ -91,18 +91,11 @@
             "last_retested_at_iso": "2020-05-19T05:02:56.925026",
             "status": "INVALID"
         },
-        "mhmkuchnie.eu": {
-            "included_at_epoch": 1589691009.930697,
-            "included_at_iso": "2020-05-17T04:50:09.930697",
-            "last_retested_at_epoch": 1589863874.851654,
-            "last_retested_at_iso": "2020-05-19T04:51:14.851654",
-            "status": "INACTIVE"
-        },
         "mlecznepodroze.onet.pl": {
             "included_at_epoch": 1588346959.329053,
             "included_at_iso": "2020-05-01T15:29:19.329053",
-            "last_retested_at_epoch": 1589863875.6675,
-            "last_retested_at_iso": "2020-05-19T04:51:15.667500",
+            "last_retested_at_epoch": 1590036724.578994,
+            "last_retested_at_iso": "2020-05-21T04:52:04.578994",
             "status": "INACTIVE"
         },
         "onenima.com": {
@@ -110,13 +103,6 @@
             "included_at_iso": "2020-05-01T16:32:53.675833",
             "last_retested_at_epoch": 1589864574.447675,
             "last_retested_at_iso": "2020-05-19T05:02:54.447675",
-            "status": "INACTIVE"
-        },
-        "radioznin.fm": {
-            "included_at_epoch": 1589863893.952072,
-            "included_at_iso": "2020-05-19T04:51:33.952072",
-            "last_retested_at_epoch": 1589863893.952072,
-            "last_retested_at_iso": "2020-05-19T04:51:33.952072",
             "status": "INACTIVE"
         },
         "redir.atmcdn.pl*swf": {
@@ -140,13 +126,6 @@
             "last_retested_at_iso": "2020-05-19T05:02:58.024047",
             "status": "INACTIVE"
         },
-        "tv-polska.eu": {
-            "included_at_epoch": 1589864564.86966,
-            "included_at_iso": "2020-05-19T05:02:44.869660",
-            "last_retested_at_epoch": 1589864564.86966,
-            "last_retested_at_iso": "2020-05-19T05:02:44.869660",
-            "status": "INACTIVE"
-        },
         "twojakowala.pl": {
             "included_at_epoch": 1588346989.763237,
             "included_at_iso": "2020-05-01T15:29:49.763237",
@@ -157,8 +136,8 @@
         "twojawierzbica.pl": {
             "included_at_epoch": 1588346961.286423,
             "included_at_iso": "2020-05-01T15:29:21.286423",
-            "last_retested_at_epoch": 1589863877.645917,
-            "last_retested_at_iso": "2020-05-19T04:51:17.645917",
+            "last_retested_at_epoch": 1590036726.6375,
+            "last_retested_at_iso": "2020-05-21T04:52:06.637500",
             "status": "INACTIVE"
         },
         "twojwolanow.pl": {
@@ -171,8 +150,8 @@
         "ustawmundial.weszlo.com": {
             "included_at_epoch": 1588346977.107989,
             "included_at_iso": "2020-05-01T15:29:37.107989",
-            "last_retested_at_epoch": 1589863893.024296,
-            "last_retested_at_iso": "2020-05-19T04:51:33.024296",
+            "last_retested_at_epoch": 1590036742.380621,
+            "last_retested_at_iso": "2020-05-21T04:52:22.380621",
             "status": "INACTIVE"
         },
         "vidoza*.github.io": {
