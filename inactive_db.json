@@ -94,8 +94,8 @@
         "mlecznepodroze.onet.pl": {
             "included_at_epoch": 1588346959.329053,
             "included_at_iso": "2020-05-01T15:29:19.329053",
-            "last_retested_at_epoch": 1590036724.578994,
-            "last_retested_at_iso": "2020-05-21T04:52:04.578994",
+            "last_retested_at_epoch": 1590147453.559385,
+            "last_retested_at_iso": "2020-05-22T11:37:33.559385",
             "status": "INACTIVE"
         },
         "onenima.com": {
@@ -129,29 +129,29 @@
         "twojakowala.pl": {
             "included_at_epoch": 1588346989.763237,
             "included_at_iso": "2020-05-01T15:29:49.763237",
-            "last_retested_at_epoch": 1590037421.495691,
-            "last_retested_at_iso": "2020-05-21T05:03:41.495691",
+            "last_retested_at_epoch": 1590147484.857182,
+            "last_retested_at_iso": "2020-05-22T11:38:04.857182",
             "status": "INACTIVE"
         },
         "twojawierzbica.pl": {
             "included_at_epoch": 1588346961.286423,
             "included_at_iso": "2020-05-01T15:29:21.286423",
-            "last_retested_at_epoch": 1590036726.6375,
-            "last_retested_at_iso": "2020-05-21T04:52:06.637500",
+            "last_retested_at_epoch": 1590147484.861001,
+            "last_retested_at_iso": "2020-05-22T11:38:04.861001",
             "status": "INACTIVE"
         },
         "twojwolanow.pl": {
             "included_at_epoch": 1588350764.928685,
             "included_at_iso": "2020-05-01T16:32:44.928685",
-            "last_retested_at_epoch": 1590037421.743266,
-            "last_retested_at_iso": "2020-05-21T05:03:41.743266",
+            "last_retested_at_epoch": 1590147484.864684,
+            "last_retested_at_iso": "2020-05-22T11:38:04.864684",
             "status": "INACTIVE"
         },
         "ustawmundial.weszlo.com": {
             "included_at_epoch": 1588346977.107989,
             "included_at_iso": "2020-05-01T15:29:37.107989",
-            "last_retested_at_epoch": 1590036742.380621,
-            "last_retested_at_iso": "2020-05-21T04:52:22.380621",
+            "last_retested_at_epoch": 1590147471.619547,
+            "last_retested_at_iso": "2020-05-22T11:37:51.619547",
             "status": "INACTIVE"
         },
         "vidoza*.github.io": {

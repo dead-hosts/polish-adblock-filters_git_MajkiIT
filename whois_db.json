@@ -6907,7 +6907,7 @@
     "mobilitynews.pl": {
         "epoch": 1590105600.0,
         "expiration_date": "22-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "mobilneforum.pl": {
         "epoch": 1602547200.0,
@@ -7680,8 +7680,8 @@
         "state": "future"
     },
     "nowagazeta.pl": {
-        "epoch": 1590105600.0,
-        "expiration_date": "22-may-2020",
+        "epoch": 1621641600.0,
+        "expiration_date": "22-may-2021",
         "state": "future"
     },
     "nowaruda.info": {
@@ -9415,8 +9415,8 @@
         "state": "future"
     },
     "pyszne.pl": {
-        "epoch": 1590105600.0,
-        "expiration_date": "22-may-2020",
+        "epoch": 1621641600.0,
+        "expiration_date": "22-may-2021",
         "state": "future"
     },
     "pytamy.pl": {
@@ -10570,8 +10570,8 @@
         "state": "future"
     },
     "sprzedajsuknie.pl": {
-        "epoch": 1590105600.0,
-        "expiration_date": "22-may-2020",
+        "epoch": 1621641600.0,
+        "expiration_date": "22-may-2021",
         "state": "future"
     },
     "srkcast.com": {
