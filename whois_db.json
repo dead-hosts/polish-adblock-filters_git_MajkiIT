@@ -1465,8 +1465,8 @@
         "state": "future"
     },
     "chojnow.pl": {
-        "epoch": 1590192000.0,
-        "expiration_date": "23-may-2020",
+        "epoch": 1621728000.0,
+        "expiration_date": "23-may-2021",
         "state": "future"
     },
     "chomik-24.pl": {
@@ -2249,6 +2249,16 @@
         "expiration_date": "24-jan-2021",
         "state": "future"
     },
+    "dziennikbaltycki.pl": {
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
+        "state": "future"
+    },
+    "dzienniklodzki.pl": {
+        "epoch": 1613865600.0,
+        "expiration_date": "21-feb-2021",
+        "state": "future"
+    },
     "dzienniknarodowy.pl": {
         "epoch": 1601942400.0,
         "expiration_date": "06-oct-2020",
@@ -2897,6 +2907,11 @@
     "express.olsztyn.pl": {
         "epoch": 1624233600.0,
         "expiration_date": "21-jun-2021",
+        "state": "future"
+    },
+    "expressbydgoski.pl": {
+        "epoch": 1595894400.0,
+        "expiration_date": "28-jul-2020",
         "state": "future"
     },
     "expresselblag.pl": {
@@ -7714,6 +7729,11 @@
         "expiration_date": "01-feb-2021",
         "state": "future"
     },
+    "nowiny24.pl": {
+        "epoch": 1597968000.0,
+        "expiration_date": "21-aug-2020",
+        "state": "future"
+    },
     "nowinynyskie.com.pl": {
         "epoch": 1618012800.0,
         "expiration_date": "10-apr-2021",
@@ -10485,9 +10505,9 @@
         "state": "future"
     },
     "splendo.pl": {
-        "epoch": 1590278400.0,
-        "expiration_date": "24-may-2020",
-        "state": "past"
+        "epoch": 1592870400.0,
+        "expiration_date": "23-jun-2020",
+        "state": "future"
     },
     "spliff.pl": {
         "epoch": 1609027200.0,
@@ -12802,6 +12822,11 @@
     "wschodnik.pl": {
         "epoch": 1614297600.0,
         "expiration_date": "26-feb-2021",
+        "state": "future"
+    },
+    "wspolczesna.pl": {
+        "epoch": 1592956800.0,
+        "expiration_date": "24-jun-2020",
         "state": "future"
     },
     "wspolnypowiat.pl": {
