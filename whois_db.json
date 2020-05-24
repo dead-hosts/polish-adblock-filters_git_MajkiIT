@@ -1880,8 +1880,8 @@
         "state": "future"
     },
     "dbpolska.net": {
-        "epoch": 1590192000.0,
-        "expiration_date": "23-may-2020",
+        "epoch": 1621728000.0,
+        "expiration_date": "23-may-2021",
         "state": "future"
     },
     "ddb24.pl": {
@@ -1975,8 +1975,8 @@
         "state": "future"
     },
     "diagnozujmy.pl": {
-        "epoch": 1590278400.0,
-        "expiration_date": "24-may-2020",
+        "epoch": 1621814400.0,
+        "expiration_date": "24-may-2021",
         "state": "future"
     },
     "dieroten.pl": {
@@ -7060,8 +7060,8 @@
         "state": "future"
     },
     "money.pl": {
-        "epoch": 1590192000.0,
-        "expiration_date": "23-may-2020",
+        "epoch": 1621728000.0,
+        "expiration_date": "23-may-2021",
         "state": "future"
     },
     "morele.net": {
@@ -10487,7 +10487,7 @@
     "splendo.pl": {
         "epoch": 1590278400.0,
         "expiration_date": "24-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "spliff.pl": {
         "epoch": 1609027200.0,
@@ -11852,7 +11852,7 @@
     "twojzwolen.pl": {
         "epoch": 1590278400.0,
         "expiration_date": "24-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "tychy.info": {
         "epoch": 1615161600.0,
