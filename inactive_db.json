@@ -56,13 +56,6 @@
             "last_retested_at_iso": "2020-05-25T10:41:02.050766",
             "status": "INACTIVE"
         },
-        "gry.misiakowo.pl": {
-            "included_at_epoch": 1590360192.449808,
-            "included_at_iso": "2020-05-24T22:43:12.449808",
-            "last_retested_at_epoch": 1590360192.452389,
-            "last_retested_at_iso": "2020-05-24T22:43:12.452389",
-            "status": "INACTIVE"
-        },
         "heynet.pl": {
             "included_at_epoch": 1589690288.801438,
             "included_at_iso": "2020-05-17T04:38:08.801438",
@@ -157,8 +150,8 @@
         "twojzwolen.pl": {
             "included_at_epoch": 1590360166.09274,
             "included_at_iso": "2020-05-24T22:42:46.092740",
-            "last_retested_at_epoch": 1590360166.09274,
-            "last_retested_at_iso": "2020-05-24T22:42:46.092740",
+            "last_retested_at_epoch": 1590449909.625239,
+            "last_retested_at_iso": "2020-05-25T23:38:29.625239",
             "status": "INACTIVE"
         },
         "ustawmundial.weszlo.com": {
