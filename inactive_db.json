@@ -3,8 +3,8 @@
         "bielski24.pl": {
             "included_at_epoch": 1589690269.140768,
             "included_at_iso": "2020-05-17T04:37:49.140768",
-            "last_retested_at_epoch": 1590295223.491381,
-            "last_retested_at_iso": "2020-05-24T04:40:23.491381",
+            "last_retested_at_epoch": 1590403242.921088,
+            "last_retested_at_iso": "2020-05-25T10:40:42.921088",
             "status": "INACTIVE"
         },
         "businessclick.*": {
@@ -17,8 +17,8 @@
         "cashowsky.pl": {
             "included_at_epoch": 1589690272.543966,
             "included_at_iso": "2020-05-17T04:37:52.543966",
-            "last_retested_at_epoch": 1590295227.116824,
-            "last_retested_at_iso": "2020-05-24T04:40:27.116824",
+            "last_retested_at_epoch": 1590403246.562036,
+            "last_retested_at_iso": "2020-05-25T10:40:46.562036",
             "status": "INACTIVE"
         },
         "cdn.mediaessence.net": {
@@ -31,36 +31,29 @@
         "ewpl.com.au": {
             "included_at_epoch": 1590035987.357536,
             "included_at_iso": "2020-05-21T04:39:47.357536",
-            "last_retested_at_epoch": 1590295236.85755,
-            "last_retested_at_iso": "2020-05-24T04:40:36.857550",
+            "last_retested_at_epoch": 1590403256.857603,
+            "last_retested_at_iso": "2020-05-25T10:40:56.857603",
             "status": "INACTIVE"
         },
         "fc.hub2.com.pl": {
             "included_at_epoch": 1590035988.252617,
             "included_at_iso": "2020-05-21T04:39:48.252617",
-            "last_retested_at_epoch": 1590295237.754386,
-            "last_retested_at_iso": "2020-05-24T04:40:37.754386",
-            "status": "INACTIVE"
-        },
-        "forum.cdaction.pl": {
-            "included_at_epoch": 1590295238.697118,
-            "included_at_iso": "2020-05-24T04:40:38.697118",
-            "last_retested_at_epoch": 1590295238.697118,
-            "last_retested_at_iso": "2020-05-24T04:40:38.697118",
+            "last_retested_at_epoch": 1590403257.76658,
+            "last_retested_at_iso": "2020-05-25T10:40:57.766580",
             "status": "INACTIVE"
         },
         "forum.dvhk.to": {
             "included_at_epoch": 1589690283.410253,
             "included_at_iso": "2020-05-17T04:38:03.410253",
-            "last_retested_at_epoch": 1590295238.740227,
-            "last_retested_at_iso": "2020-05-24T04:40:38.740227",
+            "last_retested_at_epoch": 1590403258.763687,
+            "last_retested_at_iso": "2020-05-25T10:40:58.763687",
             "status": "INACTIVE"
         },
         "gomoney.pl": {
             "included_at_epoch": 1589690286.418371,
             "included_at_iso": "2020-05-17T04:38:06.418371",
-            "last_retested_at_epoch": 1590295241.988655,
-            "last_retested_at_iso": "2020-05-24T04:40:41.988655",
+            "last_retested_at_epoch": 1590403262.050766,
+            "last_retested_at_iso": "2020-05-25T10:41:02.050766",
             "status": "INACTIVE"
         },
         "gry.misiakowo.pl": {
@@ -73,8 +66,8 @@
         "heynet.pl": {
             "included_at_epoch": 1589690288.801438,
             "included_at_iso": "2020-05-17T04:38:08.801438",
-            "last_retested_at_epoch": 1590295244.447985,
-            "last_retested_at_iso": "2020-05-24T04:40:44.447985",
+            "last_retested_at_epoch": 1590403264.557853,
+            "last_retested_at_iso": "2020-05-25T10:41:04.557853",
             "status": "INACTIVE"
         },
         "hoqqzlvwukpo.com": {
