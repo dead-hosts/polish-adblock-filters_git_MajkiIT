@@ -3,8 +3,8 @@
         "bielski24.pl": {
             "included_at_epoch": 1589690269.140768,
             "included_at_iso": "2020-05-17T04:37:49.140768",
-            "last_retested_at_epoch": 1590403242.921088,
-            "last_retested_at_iso": "2020-05-25T10:40:42.921088",
+            "last_retested_at_epoch": 1590554559.224993,
+            "last_retested_at_iso": "2020-05-27T04:42:39.224993",
             "status": "INACTIVE"
         },
         "businessclick.*": {
@@ -17,8 +17,8 @@
         "cashowsky.pl": {
             "included_at_epoch": 1589690272.543966,
             "included_at_iso": "2020-05-17T04:37:52.543966",
-            "last_retested_at_epoch": 1590403246.562036,
-            "last_retested_at_iso": "2020-05-25T10:40:46.562036",
+            "last_retested_at_epoch": 1590554562.651854,
+            "last_retested_at_iso": "2020-05-27T04:42:42.651854",
             "status": "INACTIVE"
         },
         "cdn.mediaessence.net": {
@@ -31,36 +31,43 @@
         "ewpl.com.au": {
             "included_at_epoch": 1590035987.357536,
             "included_at_iso": "2020-05-21T04:39:47.357536",
-            "last_retested_at_epoch": 1590403256.857603,
-            "last_retested_at_iso": "2020-05-25T10:40:56.857603",
+            "last_retested_at_epoch": 1590554572.41244,
+            "last_retested_at_iso": "2020-05-27T04:42:52.412440",
             "status": "INACTIVE"
         },
         "fc.hub2.com.pl": {
             "included_at_epoch": 1590035988.252617,
             "included_at_iso": "2020-05-21T04:39:48.252617",
-            "last_retested_at_epoch": 1590403257.76658,
-            "last_retested_at_iso": "2020-05-25T10:40:57.766580",
+            "last_retested_at_epoch": 1590554573.258266,
+            "last_retested_at_iso": "2020-05-27T04:42:53.258266",
             "status": "INACTIVE"
         },
         "forum.dvhk.to": {
             "included_at_epoch": 1589690283.410253,
             "included_at_iso": "2020-05-17T04:38:03.410253",
-            "last_retested_at_epoch": 1590403258.763687,
-            "last_retested_at_iso": "2020-05-25T10:40:58.763687",
+            "last_retested_at_epoch": 1590554574.232536,
+            "last_retested_at_iso": "2020-05-27T04:42:54.232536",
+            "status": "INACTIVE"
+        },
+        "forum.vwgolf.pl": {
+            "included_at_epoch": 1590554574.378409,
+            "included_at_iso": "2020-05-27T04:42:54.378409",
+            "last_retested_at_epoch": 1590554574.378409,
+            "last_retested_at_iso": "2020-05-27T04:42:54.378409",
             "status": "INACTIVE"
         },
         "gomoney.pl": {
             "included_at_epoch": 1589690286.418371,
             "included_at_iso": "2020-05-17T04:38:06.418371",
-            "last_retested_at_epoch": 1590403262.050766,
-            "last_retested_at_iso": "2020-05-25T10:41:02.050766",
+            "last_retested_at_epoch": 1590554577.32162,
+            "last_retested_at_iso": "2020-05-27T04:42:57.321620",
             "status": "INACTIVE"
         },
         "heynet.pl": {
             "included_at_epoch": 1589690288.801438,
             "included_at_iso": "2020-05-17T04:38:08.801438",
-            "last_retested_at_epoch": 1590403264.557853,
-            "last_retested_at_iso": "2020-05-25T10:41:04.557853",
+            "last_retested_at_epoch": 1590554579.688471,
+            "last_retested_at_iso": "2020-05-27T04:42:59.688471",
             "status": "INACTIVE"
         },
         "hoqqzlvwukpo.com": {
@@ -150,8 +157,8 @@
         "twojzwolen.pl": {
             "included_at_epoch": 1590360166.09274,
             "included_at_iso": "2020-05-24T22:42:46.092740",
-            "last_retested_at_epoch": 1590449909.625239,
-            "last_retested_at_iso": "2020-05-25T23:38:29.625239",
+            "last_retested_at_epoch": 1590554552.744586,
+            "last_retested_at_iso": "2020-05-27T04:42:32.744586",
             "status": "INACTIVE"
         },
         "ustawmundial.weszlo.com": {
