@@ -340,8 +340,8 @@
         "state": "future"
     },
     "aktyw14.net": {
-        "epoch": 1590624000.0,
-        "expiration_date": "28-may-2020",
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
         "state": "future"
     },
     "akwarystyczne.info": {
@@ -5774,6 +5774,11 @@
         "expiration_date": "30-jun-2020",
         "state": "future"
     },
+    "krzemienica.pl": {
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
+        "state": "future"
+    },
     "krzesla-biurowe.pl": {
         "epoch": 1605830400.0,
         "expiration_date": "20-nov-2020",
@@ -7495,8 +7500,8 @@
         "state": "future"
     },
     "naszwodzislaw.com": {
-        "epoch": 1590624000.0,
-        "expiration_date": "28-may-2020",
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
         "state": "future"
     },
     "natemat.pl": {
@@ -7894,6 +7899,11 @@
         "expiration_date": "14-jan-2021",
         "state": "future"
     },
+    "oddweird.pl": {
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
+        "state": "future"
+    },
     "odkryjbitcoin.pl": {
         "epoch": 1614816000.0,
         "expiration_date": "04-mar-2021",
@@ -8120,8 +8130,8 @@
         "state": "future"
     },
     "ostrowiecnr1.pl": {
-        "epoch": 1590710400.0,
-        "expiration_date": "29-may-2020",
+        "epoch": 1599696000.0,
+        "expiration_date": "10-sep-2020",
         "state": "future"
     },
     "ostrowmaz.com": {
@@ -9830,8 +9840,8 @@
         "state": "future"
     },
     "resellernews.pl": {
-        "epoch": 1590624000.0,
-        "expiration_date": "28-may-2020",
+        "epoch": 1619568000.0,
+        "expiration_date": "28-apr-2021",
         "state": "future"
     },
     "resinet.pl": {
@@ -11437,7 +11447,7 @@
     "trawka.org": {
         "epoch": 1590710400.0,
         "expiration_date": "29-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "treningaerobowy.pl": {
         "epoch": 1618099200.0,
@@ -11852,6 +11862,11 @@
     "twojeglubczyce.pl": {
         "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
+        "state": "future"
+    },
+    "twojejaslo.pl": {
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
         "state": "future"
     },
     "twojepajeczno.pl": {
