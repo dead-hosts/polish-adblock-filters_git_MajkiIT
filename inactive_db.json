@@ -56,11 +56,46 @@
             "last_retested_at_iso": "2020-05-29T05:14:50.495567",
             "status": "INACTIVE"
         },
+        "mlecznepodroze.onet.pl": {
+            "included_at_epoch": 1590795287.324934,
+            "included_at_iso": "2020-05-29T23:34:47.324934",
+            "last_retested_at_epoch": 1590795287.334925,
+            "last_retested_at_iso": "2020-05-29T23:34:47.334925",
+            "status": "INACTIVE"
+        },
+        "twojakowala.pl": {
+            "included_at_epoch": 1590795316.628113,
+            "included_at_iso": "2020-05-29T23:35:16.628113",
+            "last_retested_at_epoch": 1590795316.730494,
+            "last_retested_at_iso": "2020-05-29T23:35:16.730494",
+            "status": "INACTIVE"
+        },
+        "twojawierzbica.pl": {
+            "included_at_epoch": 1590795289.277187,
+            "included_at_iso": "2020-05-29T23:34:49.277187",
+            "last_retested_at_epoch": 1590795316.737195,
+            "last_retested_at_iso": "2020-05-29T23:35:16.737195",
+            "status": "INACTIVE"
+        },
+        "twojwolanow.pl": {
+            "included_at_epoch": 1590795316.669066,
+            "included_at_iso": "2020-05-29T23:35:16.669066",
+            "last_retested_at_epoch": 1590795317.055657,
+            "last_retested_at_iso": "2020-05-29T23:35:17.055657",
+            "status": "INACTIVE"
+        },
         "twojzwolen.pl": {
             "included_at_epoch": 1590360166.09274,
             "included_at_iso": "2020-05-24T22:42:46.092740",
             "last_retested_at_epoch": 1590727454.941427,
             "last_retested_at_iso": "2020-05-29T04:44:14.941427",
+            "status": "INACTIVE"
+        },
+        "ustawmundial.weszlo.com": {
+            "included_at_epoch": 1590795304.340254,
+            "included_at_iso": "2020-05-29T23:35:04.340254",
+            "last_retested_at_epoch": 1590795304.340254,
+            "last_retested_at_iso": "2020-05-29T23:35:04.340254",
             "status": "INACTIVE"
         }
     },
