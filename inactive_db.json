@@ -10,8 +10,8 @@
         "businessclick.*": {
             "included_at_epoch": 1588350772.441768,
             "included_at_iso": "2020-05-01T16:32:52.441768",
-            "last_retested_at_epoch": 1590555936.254477,
-            "last_retested_at_iso": "2020-05-27T05:05:36.254477",
+            "last_retested_at_epoch": 1590729285.296021,
+            "last_retested_at_iso": "2020-05-29T05:14:45.296021",
             "status": "INVALID"
         },
         "cashowsky.pl": {
@@ -24,8 +24,8 @@
         "cdn.mediaessence.net": {
             "included_at_epoch": 1588350776.168065,
             "included_at_iso": "2020-05-01T16:32:56.168065",
-            "last_retested_at_epoch": 1590555939.843932,
-            "last_retested_at_iso": "2020-05-27T05:05:39.843932",
+            "last_retested_at_epoch": 1590729289.315945,
+            "last_retested_at_iso": "2020-05-29T05:14:49.315945",
             "status": "INACTIVE"
         },
         "ewpl.com.au": {
@@ -49,13 +49,6 @@
             "last_retested_at_iso": "2020-05-29T04:44:37.860919",
             "status": "INACTIVE"
         },
-        "get.x-link.pl": {
-            "included_at_epoch": 1590555933.184868,
-            "included_at_iso": "2020-05-27T05:05:33.184868",
-            "last_retested_at_epoch": 1590555933.184868,
-            "last_retested_at_iso": "2020-05-27T05:05:33.184868",
-            "status": "INACTIVE"
-        },
         "gomoney.pl": {
             "included_at_epoch": 1589690286.418371,
             "included_at_iso": "2020-05-17T04:38:06.418371",
@@ -73,29 +66,29 @@
         "hoqqzlvwukpo.com": {
             "included_at_epoch": 1589198060.229657,
             "included_at_iso": "2020-05-11T11:54:20.229657",
-            "last_retested_at_epoch": 1590555940.904668,
-            "last_retested_at_iso": "2020-05-27T05:05:40.904668",
+            "last_retested_at_epoch": 1590729290.495567,
+            "last_retested_at_iso": "2020-05-29T05:14:50.495567",
             "status": "INACTIVE"
         },
         "hotcpm.pl": {
             "included_at_epoch": 1588350776.23033,
             "included_at_iso": "2020-05-01T16:32:56.230330",
-            "last_retested_at_epoch": 1590555939.90408,
-            "last_retested_at_iso": "2020-05-27T05:05:39.904080",
+            "last_retested_at_epoch": 1590729289.38102,
+            "last_retested_at_iso": "2020-05-29T05:14:49.381020",
             "status": "INACTIVE"
         },
         "img.dvhk.to": {
             "included_at_epoch": 1588350773.286657,
             "included_at_iso": "2020-05-01T16:32:53.286657",
-            "last_retested_at_epoch": 1590555936.968454,
-            "last_retested_at_iso": "2020-05-27T05:05:36.968454",
+            "last_retested_at_epoch": 1590729286.10247,
+            "last_retested_at_iso": "2020-05-29T05:14:46.102470",
             "status": "INACTIVE"
         },
         "livemecz.*": {
             "included_at_epoch": 1588350776.225517,
             "included_at_iso": "2020-05-01T16:32:56.225517",
-            "last_retested_at_epoch": 1590555939.899285,
-            "last_retested_at_iso": "2020-05-27T05:05:39.899285",
+            "last_retested_at_epoch": 1590729289.376185,
+            "last_retested_at_iso": "2020-05-29T05:14:49.376185",
             "status": "INVALID"
         },
         "mlecznepodroze.onet.pl": {
@@ -108,29 +101,29 @@
         "onenima.com": {
             "included_at_epoch": 1588350773.675833,
             "included_at_iso": "2020-05-01T16:32:53.675833",
-            "last_retested_at_epoch": 1590555937.369283,
-            "last_retested_at_iso": "2020-05-27T05:05:37.369283",
+            "last_retested_at_epoch": 1590729286.53924,
+            "last_retested_at_iso": "2020-05-29T05:14:46.539240",
             "status": "INACTIVE"
         },
         "redir.atmcdn.pl*swf": {
             "included_at_epoch": 1588350773.839874,
             "included_at_iso": "2020-05-01T16:32:53.839874",
-            "last_retested_at_epoch": 1590555937.510104,
-            "last_retested_at_iso": "2020-05-27T05:05:37.510104",
+            "last_retested_at_epoch": 1590729286.721501,
+            "last_retested_at_iso": "2020-05-29T05:14:46.721501",
             "status": "INVALID"
         },
         "request.dqst.pl": {
             "included_at_epoch": 1588350773.850755,
             "included_at_iso": "2020-05-01T16:32:53.850755",
-            "last_retested_at_epoch": 1590555937.521949,
-            "last_retested_at_iso": "2020-05-27T05:05:37.521949",
+            "last_retested_at_epoch": 1590729286.735517,
+            "last_retested_at_iso": "2020-05-29T05:14:46.735517",
             "status": "INACTIVE"
         },
         "sitebravefull.info": {
             "included_at_epoch": 1588350777.455272,
             "included_at_iso": "2020-05-01T16:32:57.455272",
-            "last_retested_at_epoch": 1590555941.038603,
-            "last_retested_at_iso": "2020-05-27T05:05:41.038603",
+            "last_retested_at_epoch": 1590729290.637601,
+            "last_retested_at_iso": "2020-05-29T05:14:50.637601",
             "status": "INACTIVE"
         },
         "twojakowala.pl": {
@@ -171,29 +164,29 @@
         "vidoza*.github.io": {
             "included_at_epoch": 1588350782.145324,
             "included_at_iso": "2020-05-01T16:33:02.145324",
-            "last_retested_at_epoch": 1590555945.829072,
-            "last_retested_at_iso": "2020-05-27T05:05:45.829072",
+            "last_retested_at_epoch": 1590729295.74409,
+            "last_retested_at_iso": "2020-05-29T05:14:55.744090",
             "status": "INACTIVE"
         },
         "www.booclick.pl": {
             "included_at_epoch": 1588350769.003654,
             "included_at_iso": "2020-05-01T16:32:49.003654",
-            "last_retested_at_epoch": 1590555932.882106,
-            "last_retested_at_iso": "2020-05-27T05:05:32.882106",
+            "last_retested_at_epoch": 1590729281.502779,
+            "last_retested_at_iso": "2020-05-29T05:14:41.502779",
             "status": "INACTIVE"
         },
         "www.naotwocku.pl": {
             "included_at_epoch": 1588350769.327314,
             "included_at_iso": "2020-05-01T16:32:49.327314",
-            "last_retested_at_epoch": 1590555933.180674,
-            "last_retested_at_iso": "2020-05-27T05:05:33.180674",
+            "last_retested_at_epoch": 1590729281.881568,
+            "last_retested_at_iso": "2020-05-29T05:14:41.881568",
             "status": "INACTIVE"
         },
         "zory.dlawas.pl": {
             "included_at_epoch": 1588350771.496618,
             "included_at_iso": "2020-05-01T16:32:51.496618",
-            "last_retested_at_epoch": 1590555935.346403,
-            "last_retested_at_iso": "2020-05-27T05:05:35.346403",
+            "last_retested_at_epoch": 1590729284.289099,
+            "last_retested_at_iso": "2020-05-29T05:14:44.289099",
             "status": "INACTIVE"
         }
     },

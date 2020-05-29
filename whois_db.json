@@ -1774,6 +1774,11 @@
         "expiration_date": "02-mar-2022",
         "state": "future"
     },
+    "czatwciemno.pl": {
+        "epoch": 1592956800.0,
+        "expiration_date": "24-jun-2020",
+        "state": "future"
+    },
     "czecho.pl": {
         "epoch": 1619740800.0,
         "expiration_date": "30-apr-2021",
@@ -5047,6 +5052,11 @@
     "itvpolska.pl": {
         "epoch": 1593216000.0,
         "expiration_date": "27-jun-2020",
+        "state": "future"
+    },
+    "itvregion.pl": {
+        "epoch": 1605571200.0,
+        "expiration_date": "17-nov-2020",
         "state": "future"
     },
     "itvszubin.pl": {
@@ -12219,6 +12229,11 @@
         "expiration_date": "24-jan-2021",
         "state": "future"
     },
+    "vistulabs.pl": {
+        "epoch": 1604016000.0,
+        "expiration_date": "30-oct-2020",
+        "state": "future"
+    },
     "visualrevenue.com": {
         "epoch": 1606694400.0,
         "expiration_date": "30-nov-2020",
@@ -12965,8 +12980,8 @@
         "state": "future"
     },
     "wyspagier.pl": {
-        "epoch": 1590710400.0,
-        "expiration_date": "29-may-2020",
+        "epoch": 1622246400.0,
+        "expiration_date": "29-may-2021",
         "state": "future"
     },
     "wyspiarzniebieski.pl": {
