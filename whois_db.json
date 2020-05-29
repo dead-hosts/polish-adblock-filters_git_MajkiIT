@@ -715,8 +715,8 @@
         "state": "future"
     },
     "b24tv.pl": {
-        "epoch": 1590624000.0,
-        "expiration_date": "28-may-2020",
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
         "state": "future"
     },
     "b54m4qbmt0b9.com": {
@@ -765,8 +765,8 @@
         "state": "future"
     },
     "bbelements.com": {
-        "epoch": 1590710400.0,
-        "expiration_date": "29-may-2020",
+        "epoch": 1622246400.0,
+        "expiration_date": "29-may-2021",
         "state": "future"
     },
     "bebetalent.pl": {
@@ -1924,6 +1924,11 @@
         "expiration_date": "04-jun-2020",
         "state": "future"
     },
+    "decoupage24.pl": {
+        "epoch": 1596585600.0,
+        "expiration_date": "05-aug-2020",
+        "state": "future"
+    },
     "defence24.pl": {
         "epoch": 1621555200.0,
         "expiration_date": "21-may-2021",
@@ -2000,8 +2005,8 @@
         "state": "future"
     },
     "disco-polo.info": {
-        "epoch": 1590624000.0,
-        "expiration_date": "28-may-2020",
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
         "state": "future"
     },
     "disqusads.com": {
@@ -3119,6 +3124,11 @@
         "expiration_date": "27-sep-2020",
         "state": "future"
     },
+    "faunaflora.com.pl": {
+        "epoch": 1613174400.0,
+        "expiration_date": "13-feb-2021",
+        "state": "future"
+    },
     "fb-zmiana-koloru.pl": {
         "epoch": 1596412800,
         "expiration_date": "03-aug-2020",
@@ -3317,6 +3327,11 @@
     "forguides.pl": {
         "epoch": 1605398400.0,
         "expiration_date": "15-nov-2020",
+        "state": "future"
+    },
+    "fors.pl": {
+        "epoch": 1612137600.0,
+        "expiration_date": "01-feb-2021",
         "state": "future"
     },
     "forsal.pl": {
@@ -11535,8 +11550,8 @@
         "state": "future"
     },
     "tubasiedlec.pl": {
-        "epoch": 1590710400.0,
-        "expiration_date": "29-may-2020",
+        "epoch": 1622246400.0,
+        "expiration_date": "29-may-2021",
         "state": "future"
     },
     "tubawyszkowa.pl": {
