@@ -3,8 +3,8 @@
         "bielski24.pl": {
             "included_at_epoch": 1589690269.140768,
             "included_at_iso": "2020-05-17T04:37:49.140768",
-            "last_retested_at_epoch": 1590727461.787264,
-            "last_retested_at_iso": "2020-05-29T04:44:21.787264",
+            "last_retested_at_epoch": 1590835092.275513,
+            "last_retested_at_iso": "2020-05-30T10:38:12.275513",
             "status": "INACTIVE"
         },
         "businessclick.*": {
@@ -17,8 +17,8 @@
         "cashowsky.pl": {
             "included_at_epoch": 1589690272.543966,
             "included_at_iso": "2020-05-17T04:37:52.543966",
-            "last_retested_at_epoch": 1590727465.422081,
-            "last_retested_at_iso": "2020-05-29T04:44:25.422081",
+            "last_retested_at_epoch": 1590835095.749208,
+            "last_retested_at_iso": "2020-05-30T10:38:15.749208",
             "status": "INACTIVE"
         },
         "cdn.mediaessence.net": {
@@ -31,36 +31,36 @@
         "ewpl.com.au": {
             "included_at_epoch": 1590035987.357536,
             "included_at_iso": "2020-05-21T04:39:47.357536",
-            "last_retested_at_epoch": 1590727475.81365,
-            "last_retested_at_iso": "2020-05-29T04:44:35.813650",
+            "last_retested_at_epoch": 1590835105.668853,
+            "last_retested_at_iso": "2020-05-30T10:38:25.668853",
             "status": "INACTIVE"
         },
         "fc.hub2.com.pl": {
             "included_at_epoch": 1590035988.252617,
             "included_at_iso": "2020-05-21T04:39:48.252617",
-            "last_retested_at_epoch": 1590727476.813678,
-            "last_retested_at_iso": "2020-05-29T04:44:36.813678",
+            "last_retested_at_epoch": 1590835106.616503,
+            "last_retested_at_iso": "2020-05-30T10:38:26.616503",
             "status": "INACTIVE"
         },
         "forum.dvhk.to": {
             "included_at_epoch": 1589690283.410253,
             "included_at_iso": "2020-05-17T04:38:03.410253",
-            "last_retested_at_epoch": 1590727477.860919,
-            "last_retested_at_iso": "2020-05-29T04:44:37.860919",
+            "last_retested_at_epoch": 1590835107.61998,
+            "last_retested_at_iso": "2020-05-30T10:38:27.619980",
             "status": "INACTIVE"
         },
         "gomoney.pl": {
             "included_at_epoch": 1589690286.418371,
             "included_at_iso": "2020-05-17T04:38:06.418371",
-            "last_retested_at_epoch": 1590727481.137562,
-            "last_retested_at_iso": "2020-05-29T04:44:41.137562",
+            "last_retested_at_epoch": 1590835110.753337,
+            "last_retested_at_iso": "2020-05-30T10:38:30.753337",
             "status": "INACTIVE"
         },
         "heynet.pl": {
             "included_at_epoch": 1589690288.801438,
             "included_at_iso": "2020-05-17T04:38:08.801438",
-            "last_retested_at_epoch": 1590727483.633575,
-            "last_retested_at_iso": "2020-05-29T04:44:43.633575",
+            "last_retested_at_epoch": 1590835113.145675,
+            "last_retested_at_iso": "2020-05-30T10:38:33.145675",
             "status": "INACTIVE"
         },
         "hoqqzlvwukpo.com": {
@@ -150,8 +150,8 @@
         "twojzwolen.pl": {
             "included_at_epoch": 1590360166.09274,
             "included_at_iso": "2020-05-24T22:42:46.092740",
-            "last_retested_at_epoch": 1590727454.941427,
-            "last_retested_at_iso": "2020-05-29T04:44:14.941427",
+            "last_retested_at_epoch": 1590835085.744397,
+            "last_retested_at_iso": "2020-05-30T10:38:05.744397",
             "status": "INACTIVE"
         },
         "ustawmundial.weszlo.com": {
