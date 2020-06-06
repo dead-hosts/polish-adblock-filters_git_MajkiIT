@@ -122,8 +122,8 @@
         "twojawierzbica.pl": {
             "included_at_epoch": 1590795289.277187,
             "included_at_iso": "2020-05-29T23:34:49.277187",
-            "last_retested_at_epoch": 1591247198.384356,
-            "last_retested_at_iso": "2020-06-04T05:06:38.384356",
+            "last_retested_at_epoch": 1591419641.018569,
+            "last_retested_at_iso": "2020-06-06T05:00:41.018569",
             "status": "INACTIVE"
         },
         "twojwolanow.pl": {
@@ -143,8 +143,8 @@
         "ustawmundial.weszlo.com": {
             "included_at_epoch": 1590795304.340254,
             "included_at_iso": "2020-05-29T23:35:04.340254",
-            "last_retested_at_epoch": 1591247213.714445,
-            "last_retested_at_iso": "2020-06-04T05:06:53.714445",
+            "last_retested_at_epoch": 1591419656.185606,
+            "last_retested_at_iso": "2020-06-06T05:00:56.185606",
             "status": "INACTIVE"
         },
         "vidoza*.github.io": {
