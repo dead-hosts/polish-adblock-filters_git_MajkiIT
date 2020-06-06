@@ -920,8 +920,8 @@
         "state": "future"
     },
     "binary24.pl": {
-        "epoch": 1591315200.0,
-        "expiration_date": "05-jun-2020",
+        "epoch": 1622851200.0,
+        "expiration_date": "05-jun-2021",
         "state": "future"
     },
     "biokurier.pl": {
@@ -1712,7 +1712,7 @@
     "cs-porobieni.pl": {
         "epoch": 1591401600.0,
         "expiration_date": "06-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "cs-soplica.com": {
         "epoch": 1615507200.0,
@@ -2770,8 +2770,8 @@
         "state": "future"
     },
     "ergokantor.pl": {
-        "epoch": 1591315200.0,
-        "expiration_date": "05-jun-2020",
+        "epoch": 1622851200.0,
+        "expiration_date": "05-jun-2021",
         "state": "future"
     },
     "erocentrum.pl": {
@@ -4010,8 +4010,8 @@
         "state": "future"
     },
     "gostyn24.pl": {
-        "epoch": 1591401600.0,
-        "expiration_date": "06-jun-2020",
+        "epoch": 1622937600.0,
+        "expiration_date": "06-jun-2021",
         "state": "future"
     },
     "gostynin.info": {
@@ -4212,7 +4212,7 @@
     "gst24.pl": {
         "epoch": 1591401600.0,
         "expiration_date": "06-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "gtaforum.pl": {
         "epoch": 1575504000,
