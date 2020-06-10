@@ -56,13 +56,6 @@
             "last_retested_at_iso": "2020-06-06T04:48:29.970476",
             "status": "INACTIVE"
         },
-        "hoqqzlvwukpo.com": {
-            "included_at_epoch": 1589198060.229657,
-            "included_at_iso": "2020-05-11T11:54:20.229657",
-            "last_retested_at_epoch": 1591420300.176251,
-            "last_retested_at_iso": "2020-06-06T05:11:40.176251",
-            "status": "INACTIVE"
-        },
         "hotcpm.pl": {
             "included_at_epoch": 1590797175.158903,
             "included_at_iso": "2020-05-30T00:06:15.158903",
