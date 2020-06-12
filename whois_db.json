@@ -1210,8 +1210,8 @@
         "state": "future"
     },
     "businessinsider.com.pl": {
-        "epoch": 1591660800.0,
-        "expiration_date": "09-jun-2020",
+        "epoch": 1623196800.0,
+        "expiration_date": "09-jun-2021",
         "state": "future"
     },
     "businessjournal.pl": {
@@ -1535,8 +1535,8 @@
         "state": "future"
     },
     "cinema-city.pl": {
-        "epoch": 1591488000.0,
-        "expiration_date": "07-jun-2020",
+        "epoch": 1623024000.0,
+        "expiration_date": "07-jun-2021",
         "state": "future"
     },
     "cire.pl": {
@@ -1710,9 +1710,9 @@
         "state": "future"
     },
     "cs-porobieni.pl": {
-        "epoch": 1591401600.0,
-        "expiration_date": "06-jun-2020",
-        "state": "past"
+        "epoch": 1622937600.0,
+        "expiration_date": "06-jun-2021",
+        "state": "future"
     },
     "cs-soplica.com": {
         "epoch": 1615507200.0,
@@ -2060,8 +2060,8 @@
         "state": "future"
     },
     "dobra-mama.pl": {
-        "epoch": 1591660800.0,
-        "expiration_date": "09-jun-2020",
+        "epoch": 1623196800.0,
+        "expiration_date": "09-jun-2021",
         "state": "future"
     },
     "dobramama.pl": {
@@ -2650,8 +2650,8 @@
         "state": "future"
     },
     "elektroinstalacje.info": {
-        "epoch": 1591660800.0,
-        "expiration_date": "09-jun-2020",
+        "epoch": 1623196800.0,
+        "expiration_date": "09-jun-2021",
         "state": "future"
     },
     "elektryka.org": {
@@ -2915,8 +2915,8 @@
         "state": "future"
     },
     "express-miejski.pl": {
-        "epoch": 1591833600.0,
-        "expiration_date": "11-jun-2020",
+        "epoch": 1623369600.0,
+        "expiration_date": "11-jun-2021",
         "state": "future"
     },
     "express.olsztyn.pl": {
@@ -2990,8 +2990,8 @@
         "state": "future"
     },
     "ezarszyn.pl": {
-        "epoch": 1591574400.0,
-        "expiration_date": "08-jun-2020",
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
         "state": "future"
     },
     "ezg24.net": {
@@ -3555,8 +3555,8 @@
         "state": "future"
     },
     "gamingsociety.pl": {
-        "epoch": 1591574400.0,
-        "expiration_date": "08-jun-2020",
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
         "state": "future"
     },
     "garnek.pl": {
@@ -4210,9 +4210,9 @@
         "state": "future"
     },
     "gst24.pl": {
-        "epoch": 1591401600.0,
-        "expiration_date": "06-jun-2020",
-        "state": "past"
+        "epoch": 1622937600.0,
+        "expiration_date": "06-jun-2021",
+        "state": "future"
     },
     "gtaforum.pl": {
         "epoch": 1575504000,
@@ -4290,8 +4290,8 @@
         "state": "future"
     },
     "haloursynow.pl": {
-        "epoch": 1591488000.0,
-        "expiration_date": "07-jun-2020",
+        "epoch": 1623024000.0,
+        "expiration_date": "07-jun-2021",
         "state": "future"
     },
     "handballnews.pl": {
@@ -4810,8 +4810,8 @@
         "state": "future"
     },
     "infosiedlce.pl": {
-        "epoch": 1591488000.0,
-        "expiration_date": "07-jun-2020",
+        "epoch": 1623024000.0,
+        "expiration_date": "07-jun-2021",
         "state": "future"
     },
     "infoskierniewice.pl": {
@@ -5340,8 +5340,8 @@
         "state": "future"
     },
     "katowicedzis.pl": {
-        "epoch": 1591660800.0,
-        "expiration_date": "09-jun-2020",
+        "epoch": 1623196800.0,
+        "expiration_date": "09-jun-2021",
         "state": "future"
     },
     "katowiczak.pl": {
@@ -6345,8 +6345,8 @@
         "state": "future"
     },
     "lubsko.pl": {
-        "epoch": 1591660800.0,
-        "expiration_date": "09-jun-2020",
+        "epoch": 1623196800.0,
+        "expiration_date": "09-jun-2021",
         "state": "future"
     },
     "lubsport.pl": {
@@ -6360,8 +6360,8 @@
         "state": "future"
     },
     "lulek.tv": {
-        "epoch": 1591747200.0,
-        "expiration_date": "10-jun-2020",
+        "epoch": 1623283200.0,
+        "expiration_date": "10-jun-2021",
         "state": "future"
     },
     "lumier.pl": {
@@ -6515,8 +6515,8 @@
         "state": "future"
     },
     "mapabts.pl": {
-        "epoch": 1591833600.0,
-        "expiration_date": "11-jun-2020",
+        "epoch": 1594425600.0,
+        "expiration_date": "11-jul-2020",
         "state": "future"
     },
     "marihuana.info.pl": {
@@ -6760,8 +6760,8 @@
         "state": "future"
     },
     "mh24.pl": {
-        "epoch": 1591574400.0,
-        "expiration_date": "08-jun-2020",
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
         "state": "future"
     },
     "miastko24.pl": {
@@ -7280,8 +7280,8 @@
         "state": "future"
     },
     "musiclovers.pl": {
-        "epoch": 1591747200.0,
-        "expiration_date": "10-jun-2020",
+        "epoch": 1623283200.0,
+        "expiration_date": "10-jun-2021",
         "state": "future"
     },
     "muzodajka.pl": {
@@ -7470,8 +7470,8 @@
         "state": "future"
     },
     "naszawielkopolska.pl": {
-        "epoch": 1591574400.0,
-        "expiration_date": "08-jun-2020",
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
         "state": "future"
     },
     "naszciechanow.pl": {
@@ -7750,8 +7750,8 @@
         "state": "future"
     },
     "nowaruda.info": {
-        "epoch": 1591747200.0,
-        "expiration_date": "10-jun-2020",
+        "epoch": 1623283200.0,
+        "expiration_date": "10-jun-2021",
         "state": "future"
     },
     "nowastrategia.org.pl": {
@@ -7860,8 +7860,8 @@
         "state": "future"
     },
     "o.pl": {
-        "epoch": 1591488000.0,
-        "expiration_date": "07-jun-2020",
+        "epoch": 1623024000.0,
+        "expiration_date": "07-jun-2021",
         "state": "future"
     },
     "o2.pl": {
@@ -8160,8 +8160,8 @@
         "state": "future"
     },
     "ostrowmaz.com": {
-        "epoch": 1591833600.0,
-        "expiration_date": "11-jun-2020",
+        "epoch": 1623369600.0,
+        "expiration_date": "11-jun-2021",
         "state": "future"
     },
     "ostrzeszowinfo.pl": {
@@ -8570,8 +8570,8 @@
         "state": "future"
     },
     "pless.pl": {
-        "epoch": 1591488000.0,
-        "expiration_date": "07-jun-2020",
+        "epoch": 1623024000.0,
+        "expiration_date": "07-jun-2021",
         "state": "future"
     },
     "plonskwsieci.pl": {
@@ -9075,8 +9075,8 @@
         "state": "future"
     },
     "powiatowa.info": {
-        "epoch": 1591574400.0,
-        "expiration_date": "08-jun-2020",
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
         "state": "future"
     },
     "powiatowy.pl": {
