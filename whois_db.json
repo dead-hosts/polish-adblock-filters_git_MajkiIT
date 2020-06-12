@@ -247,7 +247,7 @@
     "adsnet.pl": {
         "epoch": 1591920000.0,
         "expiration_date": "12-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "adtelier.pl": {
         "epoch": 1611360000.0,
@@ -732,6 +732,11 @@
     "badaniaprenatalne.pl": {
         "epoch": 1608163200.0,
         "expiration_date": "17-dec-2020",
+        "state": "future"
+    },
+    "bajeczki.org": {
+        "epoch": 1616889600.0,
+        "expiration_date": "28-mar-2021",
         "state": "future"
     },
     "baltic.info.pl": {
@@ -2950,8 +2955,8 @@
         "state": "future"
     },
     "exspace.pl": {
-        "epoch": 1591488000.0,
-        "expiration_date": "07-jun-2020",
+        "epoch": 1623024000.0,
+        "expiration_date": "07-jun-2021",
         "state": "future"
     },
     "extra.info.pl": {
@@ -5775,8 +5780,8 @@
         "state": "future"
     },
     "kryptowaluty.info.pl": {
-        "epoch": 1591488000.0,
-        "expiration_date": "07-jun-2020",
+        "epoch": 1623024000.0,
+        "expiration_date": "07-jun-2021",
         "state": "future"
     },
     "kryptowalutykoparka.pl": {
@@ -8950,8 +8955,8 @@
         "state": "future"
     },
     "porozmawiajmy.tv": {
-        "epoch": 1591488000.0,
-        "expiration_date": "07-jun-2020",
+        "epoch": 1623024000.0,
+        "expiration_date": "07-jun-2021",
         "state": "future"
     },
     "portal-firma.pl": {
@@ -9237,7 +9242,7 @@
     "profilook.pl": {
         "epoch": 1591920000.0,
         "expiration_date": "12-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "programosy.pl": {
         "epoch": 1604188800.0,
@@ -9300,8 +9305,8 @@
         "state": "future"
     },
     "protestanci.info": {
-        "epoch": 1591833600.0,
-        "expiration_date": "11-jun-2020",
+        "epoch": 1623369600.0,
+        "expiration_date": "11-jun-2021",
         "state": "future"
     },
     "proto.pl": {
@@ -10200,8 +10205,8 @@
         "state": "future"
     },
     "sekrety-zdrowia.org": {
-        "epoch": 1591747200.0,
-        "expiration_date": "10-jun-2020",
+        "epoch": 1623283200.0,
+        "expiration_date": "10-jun-2021",
         "state": "future"
     },
     "sekurak.pl": {
@@ -10460,8 +10465,8 @@
         "state": "future"
     },
     "smartadserver.com": {
-        "epoch": 1591747200.0,
-        "expiration_date": "10-jun-2020",
+        "epoch": 1623283200.0,
+        "expiration_date": "10-jun-2021",
         "state": "future"
     },
     "smartage.pl": {
@@ -10797,6 +10802,11 @@
     "strefagry.pl": {
         "epoch": 1617667200.0,
         "expiration_date": "06-apr-2021",
+        "state": "future"
+    },
+    "strefainzyniera.pl": {
+        "epoch": 1611100800.0,
+        "expiration_date": "20-jan-2021",
         "state": "future"
     },
     "strefakodera.pl": {
@@ -11795,8 +11805,8 @@
         "state": "future"
     },
     "tvskierniewice.pl": {
-        "epoch": 1591660800.0,
-        "expiration_date": "09-jun-2020",
+        "epoch": 1623196800.0,
+        "expiration_date": "09-jun-2021",
         "state": "future"
     },
     "tvsudecka.pl": {
@@ -11805,8 +11815,8 @@
         "state": "future"
     },
     "tvswietokrzyska.pl": {
-        "epoch": 1591747200.0,
-        "expiration_date": "10-jun-2020",
+        "epoch": 1623283200.0,
+        "expiration_date": "10-jun-2021",
         "state": "future"
     },
     "tvswinoujscie.pl": {
@@ -11965,8 +11975,8 @@
         "state": "future"
     },
     "tygodnikketrzynski.pl": {
-        "epoch": 1591747200.0,
-        "expiration_date": "10-jun-2020",
+        "epoch": 1623283200.0,
+        "expiration_date": "10-jun-2021",
         "state": "future"
     },
     "tygodnikkrag.pl": {
@@ -12825,8 +12835,8 @@
         "state": "future"
     },
     "wpodroz.com.pl": {
-        "epoch": 1591574400.0,
-        "expiration_date": "08-jun-2020",
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
         "state": "future"
     },
     "wpolityce.pl": {
