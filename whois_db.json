@@ -9240,9 +9240,9 @@
         "state": "future"
     },
     "profilook.pl": {
-        "epoch": 1591920000.0,
-        "expiration_date": "12-jun-2020",
-        "state": "past"
+        "epoch": 1594512000.0,
+        "expiration_date": "12-jul-2020",
+        "state": "future"
     },
     "programosy.pl": {
         "epoch": 1604188800.0,
@@ -11135,8 +11135,8 @@
         "state": "future"
     },
     "tarnow.net.pl": {
-        "epoch": 1592006400.0,
-        "expiration_date": "13-jun-2020",
+        "epoch": 1623542400.0,
+        "expiration_date": "13-jun-2021",
         "state": "future"
     },
     "tarnowiak.pl": {
@@ -13285,8 +13285,8 @@
         "state": "future"
     },
     "ziemniak-bonin.pl": {
-        "epoch": 1592006400.0,
-        "expiration_date": "13-jun-2020",
+        "epoch": 1594598400.0,
+        "expiration_date": "13-jul-2020",
         "state": "future"
     },
     "zinfo.pl": {
