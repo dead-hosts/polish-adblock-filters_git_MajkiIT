@@ -3039,6 +3039,11 @@
         "expiration_date": "01-jul-2026",
         "state": "future"
     },
+    "facebook.com": {
+        "epoch": 1837987200.0,
+        "expiration_date": "30-mar-2028",
+        "state": "future"
+    },
     "facetemjestem.pl": {
         "epoch": 1620000000.0,
         "expiration_date": "03-may-2021",
@@ -5635,8 +5640,8 @@
         "state": "future"
     },
     "korsokolbuszowskie.pl": {
-        "epoch": 1592179200.0,
-        "expiration_date": "15-jun-2020",
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
         "state": "future"
     },
     "korsosanockie.pl": {
@@ -11272,6 +11277,11 @@
     "telewizjarepublika.pl": {
         "epoch": 1608336000.0,
         "expiration_date": "19-dec-2020",
+        "state": "future"
+    },
+    "telewizjattm.pl": {
+        "epoch": 1598659200.0,
+        "expiration_date": "29-aug-2020",
         "state": "future"
     },
     "telewizjazary.pl": {
