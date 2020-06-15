@@ -1109,6 +1109,11 @@
         "expiration_date": "30-jun-2020",
         "state": "future"
     },
+    "boleslawiec.tv": {
+        "epoch": 1644451200.0,
+        "expiration_date": "10-feb-2022",
+        "state": "future"
+    },
     "bonavita.pl": {
         "epoch": 1622764800.0,
         "expiration_date": "04-jun-2021",
@@ -6002,6 +6007,11 @@
     "lechia.net": {
         "epoch": "1576454400",
         "expiration_date": "16-dec-2019",
+        "state": "future"
+    },
+    "lechpoznan.pl": {
+        "epoch": 1618704000.0,
+        "expiration_date": "18-apr-2021",
         "state": "future"
     },
     "leczna24.pl": {
