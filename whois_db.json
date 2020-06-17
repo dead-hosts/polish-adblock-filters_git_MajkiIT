@@ -405,8 +405,8 @@
         "state": "future"
     },
     "alltube.tv": {
-        "epoch": 1592265600.0,
-        "expiration_date": "16-jun-2020",
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
         "state": "future"
     },
     "altair.com.pl": {
@@ -3917,6 +3917,11 @@
     "godealla.pl": {
         "epoch": 1599091200.0,
         "expiration_date": "03-sep-2020",
+        "state": "future"
+    },
+    "godzinyotwarcia24.pl": {
+        "epoch": 1602288000.0,
+        "expiration_date": "10-oct-2020",
         "state": "future"
     },
     "goldenline.pl": {
