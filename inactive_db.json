@@ -112,6 +112,13 @@
             "last_retested_at_iso": "2020-06-17T05:19:27.306093",
             "status": "INVALID"
         },
+        "mon.services.tvn.pl": {
+            "included_at_epoch": 1592393008.059351,
+            "included_at_iso": "2020-06-17T11:23:28.059351",
+            "last_retested_at_epoch": 1592393008.059351,
+            "last_retested_at_iso": "2020-06-17T11:23:28.059351",
+            "status": "INACTIVE"
+        },
         "ogloszenia.plock.pl": {
             "included_at_epoch": 1592390341.243322,
             "included_at_iso": "2020-06-17T10:39:01.243322",

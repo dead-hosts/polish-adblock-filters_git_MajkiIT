@@ -6325,9 +6325,9 @@
         "state": "future"
     },
     "lpg-forum.pl": {
-        "epoch": 1592352000.0,
-        "expiration_date": "17-jun-2020",
-        "state": "past"
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
+        "state": "future"
     },
     "lsi-lublin.pl": {
         "epoch": 1603411200.0,
@@ -10377,6 +10377,11 @@
     "silesia24.pl": {
         "epoch": 1608940800.0,
         "expiration_date": "26-dec-2020",
+        "state": "future"
+    },
+    "silesiadzieci.pl": {
+        "epoch": 1610928000.0,
+        "expiration_date": "18-jan-2021",
         "state": "future"
     },
     "sitebravefull.info": {
