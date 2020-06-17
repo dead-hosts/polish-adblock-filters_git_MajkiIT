@@ -344,6 +344,11 @@
         "expiration_date": "31-jan-2021",
         "state": "future"
     },
+    "akcjasos.pl": {
+        "epoch": 1612569600.0,
+        "expiration_date": "06-feb-2021",
+        "state": "future"
+    },
     "aktyw14.net": {
         "epoch": 1622160000.0,
         "expiration_date": "28-may-2021",
@@ -499,6 +504,11 @@
         "expiration_date": "25-jun-2020",
         "state": "future"
     },
+    "animowany.pl": {
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
+        "state": "future"
+    },
     "ankieta-online.pl": {
         "epoch": 1614470400.0,
         "expiration_date": "28-feb-2021",
@@ -632,6 +642,11 @@
     "augustyna.pl": {
         "epoch": 1649548800.0,
         "expiration_date": "10-apr-2022",
+        "state": "future"
+    },
+    "autentyki.pl": {
+        "epoch": 1604102400.0,
+        "expiration_date": "31-oct-2020",
         "state": "future"
     },
     "auto-motor-i-sport.pl": {
@@ -3684,6 +3699,11 @@
         "expiration_date": "05-jul-2020",
         "state": "future"
     },
+    "gazetarumska.pl": {
+        "epoch": 1616544000.0,
+        "expiration_date": "24-mar-2021",
+        "state": "future"
+    },
     "gazetasenior.pl": {
         "epoch": 1604620800.0,
         "expiration_date": "06-nov-2020",
@@ -6527,6 +6547,11 @@
     "mamopracuj.pl": {
         "epoch": 1619827200.0,
         "expiration_date": "01-may-2021",
+        "state": "future"
+    },
+    "mamwiedze.pl": {
+        "epoch": 1603238400.0,
+        "expiration_date": "21-oct-2020",
         "state": "future"
     },
     "mamywsieci.pl": {
@@ -9839,6 +9864,11 @@
         "expiration_date": "19-jul-2020",
         "state": "future"
     },
+    "reefhub.pl": {
+        "epoch": 1616803200.0,
+        "expiration_date": "27-mar-2021",
+        "state": "future"
+    },
     "refundacjeregionalne.pl": {
         "epoch": "1593820800",
         "expiration_date": "04-jul-2020",
@@ -11012,6 +11042,11 @@
     "swiecie24.pl": {
         "epoch": 1605657600.0,
         "expiration_date": "18-nov-2020",
+        "state": "future"
+    },
+    "swietokrzyskie.pl": {
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
         "state": "future"
     },
     "swinoujskie.info": {
