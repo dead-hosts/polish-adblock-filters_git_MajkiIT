@@ -189,6 +189,11 @@
         "expiration_date": "25-may-2021",
         "state": "future"
     },
+    "achcdn.com": {
+        "epoch": 1651708800.0,
+        "expiration_date": "05-may-2022",
+        "state": "future"
+    },
     "activemaniak.pl": {
         "epoch": 1598140800.0,
         "expiration_date": "23-aug-2020",
@@ -865,8 +870,8 @@
         "state": "future"
     },
     "bialostoczak.pl": {
-        "epoch": 1592265600.0,
-        "expiration_date": "16-jun-2020",
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
         "state": "future"
     },
     "bialystok.com.pl": {
@@ -5270,8 +5275,8 @@
         "state": "future"
     },
     "jegostrona.pl": {
-        "epoch": 1592352000.0,
-        "expiration_date": "17-jun-2020",
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
         "state": "future"
     },
     "jeja.pl": {
@@ -5365,8 +5370,8 @@
         "state": "future"
     },
     "katowiczak.pl": {
-        "epoch": 1592265600.0,
-        "expiration_date": "16-jun-2020",
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
         "state": "future"
     },
     "kaunairu.net": {
@@ -6302,7 +6307,7 @@
     "lpg-forum.pl": {
         "epoch": 1592352000.0,
         "expiration_date": "17-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "lsi-lublin.pl": {
         "epoch": 1603411200.0,
@@ -7680,8 +7685,8 @@
         "state": "future"
     },
     "niepoddawajsie.pl": {
-        "epoch": 1592265600.0,
-        "expiration_date": "16-jun-2020",
+        "epoch": 1686873600.0,
+        "expiration_date": "16-jun-2023",
         "state": "future"
     },
     "niepoprawni.pl": {
@@ -8455,8 +8460,8 @@
         "state": "future"
     },
     "piekary.pl": {
-        "epoch": 1592265600.0,
-        "expiration_date": "16-jun-2020",
+        "epoch": 1686873600.0,
+        "expiration_date": "16-jun-2023",
         "state": "future"
     },
     "piekielni.pl": {
@@ -8890,8 +8895,8 @@
         "state": "future"
     },
     "pomu.pl": {
-        "epoch": 1592352000.0,
-        "expiration_date": "17-jun-2020",
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
         "state": "future"
     },
     "ponapisach.pl": {
@@ -9950,8 +9955,8 @@
         "state": "future"
     },
     "rockman.com.pl": {
-        "epoch": 1592352000.0,
-        "expiration_date": "17-jun-2020",
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
         "state": "future"
     },
     "rodaknet.com": {
@@ -10200,8 +10205,8 @@
         "state": "future"
     },
     "seciki.pl": {
-        "epoch": 1592265600.0,
-        "expiration_date": "16-jun-2020",
+        "epoch": 1718496000.0,
+        "expiration_date": "16-jun-2024",
         "state": "future"
     },
     "secure-eplatnosc.com": {
@@ -11152,7 +11157,7 @@
     "tarnow.in": {
         "epoch": 1592352000.0,
         "expiration_date": "17-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "tarnow.net.pl": {
         "epoch": 1623542400.0,
