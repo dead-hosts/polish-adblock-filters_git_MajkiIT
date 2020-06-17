@@ -2834,6 +2834,11 @@
         "expiration_date": "03-dec-2021",
         "state": "future"
     },
+    "eskatt.pl": {
+        "epoch": 1617840000.0,
+        "expiration_date": "08-apr-2021",
+        "state": "future"
+    },
     "eslupsk.pl": {
         "epoch": 1643587200.0,
         "expiration_date": "31-jan-2022",
