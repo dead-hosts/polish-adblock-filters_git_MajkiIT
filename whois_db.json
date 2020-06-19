@@ -2847,7 +2847,7 @@
     "erosyndc.com": {
         "epoch": 1592438400.0,
         "expiration_date": "18-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "erp-view.pl": {
         "epoch": 1597536000.0,
@@ -5010,8 +5010,8 @@
         "state": "future"
     },
     "inwestycje-rzeszow.pl": {
-        "epoch": 1592524800.0,
-        "expiration_date": "19-jun-2020",
+        "epoch": 1624060800.0,
+        "expiration_date": "19-jun-2021",
         "state": "future"
     },
     "inwestycje.pl": {
@@ -7840,8 +7840,8 @@
         "state": "future"
     },
     "nml.pl": {
-        "epoch": 1592438400.0,
-        "expiration_date": "18-jun-2020",
+        "epoch": 1595030400.0,
+        "expiration_date": "18-jul-2020",
         "state": "future"
     },
     "nocoty.pl": {
@@ -8920,8 +8920,8 @@
         "state": "future"
     },
     "polskiautohandel.pl": {
-        "epoch": 1592438400.0,
-        "expiration_date": "18-jun-2020",
+        "epoch": 1655510400.0,
+        "expiration_date": "18-jun-2022",
         "state": "future"
     },
     "polskicaravaning.pl": {
@@ -9390,8 +9390,8 @@
         "state": "future"
     },
     "progressforpoland.com": {
-        "epoch": 1592438400.0,
-        "expiration_date": "18-jun-2020",
+        "epoch": 1623974400.0,
+        "expiration_date": "18-jun-2021",
         "state": "future"
     },
     "prokapitalizm.pl": {
@@ -10299,6 +10299,11 @@
         "expiration_date": "28-nov-2020",
         "state": "future"
     },
+    "scarlett.com.pl": {
+        "epoch": 1594944000.0,
+        "expiration_date": "17-jul-2020",
+        "state": "future"
+    },
     "sci24.pl": {
         "epoch": 1603411200.0,
         "expiration_date": "23-oct-2020",
@@ -10709,6 +10714,11 @@
         "expiration_date": "23-jul-2021",
         "state": "future"
     },
+    "spiswitryn.pl": {
+        "epoch": 1611187200.0,
+        "expiration_date": "21-jan-2021",
+        "state": "future"
+    },
     "spiz.pl": {
         "epoch": 1617926400.0,
         "expiration_date": "09-apr-2021",
@@ -11064,6 +11074,11 @@
         "expiration_date": "02-jan-2021",
         "state": "future"
     },
+    "sushi-shop.pl": {
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
+        "state": "future"
+    },
     "suwalki.info": {
         "epoch": 1611014400.0,
         "expiration_date": "19-jan-2021",
@@ -11137,6 +11152,11 @@
     "swidniczka.com": {
         "epoch": 1619654400.0,
         "expiration_date": "29-apr-2021",
+        "state": "future"
+    },
+    "swiece-zaplonowe.pl": {
+        "epoch": 1611878400.0,
+        "expiration_date": "29-jan-2021",
         "state": "future"
     },
     "swiecie24.pl": {
@@ -11724,6 +11744,11 @@
         "expiration_date": "30-oct-2020",
         "state": "future"
     },
+    "trynid.pl": {
+        "epoch": 1605225600.0,
+        "expiration_date": "13-nov-2020",
+        "state": "future"
+    },
     "tryton.com.pl": {
         "epoch": 1605398400.0,
         "expiration_date": "15-nov-2020",
@@ -12170,8 +12195,8 @@
         "state": "future"
     },
     "tygodnikponidzia.pl": {
-        "epoch": 1592524800.0,
-        "expiration_date": "19-jun-2020",
+        "epoch": 1624060800.0,
+        "expiration_date": "19-jun-2021",
         "state": "future"
     },
     "tygodnikpowszechny.pl": {
