@@ -155,10 +155,10 @@
             "status": "INACTIVE"
         },
         "twojzwolen.pl": {
-            "included_at_epoch": 1590360166.09274,
-            "included_at_iso": "2020-05-24T22:42:46.092740",
-            "last_retested_at_epoch": 1592715622.880099,
-            "last_retested_at_iso": "2020-06-21T05:00:22.880099",
+            "included_at_epoch": 1592781106.62,
+            "included_at_iso": "2020-06-21T23:11:46.620000",
+            "last_retested_at_epoch": 1592781128.516457,
+            "last_retested_at_iso": "2020-06-21T23:12:08.516457",
             "status": "INACTIVE"
         },
         "ustawmundial.weszlo.com": {
