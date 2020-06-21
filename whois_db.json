@@ -85,8 +85,8 @@
         "state": "future"
     },
     "3trzy3.pl": {
-        "epoch": 1592611200.0,
-        "expiration_date": "20-jun-2020",
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
         "state": "future"
     },
     "40ton.net": {
@@ -605,9 +605,9 @@
         "state": "future"
     },
     "astratex.pl": {
-        "epoch": 1592524800.0,
-        "expiration_date": "19-jun-2020",
-        "state": "past"
+        "epoch": 1624060800.0,
+        "expiration_date": "19-jun-2021",
+        "state": "future"
     },
     "astronomia24.com": {
         "epoch": 1616198400.0,
@@ -1755,8 +1755,8 @@
         "state": "past"
     },
     "cs-nabani.pl": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
         "state": "future"
     },
     "cs-porobieni.pl": {
@@ -2882,7 +2882,7 @@
     "esopot.pl": {
         "epoch": 1592697600.0,
         "expiration_date": "21-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "estadios.pl": {
         "epoch": 1608163200.0,
@@ -3010,8 +3010,8 @@
         "state": "future"
     },
     "expresskaszubski.pl": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
         "state": "future"
     },
     "exs.pl": {
@@ -3890,8 +3890,8 @@
         "state": "future"
     },
     "glamrap.pl": {
-        "epoch": 1592611200.0,
-        "expiration_date": "20-jun-2020",
+        "epoch": 1687219200.0,
+        "expiration_date": "20-jun-2023",
         "state": "future"
     },
     "gle24.pl": {
@@ -4145,8 +4145,8 @@
         "state": "future"
     },
     "gpd24.pl": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
         "state": "future"
     },
     "gpr24.pl": {
@@ -4330,8 +4330,8 @@
         "state": "future"
     },
     "gwarek.com.pl": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
         "state": "future"
     },
     "gwarminska.pl": {
@@ -5280,8 +5280,8 @@
         "state": "future"
     },
     "jasnet.pl": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
         "state": "future"
     },
     "jastrowie24.pl": {
@@ -5295,8 +5295,8 @@
         "state": "future"
     },
     "jaw.pl": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
         "state": "future"
     },
     "jawor24h.pl": {
@@ -5872,7 +5872,7 @@
     "kryptoraport.pl": {
         "epoch": 1592697600.0,
         "expiration_date": "21-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "kryptowaluty.info.pl": {
         "epoch": 1623024000.0,
@@ -5980,8 +5980,8 @@
         "state": "future"
     },
     "kurierbytowski.com.pl": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
         "state": "future"
     },
     "kuriergarwolinski.pl": {
@@ -7090,8 +7090,8 @@
         "state": "future"
     },
     "mobilitynews.pl": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
+        "epoch": 1621641600.0,
+        "expiration_date": "22-may-2021",
         "state": "future"
     },
     "mobilneforum.pl": {
