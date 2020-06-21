@@ -2880,9 +2880,9 @@
         "state": "future"
     },
     "esopot.pl": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
-        "state": "past"
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
+        "state": "future"
     },
     "estadios.pl": {
         "epoch": 1608163200.0,
@@ -5870,9 +5870,9 @@
         "state": "future"
     },
     "kryptoraport.pl": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
-        "state": "past"
+        "epoch": 1595289600.0,
+        "expiration_date": "21-jul-2020",
+        "state": "future"
     },
     "kryptowaluty.info.pl": {
         "epoch": 1623024000.0,
