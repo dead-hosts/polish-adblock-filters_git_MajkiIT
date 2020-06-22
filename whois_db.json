@@ -949,6 +949,11 @@
         "expiration_date": "20-nov-2020",
         "state": "future"
     },
+    "bigchina.pl": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
+    },
     "bilgorajska.pl": {
         "epoch": 1620691200.0,
         "expiration_date": "11-may-2021",
@@ -1324,6 +1329,11 @@
         "expiration_date": "10-oct-2020",
         "state": "future"
     },
+    "cafeanimal.pl": {
+        "epoch": 1612656000.0,
+        "expiration_date": "07-feb-2021",
+        "state": "future"
+    },
     "calisia.pl": {
         "epoch": 1605744000.0,
         "expiration_date": "19-nov-2020",
@@ -1587,6 +1597,11 @@
     "cire.pl": {
         "epoch": 1607040000.0,
         "expiration_date": "04-dec-2020",
+        "state": "future"
+    },
+    "citymedia.waw.pl": {
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
         "state": "future"
     },
     "cksport.pl": {
@@ -3574,6 +3589,11 @@
         "expiration_date": "19-aug-2020",
         "state": "future"
     },
+    "futbolweb.pl": {
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
+        "state": "future"
+    },
     "fwcdn.pl": {
         "epoch": "1544659200",
         "expiration_date": "13-dec-2018",
@@ -3992,6 +4012,11 @@
     "goal.pl": {
         "epoch": 1610841600.0,
         "expiration_date": "17-jan-2021",
+        "state": "future"
+    },
+    "gobajka.pl": {
+        "epoch": 1595980800.0,
+        "expiration_date": "29-jul-2020",
         "state": "future"
     },
     "godealla.pl": {
@@ -4475,8 +4500,8 @@
         "state": "future"
     },
     "histmag.org": {
-        "epoch": 1592784000.0,
-        "expiration_date": "22-jun-2020",
+        "epoch": 1655856000.0,
+        "expiration_date": "22-jun-2022",
         "state": "future"
     },
     "histografy.pl": {
@@ -7334,6 +7359,11 @@
         "expiration_date": "08-jan-2021",
         "state": "future"
     },
+    "motoshop24.pl": {
+        "epoch": 1604707200.0,
+        "expiration_date": "07-nov-2020",
+        "state": "future"
+    },
     "moviads.pl": {
         "epoch": 1599436800.0,
         "expiration_date": "07-sep-2020",
@@ -8229,6 +8259,11 @@
         "expiration_date": "25-jun-2021",
         "state": "future"
     },
+    "opineo.pl": {
+        "epoch": 1611532800.0,
+        "expiration_date": "25-jan-2021",
+        "state": "future"
+    },
     "opinieouczelniach.pl": {
         "epoch": 1620604800.0,
         "expiration_date": "10-may-2021",
@@ -8422,6 +8457,11 @@
     "pap.edu.pl": {
         "epoch": 1613865600.0,
         "expiration_date": "21-feb-2021",
+        "state": "future"
+    },
+    "papermodels.pl": {
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
         "state": "future"
     },
     "paranormalne.pl": {
@@ -10780,8 +10820,8 @@
         "state": "future"
     },
     "spotradomsko.pl": {
-        "epoch": 1592784000.0,
-        "expiration_date": "22-jun-2020",
+        "epoch": 1624320000.0,
+        "expiration_date": "22-jun-2021",
         "state": "future"
     },
     "spottedlublin.pl": {
