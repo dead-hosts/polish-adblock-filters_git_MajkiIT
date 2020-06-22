@@ -6674,6 +6674,11 @@
         "expiration_date": "19-oct-2020",
         "state": "future"
     },
+    "manager24.pl": {
+        "epoch": 1668297600.0,
+        "expiration_date": "13-nov-2022",
+        "state": "future"
+    },
     "maniak.tv": {
         "epoch": 1595289600.0,
         "expiration_date": "21-jul-2020",
@@ -10179,6 +10184,11 @@
         "expiration_date": "29-jun-2022",
         "state": "future"
     },
+    "rodzinazdrowia.pl": {
+        "epoch": 1685318400.0,
+        "expiration_date": "29-may-2023",
+        "state": "future"
+    },
     "roksa.pl": {
         "epoch": 1609718400.0,
         "expiration_date": "04-jan-2021",
@@ -11734,6 +11744,11 @@
         "expiration_date": "19-sep-2019",
         "state": "future"
     },
+    "tradersarea.pl": {
+        "epoch": 1624320000.0,
+        "expiration_date": "22-jun-2021",
+        "state": "future"
+    },
     "trafisz.com": {
         "epoch": 1587254400.0,
         "expiration_date": "19-apr-2020",
@@ -12132,6 +12147,11 @@
     "tvwlodawa.pl": {
         "epoch": 1617494400.0,
         "expiration_date": "04-apr-2021",
+        "state": "future"
+    },
+    "twoja-czestochowa.pl": {
+        "epoch": 1596844800.0,
+        "expiration_date": "08-aug-2020",
         "state": "future"
     },
     "twojahistoria.pl": {
@@ -13329,6 +13349,11 @@
         "expiration_date": "04-mar-2021",
         "state": "future"
     },
+    "xgm.pl": {
+        "epoch": 1595289600.0,
+        "expiration_date": "21-jul-2020",
+        "state": "future"
+    },
     "xiegarnia.pl": {
         "epoch": 1610582400.0,
         "expiration_date": "14-jan-2021",
@@ -13777,6 +13802,11 @@
     "zycietoprzygoda.pl": {
         "epoch": 1652140800.0,
         "expiration_date": "10-may-2022",
+        "state": "future"
+    },
+    "zyczeniowo.pl": {
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
         "state": "future"
     },
     "zyrardowskie.pl": {
