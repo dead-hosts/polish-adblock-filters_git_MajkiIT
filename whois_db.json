@@ -2749,6 +2749,11 @@
         "expiration_date": "09-jun-2021",
         "state": "future"
     },
+    "elektrosystemy.pl": {
+        "epoch": 1602979200.0,
+        "expiration_date": "18-oct-2020",
+        "state": "future"
+    },
     "elektryka.org": {
         "epoch": 1619568000.0,
         "expiration_date": "28-apr-2021",
@@ -5057,6 +5062,11 @@
     "inwestycje.pl": {
         "epoch": 1594339200.0,
         "expiration_date": "10-jul-2020",
+        "state": "future"
+    },
+    "inzynier-medyczny.pl": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
         "state": "future"
     },
     "iochota.pl": {
@@ -8104,6 +8114,11 @@
         "expiration_date": "15-dec-2028",
         "state": "future"
     },
+    "oborniki.com.pl": {
+        "epoch": 1615075200.0,
+        "expiration_date": "07-mar-2021",
+        "state": "future"
+    },
     "obserwatorfinansowy.pl": {
         "epoch": 1633651200.0,
         "expiration_date": "08-oct-2021",
@@ -10830,8 +10845,8 @@
         "state": "future"
     },
     "splendo.pl": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
+        "epoch": 1621814400.0,
+        "expiration_date": "24-may-2021",
         "state": "future"
     },
     "spliff.pl": {
@@ -10847,6 +10862,11 @@
     "sport.pl": {
         "epoch": 1611100800.0,
         "expiration_date": "20-jan-2021",
+        "state": "future"
+    },
+    "sportdziennik.com": {
+        "epoch": 1617840000.0,
+        "expiration_date": "08-apr-2021",
         "state": "future"
     },
     "sportdziennik.pl": {
