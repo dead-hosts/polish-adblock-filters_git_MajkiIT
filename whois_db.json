@@ -3694,6 +3694,11 @@
         "expiration_date": "18-jul-2020",
         "state": "future"
     },
+    "gawex.pl": {
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
+        "state": "future"
+    },
     "gazeo.pl": {
         "epoch": 1604102400.0,
         "expiration_date": "31-oct-2020",
@@ -6040,8 +6045,8 @@
         "state": "future"
     },
     "kurier-w.pl": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
         "state": "future"
     },
     "kurierbytowski.com.pl": {
@@ -12760,8 +12765,8 @@
         "state": "future"
     },
     "waw4free.pl": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
         "state": "future"
     },
     "wawalove.pl": {
