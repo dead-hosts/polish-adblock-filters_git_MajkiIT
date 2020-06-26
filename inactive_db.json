@@ -24,8 +24,8 @@
         "businessclick.*": {
             "included_at_epoch": 1590797171.511625,
             "included_at_iso": "2020-05-30T00:06:11.511625",
-            "last_retested_at_epoch": 1593041789.598674,
-            "last_retested_at_iso": "2020-06-24T23:36:29.598674",
+            "last_retested_at_epoch": 1593150303.638104,
+            "last_retested_at_iso": "2020-06-26T05:45:03.638104",
             "status": "INVALID"
         },
         "cashowsky.pl": {
@@ -73,15 +73,15 @@
         "img.dvhk.to": {
             "included_at_epoch": 1590797172.217834,
             "included_at_iso": "2020-05-30T00:06:12.217834",
-            "last_retested_at_epoch": 1593041790.313362,
-            "last_retested_at_iso": "2020-06-24T23:36:30.313362",
+            "last_retested_at_epoch": 1593150304.324203,
+            "last_retested_at_iso": "2020-06-26T05:45:04.324203",
             "status": "INACTIVE"
         },
         "livemecz.*": {
             "included_at_epoch": 1590797175.154496,
             "included_at_iso": "2020-05-30T00:06:15.154496",
-            "last_retested_at_epoch": 1593041793.911894,
-            "last_retested_at_iso": "2020-06-24T23:36:33.911894",
+            "last_retested_at_epoch": 1593150307.776877,
+            "last_retested_at_iso": "2020-06-26T05:45:07.776877",
             "status": "INVALID"
         },
         "onenima.com": {
@@ -94,16 +94,9 @@
         "redir.atmcdn.pl*swf": {
             "included_at_epoch": 1590797172.775429,
             "included_at_iso": "2020-05-30T00:06:12.775429",
-            "last_retested_at_epoch": 1593041791.048896,
-            "last_retested_at_iso": "2020-06-24T23:36:31.048896",
+            "last_retested_at_epoch": 1593150304.953281,
+            "last_retested_at_iso": "2020-06-26T05:45:04.953281",
             "status": "INVALID"
-        },
-        "request.dqst.pl": {
-            "included_at_epoch": 1590797172.815263,
-            "included_at_iso": "2020-05-30T00:06:12.815263",
-            "last_retested_at_epoch": 1593041791.089344,
-            "last_retested_at_iso": "2020-06-24T23:36:31.089344",
-            "status": "INACTIVE"
         },
         "sitebravefull.info": {
             "included_at_epoch": 1590797176.296251,
@@ -115,8 +108,8 @@
         "twojakowala.pl": {
             "included_at_epoch": 1590795316.628113,
             "included_at_iso": "2020-05-29T23:35:16.628113",
-            "last_retested_at_epoch": 1593041780.622313,
-            "last_retested_at_iso": "2020-06-24T23:36:20.622313",
+            "last_retested_at_epoch": 1593150294.944716,
+            "last_retested_at_iso": "2020-06-26T05:44:54.944716",
             "status": "INACTIVE"
         },
         "twojawierzbica.pl": {
@@ -129,8 +122,8 @@
         "twojwolanow.pl": {
             "included_at_epoch": 1590795316.669066,
             "included_at_iso": "2020-05-29T23:35:16.669066",
-            "last_retested_at_epoch": 1593041780.986434,
-            "last_retested_at_iso": "2020-06-24T23:36:20.986434",
+            "last_retested_at_epoch": 1593150295.287939,
+            "last_retested_at_iso": "2020-06-26T05:44:55.287939",
             "status": "INACTIVE"
         },
         "twojzwolen.pl": {
@@ -143,36 +136,36 @@
         "ustawmundial.weszlo.com": {
             "included_at_epoch": 1590795304.340254,
             "included_at_iso": "2020-05-29T23:35:04.340254",
-            "last_retested_at_epoch": 1593041767.528072,
-            "last_retested_at_iso": "2020-06-24T23:36:07.528072",
+            "last_retested_at_epoch": 1593150282.226457,
+            "last_retested_at_iso": "2020-06-26T05:44:42.226457",
             "status": "INACTIVE"
         },
         "vidoza*.github.io": {
             "included_at_epoch": 1590797181.067293,
             "included_at_iso": "2020-05-30T00:06:21.067293",
-            "last_retested_at_epoch": 1593043370.569875,
-            "last_retested_at_iso": "2020-06-25T00:02:50.569875",
+            "last_retested_at_epoch": 1593150314.318141,
+            "last_retested_at_iso": "2020-06-26T05:45:14.318141",
             "status": "INACTIVE"
         },
         "www.booclick.pl": {
             "included_at_epoch": 1590797168.117956,
             "included_at_iso": "2020-05-30T00:06:08.117956",
-            "last_retested_at_epoch": 1593041785.617301,
-            "last_retested_at_iso": "2020-06-24T23:36:25.617301",
+            "last_retested_at_epoch": 1593150299.774546,
+            "last_retested_at_iso": "2020-06-26T05:44:59.774546",
             "status": "INACTIVE"
         },
         "www.naotwocku.pl": {
             "included_at_epoch": 1590797168.434938,
             "included_at_iso": "2020-05-30T00:06:08.434938",
-            "last_retested_at_epoch": 1593041786.051039,
-            "last_retested_at_iso": "2020-06-24T23:36:26.051039",
+            "last_retested_at_epoch": 1593150300.218531,
+            "last_retested_at_iso": "2020-06-26T05:45:00.218531",
             "status": "INACTIVE"
         },
         "zory.dlawas.pl": {
             "included_at_epoch": 1590797170.585017,
             "included_at_iso": "2020-05-30T00:06:10.585017",
-            "last_retested_at_epoch": 1593041788.598876,
-            "last_retested_at_iso": "2020-06-24T23:36:28.598876",
+            "last_retested_at_epoch": 1593150302.677372,
+            "last_retested_at_iso": "2020-06-26T05:45:02.677372",
             "status": "INACTIVE"
         },
         "zwiedzam-stadiony.eu": {
