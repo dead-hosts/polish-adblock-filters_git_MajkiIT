@@ -4070,8 +4070,8 @@
         "state": "future"
     },
     "goleniow.net.pl": {
-        "epoch": 1593302400.0,
-        "expiration_date": "28-jun-2020",
+        "epoch": 1624838400.0,
+        "expiration_date": "28-jun-2021",
         "state": "future"
     },
     "goleniowska.com": {
@@ -5965,8 +5965,8 @@
         "state": "future"
     },
     "kryptowalutykoparka.pl": {
-        "epoch": 1593302400.0,
-        "expiration_date": "28-jun-2020",
+        "epoch": 1624838400.0,
+        "expiration_date": "28-jun-2021",
         "state": "future"
     },
     "krytykapolityczna.pl": {
@@ -6375,8 +6375,8 @@
         "state": "future"
     },
     "livemecz.pl": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
         "state": "future"
     },
     "livesound.pl": {
@@ -6842,7 +6842,7 @@
     "meczstudio.com": {
         "epoch": 1593388800.0,
         "expiration_date": "29-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "meczyki.net.pl": {
         "epoch": 1602028800.0,
@@ -8605,8 +8605,8 @@
         "state": "future"
     },
     "pcformat.pl": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
         "state": "future"
     },
     "pch24.pl": {
@@ -10197,7 +10197,7 @@
     "rinsouxy.com": {
         "epoch": 1593302400.0,
         "expiration_date": "28-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "rkantor.com": {
         "epoch": 1594080000.0,
@@ -12577,7 +12577,7 @@
     "victoriapila.com": {
         "epoch": 1593388800.0,
         "expiration_date": "29-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "videoquality.pl": {
         "epoch": 1569110400,
@@ -12597,7 +12597,7 @@
     "vidfile.net": {
         "epoch": 1593302400.0,
         "expiration_date": "28-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "vidoza.net": {
         "epoch": 1605657600.0,
@@ -13022,6 +13022,11 @@
     "wiescimiedzychodzkie.pl": {
         "epoch": 1605225600.0,
         "expiration_date": "13-nov-2020",
+        "state": "future"
+    },
+    "wiescirolnicze.pl": {
+        "epoch": 1611619200.0,
+        "expiration_date": "26-jan-2021",
         "state": "future"
     },
     "wikirose.pl": {
