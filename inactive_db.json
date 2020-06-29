@@ -17,8 +17,8 @@
         "bielski24.pl": {
             "included_at_epoch": 1592197045.543388,
             "included_at_iso": "2020-06-15T04:57:25.543388",
-            "last_retested_at_epoch": 1593298953.109189,
-            "last_retested_at_iso": "2020-06-27T23:02:33.109189",
+            "last_retested_at_epoch": 1593407451.925449,
+            "last_retested_at_iso": "2020-06-29T05:10:51.925449",
             "status": "INACTIVE"
         },
         "businessclick.*": {
@@ -31,29 +31,29 @@
         "cashowsky.pl": {
             "included_at_epoch": 1592197049.033451,
             "included_at_iso": "2020-06-15T04:57:29.033451",
-            "last_retested_at_epoch": 1593298957.0842,
-            "last_retested_at_iso": "2020-06-27T23:02:37.084200",
+            "last_retested_at_epoch": 1593407455.64805,
+            "last_retested_at_iso": "2020-06-29T05:10:55.648050",
             "status": "INACTIVE"
         },
         "forum.drivecenter.pl": {
             "included_at_epoch": 1593298970.895636,
             "included_at_iso": "2020-06-27T23:02:50.895636",
-            "last_retested_at_epoch": 1593298970.898957,
-            "last_retested_at_iso": "2020-06-27T23:02:50.898957",
+            "last_retested_at_epoch": 1593407468.189037,
+            "last_retested_at_iso": "2020-06-29T05:11:08.189037",
             "status": "INACTIVE"
         },
         "forum.dvhk.to": {
             "included_at_epoch": 1592197060.923188,
             "included_at_iso": "2020-06-15T04:57:40.923188",
-            "last_retested_at_epoch": 1593298970.94008,
-            "last_retested_at_iso": "2020-06-27T23:02:50.940080",
+            "last_retested_at_epoch": 1593407468.222481,
+            "last_retested_at_iso": "2020-06-29T05:11:08.222481",
             "status": "INACTIVE"
         },
         "gomoney.pl": {
             "included_at_epoch": 1592197064.040742,
             "included_at_iso": "2020-06-15T04:57:44.040742",
-            "last_retested_at_epoch": 1593298974.652268,
-            "last_retested_at_iso": "2020-06-27T23:02:54.652268",
+            "last_retested_at_epoch": 1593407471.663327,
+            "last_retested_at_iso": "2020-06-29T05:11:11.663327",
             "status": "INACTIVE"
         },
         "hoqqzlvwukpo.com": {
@@ -77,13 +77,6 @@
             "last_retested_at_iso": "2020-06-27T23:53:36.857498",
             "status": "INVALID"
         },
-        "ogloszenia.plock.pl": {
-            "included_at_epoch": 1593298982.339043,
-            "included_at_iso": "2020-06-27T23:03:02.339043",
-            "last_retested_at_epoch": 1593298982.339043,
-            "last_retested_at_iso": "2020-06-27T23:03:02.339043",
-            "status": "INACTIVE"
-        },
         "redir.atmcdn.pl*swf": {
             "included_at_epoch": 1593302013.928164,
             "included_at_iso": "2020-06-27T23:53:33.928164",
@@ -101,8 +94,8 @@
         "twojawierzbica.pl": {
             "included_at_epoch": 1593298996.830699,
             "included_at_iso": "2020-06-27T23:03:16.830699",
-            "last_retested_at_epoch": 1593298996.830699,
-            "last_retested_at_iso": "2020-06-27T23:03:16.830699",
+            "last_retested_at_epoch": 1593407492.772304,
+            "last_retested_at_iso": "2020-06-29T05:11:32.772304",
             "status": "INACTIVE"
         },
         "twojwolanow.pl": {
@@ -115,8 +108,8 @@
         "twojzwolen.pl": {
             "included_at_epoch": 1592781106.62,
             "included_at_iso": "2020-06-21T23:11:46.620000",
-            "last_retested_at_epoch": 1593298945.468954,
-            "last_retested_at_iso": "2020-06-27T23:02:25.468954",
+            "last_retested_at_epoch": 1593407444.950938,
+            "last_retested_at_iso": "2020-06-29T05:10:44.950938",
             "status": "INACTIVE"
         },
         "ustawmundial.weszlo.com": {

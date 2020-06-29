@@ -565,8 +565,8 @@
         "state": "future"
     },
     "anywhere.pl": {
-        "epoch": 1593302400.0,
-        "expiration_date": "28-jun-2020",
+        "epoch": 1624838400.0,
+        "expiration_date": "28-jun-2021",
         "state": "future"
     },
     "appki.com.pl": {
@@ -1045,8 +1045,8 @@
         "state": "future"
     },
     "biznesforum.pl": {
-        "epoch": 1593302400.0,
-        "expiration_date": "28-jun-2020",
+        "epoch": 1624838400.0,
+        "expiration_date": "28-jun-2021",
         "state": "future"
     },
     "biznesnafali.pl": {
@@ -1327,6 +1327,11 @@
     "bydgoszczak.pl": {
         "epoch": 1611878400.0,
         "expiration_date": "29-jan-2021",
+        "state": "future"
+    },
+    "bydgoszczcity.pl": {
+        "epoch": 1602288000.0,
+        "expiration_date": "10-oct-2020",
         "state": "future"
     },
     "bytomski.pl": {
@@ -2180,8 +2185,8 @@
         "state": "future"
     },
     "dodajauto.pl": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
         "state": "future"
     },
     "dofinansowanie-malopolskie.pl": {
@@ -4184,6 +4189,11 @@
         "expiration_date": "27-jan-2021",
         "state": "future"
     },
+    "gotujmy.pl": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
     "gowork.pl": {
         "epoch": 1604448000.0,
         "expiration_date": "04-nov-2020",
@@ -5715,8 +5725,8 @@
         "state": "future"
     },
     "komorkomat.pl": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
         "state": "future"
     },
     "komputerswiat.pl": {
@@ -5730,8 +5740,8 @@
         "state": "future"
     },
     "komputery-pc.info": {
-        "epoch": 1593302400.0,
-        "expiration_date": "28-jun-2020",
+        "epoch": 1624838400.0,
+        "expiration_date": "28-jun-2021",
         "state": "future"
     },
     "komputery.malopolska.pl": {
@@ -6004,6 +6014,11 @@
         "expiration_date": "14-feb-2021",
         "state": "future"
     },
+    "kuchnia-domowa.pl": {
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
+        "state": "future"
+    },
     "kujawy.info": {
         "epoch": 1607731200.0,
         "expiration_date": "12-dec-2020",
@@ -6062,6 +6077,11 @@
     "kuriergarwolinski.pl": {
         "epoch": 1621123200.0,
         "expiration_date": "16-may-2021",
+        "state": "future"
+    },
+    "kuriergmin.pl": {
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
         "state": "future"
     },
     "kurierlubelski.pl": {
@@ -7507,6 +7527,11 @@
     "muzodajka.pl": {
         "epoch": 1571961600,
         "expiration_date": "25-oct-2019",
+        "state": "future"
+    },
+    "muzykaitechnologia.pl": {
+        "epoch": 1601424000.0,
+        "expiration_date": "30-sep-2020",
         "state": "future"
     },
     "muzykazreklam.tv": {
