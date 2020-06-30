@@ -6840,9 +6840,9 @@
         "state": "future"
     },
     "meczstudio.com": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
-        "state": "past"
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
+        "state": "future"
     },
     "meczyki.net.pl": {
         "epoch": 1602028800.0,
@@ -9710,8 +9710,8 @@
         "state": "future"
     },
     "pttk.pl": {
-        "epoch": 1593475200.0,
-        "expiration_date": "30-jun-2020",
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
         "state": "future"
     },
     "pudelek.pl": {
@@ -10195,9 +10195,9 @@
         "state": "future"
     },
     "rinsouxy.com": {
-        "epoch": 1593302400.0,
-        "expiration_date": "28-jun-2020",
-        "state": "past"
+        "epoch": 1624838400.0,
+        "expiration_date": "28-jun-2021",
+        "state": "future"
     },
     "rkantor.com": {
         "epoch": 1594080000.0,
@@ -11470,9 +11470,9 @@
         "state": "future"
     },
     "tarnow.in": {
-        "epoch": 1592352000.0,
-        "expiration_date": "17-jun-2020",
-        "state": "past"
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
+        "state": "future"
     },
     "tarnow.net.pl": {
         "epoch": 1623542400.0,
@@ -11715,8 +11715,8 @@
         "state": "future"
     },
     "tkchopin.pl": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
         "state": "future"
     },
     "tkn24.pl": {
@@ -12575,9 +12575,9 @@
         "state": "future"
     },
     "victoriapila.com": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
-        "state": "past"
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
+        "state": "future"
     },
     "videoquality.pl": {
         "epoch": 1569110400,
@@ -12595,9 +12595,9 @@
         "state": "future"
     },
     "vidfile.net": {
-        "epoch": 1593302400.0,
-        "expiration_date": "28-jun-2020",
-        "state": "past"
+        "epoch": 1624838400.0,
+        "expiration_date": "28-jun-2021",
+        "state": "future"
     },
     "vidoza.net": {
         "epoch": 1605657600.0,
@@ -12825,8 +12825,8 @@
         "state": "future"
     },
     "wcograc.pl": {
-        "epoch": 1593475200.0,
-        "expiration_date": "30-jun-2020",
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
         "state": "future"
     },
     "web-rynek.pl": {
@@ -13050,8 +13050,8 @@
         "state": "future"
     },
     "windowsowo.pl": {
-        "epoch": 1593475200.0,
-        "expiration_date": "30-jun-2020",
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
         "state": "future"
     },
     "wio.waw.pl": {
