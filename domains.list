@@ -8,9 +8,9 @@
 ! Działa najlepiej z EasyList - pamiętaj aby zasubskrybować!
 !   Patronite ==> https://patronite.pl/polskiefiltry
 !   PayPal ==> https://www.paypal.com/pools/c/87zNJ8OJ3I
-! Last modified: 28 June 2020
+! Last modified: 30 June 2020
 ! Expires: 1 day
-! Version: 2020062803
+! Version: 2020063001
 ! Support:
 !   Email >> errorsfilters@certyficate.it
 !   Github >> https://github.com/MajkiIT/polish-ads-filter/issues
@@ -18,7 +18,7 @@
 ! License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ! Copyright © 2020 Certyficate IT
 ! Najnowsza wersja zawsze na: https://www.certyficate.it/adblock
-! v.2020062803 aktualizacja: nie, 28 czerwca 2020, 19:10:00
+! v.2020063001 aktualizacja: wt, 30 czerwca 2020, 11:35:00
 !
 !
 !1#-----------------------General advert blocking filters-----------------------!
@@ -222,7 +222,7 @@ pl,com###advertising_box
 pl,com###top_advertisement
 pl/popup.js|$script
 popkiller.pl,tygodnikpodhalanski.pl,cnc.info.pl##[class*="reklamy"]
-~allegro.pl,~dipp.pl##.advert
+~allegro.pl,~dipp.pl,~motobanda.pl##.advert
 ~astrosalus.pl,~przegladsportowy.pl,~medonet.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,~uwaga.tvn.pl,anglia.today,dbnao.net,pl##.ad
 ~avclub.gr,~csbydgoszcz.pl,~forodecostarica.com##[id^="ad_global"]
 ~esanok.pl,~brzozow24.pl,~bukowsko24.pl,~jaslo24.pl,~rzeszow24.pl,~strzyzow24.pl,~tvpodkarpacie.pl,~ustrzyki24.pl,~zagorz24.pl,~zarszyn24.pl,~tvkrosno.pl,pl###top-reklama
@@ -249,7 +249,7 @@ popkiller.pl,tygodnikpodhalanski.pl,cnc.info.pl##[class*="reklamy"]
 ~przegladsportowy.pl,~medonet.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,pl##.sliderads
 ~przegladsportowy.pl,~medonet.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,pl##.widget-ads-content
 ~przegladsportowy.pl,~medonet.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,pl,~natemat.pl##.onnetwork-video
-~przegladsportowy.pl,~medonet.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,pl,~polsatnews.pl,~polsatsport.pl,~twojapogoda.pl,~comperia.pl,~wp.pl,~dobreprogramy.pl##.ads
+~przegladsportowy.pl,~medonet.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,pl,~polsatnews.pl,~polsatsport.pl,~twojapogoda.pl,~comperia.pl,~wp.pl,~dobreprogramy.pl,~motobanda.pl##.ads
 ~przegladsportowy.pl,~playpuls.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,~gry-online.pl,~tv6.com.pl,~trojmiasto.pl,~otomoto.pl,~dziennikwschodni.pl,~obalamyglupote.pl,pl,~pornohd.pl,~polskieszlaki.pl,~poczta.interia.pl,~comperia.pl,~filmweb.pl,~semtalk.pl,~eurogamer.pl,~mapa-turystyczna.pl,~otodom.pl,~ferrarikatowice.pl,~tvp.pl##[class$="-ads"]
 ~przegladsportowy.pl,~playpuls.pl,~fakt.pl,~forbes.pl,~auto-swiat.pl,~noizz.pl,~plejada.pl,~businessinsider.com.pl,~komputerswiat.pl,~onet.pl,~vod.pl,~gry-online.pl,~tv6.com.pl,~trojmiasto.pl,~otomoto.pl,~medonet.pl,pl##[class*="cg-template"]
 ~przelewy24.pl,~allegro.pl,~zaq2.pl,~docer.pl,~dpd.com.pl,~scp-wiki.net.pl,~swiat-magii.pl,~portable.info.pl,pl##[id*="ad-container"]:not(#documents-upload-container):not(#editor-preload-container)
@@ -729,7 +729,7 @@ digi-tv.pl##[id^="banner_"]
 digi-tv.pl,satkurier.pl###SATKurierNews_top_750x100_r
 digi-tv.pl,satkurier.pl##[id^="idmnet_"]
 digi-tv.pl,satkurier.pl##[id^="pasek_hollex"]
-digi-tv.pl,se.pl,muratordom.pl,muratorplus.pl,poradnikzdrowie.pl,eska.pl,urzadzamy.pl##[id^="placement"]
+digi-tv.pl,se.pl,poradnikzdrowie.pl,eska.pl,urzadzamy.pl##[id^="placement"]
 disco-polo.info###smsites > .naglowek-sidebar, .article-advertisment
 discopolonew.cba.pl##ul:nth-of-type(7)
 dj24.pl###box_banner18
@@ -1596,7 +1596,7 @@ krzesla-biurowe.pl###banner-box
 kswarta.pl##div.first.placeholder
 ktomalek.pl##.add-corner.add
 ktoto.info##.sidb.sidebar > div:nth-of-type(3), #scroller
-kuchnia-domowa.pl##[id^="position-recipe-adv-"]
+kuchnia-domowa.pl##[id^="position-recipe-adv-"], div.sunfw-item-module-position.layout-item:nth-of-type(4)
 kurier-bb.pl###aktualnosci > div:nth-of-type(4), #aktualnosci > div:nth-of-type(3), #aktualnosci > div:nth-of-type(5), center > div > table > tbody > tr
 kurierzamojski.pl##.td-a-ad, .kurie-adlabel, .kurie-w-tresci, .td-fix-index.td_mod_wrap, [class^="adace_ad_"]
 kujawy.info##div#homepageBaner2, .adBoxFullWidth
@@ -1968,9 +1968,8 @@ msmobile.pl###gk-top1
 msmobile.pl###text-57
 mtech.pl###widget-notify
 multi-head.pl##.partnerRight
-muratordom.pl,mjakmama24.pl,muratorplus.pl##.active.placement__lazy, #bottom_1
+muratordom.pl,mjakmama24.pl,muratorplus.pl##.active.placement__lazy, #bottom_1, .zpr_box_side_bottom, [class*="placement"]
 muratordom.pl##.promo.main_page.container, .player-block-info
-muratorplus.pl##.zpr_box_side_bottom
 musiclovers.pl##div.wpb_content_element.wpb_text_column, .td-header-sp-recs, .wpb_raw_html.wpb_content_element.wpb_raw_code
 muzyka.dziennik.pl##.widget-headertext-area
 muzyka.interia.pl###news1
@@ -3152,7 +3151,7 @@ wielkopolska.tv##.ineaBox.boxHeader
 wielodzietni.org##[id^="reklama-"]
 wiesci.com.pl,~archiwum.wiesci.com.pl###text-8, #text-9, #text-10, #text-14, #text-17, .reklamyPrawa.custom
 wiesci.info.pl##.bradius.shadow.reklamyPrawa
-wiescirolnicze.pl###a8e0a98e6-f5d9-48d9-b9b0-5dd36b1a23a6
+wiescirolnicze.pl##.topl
 wikirose.pl###HTML12, #HTML15
 wimieprawdy.pl##.cke-resize
 windowsmania.pl##[id^="yui-gen"] > [class^="post"]
