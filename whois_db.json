@@ -985,8 +985,8 @@
         "state": "future"
     },
     "biomedical.pl": {
-        "epoch": 1593561600.0,
-        "expiration_date": "01-jul-2020",
+        "epoch": 1625097600.0,
+        "expiration_date": "01-jul-2021",
         "state": "future"
     },
     "biotechnologia.pl": {
@@ -2645,8 +2645,8 @@
         "state": "future"
     },
     "egorzow.pl": {
-        "epoch": 1593648000.0,
-        "expiration_date": "02-jul-2020",
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
         "state": "future"
     },
     "egryfino.pl": {
@@ -3670,8 +3670,8 @@
         "state": "future"
     },
     "gamereactor.pl": {
-        "epoch": 1593648000.0,
-        "expiration_date": "02-jul-2020",
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
         "state": "future"
     },
     "gamesfanatic.pl": {
@@ -5282,7 +5282,7 @@
     "jacus.pl": {
         "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "jadarhobby.pl": {
         "epoch": 1595548800.0,
@@ -6110,8 +6110,8 @@
         "state": "future"
     },
     "kurierzamojski.pl": {
-        "epoch": 1593648000.0,
-        "expiration_date": "02-jul-2020",
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
         "state": "future"
     },
     "kurnik.pl": {
