@@ -1760,8 +1760,8 @@
         "state": "future"
     },
     "cryptonews.pl": {
-        "epoch": 1593907200.0,
-        "expiration_date": "05-jul-2020",
+        "epoch": 1625443200.0,
+        "expiration_date": "05-jul-2021",
         "state": "future"
     },
     "cryptoprofit.pl": {
@@ -3075,8 +3075,8 @@
         "state": "future"
     },
     "extraswiecie.pl": {
-        "epoch": 1593820800.0,
-        "expiration_date": "04-jul-2020",
+        "epoch": 1625356800.0,
+        "expiration_date": "04-jul-2021",
         "state": "future"
     },
     "extrawalcz.pl": {
@@ -3807,7 +3807,7 @@
     "gazetaregionalna.pl": {
         "epoch": 1593907200.0,
         "expiration_date": "05-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "gazetarumska.pl": {
         "epoch": 1616544000.0,
@@ -5160,8 +5160,8 @@
         "state": "future"
     },
     "iskierniewice.pl": {
-        "epoch": 1593734400.0,
-        "expiration_date": "03-jul-2020",
+        "epoch": 1625270400.0,
+        "expiration_date": "03-jul-2021",
         "state": "future"
     },
     "iswinoujscie.pl": {
@@ -6440,8 +6440,8 @@
         "state": "future"
     },
     "lols.pl": {
-        "epoch": 1593907200.0,
-        "expiration_date": "05-jul-2020",
+        "epoch": 1625443200.0,
+        "expiration_date": "05-jul-2021",
         "state": "future"
     },
     "londynek.net": {
@@ -7740,8 +7740,8 @@
         "state": "future"
     },
     "naszemiastomiedzyzdroje.com.pl": {
-        "epoch": 1593820800.0,
-        "expiration_date": "04-jul-2020",
+        "epoch": 1596412800.0,
+        "expiration_date": "03-aug-2020",
         "state": "future"
     },
     "naszesudety.pl": {
@@ -8710,8 +8710,8 @@
         "state": "future"
     },
     "phrasal-verbs.pl": {
-        "epoch": 1593907200.0,
-        "expiration_date": "05-jul-2020",
+        "epoch": 1625443200.0,
+        "expiration_date": "05-jul-2021",
         "state": "future"
     },
     "piekary.pl": {
@@ -9135,8 +9135,8 @@
         "state": "future"
     },
     "pomorska.pl": {
-        "epoch": 1593820800.0,
-        "expiration_date": "04-jul-2020",
+        "epoch": 1625356800.0,
+        "expiration_date": "04-jul-2021",
         "state": "future"
     },
     "pomorskifutbol.pl": {
