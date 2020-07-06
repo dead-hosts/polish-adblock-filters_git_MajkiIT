@@ -3290,8 +3290,8 @@
         "state": "future"
     },
     "filmaster.pl": {
-        "epoch": 1593993600.0,
-        "expiration_date": "06-jul-2020",
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
         "state": "future"
     },
     "filmbit.ws": {
@@ -3610,8 +3610,8 @@
         "state": "future"
     },
     "futbolfejs.pl": {
-        "epoch": 1593993600.0,
-        "expiration_date": "06-jul-2020",
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
         "state": "future"
     },
     "futbolhd.tv": {
@@ -10030,8 +10030,8 @@
         "state": "future"
     },
     "radiozw.com.pl": {
-        "epoch": 1593993600.0,
-        "expiration_date": "06-jul-2020",
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
         "state": "future"
     },
     "radkow.it": {
@@ -11002,6 +11002,11 @@
     "stalenierdzewne.pl": {
         "epoch": 1604620800.0,
         "expiration_date": "06-nov-2020",
+        "state": "future"
+    },
+    "staleo.pl": {
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
         "state": "future"
     },
     "stalker.pl": {
