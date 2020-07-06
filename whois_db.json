@@ -3805,9 +3805,9 @@
         "state": "future"
     },
     "gazetaregionalna.pl": {
-        "epoch": 1593907200.0,
-        "expiration_date": "05-jul-2020",
-        "state": "past"
+        "epoch": 1625443200.0,
+        "expiration_date": "05-jul-2021",
+        "state": "future"
     },
     "gazetarumska.pl": {
         "epoch": 1616544000.0,
@@ -6770,8 +6770,8 @@
         "state": "future"
     },
     "materialybudowlane.info.pl": {
-        "epoch": 1593993600.0,
-        "expiration_date": "06-jul-2020",
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
         "state": "future"
     },
     "matrixmedia.pl": {
@@ -8047,6 +8047,11 @@
     "nowodworski24.pl": {
         "epoch": 1607990400.0,
         "expiration_date": "15-dec-2020",
+        "state": "future"
+    },
+    "noworudzianin.pl": {
+        "epoch": 1600646400.0,
+        "expiration_date": "21-sep-2020",
         "state": "future"
     },
     "nowwatchtvlive.co": {

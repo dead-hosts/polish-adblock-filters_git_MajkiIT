@@ -17,8 +17,8 @@
         "bielski24.pl": {
             "included_at_epoch": 1592197045.543388,
             "included_at_iso": "2020-06-15T04:57:25.543388",
-            "last_retested_at_epoch": 1593926029.943844,
-            "last_retested_at_iso": "2020-07-05T05:13:49.943844",
+            "last_retested_at_epoch": 1594031156.635384,
+            "last_retested_at_iso": "2020-07-06T10:25:56.635384",
             "status": "INACTIVE"
         },
         "businessclick.*": {
@@ -31,36 +31,29 @@
         "cashowsky.pl": {
             "included_at_epoch": 1592197049.033451,
             "included_at_iso": "2020-06-15T04:57:29.033451",
-            "last_retested_at_epoch": 1593926033.758196,
-            "last_retested_at_iso": "2020-07-05T05:13:53.758196",
+            "last_retested_at_epoch": 1594031160.349346,
+            "last_retested_at_iso": "2020-07-06T10:26:00.349346",
             "status": "INACTIVE"
         },
         "forum.drivecenter.pl": {
             "included_at_epoch": 1593298970.895636,
             "included_at_iso": "2020-06-27T23:02:50.895636",
-            "last_retested_at_epoch": 1593926046.530058,
-            "last_retested_at_iso": "2020-07-05T05:14:06.530058",
+            "last_retested_at_epoch": 1594031172.825126,
+            "last_retested_at_iso": "2020-07-06T10:26:12.825126",
             "status": "INACTIVE"
         },
         "forum.dvhk.to": {
             "included_at_epoch": 1592197060.923188,
             "included_at_iso": "2020-06-15T04:57:40.923188",
-            "last_retested_at_epoch": 1593926046.565928,
-            "last_retested_at_iso": "2020-07-05T05:14:06.565928",
+            "last_retested_at_epoch": 1594031172.858317,
+            "last_retested_at_iso": "2020-07-06T10:26:12.858317",
             "status": "INACTIVE"
         },
         "gomoney.pl": {
             "included_at_epoch": 1592197064.040742,
             "included_at_iso": "2020-06-15T04:57:44.040742",
-            "last_retested_at_epoch": 1593926050.036509,
-            "last_retested_at_iso": "2020-07-05T05:14:10.036509",
-            "status": "INACTIVE"
-        },
-        "gornik.zabrze.pl": {
-            "included_at_epoch": 1593926050.206309,
-            "included_at_iso": "2020-07-05T05:14:10.206309",
-            "last_retested_at_epoch": 1593926050.206309,
-            "last_retested_at_iso": "2020-07-05T05:14:10.206309",
+            "last_retested_at_epoch": 1594031176.256594,
+            "last_retested_at_iso": "2020-07-06T10:26:16.256594",
             "status": "INACTIVE"
         },
         "hoqqzlvwukpo.com": {
@@ -84,6 +77,13 @@
             "last_retested_at_iso": "2020-07-05T05:31:30.056376",
             "status": "INVALID"
         },
+        "ogloszenia.plock.pl": {
+            "included_at_epoch": 1594031183.59751,
+            "included_at_iso": "2020-07-06T10:26:23.597510",
+            "last_retested_at_epoch": 1594031183.59751,
+            "last_retested_at_iso": "2020-07-06T10:26:23.597510",
+            "status": "INACTIVE"
+        },
         "redir.atmcdn.pl*swf": {
             "included_at_epoch": 1593302013.928164,
             "included_at_iso": "2020-06-27T23:53:33.928164",
@@ -101,8 +101,8 @@
         "twojawierzbica.pl": {
             "included_at_epoch": 1593298996.830699,
             "included_at_iso": "2020-06-27T23:03:16.830699",
-            "last_retested_at_epoch": 1593926071.24986,
-            "last_retested_at_iso": "2020-07-05T05:14:31.249860",
+            "last_retested_at_epoch": 1594031197.341015,
+            "last_retested_at_iso": "2020-07-06T10:26:37.341015",
             "status": "INACTIVE"
         },
         "twojwolanow.pl": {
@@ -115,8 +115,8 @@
         "twojzwolen.pl": {
             "included_at_epoch": 1592781106.62,
             "included_at_iso": "2020-06-21T23:11:46.620000",
-            "last_retested_at_epoch": 1593926022.862075,
-            "last_retested_at_iso": "2020-07-05T05:13:42.862075",
+            "last_retested_at_epoch": 1594031149.696916,
+            "last_retested_at_iso": "2020-07-06T10:25:49.696916",
             "status": "INACTIVE"
         },
         "ustawmundial.weszlo.com": {
