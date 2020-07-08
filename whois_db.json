@@ -9899,6 +9899,11 @@
         "expiration_date": "31-mar-2021",
         "state": "future"
     },
+    "radioccm.pl": {
+        "epoch": 1610928000.0,
+        "expiration_date": "18-jan-2021",
+        "state": "future"
+    },
     "radioduch.pl": {
         "epoch": "1553904000",
         "expiration_date": "30-mar-2019",
@@ -10210,8 +10215,8 @@
         "state": "future"
     },
     "rkantor.com": {
-        "epoch": 1594080000.0,
-        "expiration_date": "07-jul-2020",
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
         "state": "future"
     },
     "rmf24.pl": {
@@ -10420,8 +10425,8 @@
         "state": "future"
     },
     "sandomierztv.pl": {
-        "epoch": 1594166400.0,
-        "expiration_date": "08-jul-2020",
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
         "state": "future"
     },
     "sanok24.pl": {
@@ -11225,8 +11230,8 @@
         "state": "future"
     },
     "superdania.pl": {
-        "epoch": 1594080000.0,
-        "expiration_date": "07-jul-2020",
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
         "state": "future"
     },
     "superfilm.pl": {
@@ -12890,8 +12895,8 @@
         "state": "future"
     },
     "webshark.pl": {
-        "epoch": 1594166400.0,
-        "expiration_date": "08-jul-2020",
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
         "state": "future"
     },
     "webstat.pl": {

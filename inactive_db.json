@@ -24,8 +24,8 @@
         "businessclick.*": {
             "included_at_epoch": 1593302012.442963,
             "included_at_iso": "2020-06-27T23:53:32.442963",
-            "last_retested_at_epoch": 1594033167.722919,
-            "last_retested_at_iso": "2020-07-06T10:59:27.722919",
+            "last_retested_at_epoch": 1594186120.953554,
+            "last_retested_at_iso": "2020-07-08T05:28:40.953554",
             "status": "INVALID"
         },
         "cashowsky.pl": {
@@ -73,22 +73,22 @@
         "img.dvhk.to": {
             "included_at_epoch": 1593302013.164989,
             "included_at_iso": "2020-06-27T23:53:33.164989",
-            "last_retested_at_epoch": 1594033168.426711,
-            "last_retested_at_iso": "2020-07-06T10:59:28.426711",
+            "last_retested_at_epoch": 1594186121.673469,
+            "last_retested_at_iso": "2020-07-08T05:28:41.673469",
             "status": "INACTIVE"
         },
         "livemecz.*": {
             "included_at_epoch": 1593302016.857498,
             "included_at_iso": "2020-06-27T23:53:36.857498",
-            "last_retested_at_epoch": 1594033172.012135,
-            "last_retested_at_iso": "2020-07-06T10:59:32.012135",
+            "last_retested_at_epoch": 1594186125.30642,
+            "last_retested_at_iso": "2020-07-08T05:28:45.306420",
             "status": "INVALID"
         },
         "mypolacy.nl": {
             "included_at_epoch": 1594033145.660087,
             "included_at_iso": "2020-07-06T10:59:05.660087",
-            "last_retested_at_epoch": 1594033177.194115,
-            "last_retested_at_iso": "2020-07-06T10:59:37.194115",
+            "last_retested_at_epoch": 1594186098.715074,
+            "last_retested_at_iso": "2020-07-08T05:28:18.715074",
             "status": "INACTIVE"
         },
         "ogloszenia.plock.pl": {
@@ -101,15 +101,15 @@
         "redir.atmcdn.pl*swf": {
             "included_at_epoch": 1593302013.928164,
             "included_at_iso": "2020-06-27T23:53:33.928164",
-            "last_retested_at_epoch": 1594033169.160472,
-            "last_retested_at_iso": "2020-07-06T10:59:29.160472",
+            "last_retested_at_epoch": 1594186122.435444,
+            "last_retested_at_iso": "2020-07-08T05:28:42.435444",
             "status": "INVALID"
         },
         "twojakowala.pl": {
             "included_at_epoch": 1593302003.240566,
             "included_at_iso": "2020-06-27T23:53:23.240566",
-            "last_retested_at_epoch": 1594033158.806984,
-            "last_retested_at_iso": "2020-07-06T10:59:18.806984",
+            "last_retested_at_epoch": 1594186111.942788,
+            "last_retested_at_iso": "2020-07-08T05:28:31.942788",
             "status": "INACTIVE"
         },
         "twojawierzbica.pl": {
@@ -122,8 +122,8 @@
         "twojwolanow.pl": {
             "included_at_epoch": 1593302003.301119,
             "included_at_iso": "2020-06-27T23:53:23.301119",
-            "last_retested_at_epoch": 1594033159.19135,
-            "last_retested_at_iso": "2020-07-06T10:59:19.191350",
+            "last_retested_at_epoch": 1594186112.298942,
+            "last_retested_at_iso": "2020-07-08T05:28:32.298942",
             "status": "INACTIVE"
         },
         "twojzwolen.pl": {
@@ -136,8 +136,8 @@
         "ustawmundial.weszlo.com": {
             "included_at_epoch": 1593301989.912791,
             "included_at_iso": "2020-06-27T23:53:09.912791",
-            "last_retested_at_epoch": 1594033145.663683,
-            "last_retested_at_iso": "2020-07-06T10:59:05.663683",
+            "last_retested_at_epoch": 1594186098.711448,
+            "last_retested_at_iso": "2020-07-08T05:28:18.711448",
             "status": "INACTIVE"
         },
         "vidoza*.github.io": {
@@ -150,22 +150,22 @@
         "www.booclick.pl": {
             "included_at_epoch": 1593302008.393896,
             "included_at_iso": "2020-06-27T23:53:28.393896",
-            "last_retested_at_epoch": 1594033163.819446,
-            "last_retested_at_iso": "2020-07-06T10:59:23.819446",
+            "last_retested_at_epoch": 1594186116.988494,
+            "last_retested_at_iso": "2020-07-08T05:28:36.988494",
             "status": "INACTIVE"
         },
         "www.naotwocku.pl": {
             "included_at_epoch": 1593302008.866627,
             "included_at_iso": "2020-06-27T23:53:28.866627",
-            "last_retested_at_epoch": 1594033164.243091,
-            "last_retested_at_iso": "2020-07-06T10:59:24.243091",
+            "last_retested_at_epoch": 1594186117.427976,
+            "last_retested_at_iso": "2020-07-08T05:28:37.427976",
             "status": "INACTIVE"
         },
         "zory.dlawas.pl": {
             "included_at_epoch": 1593302011.441297,
             "included_at_iso": "2020-06-27T23:53:31.441297",
-            "last_retested_at_epoch": 1594033166.738033,
-            "last_retested_at_iso": "2020-07-06T10:59:26.738033",
+            "last_retested_at_epoch": 1594186119.960088,
+            "last_retested_at_iso": "2020-07-08T05:28:39.960088",
             "status": "INACTIVE"
         },
         "zwiedzam-stadiony.eu": {
