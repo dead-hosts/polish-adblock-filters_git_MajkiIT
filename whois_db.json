@@ -3772,7 +3772,7 @@
     "gazetalokalna.com": {
         "epoch": 1594166400.0,
         "expiration_date": "08-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "gazetalubliniecka.pl": {
         "epoch": 1598054400.0,
@@ -4360,8 +4360,8 @@
         "state": "future"
     },
     "gsim.pl": {
-        "epoch": 1594166400.0,
-        "expiration_date": "08-jul-2020",
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
         "state": "future"
     },
     "gsmmaniak.pl": {
@@ -5750,8 +5750,8 @@
         "state": "future"
     },
     "komputery.malopolska.pl": {
-        "epoch": 1594080000.0,
-        "expiration_date": "07-jul-2020",
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
         "state": "future"
     },
     "koncertomania.pl": {
