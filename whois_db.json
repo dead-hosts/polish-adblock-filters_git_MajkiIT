@@ -1184,6 +1184,11 @@
         "expiration_date": "24-jun-2022",
         "state": "future"
     },
+    "braclowiecka.pl": {
+        "epoch": 1608249600.0,
+        "expiration_date": "18-dec-2020",
+        "state": "future"
+    },
     "brainly.pl": {
         "epoch": 1597363200.0,
         "expiration_date": "14-aug-2020",
@@ -3240,8 +3245,8 @@
         "state": "future"
     },
     "fantastyka.pl": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
         "state": "future"
     },
     "farmer.pl": {
@@ -3770,9 +3775,9 @@
         "state": "future"
     },
     "gazetalokalna.com": {
-        "epoch": 1594166400.0,
-        "expiration_date": "08-jul-2020",
-        "state": "past"
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
+        "state": "future"
     },
     "gazetalubliniecka.pl": {
         "epoch": 1598054400.0,
@@ -3820,8 +3825,8 @@
         "state": "future"
     },
     "gazetaspoleczna.pl": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
         "state": "future"
     },
     "gazetatwojeinfo.pl": {
@@ -4755,8 +4760,8 @@
         "state": "future"
     },
     "igrit.pl": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
         "state": "future"
     },
     "igryfino.pl": {
@@ -5080,8 +5085,8 @@
         "state": "future"
     },
     "inwestycje.pl": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
+        "epoch": 1615075200.0,
+        "expiration_date": "07-mar-2021",
         "state": "future"
     },
     "inzynier-medyczny.pl": {
@@ -5680,8 +5685,8 @@
         "state": "future"
     },
     "kobieta.pl": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
+        "epoch": 1633737600.0,
+        "expiration_date": "09-oct-2021",
         "state": "future"
     },
     "kobietaxl.pl": {
@@ -6402,6 +6407,11 @@
     "lm.pl": {
         "epoch": 1614643200.0,
         "expiration_date": "02-mar-2021",
+        "state": "future"
+    },
+    "log4.pl": {
+        "epoch": 1626998400.0,
+        "expiration_date": "23-jul-2021",
         "state": "future"
     },
     "lokalna.com.pl": {
@@ -7385,8 +7395,8 @@
         "state": "future"
     },
     "moto.pl": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
+        "epoch": 1616976000.0,
+        "expiration_date": "29-mar-2021",
         "state": "future"
     },
     "motobanda.pl": {
@@ -11997,6 +12007,11 @@
     "tulegnica.pl": {
         "epoch": 1608508800.0,
         "expiration_date": "21-dec-2020",
+        "state": "future"
+    },
+    "tuolawa.pl": {
+        "epoch": 1732665600.0,
+        "expiration_date": "27-nov-2024",
         "state": "future"
     },
     "tur-info.pl": {
