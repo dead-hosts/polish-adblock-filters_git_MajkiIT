@@ -8959,6 +8959,11 @@
         "expiration_date": "16-feb-2022",
         "state": "future"
     },
+    "podobnestrony.pl": {
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "state": "future"
+    },
     "podoslonami.pl": {
         "epoch": 1617580800.0,
         "expiration_date": "05-apr-2021",
@@ -9367,7 +9372,7 @@
     "potplayerclub.pl": {
         "epoch": 1594684800.0,
         "expiration_date": "14-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "powernet.pl": {
         "epoch": "1555632000",
@@ -11380,8 +11385,8 @@
         "state": "future"
     },
     "szafa.pl": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
         "state": "future"
     },
     "szafiarka.pl": {
@@ -11495,8 +11500,8 @@
         "state": "future"
     },
     "targeo.pl": {
-        "epoch": 1594684800.0,
-        "expiration_date": "14-jul-2020",
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
         "state": "future"
     },
     "tarnow.in": {
@@ -12085,8 +12090,8 @@
         "state": "future"
     },
     "tv28.pl": {
-        "epoch": 1594684800.0,
-        "expiration_date": "14-jul-2020",
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
         "state": "future"
     },
     "tvbelchatow.pl": {
@@ -13715,8 +13720,8 @@
         "state": "future"
     },
     "ziemniak-bonin.pl": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
+        "epoch": 1623542400.0,
+        "expiration_date": "13-jun-2021",
         "state": "future"
     },
     "zinfo.pl": {
