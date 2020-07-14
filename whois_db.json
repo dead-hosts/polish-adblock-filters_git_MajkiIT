@@ -1225,8 +1225,8 @@
         "state": "future"
     },
     "brzeg24.pl": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
         "state": "future"
     },
     "brzozow24.pl": {
@@ -1980,8 +1980,8 @@
         "state": "future"
     },
     "dbnao.net": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
         "state": "future"
     },
     "dbpolska.net": {
@@ -3805,8 +3805,8 @@
         "state": "future"
     },
     "gazetaprawna.pl": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
         "state": "future"
     },
     "gazetaregionalna.pl": {
@@ -4500,8 +4500,8 @@
         "state": "future"
     },
     "herozerogame.com": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
         "state": "future"
     },
     "heynet.pl": {
@@ -4785,8 +4785,8 @@
         "state": "future"
     },
     "ikamien.pl": {
-        "epoch": 1594684800.0,
-        "expiration_date": "14-jul-2020",
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
         "state": "future"
     },
     "ikampinos.pl": {
@@ -6810,8 +6810,8 @@
         "state": "future"
     },
     "mckenzie.pl": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
         "state": "future"
     },
     "mclista.pl": {
@@ -6947,7 +6947,7 @@
     "mensis.pl": {
         "epoch": 1594684800.0,
         "expiration_date": "14-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "metalnews.pl": {
         "epoch": 1600646400.0,
@@ -7280,8 +7280,8 @@
         "state": "future"
     },
     "mojaolesnica.pl": {
-        "epoch": 1594684800.0,
-        "expiration_date": "14-jul-2020",
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
         "state": "future"
     },
     "mojapogoda.com": {
@@ -7960,8 +7960,8 @@
         "state": "future"
     },
     "nj24.pl": {
-        "epoch": 1594684800.0,
-        "expiration_date": "14-jul-2020",
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
         "state": "future"
     },
     "nk.pl": {
