@@ -9079,6 +9079,11 @@
         "expiration_date": "14-jan-2021",
         "state": "future"
     },
+    "polski-sport.pl": {
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
+        "state": "future"
+    },
     "polski-tenis.pl": {
         "epoch": 1596326400.0,
         "expiration_date": "02-aug-2020",
