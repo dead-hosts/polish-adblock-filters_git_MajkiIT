@@ -4570,8 +4570,8 @@
         "state": "future"
     },
     "historykon.pl": {
-        "epoch": 1594944000.0,
-        "expiration_date": "17-jul-2020",
+        "epoch": 1686960000.0,
+        "expiration_date": "17-jun-2023",
         "state": "future"
     },
     "hmt.pl": {
@@ -10480,8 +10480,8 @@
         "state": "future"
     },
     "scarlett.com.pl": {
-        "epoch": 1594944000.0,
-        "expiration_date": "17-jul-2020",
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
         "state": "future"
     },
     "sci24.pl": {
@@ -11920,8 +11920,8 @@
         "state": "future"
     },
     "trucks.com.pl": {
-        "epoch": 1594944000.0,
-        "expiration_date": "17-jul-2020",
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
         "state": "future"
     },
     "truso.tv": {
@@ -12762,7 +12762,7 @@
     "wadowice24.pl": {
         "epoch": 1594944000.0,
         "expiration_date": "17-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "wadowiceonline.pl": {
         "epoch": 1621987200.0,
