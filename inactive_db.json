@@ -91,6 +91,13 @@
             "last_retested_at_iso": "2020-07-17T11:07:38.886627",
             "status": "INVALID"
         },
+        "sww.w.szu.pl": {
+            "included_at_epoch": 1595027578.79273,
+            "included_at_iso": "2020-07-17T23:12:58.792730",
+            "last_retested_at_epoch": 1595027578.79273,
+            "last_retested_at_iso": "2020-07-17T23:12:58.792730",
+            "status": "INACTIVE"
+        },
         "twojakowala.pl": {
             "included_at_epoch": 1593302003.240566,
             "included_at_iso": "2020-06-27T23:53:23.240566",
@@ -145,6 +152,20 @@
             "included_at_iso": "2020-06-27T23:53:28.866627",
             "last_retested_at_epoch": 1594984053.666557,
             "last_retested_at_iso": "2020-07-17T11:07:33.666557",
+            "status": "INACTIVE"
+        },
+        "www.pcformat.pl": {
+            "included_at_epoch": 1595027589.724094,
+            "included_at_iso": "2020-07-17T23:13:09.724094",
+            "last_retested_at_epoch": 1595027589.724094,
+            "last_retested_at_iso": "2020-07-17T23:13:09.724094",
+            "status": "INACTIVE"
+        },
+        "www.slubi.pro": {
+            "included_at_epoch": 1595027576.148752,
+            "included_at_iso": "2020-07-17T23:12:56.148752",
+            "last_retested_at_epoch": 1595027576.148752,
+            "last_retested_at_iso": "2020-07-17T23:12:56.148752",
             "status": "INACTIVE"
         },
         "zory.dlawas.pl": {
