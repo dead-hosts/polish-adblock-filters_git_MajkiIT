@@ -10,8 +10,8 @@
         "businessclick.*": {
             "included_at_epoch": 1593302012.442963,
             "included_at_iso": "2020-06-27T23:53:32.442963",
-            "last_retested_at_epoch": 1594984057.37403,
-            "last_retested_at_iso": "2020-07-17T11:07:37.374030",
+            "last_retested_at_epoch": 1595136782.136031,
+            "last_retested_at_iso": "2020-07-19T05:33:02.136031",
             "status": "INVALID"
         },
         "cashowsky.pl": {
@@ -45,43 +45,36 @@
         "img.dvhk.to": {
             "included_at_epoch": 1593302013.164989,
             "included_at_iso": "2020-06-27T23:53:33.164989",
-            "last_retested_at_epoch": 1594984058.118643,
-            "last_retested_at_iso": "2020-07-17T11:07:38.118643",
+            "last_retested_at_epoch": 1595136782.848319,
+            "last_retested_at_iso": "2020-07-19T05:33:02.848319",
             "status": "INACTIVE"
         },
         "livemecz.*": {
             "included_at_epoch": 1593302016.857498,
             "included_at_iso": "2020-06-27T23:53:36.857498",
-            "last_retested_at_epoch": 1594984061.837663,
-            "last_retested_at_iso": "2020-07-17T11:07:41.837663",
+            "last_retested_at_epoch": 1595136786.202104,
+            "last_retested_at_iso": "2020-07-19T05:33:06.202104",
             "status": "INVALID"
         },
         "mypolacy.nl": {
             "included_at_epoch": 1594033145.660087,
             "included_at_iso": "2020-07-06T10:59:05.660087",
-            "last_retested_at_epoch": 1594984034.361794,
-            "last_retested_at_iso": "2020-07-17T11:07:14.361794",
+            "last_retested_at_epoch": 1595136791.175879,
+            "last_retested_at_iso": "2020-07-19T05:33:11.175879",
             "status": "INACTIVE"
         },
         "redir.atmcdn.pl*swf": {
             "included_at_epoch": 1593302013.928164,
             "included_at_iso": "2020-06-27T23:53:33.928164",
-            "last_retested_at_epoch": 1594984058.886627,
-            "last_retested_at_iso": "2020-07-17T11:07:38.886627",
+            "last_retested_at_epoch": 1595136783.468735,
+            "last_retested_at_iso": "2020-07-19T05:33:03.468735",
             "status": "INVALID"
-        },
-        "sww.w.szu.pl": {
-            "included_at_epoch": 1595027578.79273,
-            "included_at_iso": "2020-07-17T23:12:58.792730",
-            "last_retested_at_epoch": 1595027578.79273,
-            "last_retested_at_iso": "2020-07-17T23:12:58.792730",
-            "status": "INACTIVE"
         },
         "twojakowala.pl": {
             "included_at_epoch": 1593302003.240566,
             "included_at_iso": "2020-06-27T23:53:23.240566",
-            "last_retested_at_epoch": 1594984048.039183,
-            "last_retested_at_iso": "2020-07-17T11:07:28.039183",
+            "last_retested_at_epoch": 1595136773.46552,
+            "last_retested_at_iso": "2020-07-19T05:32:53.465520",
             "status": "INACTIVE"
         },
         "twojawierzbica.pl": {
@@ -94,8 +87,8 @@
         "twojwolanow.pl": {
             "included_at_epoch": 1593302003.301119,
             "included_at_iso": "2020-06-27T23:53:23.301119",
-            "last_retested_at_epoch": 1594984048.435077,
-            "last_retested_at_iso": "2020-07-17T11:07:28.435077",
+            "last_retested_at_epoch": 1595136773.81854,
+            "last_retested_at_iso": "2020-07-19T05:32:53.818540",
             "status": "INACTIVE"
         },
         "twojzwolen.pl": {
@@ -108,50 +101,36 @@
         "ustawmundial.weszlo.com": {
             "included_at_epoch": 1593301989.912791,
             "included_at_iso": "2020-06-27T23:53:09.912791",
-            "last_retested_at_epoch": 1594984034.365685,
-            "last_retested_at_iso": "2020-07-17T11:07:14.365685",
+            "last_retested_at_epoch": 1595136760.580761,
+            "last_retested_at_iso": "2020-07-19T05:32:40.580761",
             "status": "INACTIVE"
         },
         "vidoza*.github.io": {
             "included_at_epoch": 1593303267.671963,
             "included_at_iso": "2020-06-28T00:14:27.671963",
-            "last_retested_at_epoch": 1594984318.395904,
-            "last_retested_at_iso": "2020-07-17T11:11:58.395904",
+            "last_retested_at_epoch": 1595136792.683597,
+            "last_retested_at_iso": "2020-07-19T05:33:12.683597",
             "status": "INACTIVE"
         },
         "www.booclick.pl": {
             "included_at_epoch": 1593302008.393896,
             "included_at_iso": "2020-06-27T23:53:28.393896",
-            "last_retested_at_epoch": 1594984053.200952,
-            "last_retested_at_iso": "2020-07-17T11:07:33.200952",
+            "last_retested_at_epoch": 1595136778.3016,
+            "last_retested_at_iso": "2020-07-19T05:32:58.301600",
             "status": "INACTIVE"
         },
         "www.naotwocku.pl": {
             "included_at_epoch": 1593302008.866627,
             "included_at_iso": "2020-06-27T23:53:28.866627",
-            "last_retested_at_epoch": 1594984053.666557,
-            "last_retested_at_iso": "2020-07-17T11:07:33.666557",
-            "status": "INACTIVE"
-        },
-        "www.pcformat.pl": {
-            "included_at_epoch": 1595027589.724094,
-            "included_at_iso": "2020-07-17T23:13:09.724094",
-            "last_retested_at_epoch": 1595027589.724094,
-            "last_retested_at_iso": "2020-07-17T23:13:09.724094",
-            "status": "INACTIVE"
-        },
-        "www.slubi.pro": {
-            "included_at_epoch": 1595027576.148752,
-            "included_at_iso": "2020-07-17T23:12:56.148752",
-            "last_retested_at_epoch": 1595027576.148752,
-            "last_retested_at_iso": "2020-07-17T23:12:56.148752",
+            "last_retested_at_epoch": 1595136778.719702,
+            "last_retested_at_iso": "2020-07-19T05:32:58.719702",
             "status": "INACTIVE"
         },
         "zory.dlawas.pl": {
             "included_at_epoch": 1593302011.441297,
             "included_at_iso": "2020-06-27T23:53:31.441297",
-            "last_retested_at_epoch": 1594984056.33578,
-            "last_retested_at_iso": "2020-07-17T11:07:36.335780",
+            "last_retested_at_epoch": 1595136781.175141,
+            "last_retested_at_iso": "2020-07-19T05:33:01.175141",
             "status": "INACTIVE"
         }
     },
