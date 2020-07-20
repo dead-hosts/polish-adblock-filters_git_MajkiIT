@@ -2647,7 +2647,7 @@
     "egnatius-ear.com": {
         "epoch": 1595203200.0,
         "expiration_date": "20-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "egorzow.pl": {
         "epoch": 1625184000.0,
@@ -9730,8 +9730,8 @@
         "state": "future"
     },
     "ps4site.pl": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
         "state": "future"
     },
     "psychiczni.pl": {
