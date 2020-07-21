@@ -73,15 +73,15 @@
         "twojakowala.pl": {
             "included_at_epoch": 1593302003.240566,
             "included_at_iso": "2020-06-27T23:53:23.240566",
-            "last_retested_at_epoch": 1595243680.976423,
-            "last_retested_at_iso": "2020-07-20T11:14:40.976423",
+            "last_retested_at_epoch": 1595332266.978348,
+            "last_retested_at_iso": "2020-07-21T11:51:06.978348",
             "status": "INACTIVE"
         },
         "twojwolanow.pl": {
             "included_at_epoch": 1593302003.301119,
             "included_at_iso": "2020-06-27T23:53:23.301119",
-            "last_retested_at_epoch": 1595243681.317608,
-            "last_retested_at_iso": "2020-07-20T11:14:41.317608",
+            "last_retested_at_epoch": 1595332266.986526,
+            "last_retested_at_iso": "2020-07-21T11:51:06.986526",
             "status": "INACTIVE"
         },
         "twojzwolen.pl": {
@@ -94,15 +94,15 @@
         "ustawmundial.weszlo.com": {
             "included_at_epoch": 1593301989.912791,
             "included_at_iso": "2020-06-27T23:53:09.912791",
-            "last_retested_at_epoch": 1595243668.23465,
-            "last_retested_at_iso": "2020-07-20T11:14:28.234650",
+            "last_retested_at_epoch": 1595332266.950384,
+            "last_retested_at_iso": "2020-07-21T11:51:06.950384",
             "status": "INACTIVE"
         },
         "vidoza*.github.io": {
             "included_at_epoch": 1593303267.671963,
             "included_at_iso": "2020-06-28T00:14:27.671963",
-            "last_retested_at_epoch": 1595243700.080397,
-            "last_retested_at_iso": "2020-07-20T11:15:00.080397",
+            "last_retested_at_epoch": 1595332268.05294,
+            "last_retested_at_iso": "2020-07-21T11:51:08.052940",
             "status": "INACTIVE"
         },
         "www.booclick.pl": {
