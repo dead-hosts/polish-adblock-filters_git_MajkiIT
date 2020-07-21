@@ -24,22 +24,22 @@
         "forum.drivecenter.pl": {
             "included_at_epoch": 1593298970.895636,
             "included_at_iso": "2020-06-27T23:02:50.895636",
-            "last_retested_at_epoch": 1595241346.710472,
-            "last_retested_at_iso": "2020-07-20T10:35:46.710472",
+            "last_retested_at_epoch": 1595328320.70035,
+            "last_retested_at_iso": "2020-07-21T10:45:20.700350",
             "status": "INACTIVE"
         },
         "forum.dvhk.to": {
             "included_at_epoch": 1594703622.993647,
             "included_at_iso": "2020-07-14T05:13:42.993647",
-            "last_retested_at_epoch": 1595241346.749467,
-            "last_retested_at_iso": "2020-07-20T10:35:46.749467",
+            "last_retested_at_epoch": 1595328320.735939,
+            "last_retested_at_iso": "2020-07-21T10:45:20.735939",
             "status": "INACTIVE"
         },
         "gomoney.pl": {
             "included_at_epoch": 1594703626.465838,
             "included_at_iso": "2020-07-14T05:13:46.465838",
-            "last_retested_at_epoch": 1595241350.390331,
-            "last_retested_at_iso": "2020-07-20T10:35:50.390331",
+            "last_retested_at_epoch": 1595328324.24905,
+            "last_retested_at_iso": "2020-07-21T10:45:24.249050",
             "status": "INACTIVE"
         },
         "img.dvhk.to": {
