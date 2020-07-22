@@ -12550,8 +12550,8 @@
         "state": "future"
     },
     "uptimemadeeasy.com": {
-        "epoch": 1595376000.0,
-        "expiration_date": "22-jul-2020",
+        "epoch": 1626912000.0,
+        "expiration_date": "22-jul-2021",
         "state": "future"
     },
     "upvid.co": {
@@ -13842,6 +13842,11 @@
     "zw.pl": {
         "epoch": 1602979200.0,
         "expiration_date": "18-oct-2020",
+        "state": "future"
+    },
+    "zwiadowcahistorii.pl": {
+        "epoch": 1598140800.0,
+        "expiration_date": "23-aug-2020",
         "state": "future"
     },
     "zwiedzamyparyz.pl": {
