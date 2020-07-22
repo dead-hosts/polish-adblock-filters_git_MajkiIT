@@ -3,71 +3,71 @@
         "bielski24.pl": {
             "included_at_epoch": 1594703605.792773,
             "included_at_iso": "2020-07-14T05:13:25.792773",
-            "last_retested_at_epoch": 1595330480.685732,
-            "last_retested_at_iso": "2020-07-21T11:21:20.685732",
+            "last_retested_at_epoch": 1595417067.44033,
+            "last_retested_at_iso": "2020-07-22T11:24:27.440330",
             "status": "INACTIVE"
         },
         "businessclick.*": {
             "included_at_epoch": 1593302012.442963,
             "included_at_iso": "2020-06-27T23:53:32.442963",
-            "last_retested_at_epoch": 1595330507.843348,
-            "last_retested_at_iso": "2020-07-21T11:21:47.843348",
+            "last_retested_at_epoch": 1595417067.507037,
+            "last_retested_at_iso": "2020-07-22T11:24:27.507037",
             "status": "INVALID"
         },
         "cashowsky.pl": {
             "included_at_epoch": 1594703609.751165,
             "included_at_iso": "2020-07-14T05:13:29.751165",
-            "last_retested_at_epoch": 1595330480.715572,
-            "last_retested_at_iso": "2020-07-21T11:21:20.715572",
+            "last_retested_at_epoch": 1595417067.444463,
+            "last_retested_at_iso": "2020-07-22T11:24:27.444463",
             "status": "INACTIVE"
         },
         "forum.drivecenter.pl": {
             "included_at_epoch": 1593298970.895636,
             "included_at_iso": "2020-06-27T23:02:50.895636",
-            "last_retested_at_epoch": 1595328320.70035,
-            "last_retested_at_iso": "2020-07-21T10:45:20.700350",
+            "last_retested_at_epoch": 1595417067.411038,
+            "last_retested_at_iso": "2020-07-22T11:24:27.411038",
             "status": "INACTIVE"
         },
         "forum.dvhk.to": {
             "included_at_epoch": 1594703622.993647,
             "included_at_iso": "2020-07-14T05:13:42.993647",
-            "last_retested_at_epoch": 1595328320.735939,
-            "last_retested_at_iso": "2020-07-21T10:45:20.735939",
+            "last_retested_at_epoch": 1595417067.427634,
+            "last_retested_at_iso": "2020-07-22T11:24:27.427634",
             "status": "INACTIVE"
         },
         "gomoney.pl": {
             "included_at_epoch": 1594703626.465838,
             "included_at_iso": "2020-07-14T05:13:46.465838",
-            "last_retested_at_epoch": 1595328324.24905,
-            "last_retested_at_iso": "2020-07-21T10:45:24.249050",
+            "last_retested_at_epoch": 1595417067.435968,
+            "last_retested_at_iso": "2020-07-22T11:24:27.435968",
             "status": "INACTIVE"
         },
         "img.dvhk.to": {
             "included_at_epoch": 1593302013.164989,
             "included_at_iso": "2020-06-27T23:53:33.164989",
-            "last_retested_at_epoch": 1595330508.604497,
-            "last_retested_at_iso": "2020-07-21T11:21:48.604497",
+            "last_retested_at_epoch": 1595417067.511425,
+            "last_retested_at_iso": "2020-07-22T11:24:27.511425",
             "status": "INACTIVE"
         },
         "livemecz.*": {
             "included_at_epoch": 1593302016.857498,
             "included_at_iso": "2020-06-27T23:53:36.857498",
-            "last_retested_at_epoch": 1595330512.435195,
-            "last_retested_at_iso": "2020-07-21T11:21:52.435195",
+            "last_retested_at_epoch": 1595417067.519797,
+            "last_retested_at_iso": "2020-07-22T11:24:27.519797",
             "status": "INVALID"
         },
         "mypolacy.nl": {
             "included_at_epoch": 1594033145.660087,
             "included_at_iso": "2020-07-06T10:59:05.660087",
-            "last_retested_at_epoch": 1595330517.818816,
-            "last_retested_at_iso": "2020-07-21T11:21:57.818816",
+            "last_retested_at_epoch": 1595417067.528202,
+            "last_retested_at_iso": "2020-07-22T11:24:27.528202",
             "status": "INACTIVE"
         },
         "redir.atmcdn.pl*swf": {
             "included_at_epoch": 1593302013.928164,
             "included_at_iso": "2020-06-27T23:53:33.928164",
-            "last_retested_at_epoch": 1595330509.408289,
-            "last_retested_at_iso": "2020-07-21T11:21:49.408289",
+            "last_retested_at_epoch": 1595417067.515615,
+            "last_retested_at_iso": "2020-07-22T11:24:27.515615",
             "status": "INVALID"
         },
         "twojakowala.pl": {
@@ -87,8 +87,8 @@
         "twojzwolen.pl": {
             "included_at_epoch": 1595241321.421009,
             "included_at_iso": "2020-07-20T10:35:21.421009",
-            "last_retested_at_epoch": 1595330498.799707,
-            "last_retested_at_iso": "2020-07-21T11:21:38.799707",
+            "last_retested_at_epoch": 1595417067.464946,
+            "last_retested_at_iso": "2020-07-22T11:24:27.464946",
             "status": "INACTIVE"
         },
         "ustawmundial.weszlo.com": {
@@ -108,22 +108,22 @@
         "www.booclick.pl": {
             "included_at_epoch": 1593302008.393896,
             "included_at_iso": "2020-06-27T23:53:28.393896",
-            "last_retested_at_epoch": 1595330503.645968,
-            "last_retested_at_iso": "2020-07-21T11:21:43.645968",
+            "last_retested_at_epoch": 1595417067.485818,
+            "last_retested_at_iso": "2020-07-22T11:24:27.485818",
             "status": "INACTIVE"
         },
         "www.naotwocku.pl": {
             "included_at_epoch": 1593302008.866627,
             "included_at_iso": "2020-06-27T23:53:28.866627",
-            "last_retested_at_epoch": 1595330504.121318,
-            "last_retested_at_iso": "2020-07-21T11:21:44.121318",
+            "last_retested_at_epoch": 1595417067.494245,
+            "last_retested_at_iso": "2020-07-22T11:24:27.494245",
             "status": "INACTIVE"
         },
         "zory.dlawas.pl": {
             "included_at_epoch": 1593302011.441297,
             "included_at_iso": "2020-06-27T23:53:31.441297",
-            "last_retested_at_epoch": 1595330506.795931,
-            "last_retested_at_iso": "2020-07-21T11:21:46.795931",
+            "last_retested_at_epoch": 1595417067.50293,
+            "last_retested_at_iso": "2020-07-22T11:24:27.502930",
             "status": "INACTIVE"
         }
     },
