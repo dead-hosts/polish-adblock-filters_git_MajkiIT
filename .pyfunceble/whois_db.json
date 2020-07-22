@@ -1530,8 +1530,8 @@
         "state": "future"
     },
     "chocianow.com.pl": {
-        "epoch": 1595376000.0,
-        "expiration_date": "22-jul-2020",
+        "epoch": 1626912000.0,
+        "expiration_date": "22-jul-2021",
         "state": "future"
     },
     "chojna24.pl": {
@@ -5490,8 +5490,8 @@
         "state": "future"
     },
     "kanal10.pl": {
-        "epoch": 1595376000.0,
-        "expiration_date": "22-jul-2020",
+        "epoch": 1626912000.0,
+        "expiration_date": "22-jul-2021",
         "state": "future"
     },
     "kanonierzy.com": {
@@ -11707,7 +11707,7 @@
     "terazgostynin.pl": {
         "epoch": 1595376000.0,
         "expiration_date": "22-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "terazgrodkow24.pl": {
         "epoch": 1601856000.0,
@@ -13230,9 +13230,9 @@
         "state": "future"
     },
     "wolomin24.info": {
-        "epoch": 1595289600.0,
-        "expiration_date": "21-jul-2020",
-        "state": "past"
+        "epoch": 1626825600.0,
+        "expiration_date": "21-jul-2021",
+        "state": "future"
     },
     "womenshealth.pl": {
         "epoch": 1602979200.0,
