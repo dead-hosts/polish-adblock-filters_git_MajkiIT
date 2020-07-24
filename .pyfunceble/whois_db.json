@@ -1245,8 +1245,8 @@
         "state": "future"
     },
     "budnet.pl": {
-        "epoch": 1595548800.0,
-        "expiration_date": "24-jul-2020",
+        "epoch": 1624492800.0,
+        "expiration_date": "24-jun-2021",
         "state": "future"
     },
     "budujesz.info": {
@@ -1365,8 +1365,8 @@
         "state": "future"
     },
     "cannabisnews.pl": {
-        "epoch": 1595462400.0,
-        "expiration_date": "23-jul-2020",
+        "epoch": 1626998400.0,
+        "expiration_date": "23-jul-2021",
         "state": "future"
     },
     "cardsplitter.pl": {
@@ -2180,8 +2180,8 @@
         "state": "future"
     },
     "dobrewiadomosci.net.pl": {
-        "epoch": 1595548800.0,
-        "expiration_date": "24-jul-2020",
+        "epoch": 1690156800.0,
+        "expiration_date": "24-jul-2023",
         "state": "future"
     },
     "docer.pl": {
@@ -2310,8 +2310,8 @@
         "state": "future"
     },
     "doz.pl": {
-        "epoch": 1595548800.0,
-        "expiration_date": "24-jul-2020",
+        "epoch": 1627084800.0,
+        "expiration_date": "24-jul-2021",
         "state": "future"
     },
     "drhtv.com.pl": {
@@ -4985,8 +4985,8 @@
         "state": "future"
     },
     "infoskierniewice.pl": {
-        "epoch": 1595462400.0,
-        "expiration_date": "23-jul-2020",
+        "epoch": 1658534400.0,
+        "expiration_date": "23-jul-2022",
         "state": "future"
     },
     "infostrow.pl": {
@@ -5290,8 +5290,8 @@
         "state": "future"
     },
     "jadarhobby.pl": {
-        "epoch": 1595548800.0,
-        "expiration_date": "24-jul-2020",
+        "epoch": 1627084800.0,
+        "expiration_date": "24-jul-2021",
         "state": "future"
     },
     "jadlonomia.com": {
@@ -7010,8 +7010,8 @@
         "state": "future"
     },
     "miasto-info.pl": {
-        "epoch": 1595548800.0,
-        "expiration_date": "24-jul-2020",
+        "epoch": 1627084800.0,
+        "expiration_date": "24-jul-2021",
         "state": "future"
     },
     "miastociechocinek.com": {
@@ -11705,9 +11705,9 @@
         "state": "future"
     },
     "terazgostynin.pl": {
-        "epoch": 1595376000.0,
-        "expiration_date": "22-jul-2020",
-        "state": "past"
+        "epoch": 1626912000.0,
+        "expiration_date": "22-jul-2021",
+        "state": "future"
     },
     "terazgrodkow24.pl": {
         "epoch": 1601856000.0,
@@ -13832,7 +13832,7 @@
     "zvami.tv": {
         "epoch": 1595548800.0,
         "expiration_date": "24-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "zw.lt": {
         "epoch": 1615680000.0,
