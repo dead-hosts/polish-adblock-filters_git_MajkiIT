@@ -8865,8 +8865,8 @@
         "state": "future"
     },
     "play.pl": {
-        "epoch": 1595635200.0,
-        "expiration_date": "25-jul-2020",
+        "epoch": 1649030400.0,
+        "expiration_date": "04-apr-2022",
         "state": "future"
     },
     "playstationforum.pl": {
@@ -9130,8 +9130,8 @@
         "state": "future"
     },
     "polskikosz.pl": {
-        "epoch": 1595721600.0,
-        "expiration_date": "26-jul-2020",
+        "epoch": 1690329600.0,
+        "expiration_date": "26-jul-2023",
         "state": "future"
     },
     "polskiprzemysl.com.pl": {
@@ -9360,8 +9360,8 @@
         "state": "future"
     },
     "portalwarszawski.com.pl": {
-        "epoch": 1595635200.0,
-        "expiration_date": "25-jul-2020",
+        "epoch": 1627171200.0,
+        "expiration_date": "25-jul-2021",
         "state": "future"
     },
     "poscigi.pl": {
@@ -9375,8 +9375,8 @@
         "state": "future"
     },
     "postawnaswoim.pl": {
-        "epoch": 1595721600.0,
-        "expiration_date": "26-jul-2020",
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
         "state": "future"
     },
     "postlnk.com": {
@@ -9725,8 +9725,8 @@
         "state": "future"
     },
     "przyslijprzepis.pl": {
-        "epoch": 1595721600.0,
-        "expiration_date": "26-jul-2020",
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
         "state": "future"
     },
     "ps4life.pl": {
@@ -10272,7 +10272,7 @@
     "rodaknet.com": {
         "epoch": 1595721600.0,
         "expiration_date": "26-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "rodzice.pl": {
         "epoch": 1656460800,
@@ -10395,8 +10395,8 @@
         "state": "future"
     },
     "rzeszow-news.pl": {
-        "epoch": 1595635200.0,
-        "expiration_date": "25-jul-2020",
+        "epoch": 1627171200.0,
+        "expiration_date": "25-jul-2021",
         "state": "future"
     },
     "rzeszow24.pl": {
@@ -11165,8 +11165,8 @@
         "state": "future"
     },
     "strefadb.pl": {
-        "epoch": 1595635200.0,
-        "expiration_date": "25-jul-2020",
+        "epoch": 1627171200.0,
+        "expiration_date": "25-jul-2021",
         "state": "future"
     },
     "strefagry.pl": {
@@ -12840,8 +12840,8 @@
         "state": "future"
     },
     "waszdzienpodniu.pl": {
-        "epoch": 1595635200.0,
-        "expiration_date": "25-jul-2020",
+        "epoch": 1627171200.0,
+        "expiration_date": "25-jul-2021",
         "state": "future"
     },
     "waszwilanow.pl": {
@@ -12870,8 +12870,8 @@
         "state": "future"
     },
     "wbijam.pl": {
-        "epoch": 1595635200.0,
-        "expiration_date": "25-jul-2020",
+        "epoch": 1627171200.0,
+        "expiration_date": "25-jul-2021",
         "state": "future"
     },
     "wbj.pl": {
@@ -13067,7 +13067,7 @@
     "wien.info": {
         "epoch": 1595721600.0,
         "expiration_date": "26-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "wiesci.com.pl": {
         "epoch": 1600041600.0,
@@ -13195,8 +13195,8 @@
         "state": "future"
     },
     "wkopi.pl": {
-        "epoch": 1595635200.0,
-        "expiration_date": "25-jul-2020",
+        "epoch": 1627171200.0,
+        "expiration_date": "25-jul-2021",
         "state": "future"
     },
     "wlkp24.info": {
@@ -13710,8 +13710,8 @@
         "state": "future"
     },
     "zielonanews.pl": {
-        "epoch": 1595635200.0,
-        "expiration_date": "25-jul-2020",
+        "epoch": 1627171200.0,
+        "expiration_date": "25-jul-2021",
         "state": "future"
     },
     "zielonydziennik.pl": {
