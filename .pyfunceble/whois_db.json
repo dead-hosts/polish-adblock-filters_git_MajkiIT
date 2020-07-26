@@ -59,6 +59,11 @@
         "expiration_date": "25-mar-2021",
         "state": "future"
     },
+    "24zabrze.pl": {
+        "epoch": 1622764800.0,
+        "expiration_date": "04-jun-2021",
+        "state": "future"
+    },
     "2bstyle.pl": {
         "epoch": 1602288000.0,
         "expiration_date": "10-oct-2020",
@@ -1770,8 +1775,8 @@
         "state": "future"
     },
     "cryptoprofit.pl": {
-        "epoch": 1595721600.0,
-        "expiration_date": "26-jul-2020",
+        "epoch": 1596931200.0,
+        "expiration_date": "09-aug-2020",
         "state": "future"
     },
     "crystal-launcher.pl": {
@@ -2210,8 +2215,8 @@
         "state": "future"
     },
     "dogry.pl": {
-        "epoch": 1595721600.0,
-        "expiration_date": "26-jul-2020",
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
         "state": "future"
     },
     "dojrzalakobieta.pl": {
@@ -2275,8 +2280,8 @@
         "state": "future"
     },
     "dostawczakiem.pl": {
-        "epoch": 1595721600.0,
-        "expiration_date": "26-jul-2020",
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
         "state": "future"
     },
     "dotnetomaniak.pl": {
@@ -10120,8 +10125,8 @@
         "state": "future"
     },
     "rebelianci.org": {
-        "epoch": 1595635200.0,
-        "expiration_date": "25-jul-2020",
+        "epoch": 1627171200.0,
+        "expiration_date": "25-jul-2021",
         "state": "future"
     },
     "redbullmobile.pl": {
@@ -12330,8 +12335,8 @@
         "state": "future"
     },
     "twojglos.pl": {
-        "epoch": 1595635200.0,
-        "expiration_date": "25-jul-2020",
+        "epoch": 1627171200.0,
+        "expiration_date": "25-jul-2021",
         "state": "future"
     },
     "twojkurierolsztynski.pl": {
@@ -12380,8 +12385,8 @@
         "state": "future"
     },
     "tygodnik.pl": {
-        "epoch": 1595721600.0,
-        "expiration_date": "26-jul-2020",
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
         "state": "future"
     },
     "tygodnik.szczytno.pl": {
@@ -13830,9 +13835,9 @@
         "state": "future"
     },
     "zvami.tv": {
-        "epoch": 1595548800.0,
-        "expiration_date": "24-jul-2020",
-        "state": "past"
+        "epoch": 1627084800.0,
+        "expiration_date": "24-jul-2021",
+        "state": "future"
     },
     "zw.lt": {
         "epoch": 1615680000.0,

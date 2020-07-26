@@ -1,12 +1,12 @@
 {
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/domains.list": {
         "base": {
-            "datetime_iso": "2020-07-22T10:12:42.014038",
-            "hash": "692701c1584bc16e5f692adc0247ad41064e8facd84128906c1b0bf1"
+            "datetime_iso": "2020-07-26T05:04:07.947305",
+            "hash": "02b4f36120478caffd2ac28c55e66bf90c09d66499798b72fc8c146a"
         },
         "latest": {
-            "datetime_iso": "2020-07-24T05:38:04.281430",
-            "hash": "692701c1584bc16e5f692adc0247ad41064e8facd84128906c1b0bf1"
+            "datetime_iso": "2020-07-26T05:04:07.947305",
+            "hash": "02b4f36120478caffd2ac28c55e66bf90c09d66499798b72fc8c146a"
         },
         "position": 0
     }
