@@ -98,6 +98,13 @@
             "last_retested_at_iso": "2020-07-26T05:37:31.341928",
             "status": "INACTIVE"
         },
+        "vidoza*.github.io": {
+            "included_at_epoch": 1595742124.61842,
+            "included_at_iso": "2020-07-26T05:42:04.618420",
+            "last_retested_at_epoch": 1595742124.61842,
+            "last_retested_at_iso": "2020-07-26T05:42:04.618420",
+            "status": "INACTIVE"
+        },
         "www.booclick.pl": {
             "included_at_epoch": 1595741870.545304,
             "included_at_iso": "2020-07-26T05:37:50.545304",
