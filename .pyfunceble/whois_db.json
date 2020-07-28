@@ -4750,8 +4750,8 @@
         "state": "future"
     },
     "ifotos.pl": {
-        "epoch": 1595894400.0,
-        "expiration_date": "28-jul-2020",
+        "epoch": 1627430400.0,
+        "expiration_date": "28-jul-2021",
         "state": "future"
     },
     "ifrancja.fr": {
@@ -4955,8 +4955,8 @@
         "state": "future"
     },
     "inforiders.pl": {
-        "epoch": 1595894400.0,
-        "expiration_date": "28-jul-2020",
+        "epoch": 1627430400.0,
+        "expiration_date": "28-jul-2021",
         "state": "future"
     },
     "informacja.wroclaw.pl": {
@@ -9705,8 +9705,8 @@
         "state": "future"
     },
     "przewodnik-katolicki.pl": {
-        "epoch": 1595894400.0,
-        "expiration_date": "28-jul-2020",
+        "epoch": 1627430400.0,
+        "expiration_date": "28-jul-2021",
         "state": "future"
     },
     "przewodnikmp.pl": {
@@ -10270,9 +10270,9 @@
         "state": "future"
     },
     "rodaknet.com": {
-        "epoch": 1595721600.0,
-        "expiration_date": "26-jul-2020",
-        "state": "past"
+        "epoch": 1658793600.0,
+        "expiration_date": "26-jul-2022",
+        "state": "future"
     },
     "rodzice.pl": {
         "epoch": 1656460800,
@@ -12135,8 +12135,8 @@
         "state": "future"
     },
     "tvjaslo.pl": {
-        "epoch": 1595894400.0,
-        "expiration_date": "28-jul-2020",
+        "epoch": 1627430400.0,
+        "expiration_date": "28-jul-2021",
         "state": "future"
     },
     "tvklodzka.pl": {
@@ -12525,8 +12525,8 @@
         "state": "future"
     },
     "uod2quk646.com": {
-        "epoch": 1595808000.0,
-        "expiration_date": "27-jul-2020",
+        "epoch": 1627344000.0,
+        "expiration_date": "27-jul-2021",
         "state": "future"
     },
     "upcpm.pl": {
@@ -13065,9 +13065,9 @@
         "state": "future"
     },
     "wien.info": {
-        "epoch": 1595721600.0,
-        "expiration_date": "26-jul-2020",
-        "state": "past"
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
+        "state": "future"
     },
     "wiesci.com.pl": {
         "epoch": 1600041600.0,
