@@ -3045,8 +3045,8 @@
         "state": "future"
     },
     "expressbydgoski.pl": {
-        "epoch": 1595894400.0,
-        "expiration_date": "28-jul-2020",
+        "epoch": 1627430400.0,
+        "expiration_date": "28-jul-2021",
         "state": "future"
     },
     "expresselblag.pl": {
@@ -5065,8 +5065,8 @@
         "state": "future"
     },
     "interia.tv": {
-        "epoch": 1595894400.0,
-        "expiration_date": "28-jul-2020",
+        "epoch": 1627430400.0,
+        "expiration_date": "28-jul-2021",
         "state": "future"
     },
     "interpretacje-podatkowe.org": {
@@ -6695,8 +6695,8 @@
         "state": "future"
     },
     "malopolska.in": {
-        "epoch": 1595894400.0,
-        "expiration_date": "28-jul-2020",
+        "epoch": 1627430400.0,
+        "expiration_date": "28-jul-2021",
         "state": "future"
     },
     "malydziennik.pl": {
@@ -8197,7 +8197,7 @@
     "obywatelenieba.pl": {
         "epoch": 1595894400.0,
         "expiration_date": "28-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "ochrona-mienia.pl": {
         "epoch": 1616457600.0,
