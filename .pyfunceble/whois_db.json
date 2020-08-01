@@ -845,8 +845,8 @@
         "state": "future"
     },
     "benchmark.pl": {
-        "epoch": 1596153600.0,
-        "expiration_date": "31-jul-2020",
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
         "state": "future"
     },
     "beskidlive.pl": {
@@ -5145,8 +5145,8 @@
         "state": "future"
     },
     "ironmangdynia.pl": {
-        "epoch": 1596153600.0,
-        "expiration_date": "31-jul-2020",
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
         "state": "future"
     },
     "isanok.pl": {
@@ -5220,8 +5220,8 @@
         "state": "future"
     },
     "itv24.com.pl": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
         "state": "future"
     },
     "itvm.pl": {
@@ -7350,8 +7350,8 @@
         "state": "future"
     },
     "mojlask.pl": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
         "state": "future"
     },
     "mojmac.pl": {
@@ -10305,8 +10305,8 @@
         "state": "future"
     },
     "roztocze.net": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
         "state": "future"
     },
     "rp.pl": {
