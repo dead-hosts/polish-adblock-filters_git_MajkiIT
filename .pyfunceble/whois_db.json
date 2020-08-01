@@ -877,7 +877,7 @@
     "betegy.com": {
         "epoch": 1596153600.0,
         "expiration_date": "31-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "bezdroza.pl": {
         "epoch": 1608249600.0,
@@ -3965,8 +3965,8 @@
         "state": "future"
     },
     "globalne-archiwum.pl": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
+        "epoch": 1659312000.0,
+        "expiration_date": "01-aug-2022",
         "state": "future"
     },
     "globtroter.pl": {
@@ -8990,8 +8990,8 @@
         "state": "future"
     },
     "pogonszczecin.pl": {
-        "epoch": 1596153600.0,
-        "expiration_date": "31-jul-2020",
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
         "state": "future"
     },
     "pokemon-go.pl": {
@@ -10950,8 +10950,8 @@
         "state": "future"
     },
     "sportdziennik.pl": {
-        "epoch": 1596153600.0,
-        "expiration_date": "31-jul-2020",
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
         "state": "future"
     },
     "sporteuro.pl": {
@@ -11200,8 +11200,8 @@
         "state": "future"
     },
     "strzelecopolski.pl": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
         "state": "future"
     },
     "strzyzow24.pl": {
@@ -11615,8 +11615,8 @@
         "state": "future"
     },
     "teleman.pl": {
-        "epoch": 1596153600.0,
-        "expiration_date": "31-jul-2020",
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
         "state": "future"
     },
     "telepolis.pl": {
@@ -13454,6 +13454,11 @@
         "expiration_date": "05-dec-2020",
         "state": "future"
     },
+    "wyszkowiak.pl": {
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
+        "state": "future"
+    },
     "wzielonej.pl": {
         "epoch": 1674259200.0,
         "expiration_date": "21-jan-2023",
@@ -13565,8 +13570,8 @@
         "state": "future"
     },
     "zakupydladziecka.pl": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
         "state": "future"
     },
     "zalukaj.com": {
