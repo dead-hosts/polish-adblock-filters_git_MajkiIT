@@ -6625,8 +6625,8 @@
         "state": "future"
     },
     "magazynbasista.pl": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
         "state": "future"
     },
     "magazynbieganie.pl": {
@@ -7765,8 +7765,8 @@
         "state": "future"
     },
     "naszemiastomiedzyzdroje.com.pl": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
+        "epoch": 1625356800.0,
+        "expiration_date": "04-jul-2021",
         "state": "future"
     },
     "naszesudety.pl": {
@@ -8445,8 +8445,8 @@
         "state": "future"
     },
     "oscarrak.pl": {
-        "epoch": 1596326400.0,
-        "expiration_date": "02-aug-2020",
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
         "state": "future"
     },
     "ostrodanews.pl": {
