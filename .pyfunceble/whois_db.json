@@ -1489,6 +1489,11 @@
         "expiration_date": "12-aug-2020",
         "state": "future"
     },
+    "chcemybycrodzicami.pl": {
+        "epoch": 1618790400.0,
+        "expiration_date": "19-apr-2021",
+        "state": "future"
+    },
     "chelmno.com.pl": {
         "epoch": 1613260800.0,
         "expiration_date": "14-feb-2021",
@@ -5185,8 +5190,8 @@
         "state": "future"
     },
     "it-manuals.info": {
-        "epoch": 1596326400.0,
-        "expiration_date": "02-aug-2020",
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
         "state": "future"
     },
     "itbiznes.pl": {
@@ -5875,8 +5880,8 @@
         "state": "future"
     },
     "kozienice24.pl": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
         "state": "future"
     },
     "kraj24.pl": {
@@ -6220,8 +6225,8 @@
         "state": "future"
     },
     "leftlane.pl": {
-        "epoch": 1596326400.0,
-        "expiration_date": "02-aug-2020",
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
         "state": "future"
     },
     "legalniewsieci.pl": {
@@ -11579,6 +11584,11 @@
         "expiration_date": "02-may-2021",
         "state": "future"
     },
+    "techno-senior.com": {
+        "epoch": 1605052800.0,
+        "expiration_date": "11-nov-2020",
+        "state": "future"
+    },
     "technologiczna.pl": {
         "epoch": 1616025600.0,
         "expiration_date": "18-mar-2021",
@@ -13730,8 +13740,8 @@
         "state": "future"
     },
     "ziemiadebicka.pl": {
-        "epoch": 1596326400.0,
-        "expiration_date": "02-aug-2020",
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
         "state": "future"
     },
     "ziemialimanowska.pl": {
