@@ -3,8 +3,8 @@
         "bielski24.pl": {
             "included_at_epoch": 1594703605.792773,
             "included_at_iso": "2020-07-14T05:13:25.792773",
-            "last_retested_at_epoch": 1596432533.205387,
-            "last_retested_at_iso": "2020-08-03T05:28:53.205387",
+            "last_retested_at_epoch": 1596536870.219206,
+            "last_retested_at_iso": "2020-08-04T10:27:50.219206",
             "status": "INACTIVE"
         },
         "businessclick.*": {
@@ -17,22 +17,22 @@
         "cashowsky.pl": {
             "included_at_epoch": 1594703609.751165,
             "included_at_iso": "2020-07-14T05:13:29.751165",
-            "last_retested_at_epoch": 1596432537.139671,
-            "last_retested_at_iso": "2020-08-03T05:28:57.139671",
+            "last_retested_at_epoch": 1596536874.123731,
+            "last_retested_at_iso": "2020-08-04T10:27:54.123731",
             "status": "INACTIVE"
         },
         "forum.dvhk.to": {
             "included_at_epoch": 1594703622.993647,
             "included_at_iso": "2020-07-14T05:13:42.993647",
-            "last_retested_at_epoch": 1596432550.224214,
-            "last_retested_at_iso": "2020-08-03T05:29:10.224214",
+            "last_retested_at_epoch": 1596536887.343437,
+            "last_retested_at_iso": "2020-08-04T10:28:07.343437",
             "status": "INACTIVE"
         },
         "gomoney.pl": {
             "included_at_epoch": 1594703626.465838,
             "included_at_iso": "2020-07-14T05:13:46.465838",
-            "last_retested_at_epoch": 1596432553.669893,
-            "last_retested_at_iso": "2020-08-03T05:29:13.669893",
+            "last_retested_at_epoch": 1596536890.844458,
+            "last_retested_at_iso": "2020-08-04T10:28:10.844458",
             "status": "INACTIVE"
         },
         "img.dvhk.to": {
@@ -48,13 +48,6 @@
             "last_retested_at_epoch": 1596433633.480379,
             "last_retested_at_iso": "2020-08-03T05:47:13.480379",
             "status": "INVALID"
-        },
-        "mazury24.eu": {
-            "included_at_epoch": 1596432570.373958,
-            "included_at_iso": "2020-08-03T05:29:30.373958",
-            "last_retested_at_epoch": 1596432570.373958,
-            "last_retested_at_iso": "2020-08-03T05:29:30.373958",
-            "status": "INACTIVE"
         },
         "mypolacy.nl": {
             "included_at_epoch": 1596454798.613487,
@@ -87,8 +80,8 @@
         "twojzwolen.pl": {
             "included_at_epoch": 1595241321.421009,
             "included_at_iso": "2020-07-20T10:35:21.421009",
-            "last_retested_at_epoch": 1596432525.982853,
-            "last_retested_at_iso": "2020-08-03T05:28:45.982853",
+            "last_retested_at_epoch": 1596536862.900272,
+            "last_retested_at_iso": "2020-08-04T10:27:42.900272",
             "status": "INACTIVE"
         },
         "ustawmundial.weszlo.com": {
