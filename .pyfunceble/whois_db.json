@@ -1300,8 +1300,8 @@
         "state": "future"
     },
     "businesstraveller.pl": {
-        "epoch": 1596499200.0,
-        "expiration_date": "04-aug-2020",
+        "epoch": 1628035200.0,
+        "expiration_date": "04-aug-2021",
         "state": "future"
     },
     "businesswomanlife.pl": {
@@ -9100,8 +9100,8 @@
         "state": "future"
     },
     "polski-tenis.pl": {
-        "epoch": 1596326400.0,
-        "expiration_date": "02-aug-2020",
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
         "state": "future"
     },
     "polskiautohandel.pl": {
@@ -9310,8 +9310,8 @@
         "state": "future"
     },
     "portalhodowcy.pl": {
-        "epoch": 1596499200.0,
-        "expiration_date": "04-aug-2020",
+        "epoch": 1628035200.0,
+        "expiration_date": "04-aug-2021",
         "state": "future"
     },
     "portalkomunalny.pl": {
@@ -10592,7 +10592,7 @@
     "sferadomen.pl": {
         "epoch": 1596499200.0,
         "expiration_date": "04-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "sgforum.pl": {
         "epoch": 1602288000.0,
@@ -10785,8 +10785,8 @@
         "state": "future"
     },
     "slowka.pl": {
-        "epoch": 1596499200.0,
-        "expiration_date": "04-aug-2020",
+        "epoch": 1628035200.0,
+        "expiration_date": "04-aug-2021",
         "state": "future"
     },
     "slowopodlasia.pl": {
