@@ -52,8 +52,8 @@
         "mypolacy.nl": {
             "included_at_epoch": 1596454798.613487,
             "included_at_iso": "2020-08-03T11:39:58.613487",
-            "last_retested_at_epoch": 1596454831.079143,
-            "last_retested_at_iso": "2020-08-03T11:40:31.079143",
+            "last_retested_at_epoch": 1596543291.333644,
+            "last_retested_at_iso": "2020-08-04T12:14:51.333644",
             "status": "INACTIVE"
         },
         "redir.atmcdn.pl*swf": {
