@@ -8660,8 +8660,8 @@
         "state": "future"
     },
     "pdaclub.pl": {
-        "epoch": 1596585600.0,
-        "expiration_date": "05-aug-2020",
+        "epoch": 1659657600.0,
+        "expiration_date": "05-aug-2022",
         "state": "future"
     },
     "pdasite.pl": {
@@ -10590,9 +10590,9 @@
         "state": "future"
     },
     "sferadomen.pl": {
-        "epoch": 1596499200.0,
-        "expiration_date": "04-aug-2020",
-        "state": "past"
+        "epoch": 1599091200.0,
+        "expiration_date": "03-sep-2020",
+        "state": "future"
     },
     "sgforum.pl": {
         "epoch": 1602288000.0,
@@ -11115,8 +11115,8 @@
         "state": "future"
     },
     "steam.io": {
-        "epoch": 1596585600.0,
-        "expiration_date": "05-aug-2020",
+        "epoch": 1628121600.0,
+        "expiration_date": "05-aug-2021",
         "state": "future"
     },
     "stepstone.pl": {
@@ -11235,8 +11235,8 @@
         "state": "future"
     },
     "sucha24.pl": {
-        "epoch": 1596585600.0,
-        "expiration_date": "05-aug-2020",
+        "epoch": 1628121600.0,
+        "expiration_date": "05-aug-2021",
         "state": "future"
     },
     "sucharry.pl": {
@@ -12490,8 +12490,8 @@
         "state": "future"
     },
     "tylkotorun.pl": {
-        "epoch": 1596585600.0,
-        "expiration_date": "05-aug-2020",
+        "epoch": 1628121600.0,
+        "expiration_date": "05-aug-2021",
         "state": "future"
     },
     "tyna.info.pl": {
