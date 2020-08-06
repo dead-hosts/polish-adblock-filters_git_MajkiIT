@@ -24,15 +24,15 @@
         "forum.dvhk.to": {
             "included_at_epoch": 1594703622.993647,
             "included_at_iso": "2020-07-14T05:13:42.993647",
-            "last_retested_at_epoch": 1596623842.57172,
-            "last_retested_at_iso": "2020-08-05T10:37:22.571720",
+            "last_retested_at_epoch": 1596712771.160307,
+            "last_retested_at_iso": "2020-08-06T11:19:31.160307",
             "status": "INACTIVE"
         },
         "gomoney.pl": {
             "included_at_epoch": 1594703626.465838,
             "included_at_iso": "2020-07-14T05:13:46.465838",
-            "last_retested_at_epoch": 1596623846.31029,
-            "last_retested_at_iso": "2020-08-05T10:37:26.310290",
+            "last_retested_at_epoch": 1596712771.1695,
+            "last_retested_at_iso": "2020-08-06T11:19:31.169500",
             "status": "INACTIVE"
         },
         "img.dvhk.to": {
@@ -52,8 +52,8 @@
         "mypolacy.nl": {
             "included_at_epoch": 1596454798.613487,
             "included_at_iso": "2020-08-03T11:39:58.613487",
-            "last_retested_at_epoch": 1596543291.333644,
-            "last_retested_at_iso": "2020-08-04T12:14:51.333644",
+            "last_retested_at_epoch": 1596712810.810487,
+            "last_retested_at_iso": "2020-08-06T11:20:10.810487",
             "status": "INACTIVE"
         },
         "redir.atmcdn.pl*swf": {
