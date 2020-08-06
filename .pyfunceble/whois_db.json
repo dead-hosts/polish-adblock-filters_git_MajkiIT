@@ -2430,8 +2430,8 @@
         "state": "future"
     },
     "dziennikzwiazkowy.com": {
-        "epoch": 1596672000.0,
-        "expiration_date": "06-aug-2020",
+        "epoch": 1628208000.0,
+        "expiration_date": "06-aug-2021",
         "state": "future"
     },
     "dzisiajwgliwicach.pl": {
@@ -6950,8 +6950,8 @@
         "state": "future"
     },
     "menshealth.pl": {
-        "epoch": 1596672000.0,
-        "expiration_date": "06-aug-2020",
+        "epoch": 1628208000.0,
+        "expiration_date": "06-aug-2021",
         "state": "future"
     },
     "mensis.pl": {
@@ -9142,7 +9142,7 @@
     "polskiprzemysl.com.pl": {
         "epoch": 1596672000.0,
         "expiration_date": "06-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "polubione.pl": {
         "epoch": 1637280000.0,
@@ -13925,8 +13925,8 @@
         "state": "future"
     },
     "zyciesiedleckie.pl": {
-        "epoch": 1596585600.0,
-        "expiration_date": "05-aug-2020",
+        "epoch": 1628121600.0,
+        "expiration_date": "05-aug-2021",
         "state": "future"
     },
     "zyciesokolowa.pl": {
