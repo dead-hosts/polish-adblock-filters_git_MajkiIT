@@ -1845,8 +1845,8 @@
         "state": "future"
     },
     "cyfrowaekonomia.pl": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
         "state": "future"
     },
     "cyfrowypolsatnews.pl": {
@@ -3145,8 +3145,8 @@
         "state": "future"
     },
     "fabrykasily.pl": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
         "state": "future"
     },
     "fabrykasypialni.pl": {
@@ -3535,8 +3535,8 @@
         "state": "future"
     },
     "fotka.com": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
         "state": "future"
     },
     "fotoblogia.pl": {
@@ -4222,7 +4222,7 @@
     "gpcodziennie.pl": {
         "epoch": 1596844800.0,
         "expiration_date": "08-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "gpd24.pl": {
         "epoch": 1624233600.0,
@@ -4440,8 +4440,8 @@
         "state": "future"
     },
     "gwio.pl": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
+        "epoch": 1599350400.0,
+        "expiration_date": "06-sep-2020",
         "state": "future"
     },
     "hack.pl": {
@@ -5010,8 +5010,8 @@
         "state": "future"
     },
     "innemedium.pl": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
         "state": "future"
     },
     "innpoland.pl": {
@@ -5655,8 +5655,8 @@
         "state": "future"
     },
     "kkozle.pl": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
         "state": "future"
     },
     "kkslech.com": {
@@ -8125,8 +8125,8 @@
         "state": "future"
     },
     "nudziara.pl": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
+        "epoch": 1659916800.0,
+        "expiration_date": "08-aug-2022",
         "state": "future"
     },
     "nuzle.pl": {
