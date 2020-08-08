@@ -9990,8 +9990,8 @@
         "state": "future"
     },
     "radiopiekary.pl": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
         "state": "future"
     },
     "radiopik.pl": {
@@ -11135,13 +11135,13 @@
         "state": "future"
     },
     "stooq.com": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
         "state": "future"
     },
     "stooq.pl": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
         "state": "future"
     },
     "stop-cham.pl": {
@@ -11427,7 +11427,7 @@
     "szczekaopada.pl": {
         "epoch": 1596844800.0,
         "expiration_date": "08-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "szkolasen.com": {
         "epoch": 1613606400.0,
@@ -12272,7 +12272,7 @@
     "twoja-czestochowa.pl": {
         "epoch": 1596844800.0,
         "expiration_date": "08-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "twojahistoria.pl": {
         "epoch": 1658793600.0,
@@ -12325,8 +12325,8 @@
         "state": "future"
     },
     "twojeglubczyce.pl": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
         "state": "future"
     },
     "twojejaslo.pl": {
@@ -12350,8 +12350,8 @@
         "state": "future"
     },
     "twojkurierolsztynski.pl": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
         "state": "future"
     },
     "twojprofesor.pl": {
@@ -12920,8 +12920,8 @@
         "state": "future"
     },
     "webhelp.pl": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
+        "epoch": 1612915200.0,
+        "expiration_date": "10-feb-2021",
         "state": "future"
     },
     "webhostingtalk.pl": {
@@ -13640,8 +13640,8 @@
         "state": "future"
     },
     "zarszyn24.pl": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
+        "epoch": 1599350400.0,
+        "expiration_date": "06-sep-2020",
         "state": "future"
     },
     "zaufanatrzeciastrona.pl": {
