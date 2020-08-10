@@ -145,8 +145,8 @@
         "state": "future"
     },
     "4trucks.pl": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
         "state": "future"
     },
     "69oxt4q05.com": {
@@ -1780,8 +1780,8 @@
         "state": "future"
     },
     "cryptoprofit.pl": {
-        "epoch": 1596931200.0,
-        "expiration_date": "09-aug-2020",
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
         "state": "future"
     },
     "crystal-launcher.pl": {
@@ -4220,9 +4220,9 @@
         "state": "future"
     },
     "gpcodziennie.pl": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
-        "state": "past"
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
+        "state": "future"
     },
     "gpd24.pl": {
         "epoch": 1624233600.0,
@@ -4530,8 +4530,8 @@
         "state": "future"
     },
     "highlab.pl": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
         "state": "future"
     },
     "hip-hop.pl": {
@@ -6015,8 +6015,8 @@
         "state": "future"
     },
     "ktoto.info": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
         "state": "future"
     },
     "kucharenka.pl": {
@@ -8485,8 +8485,8 @@
         "state": "future"
     },
     "oswiecimskie24.pl": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
         "state": "future"
     },
     "otodom.pl": {
