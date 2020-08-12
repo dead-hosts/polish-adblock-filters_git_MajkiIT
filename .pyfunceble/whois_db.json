@@ -1485,8 +1485,8 @@
         "state": "future"
     },
     "chceauto.pl": {
-        "epoch": 1597190400.0,
-        "expiration_date": "12-aug-2020",
+        "epoch": 1628726400.0,
+        "expiration_date": "12-aug-2021",
         "state": "future"
     },
     "chcemybycrodzicami.pl": {
@@ -3375,8 +3375,8 @@
         "state": "future"
     },
     "fishing-test.pl": {
-        "epoch": 1597104000.0,
-        "expiration_date": "11-aug-2020",
+        "epoch": 1628640000.0,
+        "expiration_date": "11-aug-2021",
         "state": "future"
     },
     "flakyfeast.com": {
@@ -10622,7 +10622,7 @@
     "shoplov.in": {
         "epoch": 1597190400.0,
         "expiration_date": "12-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "showup.tv": {
         "epoch": 1678579200.0,
@@ -11450,8 +11450,8 @@
         "state": "future"
     },
     "szukajka.tv": {
-        "epoch": 1597190400.0,
-        "expiration_date": "12-aug-2020",
+        "epoch": 1628726400.0,
+        "expiration_date": "12-aug-2021",
         "state": "future"
     },
     "szukam-ksiazki.pl": {
@@ -12320,8 +12320,8 @@
         "state": "future"
     },
     "twojecentrum.pl": {
-        "epoch": 1597104000.0,
-        "expiration_date": "11-aug-2020",
+        "epoch": 1628640000.0,
+        "expiration_date": "11-aug-2021",
         "state": "future"
     },
     "twojeglubczyce.pl": {
@@ -13845,8 +13845,8 @@
         "state": "future"
     },
     "zuzelend.com": {
-        "epoch": 1597104000.0,
-        "expiration_date": "11-aug-2020",
+        "epoch": 1628640000.0,
+        "expiration_date": "11-aug-2021",
         "state": "future"
     },
     "zvami.tv": {
