@@ -804,6 +804,11 @@
         "expiration_date": "05-jan-2021",
         "state": "future"
     },
+    "baxu.pl": {
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
+        "state": "future"
+    },
     "bazarynek.pl": {
         "epoch": 1619395200.0,
         "expiration_date": "26-apr-2021",
@@ -2270,8 +2275,8 @@
         "state": "future"
     },
     "dorzeczy.pl": {
-        "epoch": 1597363200.0,
-        "expiration_date": "14-aug-2020",
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
         "state": "future"
     },
     "doskonalyslub.pl": {
@@ -2760,8 +2765,8 @@
         "state": "future"
     },
     "elektroda.pl": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
         "state": "future"
     },
     "elektroinstalacje.info": {
@@ -3770,8 +3775,8 @@
         "state": "future"
     },
     "gazetakartuska.pl": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
+        "epoch": 1599868800.0,
+        "expiration_date": "12-sep-2020",
         "state": "future"
     },
     "gazetaklobucka.pl": {
@@ -4335,8 +4340,8 @@
         "state": "future"
     },
     "groupon.pl": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
         "state": "future"
     },
     "grudziadz365.pl": {
@@ -5255,8 +5260,8 @@
         "state": "future"
     },
     "itvwisla.tv": {
-        "epoch": 1597363200.0,
-        "expiration_date": "14-aug-2020",
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
         "state": "future"
     },
     "itwiz.pl": {
@@ -6955,8 +6960,8 @@
         "state": "future"
     },
     "mensis.pl": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
         "state": "future"
     },
     "metalnews.pl": {
@@ -6977,7 +6982,7 @@
     "meteovista.pl": {
         "epoch": 1597363200.0,
         "expiration_date": "14-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "metropoliabydgoska.pl": {
         "epoch": 1619049600.0,
@@ -7495,8 +7500,8 @@
         "state": "future"
     },
     "mpcforum.pl": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
         "state": "future"
     },
     "mpolska24.pl": {
@@ -7645,8 +7650,8 @@
         "state": "future"
     },
     "nadmorski24.pl": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
         "state": "future"
     },
     "nadwisla24.pl": {
