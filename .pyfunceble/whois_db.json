@@ -1200,8 +1200,8 @@
         "state": "future"
     },
     "brainly.pl": {
-        "epoch": 1597363200.0,
-        "expiration_date": "14-aug-2020",
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
         "state": "future"
     },
     "brodnica-cbr.pl": {
@@ -1855,8 +1855,8 @@
         "state": "future"
     },
     "cyfrowypolsatnews.pl": {
-        "epoch": 1597536000.0,
-        "expiration_date": "16-aug-2020",
+        "epoch": 1629072000.0,
+        "expiration_date": "16-aug-2021",
         "state": "future"
     },
     "czadrow24.pl": {
@@ -2425,8 +2425,8 @@
         "state": "future"
     },
     "dziennikwschodni.pl": {
-        "epoch": 1597536000.0,
-        "expiration_date": "16-aug-2020",
+        "epoch": 1629072000.0,
+        "expiration_date": "16-aug-2021",
         "state": "future"
     },
     "dziennikzachodni.pl": {
@@ -2910,8 +2910,8 @@
         "state": "future"
     },
     "erp-view.pl": {
-        "epoch": 1597536000.0,
-        "expiration_date": "16-aug-2020",
+        "epoch": 1629072000.0,
+        "expiration_date": "16-aug-2021",
         "state": "future"
     },
     "esanok.pl": {
@@ -4122,6 +4122,11 @@
     "google.com": {
         "epoch": 1600041600.0,
         "expiration_date": "14-sep-2020",
+        "state": "future"
+    },
+    "google.pl": {
+        "epoch": 1600387200.0,
+        "expiration_date": "18-sep-2020",
         "state": "future"
     },
     "googlesyndication.com": {
@@ -6980,9 +6985,9 @@
         "state": "future"
     },
     "meteovista.pl": {
-        "epoch": 1597363200.0,
-        "expiration_date": "14-aug-2020",
-        "state": "past"
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
+        "state": "future"
     },
     "metropoliabydgoska.pl": {
         "epoch": 1619049600.0,
