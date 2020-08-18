@@ -94,8 +94,8 @@
         "vidoza*.github.io": {
             "included_at_epoch": 1595742124.61842,
             "included_at_iso": "2020-07-26T05:42:04.618420",
-            "last_retested_at_epoch": 1597557120.385525,
-            "last_retested_at_iso": "2020-08-16T05:52:00.385525",
+            "last_retested_at_epoch": 1597731005.504323,
+            "last_retested_at_iso": "2020-08-18T06:10:05.504323",
             "status": "INACTIVE"
         },
         "www.booclick.pl": {
