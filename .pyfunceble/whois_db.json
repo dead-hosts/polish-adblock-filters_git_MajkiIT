@@ -245,8 +245,8 @@
         "state": "future"
     },
     "adonai.pl": {
-        "epoch": 1598054400.0,
-        "expiration_date": "22-aug-2020",
+        "epoch": 1755820800.0,
+        "expiration_date": "22-aug-2025",
         "state": "future"
     },
     "adsb4track.com": {
@@ -342,7 +342,7 @@
     "agusiq-torrents.pl": {
         "epoch": 1598054400.0,
         "expiration_date": "22-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "ahqpqpdjpj.com": {
         "epoch": 1620950400.0,
@@ -940,8 +940,8 @@
         "state": "future"
     },
     "biegaj40minut.pl": {
-        "epoch": 1597968000.0,
-        "expiration_date": "21-aug-2020",
+        "epoch": 1629504000.0,
+        "expiration_date": "21-aug-2021",
         "state": "future"
     },
     "bieganie.pl": {
@@ -1212,7 +1212,7 @@
     "brodnica.net": {
         "epoch": 1598054400.0,
         "expiration_date": "22-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "brodnica365.pl": {
         "epoch": 1617580800.0,
@@ -2480,8 +2480,8 @@
         "state": "future"
     },
     "e-hip.pl": {
-        "epoch": 1597968000.0,
-        "expiration_date": "21-aug-2020",
+        "epoch": 1629504000.0,
+        "expiration_date": "21-aug-2021",
         "state": "future"
     },
     "e-hotelarz.pl": {
@@ -2500,8 +2500,8 @@
         "state": "future"
     },
     "e-korepetycje.net": {
-        "epoch": 1598054400.0,
-        "expiration_date": "22-aug-2020",
+        "epoch": 1629590400.0,
+        "expiration_date": "22-aug-2021",
         "state": "future"
     },
     "e-krajna.pl": {
@@ -3795,8 +3795,8 @@
         "state": "future"
     },
     "gazetalubliniecka.pl": {
-        "epoch": 1598054400.0,
-        "expiration_date": "22-aug-2020",
+        "epoch": 1629590400.0,
+        "expiration_date": "22-aug-2021",
         "state": "future"
     },
     "gazetalubuska.pl": {
@@ -5300,8 +5300,8 @@
         "state": "future"
     },
     "jablonka.info": {
-        "epoch": 1597968000.0,
-        "expiration_date": "21-aug-2020",
+        "epoch": 1629504000.0,
+        "expiration_date": "21-aug-2021",
         "state": "future"
     },
     "jacus.pl": {
@@ -6624,6 +6624,11 @@
         "expiration_date": "05-feb-2021",
         "state": "future"
     },
+    "m-forum.pl": {
+        "epoch": 1612569600.0,
+        "expiration_date": "06-feb-2021",
+        "state": "future"
+    },
     "maciekkurier.info": {
         "epoch": 1591747200.0,
         "expiration_date": "10-jun-2020",
@@ -7050,8 +7055,8 @@
         "state": "future"
     },
     "miastokolobrzeg.pl": {
-        "epoch": 1597968000.0,
-        "expiration_date": "21-aug-2020",
+        "epoch": 1629504000.0,
+        "expiration_date": "21-aug-2021",
         "state": "future"
     },
     "miastons.pl": {
@@ -8070,8 +8075,8 @@
         "state": "future"
     },
     "nowiny24.pl": {
-        "epoch": 1597968000.0,
-        "expiration_date": "21-aug-2020",
+        "epoch": 1629504000.0,
+        "expiration_date": "21-aug-2021",
         "state": "future"
     },
     "nowinynyskie.com.pl": {

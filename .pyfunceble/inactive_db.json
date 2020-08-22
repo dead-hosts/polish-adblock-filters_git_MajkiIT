@@ -3,8 +3,8 @@
         "bielski24.pl": {
             "included_at_epoch": 1597209983.418033,
             "included_at_iso": "2020-08-12T05:26:23.418033",
-            "last_retested_at_epoch": 1597901511.797197,
-            "last_retested_at_iso": "2020-08-20T05:31:51.797197",
+            "last_retested_at_epoch": 1598074360.171247,
+            "last_retested_at_iso": "2020-08-22T05:32:40.171247",
             "status": "INACTIVE"
         },
         "businessclick.*": {
@@ -17,15 +17,15 @@
         "cashowsky.pl": {
             "included_at_epoch": 1597209987.118434,
             "included_at_iso": "2020-08-12T05:26:27.118434",
-            "last_retested_at_epoch": 1597901515.708415,
-            "last_retested_at_iso": "2020-08-20T05:31:55.708415",
+            "last_retested_at_epoch": 1598074363.985009,
+            "last_retested_at_iso": "2020-08-22T05:32:43.985009",
             "status": "INACTIVE"
         },
         "forum.dvhk.to": {
             "included_at_epoch": 1597209999.566503,
             "included_at_iso": "2020-08-12T05:26:39.566503",
-            "last_retested_at_epoch": 1597901528.932706,
-            "last_retested_at_iso": "2020-08-20T05:32:08.932706",
+            "last_retested_at_epoch": 1598074376.978605,
+            "last_retested_at_iso": "2020-08-22T05:32:56.978605",
             "status": "INACTIVE"
         },
         "futbolhd.tv": {
@@ -38,8 +38,8 @@
         "gomoney.pl": {
             "included_at_epoch": 1597210002.905673,
             "included_at_iso": "2020-08-12T05:26:42.905673",
-            "last_retested_at_epoch": 1597901532.472665,
-            "last_retested_at_iso": "2020-08-20T05:32:12.472665",
+            "last_retested_at_epoch": 1598074380.448358,
+            "last_retested_at_iso": "2020-08-22T05:33:00.448358",
             "status": "INACTIVE"
         },
         "img.dvhk.to": {
@@ -87,8 +87,8 @@
         "twojzwolen.pl": {
             "included_at_epoch": 1597729337.211351,
             "included_at_iso": "2020-08-18T05:42:17.211351",
-            "last_retested_at_epoch": 1597901504.518162,
-            "last_retested_at_iso": "2020-08-20T05:31:44.518162",
+            "last_retested_at_epoch": 1598074352.994211,
+            "last_retested_at_iso": "2020-08-22T05:32:32.994211",
             "status": "INACTIVE"
         },
         "ustawmundial.weszlo.com": {
