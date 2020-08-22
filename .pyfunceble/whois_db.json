@@ -4290,8 +4290,8 @@
         "state": "future"
     },
     "gramatyka-angielska.info": {
-        "epoch": 1597968000.0,
-        "expiration_date": "21-aug-2020",
+        "epoch": 1629504000.0,
+        "expiration_date": "21-aug-2021",
         "state": "future"
     },
     "gramwzielone.pl": {
@@ -7340,8 +7340,8 @@
         "state": "future"
     },
     "mojejaworzno.pl": {
-        "epoch": 1598054400.0,
-        "expiration_date": "22-aug-2020",
+        "epoch": 1629590400.0,
+        "expiration_date": "22-aug-2021",
         "state": "future"
     },
     "mojeklocki.com": {
@@ -10405,9 +10405,9 @@
         "state": "future"
     },
     "rytmklawiatury.pl": {
-        "epoch": 1597881600.0,
-        "expiration_date": "20-aug-2020",
-        "state": "past"
+        "epoch": 1600473600.0,
+        "expiration_date": "19-sep-2020",
+        "state": "future"
     },
     "rzeczkrotoszynska.pl": {
         "epoch": 1607212800.0,
@@ -11120,8 +11120,8 @@
         "state": "future"
     },
     "startkariery.pl": {
-        "epoch": 1598054400.0,
-        "expiration_date": "22-aug-2020",
+        "epoch": 1629590400.0,
+        "expiration_date": "22-aug-2021",
         "state": "future"
     },
     "starysacz.info": {
@@ -11672,7 +11672,7 @@
     "telewizjamazury.pl": {
         "epoch": 1598054400.0,
         "expiration_date": "22-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "telewizjapolska24.pl": {
         "epoch": 1606089600.0,
@@ -12865,8 +12865,8 @@
         "state": "future"
     },
     "waszaturystyka.pl": {
-        "epoch": 1598054400.0,
-        "expiration_date": "22-aug-2020",
+        "epoch": 1629590400.0,
+        "expiration_date": "22-aug-2021",
         "state": "future"
     },
     "waszdzienpodniu.pl": {
