@@ -1680,8 +1680,8 @@
         "state": "future"
     },
     "coin-hive.com": {
-        "epoch": 1598227200.0,
-        "expiration_date": "24-aug-2020",
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
         "state": "future"
     },
     "coinhive.com": {
@@ -4860,8 +4860,8 @@
         "state": "future"
     },
     "independenttrader.pl": {
-        "epoch": 1598140800.0,
-        "expiration_date": "23-aug-2020",
+        "epoch": 1629676800.0,
+        "expiration_date": "23-aug-2021",
         "state": "future"
     },
     "info.elblag.pl": {
@@ -6212,6 +6212,11 @@
     "lcx.pl": {
         "epoch": 1598745600.0,
         "expiration_date": "30-aug-2020",
+        "state": "future"
+    },
+    "leadexpert.pl": {
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
         "state": "future"
     },
     "lebork24.info": {
@@ -8860,8 +8865,8 @@
         "state": "future"
     },
     "planetagracza.pl": {
-        "epoch": 1598140800.0,
-        "expiration_date": "23-aug-2020",
+        "epoch": 1629676800.0,
+        "expiration_date": "23-aug-2021",
         "state": "future"
     },
     "planujemywesele.pl": {
@@ -9125,8 +9130,8 @@
         "state": "future"
     },
     "polskicaravaning.pl": {
-        "epoch": 1598227200.0,
-        "expiration_date": "24-aug-2020",
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
         "state": "future"
     },
     "polskiedrogi-tv.pl": {
@@ -9142,6 +9147,11 @@
     "polskieradio.com": {
         "epoch": 1609632000.0,
         "expiration_date": "03-jan-2021",
+        "state": "future"
+    },
+    "polskieradio.pl": {
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
         "state": "future"
     },
     "polskieradio24.pl": {
@@ -10225,8 +10235,8 @@
         "state": "future"
     },
     "repostuj.pl": {
-        "epoch": 1598227200.0,
-        "expiration_date": "24-aug-2020",
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
         "state": "future"
     },
     "resellernews.pl": {
@@ -11670,9 +11680,9 @@
         "state": "future"
     },
     "telewizjamazury.pl": {
-        "epoch": 1598054400.0,
-        "expiration_date": "22-aug-2020",
-        "state": "past"
+        "epoch": 1600646400.0,
+        "expiration_date": "21-sep-2020",
+        "state": "future"
     },
     "telewizjapolska24.pl": {
         "epoch": 1606089600.0,
@@ -11715,8 +11725,8 @@
         "state": "future"
     },
     "temi.pl": {
-        "epoch": 1598227200.0,
-        "expiration_date": "24-aug-2020",
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
         "state": "future"
     },
     "tenis.net.pl": {
@@ -13229,6 +13239,11 @@
         "expiration_date": "25-jul-2021",
         "state": "future"
     },
+    "wlkp112.pl": {
+        "epoch": 1615939200.0,
+        "expiration_date": "17-mar-2021",
+        "state": "future"
+    },
     "wlkp24.info": {
         "epoch": 1614124800.0,
         "expiration_date": "24-feb-2021",
@@ -13295,8 +13310,8 @@
         "state": "future"
     },
     "wp.tv": {
-        "epoch": 1598140800.0,
-        "expiration_date": "23-aug-2020",
+        "epoch": 1629676800.0,
+        "expiration_date": "23-aug-2021",
         "state": "future"
     },
     "wpodroz.com.pl": {
@@ -13390,8 +13405,8 @@
         "state": "future"
     },
     "wsus.pl": {
-        "epoch": 1598140800.0,
-        "expiration_date": "23-aug-2020",
+        "epoch": 1629676800.0,
+        "expiration_date": "23-aug-2021",
         "state": "future"
     },
     "wszczecinie.pl": {
@@ -13885,8 +13900,8 @@
         "state": "future"
     },
     "zwiadowcahistorii.pl": {
-        "epoch": 1598140800.0,
-        "expiration_date": "23-aug-2020",
+        "epoch": 1629676800.0,
+        "expiration_date": "23-aug-2021",
         "state": "future"
     },
     "zwiedzamyparyz.pl": {
