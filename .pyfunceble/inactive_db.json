@@ -3,29 +3,22 @@
         "bielski24.pl": {
             "included_at_epoch": 1597209983.418033,
             "included_at_iso": "2020-08-12T05:26:23.418033",
-            "last_retested_at_epoch": 1598074360.171247,
-            "last_retested_at_iso": "2020-08-22T05:32:40.171247",
+            "last_retested_at_epoch": 1598247251.651061,
+            "last_retested_at_iso": "2020-08-24T05:34:11.651061",
             "status": "INACTIVE"
-        },
-        "businessclick.*": {
-            "included_at_epoch": 1595741874.707854,
-            "included_at_iso": "2020-07-26T05:37:54.707854",
-            "last_retested_at_epoch": 1598075413.875776,
-            "last_retested_at_iso": "2020-08-22T05:50:13.875776",
-            "status": "INVALID"
         },
         "cashowsky.pl": {
             "included_at_epoch": 1597209987.118434,
             "included_at_iso": "2020-08-12T05:26:27.118434",
-            "last_retested_at_epoch": 1598074363.985009,
-            "last_retested_at_iso": "2020-08-22T05:32:43.985009",
+            "last_retested_at_epoch": 1598247255.608121,
+            "last_retested_at_iso": "2020-08-24T05:34:15.608121",
             "status": "INACTIVE"
         },
         "forum.dvhk.to": {
             "included_at_epoch": 1597209999.566503,
             "included_at_iso": "2020-08-12T05:26:39.566503",
-            "last_retested_at_epoch": 1598074376.978605,
-            "last_retested_at_iso": "2020-08-22T05:32:56.978605",
+            "last_retested_at_epoch": 1598247269.042506,
+            "last_retested_at_iso": "2020-08-24T05:34:29.042506",
             "status": "INACTIVE"
         },
         "futbolhd.tv": {
@@ -38,23 +31,9 @@
         "gomoney.pl": {
             "included_at_epoch": 1597210002.905673,
             "included_at_iso": "2020-08-12T05:26:42.905673",
-            "last_retested_at_epoch": 1598074380.448358,
-            "last_retested_at_iso": "2020-08-22T05:33:00.448358",
+            "last_retested_at_epoch": 1598247272.530981,
+            "last_retested_at_iso": "2020-08-24T05:34:32.530981",
             "status": "INACTIVE"
-        },
-        "img.dvhk.to": {
-            "included_at_epoch": 1595741875.443392,
-            "included_at_iso": "2020-07-26T05:37:55.443392",
-            "last_retested_at_epoch": 1598075414.557756,
-            "last_retested_at_iso": "2020-08-22T05:50:14.557756",
-            "status": "INACTIVE"
-        },
-        "livemecz.*": {
-            "included_at_epoch": 1595741879.202636,
-            "included_at_iso": "2020-07-26T05:37:59.202636",
-            "last_retested_at_epoch": 1598075417.914164,
-            "last_retested_at_iso": "2020-08-22T05:50:17.914164",
-            "status": "INVALID"
         },
         "mypolacy.nl": {
             "included_at_epoch": 1596454798.613487,
@@ -63,67 +42,11 @@
             "last_retested_at_iso": "2020-08-22T05:50:22.931986",
             "status": "INACTIVE"
         },
-        "redir.atmcdn.pl*swf": {
-            "included_at_epoch": 1595741876.211524,
-            "included_at_iso": "2020-07-26T05:37:56.211524",
-            "last_retested_at_epoch": 1598075415.185012,
-            "last_retested_at_iso": "2020-08-22T05:50:15.185012",
-            "status": "INVALID"
-        },
-        "twojakowala.pl": {
-            "included_at_epoch": 1595741865.26422,
-            "included_at_iso": "2020-07-26T05:37:45.264220",
-            "last_retested_at_epoch": 1598075405.014684,
-            "last_retested_at_iso": "2020-08-22T05:50:05.014684",
-            "status": "INACTIVE"
-        },
-        "twojwolanow.pl": {
-            "included_at_epoch": 1595741865.326735,
-            "included_at_iso": "2020-07-26T05:37:45.326735",
-            "last_retested_at_epoch": 1598075405.390969,
-            "last_retested_at_iso": "2020-08-22T05:50:05.390969",
-            "status": "INACTIVE"
-        },
         "twojzwolen.pl": {
             "included_at_epoch": 1597729337.211351,
             "included_at_iso": "2020-08-18T05:42:17.211351",
-            "last_retested_at_epoch": 1598074352.994211,
-            "last_retested_at_iso": "2020-08-22T05:32:32.994211",
-            "status": "INACTIVE"
-        },
-        "ustawmundial.weszlo.com": {
-            "included_at_epoch": 1595741851.341928,
-            "included_at_iso": "2020-07-26T05:37:31.341928",
-            "last_retested_at_epoch": 1598075392.020175,
-            "last_retested_at_iso": "2020-08-22T05:49:52.020175",
-            "status": "INACTIVE"
-        },
-        "vidoza*.github.io": {
-            "included_at_epoch": 1595742124.61842,
-            "included_at_iso": "2020-07-26T05:42:04.618420",
-            "last_retested_at_epoch": 1598075424.462584,
-            "last_retested_at_iso": "2020-08-22T05:50:24.462584",
-            "status": "INACTIVE"
-        },
-        "www.booclick.pl": {
-            "included_at_epoch": 1595741870.545304,
-            "included_at_iso": "2020-07-26T05:37:50.545304",
-            "last_retested_at_epoch": 1598075409.936232,
-            "last_retested_at_iso": "2020-08-22T05:50:09.936232",
-            "status": "INACTIVE"
-        },
-        "www.naotwocku.pl": {
-            "included_at_epoch": 1595741871.024341,
-            "included_at_iso": "2020-07-26T05:37:51.024341",
-            "last_retested_at_epoch": 1598075410.371515,
-            "last_retested_at_iso": "2020-08-22T05:50:10.371515",
-            "status": "INACTIVE"
-        },
-        "zory.dlawas.pl": {
-            "included_at_epoch": 1595741873.659906,
-            "included_at_iso": "2020-07-26T05:37:53.659906",
-            "last_retested_at_epoch": 1598075412.882219,
-            "last_retested_at_iso": "2020-08-22T05:50:12.882219",
+            "last_retested_at_epoch": 1598247244.249516,
+            "last_retested_at_iso": "2020-08-24T05:34:04.249516",
             "status": "INACTIVE"
         }
     },
