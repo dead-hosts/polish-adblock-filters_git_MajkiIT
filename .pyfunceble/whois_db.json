@@ -7400,8 +7400,8 @@
         "state": "future"
     },
     "mojradom.pl": {
-        "epoch": 1598313600.0,
-        "expiration_date": "25-aug-2020",
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
         "state": "future"
     },
     "money.pl": {
@@ -9277,7 +9277,7 @@
     "popularne.net": {
         "epoch": 1598400000.0,
         "expiration_date": "26-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "popularne.pl": {
         "epoch": 1606694400.0,
@@ -9385,8 +9385,8 @@
         "state": "future"
     },
     "portalsamorzadowy.pl": {
-        "epoch": 1598400000.0,
-        "expiration_date": "26-aug-2020",
+        "epoch": 1661472000.0,
+        "expiration_date": "26-aug-2022",
         "state": "future"
     },
     "portalsremski.pl": {
@@ -11925,8 +11925,8 @@
         "state": "future"
     },
     "travelin.pl": {
-        "epoch": 1598313600.0,
-        "expiration_date": "25-aug-2020",
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
         "state": "future"
     },
     "trawka.org": {
@@ -13064,6 +13064,11 @@
         "expiration_date": "04-feb-2021",
         "state": "future"
     },
+    "wiadomosciwarminskie.pl": {
+        "epoch": 1609200000.0,
+        "expiration_date": "29-dec-2020",
+        "state": "future"
+    },
     "wiara.pl": {
         "epoch": 1626048000.0,
         "expiration_date": "12-jul-2021",
@@ -13090,8 +13095,8 @@
         "state": "future"
     },
     "wieliczkacity.pl": {
-        "epoch": 1598400000.0,
-        "expiration_date": "26-aug-2020",
+        "epoch": 1629936000.0,
+        "expiration_date": "26-aug-2021",
         "state": "future"
     },
     "wielkahistoria.pl": {
@@ -13205,8 +13210,8 @@
         "state": "future"
     },
     "wislakrakow.com": {
-        "epoch": 1598313600.0,
-        "expiration_date": "25-aug-2020",
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
         "state": "future"
     },
     "wislaportal.pl": {
