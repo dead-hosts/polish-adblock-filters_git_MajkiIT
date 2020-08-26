@@ -694,6 +694,11 @@
         "expiration_date": "05-mar-2021",
         "state": "future"
     },
+    "autoexpert.pl": {
+        "epoch": 1618358400.0,
+        "expiration_date": "14-apr-2021",
+        "state": "future"
+    },
     "autofakty.pl": {
         "epoch": 1607558400.0,
         "expiration_date": "10-dec-2020",
@@ -1900,8 +1905,8 @@
         "state": "future"
     },
     "czestochowanews.pl": {
-        "epoch": 1598313600.0,
-        "expiration_date": "25-aug-2020",
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
         "state": "future"
     },
     "czestochowiak.pl": {
@@ -3515,8 +3520,8 @@
         "state": "future"
     },
     "forumfajerwerki.pl": {
-        "epoch": 1598313600.0,
-        "expiration_date": "25-aug-2020",
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
         "state": "future"
     },
     "forumfs.pl": {
@@ -5170,8 +5175,8 @@
         "state": "future"
     },
     "isbzdrowie.pl": {
-        "epoch": 1598313600.0,
-        "expiration_date": "25-aug-2020",
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
         "state": "future"
     },
     "isel.edu.pl": {
@@ -5930,8 +5935,8 @@
         "state": "future"
     },
     "krknews.pl": {
-        "epoch": 1598400000.0,
-        "expiration_date": "26-aug-2020",
+        "epoch": 1629936000.0,
+        "expiration_date": "26-aug-2021",
         "state": "future"
     },
     "krokdozdrowia.com": {
@@ -6615,8 +6620,8 @@
         "state": "future"
     },
     "luzyce.info": {
-        "epoch": 1598313600.0,
-        "expiration_date": "25-aug-2020",
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
         "state": "future"
     },
     "lwowecki.info": {
@@ -7542,7 +7547,7 @@
     "msg.org.pl": {
         "epoch": 1598400000.0,
         "expiration_date": "26-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "msmobile.pl": {
         "epoch": 1620864000.0,
