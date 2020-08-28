@@ -3592,7 +3592,7 @@
     "freehdsport.com": {
         "epoch": 1598572800.0,
         "expiration_date": "28-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "freeware.info.pl": {
         "epoch": 1609804800.0,
@@ -9275,9 +9275,9 @@
         "state": "future"
     },
     "popularne.net": {
-        "epoch": 1598400000.0,
-        "expiration_date": "26-aug-2020",
-        "state": "past"
+        "epoch": 1629936000.0,
+        "expiration_date": "26-aug-2021",
+        "state": "future"
     },
     "popularne.pl": {
         "epoch": 1606694400.0,
@@ -11875,8 +11875,8 @@
         "state": "future"
     },
     "toyotaklub.org.pl": {
-        "epoch": 1598486400.0,
-        "expiration_date": "27-aug-2020",
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
         "state": "future"
     },
     "tp.com.pl": {
@@ -12520,8 +12520,8 @@
         "state": "future"
     },
     "tylkonauka.pl": {
-        "epoch": 1598486400.0,
-        "expiration_date": "27-aug-2020",
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
         "state": "future"
     },
     "tylkotorun.pl": {
@@ -12835,8 +12835,8 @@
         "state": "future"
     },
     "wagrowiec-wydarzeniazostatniejchwili.pl": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
         "state": "future"
     },
     "wakai.pl": {
@@ -13495,8 +13495,8 @@
         "state": "future"
     },
     "wynagrodzenia.pl": {
-        "epoch": 1598486400.0,
-        "expiration_date": "27-aug-2020",
+        "epoch": 1609718400.0,
+        "expiration_date": "04-jan-2021",
         "state": "future"
     },
     "wyspagier.pl": {
@@ -13815,8 +13815,8 @@
         "state": "future"
     },
     "zloty-pociag.com": {
-        "epoch": 1598486400.0,
-        "expiration_date": "27-aug-2020",
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
         "state": "future"
     },
     "zlubaczowa.pl": {
