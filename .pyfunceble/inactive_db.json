@@ -3,8 +3,8 @@
         "bielski24.pl": {
             "included_at_epoch": 1597209983.418033,
             "included_at_iso": "2020-08-12T05:26:23.418033",
-            "last_retested_at_epoch": 1598420089.59508,
-            "last_retested_at_iso": "2020-08-26T05:34:49.595080",
+            "last_retested_at_epoch": 1598592949.691439,
+            "last_retested_at_iso": "2020-08-28T05:35:49.691439",
             "status": "INACTIVE"
         },
         "businessclick.*": {
@@ -17,15 +17,15 @@
         "cashowsky.pl": {
             "included_at_epoch": 1597209987.118434,
             "included_at_iso": "2020-08-12T05:26:27.118434",
-            "last_retested_at_epoch": 1598420093.197831,
-            "last_retested_at_iso": "2020-08-26T05:34:53.197831",
+            "last_retested_at_epoch": 1598592953.706573,
+            "last_retested_at_iso": "2020-08-28T05:35:53.706573",
             "status": "INACTIVE"
         },
         "forum.dvhk.to": {
             "included_at_epoch": 1597209999.566503,
             "included_at_iso": "2020-08-12T05:26:39.566503",
-            "last_retested_at_epoch": 1598420105.488461,
-            "last_retested_at_iso": "2020-08-26T05:35:05.488461",
+            "last_retested_at_epoch": 1598592967.307674,
+            "last_retested_at_iso": "2020-08-28T05:36:07.307674",
             "status": "INACTIVE"
         },
         "futbolhd.tv": {
@@ -38,8 +38,8 @@
         "gomoney.pl": {
             "included_at_epoch": 1597210002.905673,
             "included_at_iso": "2020-08-12T05:26:42.905673",
-            "last_retested_at_epoch": 1598420108.714203,
-            "last_retested_at_iso": "2020-08-26T05:35:08.714203",
+            "last_retested_at_epoch": 1598592970.944957,
+            "last_retested_at_iso": "2020-08-28T05:36:10.944957",
             "status": "INACTIVE"
         },
         "img.dvhk.to": {
@@ -61,6 +61,13 @@
             "included_at_iso": "2020-08-03T11:39:58.613487",
             "last_retested_at_epoch": 1598421182.879656,
             "last_retested_at_iso": "2020-08-26T05:53:02.879656",
+            "status": "INACTIVE"
+        },
+        "ogloszenia.plock.pl": {
+            "included_at_epoch": 1598592978.902736,
+            "included_at_iso": "2020-08-28T05:36:18.902736",
+            "last_retested_at_epoch": 1598592978.902736,
+            "last_retested_at_iso": "2020-08-28T05:36:18.902736",
             "status": "INACTIVE"
         },
         "redir.atmcdn.pl*swf": {
@@ -87,8 +94,8 @@
         "twojzwolen.pl": {
             "included_at_epoch": 1597729337.211351,
             "included_at_iso": "2020-08-18T05:42:17.211351",
-            "last_retested_at_epoch": 1598420082.771244,
-            "last_retested_at_iso": "2020-08-26T05:34:42.771244",
+            "last_retested_at_epoch": 1598592942.157694,
+            "last_retested_at_iso": "2020-08-28T05:35:42.157694",
             "status": "INACTIVE"
         },
         "ustawmundial.weszlo.com": {
