@@ -3601,9 +3601,10 @@
         "state": "future"
     },
     "freehdsport.com": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
-        "state": "past"
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
     },
     "freeware.info.pl": {
         "epoch": 1609804800.0,
@@ -6238,8 +6239,9 @@
         "state": "future"
     },
     "lcx.pl": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "leadexpert.pl": {
@@ -8586,8 +8588,9 @@
         "state": "future"
     },
     "ox.pl": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "ozoneo.pl": {
@@ -10631,8 +10634,9 @@
         "state": "future"
     },
     "seriale.co": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.nic.co",
         "state": "future"
     },
     "serialeonline.pl": {
@@ -10683,6 +10687,7 @@
     "shoplov.in": {
         "epoch": 1597190400.0,
         "expiration_date": "12-aug-2020",
+        "server": "whois.registry.in",
         "state": "past"
     },
     "showup.tv": {
