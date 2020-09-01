@@ -56,13 +56,6 @@
             "last_retested_at_iso": "2020-08-28T05:56:21.435482",
             "status": "INVALID"
         },
-        "mypolacy.nl": {
-            "included_at_epoch": 1596454798.613487,
-            "included_at_iso": "2020-08-03T11:39:58.613487",
-            "last_retested_at_epoch": 1598594186.488871,
-            "last_retested_at_iso": "2020-08-28T05:56:26.488871",
-            "status": "INACTIVE"
-        },
         "ogloszenia.plock.pl": {
             "included_at_epoch": 1598592978.902736,
             "included_at_iso": "2020-08-28T05:36:18.902736",

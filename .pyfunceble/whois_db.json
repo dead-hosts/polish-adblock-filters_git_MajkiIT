@@ -3186,8 +3186,9 @@
         "state": "future"
     },
     "facetpo40.pl": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "fachowydekarz.pl": {
@@ -3303,7 +3304,8 @@
     "fechallenge.com": {
         "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "fileland.pl": {
         "epoch": 1599523200.0,
@@ -3318,7 +3320,8 @@
     "filesdark.com": {
         "epoch": 1598832000.0,
         "expiration_date": "31-aug-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "fili.cc": {
         "epoch": 1581811200,
@@ -4972,10 +4975,10 @@
         "state": "future"
     },
     "infolwowek24.pl": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1601337600.0,
+        "expiration_date": "29-sep-2020",
         "server": "whois.dns.pl",
-        "state": "past"
+        "state": "future"
     },
     "infomogilno24.pl": {
         "epoch": 1620345600.0,
@@ -7781,8 +7784,9 @@
         "state": "future"
     },
     "naszalomza.pl": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "naszamlawa.pl": {
@@ -7851,8 +7855,9 @@
         "state": "future"
     },
     "nasztomaszow.pl": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "naszwodzislaw.com": {
@@ -8243,6 +8248,12 @@
     "obserwatorfinansowy.pl": {
         "epoch": 1633651200.0,
         "expiration_date": "08-oct-2021",
+        "state": "future"
+    },
+    "obserwatorlokalny.pl": {
+        "epoch": 1619049600.0,
+        "expiration_date": "22-apr-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "obud.pl": {
@@ -10223,6 +10234,12 @@
         "expiration_date": "04-jul-2020",
         "state": "future"
     },
+    "regatv.pl": {
+        "epoch": 1605744000.0,
+        "expiration_date": "19-nov-2020",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "regentpolski.pl": {
         "epoch": 1578787200.0,
         "expiration_date": "12-jan-2020",
@@ -10821,8 +10838,9 @@
         "state": "future"
     },
     "skrotymeczow.pl": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "skrstrzelce.pl": {
@@ -11433,6 +11451,12 @@
     "swidniczka.com": {
         "epoch": 1619654400.0,
         "expiration_date": "29-apr-2021",
+        "state": "future"
+    },
+    "swiebodzin.tv": {
+        "epoch": 1623628800.0,
+        "expiration_date": "14-jun-2021",
+        "server": "tvwhois.verisign-grs.com",
         "state": "future"
     },
     "swiece-zaplonowe.pl": {
@@ -12234,6 +12258,12 @@
     "tvmalbork.pl": {
         "epoch": 1615507200.0,
         "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "tvmorag.pl": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "tvn24.pl": {
