@@ -10170,8 +10170,9 @@
         "state": "future"
     },
     "radomsport.pl": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "rallypl.com": {
@@ -10926,7 +10927,8 @@
     "sms7.pl": {
         "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "snip.ly": {
         "epoch": 1677974400.0,
@@ -11755,8 +11757,9 @@
         "state": "future"
     },
     "telewizjattm.pl": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "telewizjazary.pl": {
@@ -12116,8 +12119,9 @@
         "state": "future"
     },
     "tucholanin.pl": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "tugazeta.pl": {
@@ -14014,7 +14018,8 @@
     "zycieczestochowy.pl": {
         "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "zyciekalisza.pl": {
         "epoch": 1613001600.0,
