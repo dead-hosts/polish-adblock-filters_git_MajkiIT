@@ -2265,8 +2265,9 @@
         "state": "future"
     },
     "domowyprzedszkolak.pl": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "domyseniora.pl": {
@@ -2412,6 +2413,12 @@
     "dzienniknarodowy.pl": {
         "epoch": 1601942400.0,
         "expiration_date": "06-oct-2020",
+        "state": "future"
+    },
+    "dzienniknaukowy.pl": {
+        "epoch": 1621555200.0,
+        "expiration_date": "21-may-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "dzienniknowy.pl": {
@@ -8746,8 +8753,9 @@
         "state": "future"
     },
     "pecetowicz.pl": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1662336000.0,
+        "expiration_date": "05-sep-2022",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "pedlowski.pl": {
@@ -9241,10 +9249,10 @@
         "state": "future"
     },
     "polukr.net": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "polwro.pl": {
         "epoch": 1622678400.0,
