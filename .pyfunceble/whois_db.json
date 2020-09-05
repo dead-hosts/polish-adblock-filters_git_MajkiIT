@@ -4758,8 +4758,9 @@
         "state": "future"
     },
     "hyphenion.com": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1605657600.0,
+        "expiration_date": "18-nov-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "iautomatyka.pl": {
@@ -11926,8 +11927,9 @@
         "state": "future"
     },
     "topagrar.pl": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "topmejt.co.uk": {
@@ -12288,8 +12290,9 @@
         "state": "future"
     },
     "tvn24.pl": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "tvnfakty.pl": {
@@ -12456,7 +12459,8 @@
     "twojepajeczno.pl": {
         "epoch": 1599264000.0,
         "expiration_date": "05-sep-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "twojepc.pl": {
         "epoch": 1614384000.0,
@@ -13914,8 +13918,9 @@
         "state": "future"
     },
     "zmianysolarne.pl": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "zolti.pl": {
