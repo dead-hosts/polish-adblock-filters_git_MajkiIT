@@ -7550,8 +7550,9 @@
         "state": "future"
     },
     "moviads.pl": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "movie-box.pl": {
@@ -9951,8 +9952,9 @@
         "state": "future"
     },
     "q4.pl": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "qfant.pl": {
@@ -12467,10 +12469,10 @@
         "state": "future"
     },
     "twojepajeczno.pl": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
         "server": "whois.dns.pl",
-        "state": "past"
+        "state": "future"
     },
     "twojepc.pl": {
         "epoch": 1614384000.0,
@@ -12613,8 +12615,9 @@
         "state": "future"
     },
     "tylkomedycyna.pl": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "tylkonauka.pl": {
@@ -13083,8 +13086,9 @@
         "state": "future"
     },
     "wedkarstwo-lublin.pl": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "weeb.tv": {
@@ -13783,8 +13787,9 @@
         "state": "future"
     },
     "zarszyn24.pl": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "zaufanatrzeciastrona.pl": {
@@ -13828,8 +13833,9 @@
         "state": "future"
     },
     "zdrowyportal.org": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "zdunskawola24.pl": {

@@ -63,6 +63,13 @@
             "last_retested_at_iso": "2020-09-01T05:55:30.994965",
             "status": "INACTIVE"
         },
+        "nowy.gryfickie.info": {
+            "included_at_epoch": 1599458492.345198,
+            "included_at_iso": "2020-09-07T06:01:32.345198",
+            "last_retested_at_epoch": 1599458492.345198,
+            "last_retested_at_iso": "2020-09-07T06:01:32.345198",
+            "status": "INACTIVE"
+        },
         "ogloszenia.plock.pl": {
             "included_at_epoch": 1598592978.902736,
             "included_at_iso": "2020-08-28T05:36:18.902736",
