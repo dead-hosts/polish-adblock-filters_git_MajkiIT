@@ -3627,8 +3627,9 @@
         "state": "future"
     },
     "fronda.pl": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "fsgk.pl": {
@@ -3892,8 +3893,9 @@
         "state": "future"
     },
     "gazetazoliborza.pl": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "gazetki-promocyjne.net.pl": {
@@ -4488,8 +4490,9 @@
         "state": "future"
     },
     "gwio.pl": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "hack.pl": {
@@ -6929,6 +6932,12 @@
         "expiration_date": "10-may-2021",
         "state": "future"
     },
+    "meczlive.pl": {
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "meczstudio.com": {
         "epoch": 1624924800.0,
         "expiration_date": "29-jun-2021",
@@ -7525,8 +7534,9 @@
         "state": "future"
     },
     "motopodhale.info": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "motormag.pl": {
