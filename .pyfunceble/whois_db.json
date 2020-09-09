@@ -2757,8 +2757,9 @@
         "state": "future"
     },
     "ekutno.pl": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "elblag.net": {
@@ -2849,6 +2850,12 @@
     "emag.pl": {
         "epoch": 1799020800.0,
         "expiration_date": "04-jan-2027",
+        "state": "future"
+    },
+    "emecze.pl": {
+        "epoch": 1618358400.0,
+        "expiration_date": "14-apr-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "emka-info.pl": {
@@ -2970,6 +2977,12 @@
     "estadios.pl": {
         "epoch": 1608163200.0,
         "expiration_date": "17-dec-2020",
+        "state": "future"
+    },
+    "estadios24.pl": {
+        "epoch": 1622073600.0,
+        "expiration_date": "27-may-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "estillmag.com": {
@@ -3315,8 +3328,9 @@
         "state": "future"
     },
     "fileland.pl": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "files4you.org": {
@@ -6487,8 +6501,9 @@
         "state": "future"
     },
     "lokalna.com.pl": {
-        "epoch": 1599609600.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "lokalna.info": {
@@ -6930,6 +6945,12 @@
     "meczenazywo.tv": {
         "epoch": 1620604800.0,
         "expiration_date": "10-may-2021",
+        "state": "future"
+    },
+    "meczewinternecie.pl": {
+        "epoch": 1604793600.0,
+        "expiration_date": "08-nov-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "meczlive.pl": {
@@ -8801,8 +8822,9 @@
         "state": "future"
     },
     "perfumik.pl": {
-        "epoch": 1599609600.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "perspektywy.pl": {
@@ -13871,6 +13893,12 @@
     "zespolmi.pl": {
         "epoch": 1604534400.0,
         "expiration_date": "05-nov-2020",
+        "state": "future"
+    },
+    "zgl.pl": {
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "zielonanews.pl": {

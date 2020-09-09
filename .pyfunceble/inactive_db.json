@@ -1,10 +1,10 @@
 {
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/domains.list": {
         "bielski24.pl": {
-            "included_at_epoch": 1597209983.418033,
-            "included_at_iso": "2020-08-12T05:26:23.418033",
-            "last_retested_at_epoch": 1598592949.691439,
-            "last_retested_at_iso": "2020-08-28T05:35:49.691439",
+            "included_at_epoch": 1599630100.126921,
+            "included_at_iso": "2020-09-09T05:41:40.126921",
+            "last_retested_at_epoch": 1599630100.126921,
+            "last_retested_at_iso": "2020-09-09T05:41:40.126921",
             "status": "INACTIVE"
         },
         "businessclick.*": {
@@ -15,17 +15,17 @@
             "status": "INVALID"
         },
         "cashowsky.pl": {
-            "included_at_epoch": 1597209987.118434,
-            "included_at_iso": "2020-08-12T05:26:27.118434",
-            "last_retested_at_epoch": 1598592953.706573,
-            "last_retested_at_iso": "2020-08-28T05:35:53.706573",
+            "included_at_epoch": 1599630100.432221,
+            "included_at_iso": "2020-09-09T05:41:40.432221",
+            "last_retested_at_epoch": 1599630100.432221,
+            "last_retested_at_iso": "2020-09-09T05:41:40.432221",
             "status": "INACTIVE"
         },
         "forum.dvhk.to": {
-            "included_at_epoch": 1597209999.566503,
-            "included_at_iso": "2020-08-12T05:26:39.566503",
-            "last_retested_at_epoch": 1598592967.307674,
-            "last_retested_at_iso": "2020-08-28T05:36:07.307674",
+            "included_at_epoch": 1599630101.454477,
+            "included_at_iso": "2020-09-09T05:41:41.454477",
+            "last_retested_at_epoch": 1599630101.466235,
+            "last_retested_at_iso": "2020-09-09T05:41:41.466235",
             "status": "INACTIVE"
         },
         "futbolhd.tv": {
