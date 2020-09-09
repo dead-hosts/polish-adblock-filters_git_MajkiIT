@@ -36,10 +36,10 @@
             "status": "INACTIVE"
         },
         "gomoney.pl": {
-            "included_at_epoch": 1597210002.905673,
-            "included_at_iso": "2020-08-12T05:26:42.905673",
-            "last_retested_at_epoch": 1598592970.944957,
-            "last_retested_at_iso": "2020-08-28T05:36:10.944957",
+            "included_at_epoch": 1599631283.385144,
+            "included_at_iso": "2020-09-09T06:01:23.385144",
+            "last_retested_at_epoch": 1599631283.388863,
+            "last_retested_at_iso": "2020-09-09T06:01:23.388863",
             "status": "INACTIVE"
         },
         "img.dvhk.to": {

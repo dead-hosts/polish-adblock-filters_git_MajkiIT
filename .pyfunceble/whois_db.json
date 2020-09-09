@@ -7838,8 +7838,9 @@
         "state": "future"
     },
     "naszarola.pl": {
-        "epoch": 1599609600.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "naszawielkopolska.pl": {
@@ -12778,8 +12779,9 @@
         "state": "future"
     },
     "vampirediaries.pl": {
-        "epoch": 1599609600.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "vape.pl": {
