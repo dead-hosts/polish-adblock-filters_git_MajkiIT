@@ -84,6 +84,13 @@
             "last_retested_at_iso": "2020-08-28T05:56:18.676679",
             "status": "INVALID"
         },
+        "static*.mylead.global": {
+            "included_at_epoch": 1599803803.076242,
+            "included_at_iso": "2020-09-11T05:56:43.076242",
+            "last_retested_at_epoch": 1599803803.076242,
+            "last_retested_at_iso": "2020-09-11T05:56:43.076242",
+            "status": "INVALID"
+        },
         "twojakowala.pl": {
             "included_at_epoch": 1598248344.982386,
             "included_at_iso": "2020-08-24T05:52:24.982386",

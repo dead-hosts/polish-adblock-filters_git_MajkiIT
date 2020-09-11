@@ -8207,8 +8207,9 @@
         "state": "future"
     },
     "nowytydzien.pl": {
-        "epoch": 1599609600.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "nowywyszkowiak.pl": {
@@ -11502,8 +11503,9 @@
         "state": "future"
     },
     "swiatseriali.pl": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "swidnica24.pl": {
@@ -11911,8 +11913,9 @@
         "state": "future"
     },
     "thinkapple.pl": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "tibiopedia.pl": {
@@ -12481,8 +12484,9 @@
         "state": "future"
     },
     "twoje-seriale.tv": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
+        "server": "tvwhois.verisign-grs.com",
         "state": "future"
     },
     "twojecentrum.pl": {
@@ -13899,7 +13903,8 @@
     "zepsute.pl": {
         "epoch": 1599782400.0,
         "expiration_date": "11-sep-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "zespolmi.pl": {
         "epoch": 1604534400.0,
