@@ -1911,7 +1911,8 @@
     "czeladz365.pl": {
         "epoch": 1599782400.0,
         "expiration_date": "11-sep-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "czestochowanews.pl": {
         "epoch": 1629849600.0,
@@ -2667,8 +2668,9 @@
         "state": "future"
     },
     "egarwolin.pl": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "eglobalcentral.pl": {
@@ -3812,8 +3814,9 @@
         "state": "future"
     },
     "gazetagazeta.com": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1757462400.0,
+        "expiration_date": "10-sep-2025",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "gazetakartuska.pl": {
@@ -4921,8 +4924,9 @@
         "state": "future"
     },
     "info.elblag.pl": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "info.stargard.pl": {
@@ -5284,8 +5288,9 @@
         "state": "future"
     },
     "ittechblog.pl": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "iturek.net": {
@@ -8110,8 +8115,9 @@
         "state": "future"
     },
     "nolesnica.pl": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "novekino.pl": {
@@ -8570,8 +8576,9 @@
         "state": "future"
     },
     "ostrowiecnr1.pl": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "ostrowmaz.com": {
@@ -10464,8 +10471,9 @@
         "state": "future"
     },
     "rtvmaniak.pl": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "runners-world.pl": {
@@ -11700,8 +11708,9 @@
         "state": "future"
     },
     "tb7.pl": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "tcz.pl": {
