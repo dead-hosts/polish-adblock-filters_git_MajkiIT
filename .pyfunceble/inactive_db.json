@@ -21,6 +21,13 @@
             "last_retested_at_iso": "2020-09-09T05:41:40.432221",
             "status": "INACTIVE"
         },
+        "czeladz365.pl": {
+            "included_at_epoch": 1599975837.954537,
+            "included_at_iso": "2020-09-13T05:43:57.954537",
+            "last_retested_at_epoch": 1599975837.954537,
+            "last_retested_at_iso": "2020-09-13T05:43:57.954537",
+            "status": "INACTIVE"
+        },
         "forum.dvhk.to": {
             "included_at_epoch": 1599630101.454477,
             "included_at_iso": "2020-09-09T05:41:41.454477",
