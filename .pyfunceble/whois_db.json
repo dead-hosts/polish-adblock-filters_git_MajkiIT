@@ -406,8 +406,9 @@
         "state": "future"
     },
     "allaboutmusic.pl": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "allans.pl": {
@@ -887,9 +888,21 @@
         "expiration_date": "01-apr-2021",
         "state": "future"
     },
+    "betblog.pl": {
+        "epoch": 1603929600.0,
+        "expiration_date": "29-oct-2020",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "betegy.com": {
         "epoch": 1627689600.0,
         "expiration_date": "31-jul-2021",
+        "state": "future"
+    },
+    "betonline.net.pl": {
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "bezdroza.pl": {
@@ -1106,6 +1119,12 @@
     "blbl.cr": {
         "epoch": 1605744000.0,
         "expiration_date": "19-nov-2020",
+        "state": "future"
+    },
+    "blogbukmacherski.pl": {
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "blogomaniak.pl": {
@@ -1599,8 +1618,9 @@
         "state": "future"
     },
     "chozoba.pl": {
-        "epoch": 1600128000.0,
-        "expiration_date": "15-sep-2020",
+        "epoch": 1631664000.0,
+        "expiration_date": "15-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "chroma.pl": {
@@ -1614,8 +1634,9 @@
         "state": "future"
     },
     "chwilowo.pl": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "ciapkowo.pl": {
@@ -2514,8 +2535,9 @@
         "state": "future"
     },
     "e-kg.pl": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "e-kolo.pl": {
@@ -2999,8 +3021,9 @@
         "state": "future"
     },
     "estrzelce.pl": {
-        "epoch": 1600128000.0,
-        "expiration_date": "15-sep-2020",
+        "epoch": 1631664000.0,
+        "expiration_date": "15-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "eswinoujscie.pl": {
@@ -3710,8 +3733,9 @@
         "state": "future"
     },
     "galeriastron.pl": {
-        "epoch": 1599955200.0,
-        "expiration_date": "13-sep-2020",
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "galeriatwarzy.pl": {
@@ -3848,6 +3872,12 @@
     "gazetalubuska.pl": {
         "epoch": 1611360000.0,
         "expiration_date": "23-jan-2021",
+        "state": "future"
+    },
+    "gazetanowodworska.com": {
+        "epoch": 1629590400.0,
+        "expiration_date": "22-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "gazetaostrowska.pl": {
@@ -4170,8 +4200,9 @@
         "state": "future"
     },
     "google.com": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1852502400.0,
+        "expiration_date": "14-sep-2028",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "google.pl": {
@@ -6311,6 +6342,12 @@
         "expiration_date": "02-aug-2021",
         "state": "future"
     },
+    "legalni-bukmacherzy-online.pl": {
+        "epoch": 1712966400.0,
+        "expiration_date": "13-apr-2024",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "legalniewsieci.pl": {
         "epoch": 1620518400.0,
         "expiration_date": "09-may-2021",
@@ -6319,6 +6356,12 @@
     "legalnybukmacher.com": {
         "epoch": 1791763200.0,
         "expiration_date": "12-oct-2026",
+        "state": "future"
+    },
+    "legalnybukmacher.net.pl": {
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "legia.net": {
@@ -6367,13 +6410,15 @@
         "state": "future"
     },
     "lexus-forum.pl": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1631577600.0,
+        "expiration_date": "14-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "lezajsk4u.pl": {
-        "epoch": 1599955200.0,
-        "expiration_date": "13-sep-2020",
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "lfc.pl": {
@@ -6457,8 +6502,9 @@
         "state": "future"
     },
     "lit.pl": {
-        "epoch": 1600128000.0,
-        "expiration_date": "15-sep-2020",
+        "epoch": 1633046400.0,
+        "expiration_date": "01-oct-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "litecoin.pl": {
@@ -8565,6 +8611,12 @@
     "oscarrak.pl": {
         "epoch": 1627862400.0,
         "expiration_date": "02-aug-2021",
+        "state": "future"
+    },
+    "ostatniatawerna.pl": {
+        "epoch": 1622073600.0,
+        "expiration_date": "27-may-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "ostrodanews.pl": {
@@ -11353,6 +11405,12 @@
         "expiration_date": "08-apr-2021",
         "state": "future"
     },
+    "strzelec.info": {
+        "epoch": 1603497600.0,
+        "expiration_date": "24-oct-2020",
+        "server": "whois.afilias.net",
+        "state": "future"
+    },
     "strzelecopolski.pl": {
         "epoch": 1627776000.0,
         "expiration_date": "01-aug-2021",
@@ -12597,8 +12655,9 @@
         "state": "future"
     },
     "tygodnikpodhalanski.pl": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "tygodnikpodlaski.pl": {
@@ -12703,8 +12762,9 @@
         "state": "future"
     },
     "uniejow.net.pl": {
-        "epoch": 1599955200.0,
-        "expiration_date": "13-sep-2020",
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "uod2quk646.com": {
