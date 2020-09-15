@@ -213,7 +213,8 @@
     "adclick.lt": {
         "epoch": 1600128000.0,
         "expiration_date": "15-sep-2020",
-        "state": "future"
+        "server": "whois.domreg.lt",
+        "state": "past"
     },
     "addthis.com": {
         "epoch": "1558742400",
@@ -5746,8 +5747,9 @@
         "state": "future"
     },
     "kinoseans.pl": {
-        "epoch": 1599955200.0,
-        "expiration_date": "13-sep-2020",
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "kitchencollectivecool.info": {
@@ -9175,8 +9177,9 @@
         "state": "future"
     },
     "pokemon-go.pl": {
-        "epoch": 1599955200.0,
-        "expiration_date": "13-sep-2020",
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "poki.pl": {
@@ -9626,8 +9629,9 @@
         "state": "future"
     },
     "pracait.com": {
-        "epoch": 1600128000.0,
-        "expiration_date": "15-sep-2020",
+        "epoch": 1631664000.0,
+        "expiration_date": "15-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "pracawgdansku.com.pl": {
@@ -10970,8 +10974,9 @@
         "state": "future"
     },
     "sledzimykonkursy.pl": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1631577600.0,
+        "expiration_date": "14-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "slodkipomysl.pl": {
@@ -11486,6 +11491,12 @@
         "expiration_date": "01-feb-2021",
         "state": "future"
     },
+    "superportal24.pl": {
+        "epoch": 1609718400.0,
+        "expiration_date": "04-jan-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "supertydzien.pl": {
         "epoch": 1609286400.0,
         "expiration_date": "30-dec-2020",
@@ -11855,8 +11866,9 @@
         "state": "future"
     },
     "telewizja.lukow.pl": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1631577600.0,
+        "expiration_date": "14-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "telewizjaleszno.pl": {
@@ -11891,8 +11903,9 @@
         "state": "future"
     },
     "telewizor.pl": {
-        "epoch": 1600128000.0,
-        "expiration_date": "15-sep-2020",
+        "epoch": 1602374400.0,
+        "expiration_date": "11-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "telix.pl": {
@@ -12282,6 +12295,12 @@
     "turinfo.pl": {
         "epoch": "1569715200",
         "expiration_date": "29-sep-2019",
+        "state": "future"
+    },
+    "turyki.pl": {
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "turystykakulturowa.org": {
@@ -12939,8 +12958,9 @@
         "state": "future"
     },
     "visvitalis.com.pl": {
-        "epoch": 1600128000.0,
-        "expiration_date": "15-sep-2020",
+        "epoch": 1631664000.0,
+        "expiration_date": "15-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "vitalia.pl": {
@@ -13109,8 +13129,9 @@
         "state": "future"
     },
     "wawernews.pl": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1631577600.0,
+        "expiration_date": "14-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "wbijam.pl": {
@@ -13320,8 +13341,9 @@
         "state": "future"
     },
     "wiesci.com.pl": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1631577600.0,
+        "expiration_date": "14-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "wiesci.info.pl": {
@@ -13815,8 +13837,9 @@
         "state": "future"
     },
     "zakopane.info": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1631577600.0,
+        "expiration_date": "14-sep-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "zakupyagd.net": {
@@ -13962,10 +13985,10 @@
         "state": "future"
     },
     "zepsute.pl": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
         "server": "whois.dns.pl",
-        "state": "past"
+        "state": "future"
     },
     "zespolmi.pl": {
         "epoch": 1604534400.0,
@@ -14016,6 +14039,12 @@
     "zizako.pl": {
         "epoch": 1682121600.0,
         "expiration_date": "22-apr-2023",
+        "state": "future"
+    },
+    "zlota7.pl": {
+        "epoch": 1605916800.0,
+        "expiration_date": "21-nov-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "zlotowskie.pl": {
