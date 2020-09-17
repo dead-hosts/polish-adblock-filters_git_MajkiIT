@@ -98,6 +98,13 @@
             "last_retested_at_iso": "2020-09-11T05:56:43.076242",
             "status": "INVALID"
         },
+        "studio-mebli.eu": {
+            "included_at_epoch": 1600322423.9987,
+            "included_at_iso": "2020-09-17T06:00:23.998700",
+            "last_retested_at_epoch": 1600322423.9987,
+            "last_retested_at_iso": "2020-09-17T06:00:23.998700",
+            "status": "INACTIVE"
+        },
         "twojakowala.pl": {
             "included_at_epoch": 1598248344.982386,
             "included_at_iso": "2020-08-24T05:52:24.982386",
