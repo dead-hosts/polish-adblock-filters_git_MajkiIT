@@ -35,13 +35,6 @@
             "last_retested_at_iso": "2020-09-09T05:41:41.466235",
             "status": "INACTIVE"
         },
-        "futbolhd.tv": {
-            "included_at_epoch": 1597902619.276148,
-            "included_at_iso": "2020-08-20T05:50:19.276148",
-            "last_retested_at_epoch": 1598594180.74257,
-            "last_retested_at_iso": "2020-08-28T05:56:20.742570",
-            "status": "INACTIVE"
-        },
         "gomoney.pl": {
             "included_at_epoch": 1599631283.385144,
             "included_at_iso": "2020-09-09T06:01:23.385144",

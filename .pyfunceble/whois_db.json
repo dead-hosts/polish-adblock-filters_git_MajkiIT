@@ -327,8 +327,9 @@
         "state": "future"
     },
     "agrokapital.pl": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "agronews.com.pl": {
@@ -849,8 +850,9 @@
         "state": "future"
     },
     "begio.pl": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "bejsment.com": {
@@ -1741,10 +1743,10 @@
         "state": "future"
     },
     "computerworld.pl": {
-        "epoch": 1600300800.0,
-        "expiration_date": "17-sep-2020",
+        "epoch": 1631836800.0,
+        "expiration_date": "17-sep-2021",
         "server": "whois.dns.pl",
-        "state": "past"
+        "state": "future"
     },
     "comtv.pl": {
         "epoch": 1622073600.0,
@@ -2599,8 +2601,9 @@
         "state": "future"
     },
     "e-telecom.pl": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "e-udanezakupy.pl": {
@@ -3459,8 +3462,9 @@
         "state": "future"
     },
     "flarrow.pl": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "flashscore.pl": {
@@ -4209,8 +4213,9 @@
         "state": "future"
     },
     "google.pl": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "googlesyndication.com": {
@@ -4427,8 +4432,9 @@
         "state": "future"
     },
     "grojec24.net": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "groorgex.net": {
@@ -6447,7 +6453,8 @@
     "life4style.pl": {
         "epoch": 1600473600.0,
         "expiration_date": "19-sep-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "lifemanagerka.pl": {
         "epoch": 1604534400.0,
@@ -6495,8 +6502,9 @@
         "state": "future"
     },
     "linuxhelp.in": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.registry.in",
         "state": "future"
     },
     "linuxiarze.pl": {
@@ -8844,10 +8852,10 @@
         "state": "future"
     },
     "pcworld.pl": {
-        "epoch": 1600300800.0,
-        "expiration_date": "17-sep-2020",
+        "epoch": 1631836800.0,
+        "expiration_date": "17-sep-2021",
         "server": "whois.dns.pl",
-        "state": "past"
+        "state": "future"
     },
     "pdaclub.pl": {
         "epoch": 1659657600.0,
@@ -9697,8 +9705,9 @@
         "state": "future"
     },
     "prawodrogowe.pl": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "prawy.pl": {
@@ -9779,6 +9788,12 @@
     "profilook.pl": {
         "epoch": 1623456000.0,
         "expiration_date": "12-jun-2021",
+        "state": "future"
+    },
+    "profitechnika.pl": {
+        "epoch": 1612828800.0,
+        "expiration_date": "09-feb-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "programosy.pl": {
