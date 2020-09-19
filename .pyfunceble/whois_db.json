@@ -1990,8 +1990,9 @@
         "state": "future"
     },
     "damitv.pl": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "dania-dietetyczne.pl": {
@@ -6841,6 +6842,12 @@
         "expiration_date": "22-feb-2019",
         "state": "future"
     },
+    "mahieutin.xyz": {
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
+        "server": "whois.nic.xyz",
+        "state": "future"
+    },
     "majsterkowo.pl": {
         "epoch": 1615852800.0,
         "expiration_date": "16-mar-2021",
@@ -9997,8 +10004,9 @@
         "state": "future"
     },
     "pudelekx.pl": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "pukawka.pl": {
@@ -10293,8 +10301,9 @@
         "state": "future"
     },
     "radiozet.pl": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "radiozw.com.pl": {
@@ -12536,8 +12545,9 @@
         "state": "future"
     },
     "tvswinoujscie.pl": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "tvsztum.pl": {
@@ -13668,8 +13678,9 @@
         "state": "future"
     },
     "wspolnypowiat.pl": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "wspomnijbliskich.pl": {
