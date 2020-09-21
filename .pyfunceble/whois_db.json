@@ -11102,8 +11102,9 @@
         "state": "future"
     },
     "smartclick.pl": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1632182400.0,
+        "expiration_date": "21-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "sms7.pl": {
@@ -11940,8 +11941,9 @@
         "state": "future"
     },
     "telewizjamazury.pl": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1629590400.0,
+        "expiration_date": "22-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "telewizjapolska24.pl": {
@@ -13617,8 +13619,9 @@
         "state": "future"
     },
     "wpolityce.pl": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1632182400.0,
+        "expiration_date": "21-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "wpolityce24.pl": {
