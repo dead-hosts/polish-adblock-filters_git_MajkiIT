@@ -1955,8 +1955,9 @@
         "state": "future"
     },
     "czluchow.com.pl": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1632182400.0,
+        "expiration_date": "21-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "cztery-lapy.pl": {
@@ -3569,8 +3570,9 @@
         "state": "future"
     },
     "forum-kulturystyka.pl": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "forum-norwegia.pl": {
@@ -5039,8 +5041,9 @@
         "state": "future"
     },
     "infokrakow24.pl": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "infoludek.pl": {
@@ -5080,8 +5083,9 @@
         "state": "future"
     },
     "informacja.wroclaw.pl": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1632182400.0,
+        "expiration_date": "21-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "informacjelodzkie.pl": {
@@ -5236,8 +5240,9 @@
         "state": "future"
     },
     "iotwock.info": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1632182400.0,
+        "expiration_date": "21-sep-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "ipilka.info": {
@@ -6452,10 +6457,10 @@
         "state": "future"
     },
     "life4style.pl": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1603065600.0,
+        "expiration_date": "19-oct-2020",
         "server": "whois.dns.pl",
-        "state": "past"
+        "state": "future"
     },
     "lifemanagerka.pl": {
         "epoch": 1604534400.0,
@@ -7137,8 +7142,9 @@
         "state": "future"
     },
     "metalnews.pl": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1632182400.0,
+        "expiration_date": "21-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "meteo.pl": {
@@ -8260,8 +8266,9 @@
         "state": "future"
     },
     "noworudzianin.pl": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1632182400.0,
+        "expiration_date": "21-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "nowwatchtvlive.co": {
@@ -10792,8 +10799,9 @@
         "state": "future"
     },
     "sejny.net": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "sekabet105.com": {
@@ -11320,8 +11328,9 @@
         "state": "future"
     },
     "starachowicka.pl": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "starcom-ntt.com.pl": {
