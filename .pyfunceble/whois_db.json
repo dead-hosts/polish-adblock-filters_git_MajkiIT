@@ -1034,8 +1034,9 @@
         "state": "future"
     },
     "bitcoin-info.pl": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "bitcoin-online.pl": {
@@ -3421,7 +3422,8 @@
     "filmy-tv.pl": {
         "epoch": 1600819200.0,
         "expiration_date": "23-sep-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "filmy.cool": {
         "epoch": 1591833600,
@@ -5910,8 +5912,9 @@
         "state": "future"
     },
     "konflikty.pl": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "konin24.info": {
@@ -6975,8 +6978,9 @@
         "state": "future"
     },
     "maximgroup.pl": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "mazury.info.pl": {
@@ -9064,8 +9068,9 @@
         "state": "future"
     },
     "planujemywesele.pl": {
-        "epoch": 1600819200.0,
-        "expiration_date": "23-sep-2020",
+        "epoch": 1803772800.0,
+        "expiration_date": "28-feb-2027",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "plastech.pl": {
@@ -10128,8 +10133,9 @@
         "state": "future"
     },
     "radio-wrzesnia.pl": {
-        "epoch": 1600819200.0,
-        "expiration_date": "23-sep-2020",
+        "epoch": 1695427200.0,
+        "expiration_date": "23-sep-2023",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "radio.bialystok.pl": {
