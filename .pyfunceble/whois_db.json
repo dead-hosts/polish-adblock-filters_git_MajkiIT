@@ -830,8 +830,9 @@
         "state": "future"
     },
     "bbfan.pl": {
-        "epoch": 1600905600.0,
-        "expiration_date": "24-sep-2020",
+        "epoch": 1632441600.0,
+        "expiration_date": "24-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "bebetalent.pl": {
@@ -1542,8 +1543,9 @@
         "state": "future"
     },
     "chelmza365.pl": {
-        "epoch": 1600905600.0,
-        "expiration_date": "24-sep-2020",
+        "epoch": 1632441600.0,
+        "expiration_date": "24-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "chilitonka.com": {
@@ -3421,10 +3423,10 @@
         "state": "future"
     },
     "filmy-tv.pl": {
-        "epoch": 1600819200.0,
-        "expiration_date": "23-sep-2020",
+        "epoch": 1603411200.0,
+        "expiration_date": "23-oct-2020",
         "server": "whois.dns.pl",
-        "state": "past"
+        "state": "future"
     },
     "filmy.cool": {
         "epoch": 1591833600,
@@ -5550,6 +5552,12 @@
         "expiration_date": "27-may-2021",
         "state": "future"
     },
+    "jbzdy.com.pl": {
+        "epoch": 1603497600.0,
+        "expiration_date": "24-oct-2020",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "jbzdy.pl": {
         "epoch": 1607385600.0,
         "expiration_date": "08-dec-2020",
@@ -6678,7 +6686,8 @@
     "lubaczow.tv": {
         "epoch": 1600992000.0,
         "expiration_date": "25-sep-2020",
-        "state": "future"
+        "server": "tvwhois.verisign-grs.com",
+        "state": "past"
     },
     "lubartow24.pl": {
         "epoch": 1619395200.0,
@@ -7671,8 +7680,9 @@
         "state": "future"
     },
     "movie-box.pl": {
-        "epoch": 1600905600.0,
-        "expiration_date": "24-sep-2020",
+        "epoch": 1603497600.0,
+        "expiration_date": "24-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "moviesroom.pl": {
@@ -7711,8 +7721,9 @@
         "state": "future"
     },
     "msg.org.pl": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1629936000.0,
+        "expiration_date": "26-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "msmobile.pl": {
@@ -9934,8 +9945,9 @@
         "state": "future"
     },
     "przekultura.pl": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1664064000.0,
+        "expiration_date": "25-sep-2022",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "przemysl.info.pl": {
@@ -10309,6 +10321,12 @@
     "radiowroclaw.pl": {
         "epoch": 1618790400.0,
         "expiration_date": "19-apr-2021",
+        "state": "future"
+    },
+    "radiowrzesnia.pl": {
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "radiozamosc.pl": {
