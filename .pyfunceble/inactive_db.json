@@ -5082,6 +5082,13 @@
             "last_retested_at_iso": "2020-09-25T05:50:44.057680",
             "status": "ACTIVE"
         },
+        "fintek.pl": {
+            "included_at_epoch": 1601185087.282877,
+            "included_at_iso": "2020-09-27T05:38:07.282877",
+            "last_retested_at_epoch": 1601185087.402944,
+            "last_retested_at_iso": "2020-09-27T05:38:07.402944",
+            "status": "ACTIVE"
+        },
         "firmy77.pl": {
             "included_at_epoch": 1601013050.673712,
             "included_at_iso": "2020-09-25T05:50:50.673712",
