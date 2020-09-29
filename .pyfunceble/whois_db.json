@@ -1349,8 +1349,9 @@
         "state": "future"
     },
     "businesswomanlife.pl": {
-        "epoch": 1601251200.0,
-        "expiration_date": "28-sep-2020",
+        "epoch": 1632787200.0,
+        "expiration_date": "28-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "busradar.pl": {
@@ -2058,8 +2059,9 @@
         "state": "future"
     },
     "ddbelchatow.pl": {
-        "epoch": 1601251200.0,
-        "expiration_date": "28-sep-2020",
+        "epoch": 1632787200.0,
+        "expiration_date": "28-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "ddtorun.pl": {
@@ -3341,8 +3343,9 @@
         "state": "future"
     },
     "farmer.pl": {
-        "epoch": 1601164800.0,
-        "expiration_date": "27-sep-2020",
+        "epoch": 1675468800.0,
+        "expiration_date": "04-feb-2023",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "faunaflora.com.pl": {
@@ -3567,8 +3570,9 @@
         "state": "future"
     },
     "forsal.pl": {
-        "epoch": 1601078400.0,
-        "expiration_date": "26-sep-2020",
+        "epoch": 1632614400.0,
+        "expiration_date": "26-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "forsapl.info": {
@@ -4218,8 +4222,9 @@
         "state": "past"
     },
     "goniec.net": {
-        "epoch": 1601337600.0,
-        "expiration_date": "29-sep-2020",
+        "epoch": 1632873600.0,
+        "expiration_date": "29-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "goo.gl": {
@@ -4448,8 +4453,9 @@
         "state": "future"
     },
     "grodzisknews.pl": {
-        "epoch": 1601251200.0,
-        "expiration_date": "28-sep-2020",
+        "epoch": 1632787200.0,
+        "expiration_date": "28-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "grojec24.net": {
@@ -5073,7 +5079,7 @@
         "epoch": 1601337600.0,
         "expiration_date": "29-sep-2020",
         "server": "whois.dns.pl",
-        "state": "future"
+        "state": "past"
     },
     "infomogilno24.pl": {
         "epoch": 1620345600.0,
@@ -5496,8 +5502,9 @@
         "state": "future"
     },
     "jarocinska.pl": {
-        "epoch": 1601078400.0,
-        "expiration_date": "26-sep-2020",
+        "epoch": 1664150400.0,
+        "expiration_date": "26-sep-2022",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "jarock.pl": {
@@ -6698,10 +6705,10 @@
         "state": "future"
     },
     "lubaczow.tv": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1632528000.0,
+        "expiration_date": "25-sep-2021",
         "server": "tvwhois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "lubartow24.pl": {
         "epoch": 1619395200.0,
