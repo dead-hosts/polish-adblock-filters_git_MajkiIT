@@ -8,9 +8,9 @@
 ! Działa najlepiej z EasyList - pamiętaj aby zasubskrybować!
 !   Patronite ==> https://patronite.pl/polskiefiltry
 !   PayPal ==> https://www.paypal.com/pools/c/87zNJ8OJ3I
-! Last modified: 27 September 2020
+! Last modified: 1 October 2020
 ! Expires: 1 day
-! Version: 2020092701
+! Version: 2020100101
 ! Support:
 !   Email >> errorsfilters@certyficate.it
 !   Github >> https://github.com/MajkiIT/polish-ads-filter/issues
@@ -18,7 +18,7 @@
 ! License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ! Copyright © 2020 Certyficate IT
 ! Najnowsza wersja zawsze na: https://www.certyficate.it/adblock
-! v.2020092701 aktualizacja: nie, 27 września 2020, 20:10:00
+! v.2020100101 aktualizacja: czw, 1 października 2020, 07:20:00
 !
 !
 !1#-----------------------General advert blocking filters-----------------------!
@@ -287,7 +287,7 @@ pl##.reklama_top
 24wspolnota.pl,kociewiak.pl,cooltura24.co.uk,halogorlice.info,dziennikpowiatowy.pl,tczewska.pl,wejherowo24.info,koscierzyna24.info,tvsudecka.pl,nasztomaszow.pl,www.sandomierztv.pl,korso24.pl,boleslawiec.tv,tarnowska.tv,olesnica24.com##.visible-lg
 24wspolnota.pl##.container > .center-block.text-center.rBox
 2bstyle.pl##.header-ads-wrapper
-2conv.com,flvto.biz,glos.pl,cefarm24.pl##.banner
+2conv.com,flvto.biz,glos.pl,cefarm24.pl,meczyki.pl##.banner
 2x45.info##.Bilboard_750x100_na_dole
 3trzy3.pl##.xxl, .imc.carregat.llarg.zona_publi
 300polityka.pl##.dcmads
@@ -1225,6 +1225,7 @@ gloszabrza24.pl#?#div.moduletable:-abp-contains(REKLAMA)
 glucholazyonline.com.pl##.flexbannergrouphidden-phone
 goal.pl,eredivisie.pl##div.rectangle:nth-of-type(1)
 goal.pl,ligapolska.pl,zarabiam.com,rzeczkrotoszynska.pl,40ton.net##object
+goal.pl,primeradivision.pl,seriea.pl,ligapolska.pl,kadra.pl,eredivisie.pl,wislakrakow.com##[href*="/goto/"]
 godealla.pl##.ox-top
 godzinyotwarcia24.pl##.anzeigenlabel
 google.com,google.pl##div[data-ismultirow="true"][data-id^="CarouselPLA-"] 
@@ -1843,7 +1844,7 @@ meczewinternecie.pl##figure.size-large.wp-block-image > A
 meczewinternecie.pl##figcaption:has-text(STS kod promocyjny)
 meczyki.net.pl##.subtext > A > IMG
 meczyki.net.pl##[class^="cool-stuff"]
-meczyki.pl##.bookie-ranks, .container-communique, .placeholder.margin.banner
+meczyki.pl##.bookie-ranks, .container-communique, .placeholder.margin.banner, .simple-link
 meczyki.pl##.container-banner-top.container-banner
 mediacv.pl##.baner-1
 mediacv.pl##[class^="ban-"]
@@ -3594,6 +3595,7 @@ zywiecinfo.pl##.promoted
 /aserver/*$script,subdocument
 /fotosy/inne/$image,domain=mierzyn24.pl
 /grafika/banerki_reklamowe/$image,domain=wbijam.pl
+/images/tapeta_s.jpg$image,domain=goal.pl|primeradivision.pl|seriea.pl|ligapolska.pl|kadra.pl|eredivisie.pl
 /media/js/jquery.pu.js$script,~third-party,domain=meczlive.pl|meczenazywo.tv
 /uploads/*tapeta*.jpg$image,domain=ciekawostkihistoryczne.pl|katowice24.info|miastodzieci.pl|wrc.net.pl
 /vardata/obrazki/$image,domain=pionki24.pl|zwolen24.pl
@@ -3912,6 +3914,7 @@ zywiecinfo.pl##.promoted
 ||prl24.co.uk/res/rotate/$image
 ||prv.pl/prv_billboard
 ||pulsembed.eu^$script,domain=gameplanet.onet.pl
+||pub.contexthub.net^
 ||pttk.pl/grafika/liniag.gif
 ||q4.pl/media/20/*.gif$image
 ||qjse.quartic.pl/qjs/$script,domain=~quartic.pl
@@ -4369,6 +4372,7 @@ autocentrum.pl,demotywatory.pl,dziennik.pl,facetemjestem.pl,gala.pl,garnek.pl,gr
 !
 !23#--------------------------Pages with bad reputation------------!
 filmyfilmy.pl###play
+||aranzujemy.co.pl^
 !
 !24#--------------------------Rules for ublock, but can be use with adblock------------!
 ||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=exs.pl,important
@@ -4875,6 +4879,7 @@ sport.pl##.cg4-ad, .mod_uzr_sport6.mod
 @@||online.mbank.pl/venezia/fingerprint.js$script,domain=online.mbank.pl
 @@||ts.tradetracker.net/?cid=$image,domain=ksiegarnia-edukacyjna.pl
 @@||ticket.energylandia.pl/static/prod/scripts/modules/analytics.js$script,domain=ticket.energylandia.pl
+@@||wpfc.ml^$domain=kryminalnapolska.pl 
 !
 !50#--------------------------Video Players------------!
 ||vidoza.net/dl?op=view&*adb=$xmlhttprequest
