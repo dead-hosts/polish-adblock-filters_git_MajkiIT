@@ -2565,8 +2565,9 @@
         "state": "future"
     },
     "e-krajna.pl": {
-        "epoch": 1601510400.0,
-        "expiration_date": "01-oct-2020",
+        "epoch": 1633046400.0,
+        "expiration_date": "01-oct-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "e-kursy-walut.pl": {
@@ -2757,8 +2758,9 @@
         "state": "future"
     },
     "ekinomaniak.tv": {
-        "epoch": 1601424000.0,
-        "expiration_date": "30-sep-2020",
+        "epoch": 1632960000.0,
+        "expiration_date": "30-sep-2021",
+        "server": "tvwhois.verisign-grs.com",
         "state": "future"
     },
     "ekologia.pl": {
@@ -4387,8 +4389,9 @@
         "state": "future"
     },
     "grafoteka.pl": {
-        "epoch": 1601510400.0,
-        "expiration_date": "01-oct-2020",
+        "epoch": 1633046400.0,
+        "expiration_date": "01-oct-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "grajewo24.pl": {
@@ -5076,10 +5079,10 @@
         "state": "future"
     },
     "infolwowek24.pl": {
-        "epoch": 1601337600.0,
-        "expiration_date": "29-sep-2020",
+        "epoch": 1632960000.0,
+        "expiration_date": "30-sep-2021",
         "server": "whois.dns.pl",
-        "state": "past"
+        "state": "future"
     },
     "infomogilno24.pl": {
         "epoch": 1620345600.0,
@@ -5457,8 +5460,9 @@
         "state": "future"
     },
     "jadlonomia.com": {
-        "epoch": 1601424000.0,
-        "expiration_date": "30-sep-2020",
+        "epoch": 1632960000.0,
+        "expiration_date": "30-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "jagiellonia.net": {
@@ -5695,8 +5699,9 @@
         "state": "future"
     },
     "katalogsmakow.pl": {
-        "epoch": 1601596800.0,
-        "expiration_date": "02-oct-2020",
+        "epoch": 1633132800.0,
+        "expiration_date": "02-oct-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "katowice24.info": {
@@ -7783,8 +7788,9 @@
         "state": "future"
     },
     "muzykaitechnologia.pl": {
-        "epoch": 1601424000.0,
-        "expiration_date": "30-sep-2020",
+        "epoch": 1696032000.0,
+        "expiration_date": "30-sep-2023",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "muzykazreklam.tv": {
@@ -7923,8 +7929,9 @@
         "state": "future"
     },
     "narodowyprogram.pl": {
-        "epoch": 1601337600.0,
-        "expiration_date": "29-sep-2020",
+        "epoch": 1632873600.0,
+        "expiration_date": "29-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "nasygnale.pl": {
@@ -7995,8 +8002,9 @@
         "state": "future"
     },
     "naszesudety.pl": {
-        "epoch": 1601683200.0,
-        "expiration_date": "03-oct-2020",
+        "epoch": 1633219200.0,
+        "expiration_date": "03-oct-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "naszraciborz.pl": {
@@ -10398,8 +10406,9 @@
         "state": "future"
     },
     "rawicz24.pl": {
-        "epoch": 1601510400.0,
-        "expiration_date": "01-oct-2020",
+        "epoch": 1633046400.0,
+        "expiration_date": "01-oct-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "rc4max.com": {
