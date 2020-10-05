@@ -12992,6 +12992,13 @@
             "last_retested_at_iso": "2020-10-03T05:55:31.935746",
             "status": "ACTIVE"
         },
+        "panoramakutna.pl": {
+            "included_at_epoch": 1601876497.236832,
+            "included_at_iso": "2020-10-05T05:41:37.236832",
+            "last_retested_at_epoch": 1601876497.236832,
+            "last_retested_at_iso": "2020-10-05T05:41:37.236832",
+            "status": "ACTIVE"
+        },
         "pap.edu.pl": {
             "included_at_epoch": 1601013078.258518,
             "included_at_iso": "2020-09-25T05:51:18.258518",
