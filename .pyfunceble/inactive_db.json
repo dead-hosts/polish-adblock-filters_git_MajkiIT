@@ -5943,6 +5943,13 @@
             "last_retested_at_iso": "2020-10-03T05:55:31.749393",
             "status": "ACTIVE"
         },
+        "gazetamyslowicka.com": {
+            "included_at_epoch": 1602049335.595972,
+            "included_at_iso": "2020-10-07T05:42:15.595972",
+            "last_retested_at_epoch": 1602049335.595972,
+            "last_retested_at_iso": "2020-10-07T05:42:15.595972",
+            "status": "ACTIVE"
+        },
         "gazetanowodworska.com": {
             "included_at_epoch": 1601013052.561432,
             "included_at_iso": "2020-09-25T05:50:52.561432",
@@ -12271,13 +12278,6 @@
             "last_retested_at_iso": "2020-10-03T05:55:58.555735",
             "status": "ACTIVE"
         },
-        "nowy.gryfickie.info": {
-            "included_at_epoch": 1599458492.345198,
-            "included_at_iso": "2020-09-07T06:01:32.345198",
-            "last_retested_at_epoch": 1599458492.345198,
-            "last_retested_at_iso": "2020-09-07T06:01:32.345198",
-            "status": "INACTIVE"
-        },
         "nowy.tlen.pl": {
             "included_at_epoch": 1601013075.45003,
             "included_at_iso": "2020-09-25T05:51:15.450030",
@@ -15391,6 +15391,13 @@
             "included_at_iso": "2020-09-25T05:50:44.586670",
             "last_retested_at_epoch": 1601704467.514776,
             "last_retested_at_iso": "2020-10-03T05:54:27.514776",
+            "status": "ACTIVE"
+        },
+        "regionalna.pl": {
+            "included_at_epoch": 1602049335.687117,
+            "included_at_iso": "2020-10-07T05:42:15.687117",
+            "last_retested_at_epoch": 1602049335.754878,
+            "last_retested_at_iso": "2020-10-07T05:42:15.754878",
             "status": "ACTIVE"
         },
         "regionfan.pl": {
@@ -19794,6 +19801,13 @@
             "included_at_iso": "2020-09-25T06:06:00.949417",
             "last_retested_at_epoch": 1601013960.949417,
             "last_retested_at_iso": "2020-09-25T06:06:00.949417",
+            "status": "ACTIVE"
+        },
+        "wiescisokolowskie.pl": {
+            "included_at_epoch": 1602049335.822555,
+            "included_at_iso": "2020-10-07T05:42:15.822555",
+            "last_retested_at_epoch": 1602049336.028941,
+            "last_retested_at_iso": "2020-10-07T05:42:16.028941",
             "status": "ACTIVE"
         },
         "wikirose.pl": {

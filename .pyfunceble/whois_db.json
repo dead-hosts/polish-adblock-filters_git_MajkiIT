@@ -3902,6 +3902,12 @@
         "expiration_date": "23-jan-2021",
         "state": "future"
     },
+    "gazetamyslowicka.com": {
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "gazetanowodworska.com": {
         "epoch": 1629590400.0,
         "expiration_date": "22-aug-2021",
@@ -10478,6 +10484,12 @@
         "expiration_date": "12-jan-2020",
         "state": "past"
     },
+    "regionalna.pl": {
+        "epoch": 1605225600.0,
+        "expiration_date": "13-nov-2020",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "regionfan.pl": {
         "epoch": 1609286400.0,
         "expiration_date": "30-dec-2020",
@@ -13504,6 +13516,12 @@
     "wiescirolnicze.pl": {
         "epoch": 1611619200.0,
         "expiration_date": "26-jan-2021",
+        "state": "future"
+    },
+    "wiescisokolowskie.pl": {
+        "epoch": 1615161600.0,
+        "expiration_date": "08-mar-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "wikirose.pl": {
