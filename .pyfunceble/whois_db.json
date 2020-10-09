@@ -9412,6 +9412,12 @@
         "expiration_date": "14-dec-2020",
         "state": "future"
     },
+    "polskifr.fr": {
+        "epoch": 1619222400.0,
+        "expiration_date": "24-apr-2021",
+        "server": "whois.nic.fr",
+        "state": "future"
+    },
     "polskiinternet.com": {
         "epoch": 1627603200.0,
         "expiration_date": "30-jul-2021",
