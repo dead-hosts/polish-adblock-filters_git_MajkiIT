@@ -16815,10 +16815,10 @@
             "status": "ACTIVE"
         },
         "static*.mylead.global": {
-            "included_at_epoch": 1599803803.076242,
-            "included_at_iso": "2020-09-11T05:56:43.076242",
-            "last_retested_at_epoch": 1599803803.076242,
-            "last_retested_at_iso": "2020-09-11T05:56:43.076242",
+            "included_at_epoch": 1602394992.424412,
+            "included_at_iso": "2020-10-11T05:43:12.424412",
+            "last_retested_at_epoch": 1602394992.424412,
+            "last_retested_at_iso": "2020-10-11T05:43:12.424412",
             "status": "INVALID"
         },
         "static.biedronka.pl": {
