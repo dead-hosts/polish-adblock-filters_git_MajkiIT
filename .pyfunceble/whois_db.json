@@ -2503,6 +2503,12 @@
         "expiration_date": "31-jan-2021",
         "state": "future"
     },
+    "dzwignice.info": {
+        "epoch": 1725753600.0,
+        "expiration_date": "08-sep-2024",
+        "server": "whois.afilias.net",
+        "state": "future"
+    },
     "e-aptekarodzinna.pl": {
         "epoch": "1569369600",
         "expiration_date": "25-sep-2019",
@@ -3473,6 +3479,12 @@
     "fishing-test.pl": {
         "epoch": 1628640000.0,
         "expiration_date": "11-aug-2021",
+        "state": "future"
+    },
+    "fkref.com": {
+        "epoch": 1604534400.0,
+        "expiration_date": "05-nov-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "flakyfeast.com": {
@@ -5654,6 +5666,12 @@
         "expiration_date": "18-feb-2021",
         "state": "future"
     },
+    "kalisz24.info.pl": {
+        "epoch": 1604620800.0,
+        "expiration_date": "06-nov-2020",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "kaliszak.pl": {
         "epoch": 1611878400.0,
         "expiration_date": "29-jan-2021",
@@ -5899,6 +5917,12 @@
     "kokosik1207.pl": {
         "epoch": 1573689600,
         "expiration_date": "14-nov-2019",
+        "state": "future"
+    },
+    "kolbuszowalokalnie.pl": {
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "kolniak24.pl": {
@@ -6465,6 +6489,12 @@
     "leonclub.pl": {
         "epoch": 1617321600.0,
         "expiration_date": "02-apr-2021",
+        "state": "future"
+    },
+    "lesko.info": {
+        "epoch": 1690848000.0,
+        "expiration_date": "01-aug-2023",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "leszno24.pl": {
@@ -9201,6 +9231,12 @@
         "expiration_date": "04-mar-2021",
         "state": "future"
     },
+    "pnt.info.pl": {
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "poczta-polska.pl": {
         "epoch": 1609372800.0,
         "expiration_date": "31-dec-2020",
@@ -11724,6 +11760,12 @@
         "expiration_date": "23-nov-2020",
         "state": "future"
     },
+    "swiatrolnika.info": {
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
+        "server": "whois.afilias.net",
+        "state": "future"
+    },
     "swiatseriali.pl": {
         "epoch": 1631318400.0,
         "expiration_date": "11-sep-2021",
@@ -11899,6 +11941,12 @@
     "targeo.pl": {
         "epoch": 1626220800.0,
         "expiration_date": "14-jul-2021",
+        "state": "future"
+    },
+    "tarnobrzeg.info": {
+        "epoch": 1629590400.0,
+        "expiration_date": "22-aug-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "tarnow.in": {
@@ -13623,6 +13671,12 @@
     "wizjalokalna.pl": {
         "epoch": 1601337600.0,
         "expiration_date": "29-sep-2020",
+        "state": "future"
+    },
+    "wkielcach.info": {
+        "epoch": 1660780800.0,
+        "expiration_date": "18-aug-2022",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "wkikole.pl": {
