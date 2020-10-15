@@ -1945,6 +1945,12 @@
         "server": "whois.dns.pl",
         "state": "past"
     },
+    "czest.info": {
+        "epoch": 1621555200.0,
+        "expiration_date": "21-may-2021",
+        "server": "whois.afilias.net",
+        "state": "future"
+    },
     "czestochowanews.pl": {
         "epoch": 1629849600.0,
         "expiration_date": "25-aug-2021",
@@ -2496,6 +2502,12 @@
     "dziennikzwiazkowy.com": {
         "epoch": 1628208000.0,
         "expiration_date": "06-aug-2021",
+        "state": "future"
+    },
+    "dzierzgon.info.pl": {
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "dzisiajwgliwicach.pl": {
@@ -7909,6 +7921,12 @@
         "expiration_date": "30-nov-2020",
         "state": "future"
     },
+    "naczytniku.pl": {
+        "epoch": 1619049600.0,
+        "expiration_date": "22-apr-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "nadmorski24.pl": {
         "epoch": 1628812800.0,
         "expiration_date": "13-aug-2021",
@@ -9275,6 +9293,12 @@
     "podkarpackahistoria.pl": {
         "epoch": 1604534400.0,
         "expiration_date": "05-nov-2020",
+        "state": "future"
+    },
+    "podlasianin.com.pl": {
+        "epoch": 1604102400.0,
+        "expiration_date": "31-oct-2020",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "podlasie24.pl": {
@@ -13724,6 +13748,12 @@
         "expiration_date": "28-mar-2023",
         "state": "future"
     },
+    "wolanie.info": {
+        "epoch": 1633737600.0,
+        "expiration_date": "09-oct-2021",
+        "server": "whois.afilias.net",
+        "state": "future"
+    },
     "wolna-polska.pl": {
         "epoch": 1619308800.0,
         "expiration_date": "25-apr-2021",
@@ -14270,6 +14300,12 @@
     "zizako.pl": {
         "epoch": 1682121600.0,
         "expiration_date": "22-apr-2023",
+        "state": "future"
+    },
+    "zkaszub.info": {
+        "epoch": 1613433600.0,
+        "expiration_date": "16-feb-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "zlota7.pl": {

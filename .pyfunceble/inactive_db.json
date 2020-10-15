@@ -2975,6 +2975,13 @@
             "last_retested_at_iso": "2020-10-03T05:54:36.434840",
             "status": "ACTIVE"
         },
+        "czest.info": {
+            "included_at_epoch": 1602740700.932174,
+            "included_at_iso": "2020-10-15T05:45:00.932174",
+            "last_retested_at_epoch": 1602740701.064741,
+            "last_retested_at_iso": "2020-10-15T05:45:01.064741",
+            "status": "ACTIVE"
+        },
         "czestochowanews.pl": {
             "included_at_epoch": 1601013046.207838,
             "included_at_iso": "2020-09-25T05:50:46.207838",
@@ -3764,6 +3771,13 @@
             "included_at_iso": "2020-09-25T05:50:47.596368",
             "last_retested_at_epoch": 1601704482.899141,
             "last_retested_at_iso": "2020-10-03T05:54:42.899141",
+            "status": "ACTIVE"
+        },
+        "dzierzgon.info.pl": {
+            "included_at_epoch": 1602740701.130192,
+            "included_at_iso": "2020-10-15T05:45:01.130192",
+            "last_retested_at_epoch": 1602740701.130192,
+            "last_retested_at_iso": "2020-10-15T05:45:01.130192",
             "status": "ACTIVE"
         },
         "dzisiajwgliwicach.pl": {
@@ -11725,6 +11739,13 @@
             "last_retested_at_iso": "2020-10-03T05:55:52.653543",
             "status": "ACTIVE"
         },
+        "naczytniku.pl": {
+            "included_at_epoch": 1602740701.195696,
+            "included_at_iso": "2020-10-15T05:45:01.195696",
+            "last_retested_at_epoch": 1602740701.195696,
+            "last_retested_at_iso": "2020-10-15T05:45:01.195696",
+            "status": "ACTIVE"
+        },
         "nadmorski24.pl": {
             "included_at_epoch": 1601013072.450354,
             "included_at_iso": "2020-09-25T05:51:12.450354",
@@ -13606,6 +13627,13 @@
             "included_at_iso": "2020-09-25T06:05:32.971219",
             "last_retested_at_epoch": 1601013999.946062,
             "last_retested_at_iso": "2020-09-25T06:06:39.946062",
+            "status": "ACTIVE"
+        },
+        "podlasianin.com.pl": {
+            "included_at_epoch": 1602740701.261595,
+            "included_at_iso": "2020-10-15T05:45:01.261595",
+            "last_retested_at_epoch": 1602740701.390586,
+            "last_retested_at_iso": "2020-10-15T05:45:01.390586",
             "status": "ACTIVE"
         },
         "podlasie24.pl": {
@@ -18866,10 +18894,10 @@
             "status": "INACTIVE"
         },
         "twojzwolen.pl": {
-            "included_at_epoch": 1600149539.966729,
-            "included_at_iso": "2020-09-15T05:58:59.966729",
-            "last_retested_at_epoch": 1601704446.142487,
-            "last_retested_at_iso": "2020-10-03T05:54:06.142487",
+            "included_at_epoch": 1602740700.874037,
+            "included_at_iso": "2020-10-15T05:45:00.874037",
+            "last_retested_at_epoch": 1602740701.584909,
+            "last_retested_at_iso": "2020-10-15T05:45:01.584909",
             "status": "INACTIVE"
         },
         "tychy.info": {
@@ -20081,6 +20109,13 @@
             "included_at_iso": "2020-09-25T06:06:00.256885",
             "last_retested_at_epoch": 1601013962.62498,
             "last_retested_at_iso": "2020-09-25T06:06:02.624980",
+            "status": "ACTIVE"
+        },
+        "wolanie.info": {
+            "included_at_epoch": 1602740701.628648,
+            "included_at_iso": "2020-10-15T05:45:01.628648",
+            "last_retested_at_epoch": 1602740701.628648,
+            "last_retested_at_iso": "2020-10-15T05:45:01.628648",
             "status": "ACTIVE"
         },
         "wolna-polska.pl": {
@@ -21831,6 +21866,13 @@
             "included_at_iso": "2020-09-25T06:06:13.919927",
             "last_retested_at_epoch": 1601013973.919927,
             "last_retested_at_iso": "2020-09-25T06:06:13.919927",
+            "status": "ACTIVE"
+        },
+        "zkaszub.info": {
+            "included_at_epoch": 1602740701.694625,
+            "included_at_iso": "2020-10-15T05:45:01.694625",
+            "last_retested_at_epoch": 1602740701.694625,
+            "last_retested_at_iso": "2020-10-15T05:45:01.694625",
             "status": "ACTIVE"
         },
         "zlota7.pl": {
