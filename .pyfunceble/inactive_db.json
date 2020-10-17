@@ -1834,6 +1834,13 @@
             "last_retested_at_iso": "2020-10-03T05:54:26.198717",
             "status": "ACTIVE"
         },
+        "bobowa24.pl": {
+            "included_at_epoch": 1602913570.544491,
+            "included_at_iso": "2020-10-17T05:46:10.544491",
+            "last_retested_at_epoch": 1602913570.544491,
+            "last_retested_at_iso": "2020-10-17T05:46:10.544491",
+            "status": "ACTIVE"
+        },
         "bobrzanie.pl": {
             "included_at_epoch": 1601013044.437892,
             "included_at_iso": "2020-09-25T05:50:44.437892",
@@ -6860,6 +6867,13 @@
             "last_retested_at_iso": "2020-10-03T05:54:01.402307",
             "status": "ACTIVE"
         },
+        "gryfice24.online": {
+            "included_at_epoch": 1602913570.845341,
+            "included_at_iso": "2020-10-17T05:46:10.845341",
+            "last_retested_at_epoch": 1602913570.845341,
+            "last_retested_at_iso": "2020-10-17T05:46:10.845341",
+            "status": "ACTIVE"
+        },
         "grylogiczne.biz.pl": {
             "included_at_epoch": 1601013041.738656,
             "included_at_iso": "2020-09-25T05:50:41.738656",
@@ -9891,6 +9905,13 @@
             "last_retested_at_iso": "2020-10-03T05:55:36.186372",
             "status": "ACTIVE"
         },
+        "losice.info": {
+            "included_at_epoch": 1602913570.77917,
+            "included_at_iso": "2020-10-17T05:46:10.779170",
+            "last_retested_at_epoch": 1602913570.77917,
+            "last_retested_at_iso": "2020-10-17T05:46:10.779170",
+            "status": "ACTIVE"
+        },
         "lotto-centrum.com": {
             "included_at_epoch": 1601013064.795483,
             "included_at_iso": "2020-09-25T05:51:04.795483",
@@ -10092,6 +10113,13 @@
             "included_at_iso": "2020-09-25T05:50:44.256071",
             "last_retested_at_epoch": 1601704510.171923,
             "last_retested_at_iso": "2020-10-03T05:55:10.171923",
+            "status": "ACTIVE"
+        },
+        "luzna24.pl": {
+            "included_at_epoch": 1602913570.712921,
+            "included_at_iso": "2020-10-17T05:46:10.712921",
+            "last_retested_at_epoch": 1602913570.712921,
+            "last_retested_at_iso": "2020-10-17T05:46:10.712921",
             "status": "ACTIVE"
         },
         "luzyce.info": {
@@ -15694,6 +15722,13 @@
             "last_retested_at_iso": "2020-09-25T06:05:39.397056",
             "status": "ACTIVE"
         },
+        "rrs24.net": {
+            "included_at_epoch": 1602913570.911269,
+            "included_at_iso": "2020-10-17T05:46:10.911269",
+            "last_retested_at_epoch": 1602913570.911269,
+            "last_retested_at_iso": "2020-10-17T05:46:10.911269",
+            "status": "ACTIVE"
+        },
         "rtbnowads.com": {
             "included_at_epoch": 1601013980.741734,
             "included_at_iso": "2020-09-25T06:06:20.741734",
@@ -15853,6 +15888,13 @@
             "included_at_iso": "2020-09-25T06:05:39.873858",
             "last_retested_at_epoch": 1601013939.96898,
             "last_retested_at_iso": "2020-09-25T06:05:39.968980",
+            "status": "ACTIVE"
+        },
+        "sad24.pl": {
+            "included_at_epoch": 1602913570.976921,
+            "included_at_iso": "2020-10-17T05:46:10.976921",
+            "last_retested_at_epoch": 1602913570.976921,
+            "last_retested_at_iso": "2020-10-17T05:46:10.976921",
             "status": "ACTIVE"
         },
         "sadeczanin.info": {
@@ -17130,11 +17172,11 @@
             "status": "ACTIVE"
         },
         "studio-mebli.eu": {
-            "included_at_epoch": 1600322423.9987,
-            "included_at_iso": "2020-09-17T06:00:23.998700",
-            "last_retested_at_epoch": 1600322423.9987,
-            "last_retested_at_iso": "2020-09-17T06:00:23.998700",
-            "status": "INACTIVE"
+            "included_at_epoch": 1602913571.042913,
+            "included_at_iso": "2020-10-17T05:46:11.042913",
+            "last_retested_at_epoch": 1602913571.042913,
+            "last_retested_at_iso": "2020-10-17T05:46:11.042913",
+            "status": "ACTIVE"
         },
         "stw24.pl": {
             "included_at_epoch": 1601013946.238458,
@@ -17617,6 +17659,13 @@
             "included_at_iso": "2020-09-25T06:05:48.998908",
             "last_retested_at_epoch": 1601013948.998908,
             "last_retested_at_iso": "2020-09-25T06:05:48.998908",
+            "status": "ACTIVE"
+        },
+        "targowek.info": {
+            "included_at_epoch": 1602913570.646937,
+            "included_at_iso": "2020-10-17T05:46:10.646937",
+            "last_retested_at_epoch": 1602913570.646937,
+            "last_retested_at_iso": "2020-10-17T05:46:10.646937",
             "status": "ACTIVE"
         },
         "tarnobrzeg.info": {

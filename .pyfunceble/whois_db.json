@@ -1183,6 +1183,12 @@
         "expiration_date": "27-aug-2021",
         "state": "future"
     },
+    "bobowa24.pl": {
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "bobrzanie.pl": {
         "epoch": 1626739200.0,
         "expiration_date": "20-jul-2021",
@@ -4532,6 +4538,12 @@
         "expiration_date": "30-nov-2020",
         "state": "future"
     },
+    "gryfice24.online": {
+        "epoch": 1634947200.0,
+        "expiration_date": "23-oct-2021",
+        "server": "whois.nic.online",
+        "state": "future"
+    },
     "grylogiczne.biz.pl": {
         "epoch": 1630195200.0,
         "expiration_date": "29-aug-2021",
@@ -6712,6 +6724,12 @@
         "expiration_date": "26-jun-2021",
         "state": "future"
     },
+    "losice.info": {
+        "epoch": 1627430400.0,
+        "expiration_date": "28-jul-2021",
+        "server": "whois.afilias.net",
+        "state": "future"
+    },
     "lotto-centrum.com": {
         "epoch": 1612396800.0,
         "expiration_date": "04-feb-2021",
@@ -6841,6 +6859,12 @@
     "luxmaniak.pl": {
         "epoch": 1607040000.0,
         "expiration_date": "04-dec-2020",
+        "state": "future"
+    },
+    "luzna24.pl": {
+        "epoch": 1632614400.0,
+        "expiration_date": "26-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "luzyce.info": {
@@ -10712,6 +10736,12 @@
         "expiration_date": "02-dec-2020",
         "state": "future"
     },
+    "rrs24.net": {
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "rtbnowads.com": {
         "epoch": 1610755200.0,
         "expiration_date": "16-jan-2021",
@@ -10822,6 +10852,12 @@
     "s0urce.io": {
         "epoch": 1622851200.0,
         "expiration_date": "05-jun-2021",
+        "state": "future"
+    },
+    "sad24.pl": {
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "sadeczanin.info": {
@@ -11965,6 +12001,12 @@
     "targeo.pl": {
         "epoch": 1626220800.0,
         "expiration_date": "14-jul-2021",
+        "state": "future"
+    },
+    "targowek.info": {
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "tarnobrzeg.info": {
