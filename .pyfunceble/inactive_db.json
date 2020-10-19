@@ -5720,10 +5720,10 @@
             "status": "ACTIVE"
         },
         "futbolhd.tv": {
-            "included_at_epoch": 1600495258.086177,
-            "included_at_iso": "2020-09-19T06:00:58.086177",
-            "last_retested_at_epoch": 1600495258.102284,
-            "last_retested_at_iso": "2020-09-19T06:00:58.102284",
+            "included_at_epoch": 1603086431.027497,
+            "included_at_iso": "2020-10-19T05:47:11.027497",
+            "last_retested_at_epoch": 1603086431.129792,
+            "last_retested_at_iso": "2020-10-19T05:47:11.129792",
             "status": "INACTIVE"
         },
         "futbolweb.pl": {
