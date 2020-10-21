@@ -3633,6 +3633,13 @@
             "last_retested_at_iso": "2020-10-03T05:54:42.139115",
             "status": "ACTIVE"
         },
+        "dtv24.pl": {
+            "included_at_epoch": 1603259302.574824,
+            "included_at_iso": "2020-10-21T05:48:22.574824",
+            "last_retested_at_epoch": 1603259302.574824,
+            "last_retested_at_iso": "2020-10-21T05:48:22.574824",
+            "status": "ACTIVE"
+        },
         "dukania.pl": {
             "included_at_epoch": 1601013041.72987,
             "included_at_iso": "2020-09-25T05:50:41.729870",
@@ -5115,6 +5122,13 @@
             "included_at_iso": "2020-09-27T05:38:07.282877",
             "last_retested_at_epoch": 1601704495.580457,
             "last_retested_at_iso": "2020-10-03T05:54:55.580457",
+            "status": "ACTIVE"
+        },
+        "fireads.network": {
+            "included_at_epoch": 1603259302.978094,
+            "included_at_iso": "2020-10-21T05:48:22.978094",
+            "last_retested_at_epoch": 1603259302.978094,
+            "last_retested_at_iso": "2020-10-21T05:48:22.978094",
             "status": "ACTIVE"
         },
         "firmy77.pl": {
@@ -7532,6 +7546,13 @@
             "last_retested_at_iso": "2020-09-25T06:05:31.999250",
             "status": "ACTIVE"
         },
+        "info-ketrzyn24.pl": {
+            "included_at_epoch": 1603259302.655729,
+            "included_at_iso": "2020-10-21T05:48:22.655729",
+            "last_retested_at_epoch": 1603259302.655729,
+            "last_retested_at_iso": "2020-10-21T05:48:22.655729",
+            "status": "ACTIVE"
+        },
         "info.elblag.pl": {
             "included_at_epoch": 1601013056.352593,
             "included_at_iso": "2020-09-25T05:50:56.352593",
@@ -8218,6 +8239,13 @@
             "last_retested_at_iso": "2020-10-03T05:55:21.330311",
             "status": "ACTIVE"
         },
+        "jakodzyskacpieniadze.pl": {
+            "included_at_epoch": 1603259302.720094,
+            "included_at_iso": "2020-10-21T05:48:22.720094",
+            "last_retested_at_epoch": 1603259302.720094,
+            "last_retested_at_iso": "2020-10-21T05:48:22.720094",
+            "status": "ACTIVE"
+        },
         "jakusunac.pl": {
             "included_at_epoch": 1601013952.921292,
             "included_at_iso": "2020-09-25T06:05:52.921292",
@@ -8503,6 +8531,13 @@
             "included_at_iso": "2020-09-25T05:50:59.846410",
             "last_retested_at_epoch": 1601704524.145773,
             "last_retested_at_iso": "2020-10-03T05:55:24.145773",
+            "status": "ACTIVE"
+        },
+        "karnickie.info": {
+            "included_at_epoch": 1603259302.78457,
+            "included_at_iso": "2020-10-21T05:48:22.784570",
+            "last_retested_at_epoch": 1603259302.78457,
+            "last_retested_at_iso": "2020-10-21T05:48:22.784570",
             "status": "ACTIVE"
         },
         "kartuzy.info": {
@@ -13599,6 +13634,13 @@
             "included_at_iso": "2020-09-25T06:06:32.960707",
             "last_retested_at_epoch": 1601013993.196653,
             "last_retested_at_iso": "2020-09-25T06:06:33.196653",
+            "status": "ACTIVE"
+        },
+        "pod24.info": {
+            "included_at_epoch": 1603259302.84896,
+            "included_at_iso": "2020-10-21T05:48:22.848960",
+            "last_retested_at_epoch": 1603259302.84896,
+            "last_retested_at_iso": "2020-10-21T05:48:22.848960",
             "status": "ACTIVE"
         },
         "podaj.to": {
@@ -19521,6 +19563,13 @@
             "included_at_iso": "2020-09-25T05:50:59.370545",
             "last_retested_at_epoch": 1601704523.490938,
             "last_retested_at_iso": "2020-10-03T05:55:23.490938",
+            "status": "ACTIVE"
+        },
+        "warka24.pl": {
+            "included_at_epoch": 1603259302.913658,
+            "included_at_iso": "2020-10-21T05:48:22.913658",
+            "last_retested_at_epoch": 1603259302.913658,
+            "last_retested_at_iso": "2020-10-21T05:48:22.913658",
             "status": "ACTIVE"
         },
         "warszawawpigulce.pl": {

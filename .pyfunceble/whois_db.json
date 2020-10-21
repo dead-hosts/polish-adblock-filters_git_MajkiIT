@@ -2413,6 +2413,12 @@
         "expiration_date": "23-sep-2021",
         "state": "future"
     },
+    "dtv24.pl": {
+        "epoch": 1634601600.0,
+        "expiration_date": "19-oct-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "dukania.pl": {
         "epoch": 1615334400.0,
         "expiration_date": "10-mar-2021",
@@ -3482,6 +3488,12 @@
         "epoch": 1621728000.0,
         "expiration_date": "23-may-2021",
         "server": "whois.dns.pl",
+        "state": "future"
+    },
+    "fireads.network": {
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
+        "server": "whois.nic.network",
         "state": "future"
     },
     "firmy77.pl": {
@@ -5037,6 +5049,12 @@
         "expiration_date": "23-aug-2021",
         "state": "future"
     },
+    "info-ketrzyn24.pl": {
+        "epoch": 1621814400.0,
+        "expiration_date": "24-may-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "info.elblag.pl": {
         "epoch": 1631318400.0,
         "expiration_date": "11-sep-2021",
@@ -5527,6 +5545,12 @@
         "expiration_date": "27-nov-2021",
         "state": "future"
     },
+    "jakodzyskacpieniadze.pl": {
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "jakusunac.pl": {
         "epoch": 1615420800.0,
         "expiration_date": "11-mar-2021",
@@ -5729,6 +5753,12 @@
     "kardiolo.pl": {
         "epoch": 1614556800.0,
         "expiration_date": "01-mar-2021",
+        "state": "future"
+    },
+    "karnickie.info": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "kartuzy.info": {
@@ -9282,6 +9312,12 @@
     "poczta-polska.pl": {
         "epoch": 1609372800.0,
         "expiration_date": "31-dec-2020",
+        "state": "future"
+    },
+    "pod24.info": {
+        "epoch": 1621641600.0,
+        "expiration_date": "22-may-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "podajdalej.info.pl": {
@@ -13347,6 +13383,12 @@
     "walbrzyszek.com": {
         "epoch": 1619654400.0,
         "expiration_date": "29-apr-2021",
+        "state": "future"
+    },
+    "warka24.pl": {
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "warszawawpigulce.pl": {
