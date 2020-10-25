@@ -5111,10 +5111,10 @@
             "status": "ACTIVE"
         },
         "fintek.pl": {
-            "included_at_epoch": 1601185087.282877,
-            "included_at_iso": "2020-09-27T05:38:07.282877",
-            "last_retested_at_epoch": 1601704495.580457,
-            "last_retested_at_iso": "2020-10-03T05:54:55.580457",
+            "included_at_epoch": 1603604991.170621,
+            "included_at_iso": "2020-10-25T05:49:51.170621",
+            "last_retested_at_epoch": 1603604991.227007,
+            "last_retested_at_iso": "2020-10-25T05:49:51.227007",
             "status": "ACTIVE"
         },
         "fireads.network": {
@@ -7482,6 +7482,13 @@
             "last_retested_at_epoch": 1603435374.39668,
             "last_retested_at_iso": "2020-10-23T06:42:54.396680",
             "status": "INACTIVE"
+        },
+        "img.lzrikate.com": {
+            "included_at_epoch": 1603604991.272885,
+            "included_at_iso": "2020-10-25T05:49:51.272885",
+            "last_retested_at_epoch": 1603604991.272885,
+            "last_retested_at_iso": "2020-10-25T05:49:51.272885",
+            "status": "ACTIVE"
         },
         "img.targeo.pl": {
             "included_at_epoch": 1603435374.480401,
@@ -11842,6 +11849,13 @@
             "included_at_iso": "2020-10-23T06:14:35.462116",
             "last_retested_at_epoch": 1603433675.462116,
             "last_retested_at_iso": "2020-10-23T06:14:35.462116",
+            "status": "ACTIVE"
+        },
+        "napiprojekt.pl": {
+            "included_at_epoch": 1603604991.31777,
+            "included_at_iso": "2020-10-25T05:49:51.317770",
+            "last_retested_at_epoch": 1603604991.31777,
+            "last_retested_at_iso": "2020-10-25T05:49:51.317770",
             "status": "ACTIVE"
         },
         "napisy24.pl": {
