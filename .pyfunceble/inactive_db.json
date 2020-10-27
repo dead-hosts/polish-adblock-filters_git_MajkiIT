@@ -3808,6 +3808,13 @@
             "last_retested_at_iso": "2020-10-23T06:13:23.273929",
             "status": "ACTIVE"
         },
+        "e-dobrydom.pl": {
+            "included_at_epoch": 1603779815.152634,
+            "included_at_iso": "2020-10-27T06:23:35.152634",
+            "last_retested_at_epoch": 1603779815.152634,
+            "last_retested_at_iso": "2020-10-27T06:23:35.152634",
+            "status": "ACTIVE"
+        },
         "e-dukacja.pl": {
             "included_at_epoch": 1603433675.992167,
             "included_at_iso": "2020-10-23T06:14:35.992167",
@@ -7334,6 +7341,13 @@
             "included_at_iso": "2020-10-23T06:13:20.910435",
             "last_retested_at_epoch": 1603433616.082913,
             "last_retested_at_iso": "2020-10-23T06:13:36.082913",
+            "status": "ACTIVE"
+        },
+        "ibielany.pl": {
+            "included_at_epoch": 1603779815.224016,
+            "included_at_iso": "2020-10-27T06:23:35.224016",
+            "last_retested_at_epoch": 1603779815.224016,
+            "last_retested_at_iso": "2020-10-27T06:23:35.224016",
             "status": "ACTIVE"
         },
         "ibielsk.pl": {
@@ -11740,10 +11754,10 @@
             "status": "ACTIVE"
         },
         "mypolacy.nl": {
-            "included_at_epoch": 1601359063.583423,
-            "included_at_iso": "2020-09-29T05:57:43.583423",
-            "last_retested_at_epoch": 1601359063.678553,
-            "last_retested_at_iso": "2020-09-29T05:57:43.678553",
+            "included_at_epoch": 1603779815.290006,
+            "included_at_iso": "2020-10-27T06:23:35.290006",
+            "last_retested_at_epoch": 1603779815.378105,
+            "last_retested_at_iso": "2020-10-27T06:23:35.378105",
             "status": "INACTIVE"
         },
         "mysnet.pl": {

@@ -2575,6 +2575,12 @@
         "expiration_date": "22-mar-2021",
         "state": "future"
     },
+    "e-dobrydom.pl": {
+        "epoch": 1616803200.0,
+        "expiration_date": "27-mar-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "e-dukacja.pl": {
         "epoch": 1607817600.0,
         "expiration_date": "13-dec-2020",
@@ -4974,6 +4980,12 @@
     "ibialoleka.pl": {
         "epoch": 1610582400.0,
         "expiration_date": "14-jan-2021",
+        "state": "future"
+    },
+    "ibielany.pl": {
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "ibielsk.pl": {
