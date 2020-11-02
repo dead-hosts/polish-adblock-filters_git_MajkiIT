@@ -4634,6 +4634,13 @@
             "last_retested_at_iso": "2020-10-23T06:13:48.307546",
             "status": "ACTIVE"
         },
+        "eurologistics.pl": {
+            "included_at_epoch": 1604296458.89169,
+            "included_at_iso": "2020-11-02T05:54:18.891690",
+            "last_retested_at_epoch": 1604296458.976469,
+            "last_retested_at_iso": "2020-11-02T05:54:18.976469",
+            "status": "ACTIVE"
+        },
         "evertiq.pl": {
             "included_at_epoch": 1603433628.338279,
             "included_at_iso": "2020-10-23T06:13:48.338279",
@@ -7544,6 +7551,13 @@
             "included_at_iso": "2020-10-23T06:42:05.190791",
             "last_retested_at_epoch": 1603435325.190791,
             "last_retested_at_iso": "2020-10-23T06:42:05.190791",
+            "status": "ACTIVE"
+        },
+        "indexww.com": {
+            "included_at_epoch": 1604296459.307708,
+            "included_at_iso": "2020-11-02T05:54:19.307708",
+            "last_retested_at_epoch": 1604296459.307708,
+            "last_retested_at_iso": "2020-11-02T05:54:19.307708",
             "status": "ACTIVE"
         },
         "info-ketrzyn24.pl": {
@@ -13062,6 +13076,13 @@
             "last_retested_at_iso": "2020-10-23T06:14:09.016095",
             "status": "ACTIVE"
         },
+        "packaging-polska.pl": {
+            "included_at_epoch": 1604296459.044457,
+            "included_at_iso": "2020-11-02T05:54:19.044457",
+            "last_retested_at_epoch": 1604296459.044457,
+            "last_retested_at_iso": "2020-11-02T05:54:19.044457",
+            "status": "ACTIVE"
+        },
         "paczkow24.pl": {
             "included_at_epoch": 1603435316.134814,
             "included_at_iso": "2020-10-23T06:41:56.134814",
@@ -13098,10 +13119,10 @@
             "status": "ACTIVE"
         },
         "panoramakutna.pl": {
-            "included_at_epoch": 1601876497.236832,
-            "included_at_iso": "2020-10-05T05:41:37.236832",
-            "last_retested_at_epoch": 1601876497.236832,
-            "last_retested_at_iso": "2020-10-05T05:41:37.236832",
+            "included_at_epoch": 1604296459.114537,
+            "included_at_iso": "2020-11-02T05:54:19.114537",
+            "last_retested_at_epoch": 1604296459.114537,
+            "last_retested_at_iso": "2020-11-02T05:54:19.114537",
             "status": "ACTIVE"
         },
         "pap.edu.pl": {
@@ -14908,6 +14929,13 @@
             "included_at_iso": "2020-10-23T06:43:14.600503",
             "last_retested_at_epoch": 1603435394.600503,
             "last_retested_at_iso": "2020-10-23T06:43:14.600503",
+            "status": "ACTIVE"
+        },
+        "pszczoly.pl": {
+            "included_at_epoch": 1604296459.160961,
+            "included_at_iso": "2020-11-02T05:54:19.160961",
+            "last_retested_at_epoch": 1604296459.236754,
+            "last_retested_at_iso": "2020-11-02T05:54:19.236754",
             "status": "ACTIVE"
         },
         "pszczynska.pl": {
