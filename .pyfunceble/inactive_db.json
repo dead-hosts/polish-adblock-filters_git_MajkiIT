@@ -4067,6 +4067,13 @@
             "last_retested_at_iso": "2020-10-23T06:43:15.931926",
             "status": "ACTIVE"
         },
+        "edzieci.pl": {
+            "included_at_epoch": 1604469911.542613,
+            "included_at_iso": "2020-11-04T06:05:11.542613",
+            "last_retested_at_epoch": 1604469911.542613,
+            "last_retested_at_iso": "2020-11-04T06:05:11.542613",
+            "status": "ACTIVE"
+        },
         "efilmy.tv": {
             "included_at_epoch": 1603433624.14211,
             "included_at_iso": "2020-10-23T06:13:44.142110",
@@ -5159,6 +5166,13 @@
             "last_retested_at_iso": "2020-10-23T06:42:05.022717",
             "status": "ACTIVE"
         },
+        "fit-online.pl": {
+            "included_at_epoch": 1604469911.339518,
+            "included_at_iso": "2020-11-04T06:05:11.339518",
+            "last_retested_at_epoch": 1604469911.339518,
+            "last_retested_at_iso": "2020-11-04T06:05:11.339518",
+            "status": "ACTIVE"
+        },
         "fkref.com": {
             "included_at_epoch": 1602567882.927235,
             "included_at_iso": "2020-10-13T05:44:42.927235",
@@ -5600,6 +5614,13 @@
             "last_retested_at_iso": "2020-10-23T06:13:52.699605",
             "status": "ACTIVE"
         },
+        "fotelik.info": {
+            "included_at_epoch": 1604469911.023478,
+            "included_at_iso": "2020-11-04T06:05:11.023478",
+            "last_retested_at_epoch": 1604469911.023478,
+            "last_retested_at_iso": "2020-11-04T06:05:11.023478",
+            "status": "ACTIVE"
+        },
         "fotka.com": {
             "included_at_epoch": 1603433632.761141,
             "included_at_iso": "2020-10-23T06:13:52.761141",
@@ -5986,10 +6007,10 @@
             "status": "ACTIVE"
         },
         "gazetamyslowicka.com": {
-            "included_at_epoch": 1602049335.595972,
-            "included_at_iso": "2020-10-07T05:42:15.595972",
-            "last_retested_at_epoch": 1602049335.595972,
-            "last_retested_at_iso": "2020-10-07T05:42:15.595972",
+            "included_at_epoch": 1604469911.09084,
+            "included_at_iso": "2020-11-04T06:05:11.090840",
+            "last_retested_at_epoch": 1604469911.09084,
+            "last_retested_at_iso": "2020-11-04T06:05:11.090840",
             "status": "ACTIVE"
         },
         "gazetanowodworska.com": {
@@ -6536,6 +6557,13 @@
             "included_at_iso": "2020-10-23T06:42:05.502773",
             "last_retested_at_epoch": 1603435325.502773,
             "last_retested_at_iso": "2020-10-23T06:42:05.502773",
+            "status": "ACTIVE"
+        },
+        "gorlice.tv": {
+            "included_at_epoch": 1604469910.95159,
+            "included_at_iso": "2020-11-04T06:05:10.951590",
+            "last_retested_at_epoch": 1604469910.95159,
+            "last_retested_at_iso": "2020-11-04T06:05:10.951590",
             "status": "ACTIVE"
         },
         "gorlice24.pl": {
@@ -10507,6 +10535,13 @@
             "last_retested_at_iso": "2020-10-23T06:42:55.112301",
             "status": "ACTIVE"
         },
+        "masarnieonline.pl": {
+            "included_at_epoch": 1604469911.406958,
+            "included_at_iso": "2020-11-04T06:05:11.406958",
+            "last_retested_at_epoch": 1604469911.406958,
+            "last_retested_at_iso": "2020-11-04T06:05:11.406958",
+            "status": "ACTIVE"
+        },
         "matematyka.pisz.pl": {
             "included_at_epoch": 1603433664.21079,
             "included_at_iso": "2020-10-23T06:14:24.210790",
@@ -10976,6 +11011,13 @@
             "last_retested_at_iso": "2020-10-23T06:14:28.367186",
             "status": "ACTIVE"
         },
+        "miedzyzdroje.tv": {
+            "included_at_epoch": 1604469911.935098,
+            "included_at_iso": "2020-11-04T06:05:11.935098",
+            "last_retested_at_epoch": 1604469912.277529,
+            "last_retested_at_iso": "2020-11-04T06:05:12.277529",
+            "status": "ACTIVE"
+        },
         "miejscawewroclawiu.pl": {
             "included_at_epoch": 1603433668.406167,
             "included_at_iso": "2020-10-23T06:14:28.406167",
@@ -11100,6 +11142,13 @@
             "included_at_iso": "2020-10-23T06:13:39.196935",
             "last_retested_at_epoch": 1603433669.346425,
             "last_retested_at_iso": "2020-10-23T06:14:29.346425",
+            "status": "ACTIVE"
+        },
+        "mleczarnieonline.pl": {
+            "included_at_epoch": 1604469911.474414,
+            "included_at_iso": "2020-11-04T06:05:11.474414",
+            "last_retested_at_epoch": 1604469911.474414,
+            "last_retested_at_iso": "2020-11-04T06:05:11.474414",
             "status": "ACTIVE"
         },
         "mlecznepodroze.onet.pl": {
@@ -13349,6 +13398,13 @@
             "last_retested_at_iso": "2020-10-23T06:42:56.173176",
             "status": "ACTIVE"
         },
+        "piekarnieonline.pl": {
+            "included_at_epoch": 1604469911.205163,
+            "included_at_iso": "2020-11-04T06:05:11.205163",
+            "last_retested_at_epoch": 1604469911.205163,
+            "last_retested_at_iso": "2020-11-04T06:05:11.205163",
+            "status": "ACTIVE"
+        },
         "piekary.pl": {
             "included_at_epoch": 1603435317.00741,
             "included_at_iso": "2020-10-23T06:41:57.007410",
@@ -14336,6 +14392,13 @@
             "last_retested_at_iso": "2020-10-23T06:42:00.341925",
             "status": "ACTIVE"
         },
+        "portaltenisowy.info": {
+            "included_at_epoch": 1604469911.133753,
+            "included_at_iso": "2020-11-04T06:05:11.133753",
+            "last_retested_at_epoch": 1604469911.133753,
+            "last_retested_at_iso": "2020-11-04T06:05:11.133753",
+            "status": "ACTIVE"
+        },
         "portalwarszawski.com.pl": {
             "included_at_epoch": 1603435358.96982,
             "included_at_iso": "2020-10-23T06:42:38.969820",
@@ -14803,6 +14866,13 @@
             "included_at_iso": "2020-10-23T06:42:02.956032",
             "last_retested_at_epoch": 1603435322.956032,
             "last_retested_at_iso": "2020-10-23T06:42:02.956032",
+            "status": "ACTIVE"
+        },
+        "przeglad-ogrodniczy.pl": {
+            "included_at_epoch": 1604469911.272102,
+            "included_at_iso": "2020-11-04T06:05:11.272102",
+            "last_retested_at_epoch": 1604469911.272102,
+            "last_retested_at_iso": "2020-11-04T06:05:11.272102",
             "status": "ACTIVE"
         },
         "przegladkoninski.pl": {
@@ -15548,10 +15618,10 @@
             "status": "ACTIVE"
         },
         "regionalna.pl": {
-            "included_at_epoch": 1602049335.687117,
-            "included_at_iso": "2020-10-07T05:42:15.687117",
-            "last_retested_at_epoch": 1602049335.754878,
-            "last_retested_at_iso": "2020-10-07T05:42:15.754878",
+            "included_at_epoch": 1604469911.61123,
+            "included_at_iso": "2020-11-04T06:05:11.611230",
+            "last_retested_at_epoch": 1604469911.65512,
+            "last_retested_at_iso": "2020-11-04T06:05:11.655120",
             "status": "ACTIVE"
         },
         "regionfan.pl": {
@@ -20000,10 +20070,10 @@
             "status": "ACTIVE"
         },
         "wiescisokolowskie.pl": {
-            "included_at_epoch": 1602049335.822555,
-            "included_at_iso": "2020-10-07T05:42:15.822555",
-            "last_retested_at_epoch": 1602049336.028941,
-            "last_retested_at_iso": "2020-10-07T05:42:16.028941",
+            "included_at_epoch": 1604469911.702016,
+            "included_at_iso": "2020-11-04T06:05:11.702016",
+            "last_retested_at_epoch": 1604469911.841387,
+            "last_retested_at_iso": "2020-11-04T06:05:11.841387",
             "status": "ACTIVE"
         },
         "wikirose.pl": {
@@ -21194,6 +21264,13 @@
             "included_at_iso": "2020-10-23T06:42:43.819103",
             "last_retested_at_epoch": 1603435363.819103,
             "last_retested_at_iso": "2020-10-23T06:42:43.819103",
+            "status": "ACTIVE"
+        },
+        "www.poloniainfo.se": {
+            "included_at_epoch": 1604469911.887745,
+            "included_at_iso": "2020-11-04T06:05:11.887745",
+            "last_retested_at_epoch": 1604469911.887745,
+            "last_retested_at_iso": "2020-11-04T06:05:11.887745",
             "status": "ACTIVE"
         },
         "www.pomniki.eu": {
