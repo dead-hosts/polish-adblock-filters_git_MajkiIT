@@ -1520,10 +1520,10 @@
             "status": "ACTIVE"
         },
         "bielski24.pl": {
-            "included_at_epoch": 1602222153.948995,
-            "included_at_iso": "2020-10-09T05:42:33.948995",
-            "last_retested_at_epoch": 1602222154.368456,
-            "last_retested_at_iso": "2020-10-09T05:42:34.368456",
+            "included_at_epoch": 1604642310.703863,
+            "included_at_iso": "2020-11-06T05:58:30.703863",
+            "last_retested_at_epoch": 1604642311.144101,
+            "last_retested_at_iso": "2020-11-06T05:58:31.144101",
             "status": "INACTIVE"
         },
         "bielskiedrogi.pl": {
@@ -2206,10 +2206,10 @@
             "status": "ACTIVE"
         },
         "cashowsky.pl": {
-            "included_at_epoch": 1602222153.996872,
-            "included_at_iso": "2020-10-09T05:42:33.996872",
-            "last_retested_at_epoch": 1602222154.322165,
-            "last_retested_at_iso": "2020-10-09T05:42:34.322165",
+            "included_at_epoch": 1604642310.751316,
+            "included_at_iso": "2020-11-06T05:58:30.751316",
+            "last_retested_at_epoch": 1604642311.189883,
+            "last_retested_at_iso": "2020-11-06T05:58:31.189883",
             "status": "INACTIVE"
         },
         "cba.pl": {
@@ -2728,6 +2728,13 @@
             "included_at_iso": "2020-10-23T06:42:53.024446",
             "last_retested_at_epoch": 1603435387.909282,
             "last_retested_at_iso": "2020-10-23T06:43:07.909282",
+            "status": "ACTIVE"
+        },
+        "cowkrakowie.pl": {
+            "included_at_epoch": 1604642310.797823,
+            "included_at_iso": "2020-11-06T05:58:30.797823",
+            "last_retested_at_epoch": 1604642310.797823,
+            "last_retested_at_iso": "2020-11-06T05:58:30.797823",
             "status": "ACTIVE"
         },
         "cozadzien.pl": {
@@ -5433,10 +5440,10 @@
             "status": "ACTIVE"
         },
         "forum.dvhk.to": {
-            "included_at_epoch": 1602222154.044452,
-            "included_at_iso": "2020-10-09T05:42:34.044452",
-            "last_retested_at_epoch": 1602222154.183528,
-            "last_retested_at_iso": "2020-10-09T05:42:34.183528",
+            "included_at_epoch": 1604642310.869836,
+            "included_at_iso": "2020-11-06T05:58:30.869836",
+            "last_retested_at_epoch": 1604642311.005652,
+            "last_retested_at_iso": "2020-11-06T05:58:31.005652",
             "status": "INACTIVE"
         },
         "forum.ebiznesy.pl": {
@@ -6476,10 +6483,10 @@
             "status": "ACTIVE"
         },
         "gomoney.pl": {
-            "included_at_epoch": 1602222154.228984,
-            "included_at_iso": "2020-10-09T05:42:34.228984",
-            "last_retested_at_epoch": 1602222154.27665,
-            "last_retested_at_iso": "2020-10-09T05:42:34.276650",
+            "included_at_epoch": 1604642311.051762,
+            "included_at_iso": "2020-11-06T05:58:31.051762",
+            "last_retested_at_epoch": 1604642311.09811,
+            "last_retested_at_iso": "2020-11-06T05:58:31.098110",
             "status": "INACTIVE"
         },
         "goniec.net": {
@@ -14036,10 +14043,10 @@
             "status": "ACTIVE"
         },
         "polskifr.fr": {
-            "included_at_epoch": 1602222154.41328,
-            "included_at_iso": "2020-10-09T05:42:34.413280",
-            "last_retested_at_epoch": 1602222154.41328,
-            "last_retested_at_iso": "2020-10-09T05:42:34.413280",
+            "included_at_epoch": 1604642311.237077,
+            "included_at_iso": "2020-11-06T05:58:31.237077",
+            "last_retested_at_epoch": 1604642311.237077,
+            "last_retested_at_iso": "2020-11-06T05:58:31.237077",
             "status": "ACTIVE"
         },
         "polskiinternet.com": {
