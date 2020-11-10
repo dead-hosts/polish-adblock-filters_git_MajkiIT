@@ -3582,8 +3582,8 @@
         "state": "future"
     },
     "fkref.com": {
-        "epoch": 1604534400.0,
-        "expiration_date": "05-nov-2020",
+        "epoch": 1636070400.0,
+        "expiration_date": "05-nov-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -5836,8 +5836,8 @@
         "state": "future"
     },
     "kalisz24.info.pl": {
-        "epoch": 1604620800.0,
-        "expiration_date": "06-nov-2020",
+        "epoch": 1636156800.0,
+        "expiration_date": "06-nov-2021",
         "server": "whois.dns.pl",
         "state": "future"
     },
@@ -11984,6 +11984,12 @@
     "super-nowa.pl": {
         "epoch": 1634860800.0,
         "expiration_date": "22-oct-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
+    "super-polska.pl": {
+        "epoch": 1625097600.0,
+        "expiration_date": "01-jul-2021",
         "server": "whois.dns.pl",
         "state": "future"
     },
