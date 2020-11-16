@@ -1,4 +1,10 @@
 {
+    "000webhostapp.com": {
+        "epoch": 1652227200.0,
+        "expiration_date": "11-may-2022",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "100pompek.pl": {
         "epoch": 1603497600.0,
         "expiration_date": "24-oct-2020",
@@ -580,6 +586,12 @@
     "anywhere.pl": {
         "epoch": 1624838400.0,
         "expiration_date": "28-jun-2021",
+        "state": "future"
+    },
+    "aparat.cam": {
+        "epoch": 1623456000.0,
+        "expiration_date": "12-jun-2021",
+        "server": "whois.nic.cam",
         "state": "future"
     },
     "appki.com.pl": {
@@ -2047,6 +2059,12 @@
     "dania-dietetyczne.pl": {
         "epoch": 1611619200.0,
         "expiration_date": "26-jan-2021",
+        "state": "future"
+    },
+    "dansotant.xyz": {
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
+        "server": "whois.nic.xyz",
         "state": "future"
     },
     "darkw.pl": {
@@ -12548,8 +12566,9 @@
         "state": "future"
     },
     "ticketmaster.pl": {
-        "epoch": 1599004800.0,
-        "expiration_date": "02-sep-2020",
+        "epoch": 1630540800.0,
+        "expiration_date": "02-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "tinypic.pl": {

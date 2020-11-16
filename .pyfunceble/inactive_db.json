@@ -1,5 +1,12 @@
 {
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/domains.list": {
+        "000webhostapp.com": {
+            "included_at_epoch": 1605506435.946994,
+            "included_at_iso": "2020-11-16T06:00:35.946994",
+            "last_retested_at_epoch": 1605506435.946994,
+            "last_retested_at_iso": "2020-11-16T06:00:35.946994",
+            "status": "ACTIVE"
+        },
         "100pompek.pl": {
             "included_at_epoch": 1603433600.178729,
             "included_at_iso": "2020-10-23T06:13:20.178729",
@@ -894,6 +901,13 @@
             "included_at_iso": "2020-10-23T06:13:26.263301",
             "last_retested_at_epoch": 1603433606.263301,
             "last_retested_at_iso": "2020-10-23T06:13:26.263301",
+            "status": "ACTIVE"
+        },
+        "aparat.cam": {
+            "included_at_epoch": 1605506435.631402,
+            "included_at_iso": "2020-11-16T06:00:35.631402",
+            "last_retested_at_epoch": 1605506435.631402,
+            "last_retested_at_iso": "2020-11-16T06:00:35.631402",
             "status": "ACTIVE"
         },
         "api-content-generator.gazeta.pl": {
@@ -3064,6 +3078,13 @@
             "included_at_iso": "2020-10-23T06:13:38.424599",
             "last_retested_at_epoch": 1603433618.424599,
             "last_retested_at_iso": "2020-10-23T06:13:38.424599",
+            "status": "ACTIVE"
+        },
+        "dansotant.xyz": {
+            "included_at_epoch": 1605506435.701225,
+            "included_at_iso": "2020-11-16T06:00:35.701225",
+            "last_retested_at_epoch": 1605506435.701225,
+            "last_retested_at_iso": "2020-11-16T06:00:35.701225",
             "status": "ACTIVE"
         },
         "darkw.pl": {
@@ -5762,10 +5783,10 @@
             "status": "ACTIVE"
         },
         "futbolhd.tv": {
-            "included_at_epoch": 1603086431.027497,
-            "included_at_iso": "2020-10-19T05:47:11.027497",
-            "last_retested_at_epoch": 1603086431.129792,
-            "last_retested_at_iso": "2020-10-19T05:47:11.129792",
+            "included_at_epoch": 1605506435.812698,
+            "included_at_iso": "2020-11-16T06:00:35.812698",
+            "last_retested_at_epoch": 1605506435.903684,
+            "last_retested_at_iso": "2020-11-16T06:00:35.903684",
             "status": "INACTIVE"
         },
         "futbolweb.pl": {
@@ -16009,6 +16030,13 @@
             "last_retested_at_iso": "2020-10-23T06:42:13.948818",
             "status": "ACTIVE"
         },
+        "s.bankier.pl": {
+            "included_at_epoch": 1605506435.769512,
+            "included_at_iso": "2020-11-16T06:00:35.769512",
+            "last_retested_at_epoch": 1605506435.769512,
+            "last_retested_at_iso": "2020-11-16T06:00:35.769512",
+            "status": "ACTIVE"
+        },
         "s.click.aliexpress.com": {
             "included_at_epoch": 1603433600.013331,
             "included_at_iso": "2020-10-23T06:13:20.013331",
@@ -18191,6 +18219,13 @@
             "included_at_iso": "2020-10-23T06:42:25.937685",
             "last_retested_at_epoch": 1603435345.937685,
             "last_retested_at_iso": "2020-10-23T06:42:25.937685",
+            "status": "ACTIVE"
+        },
+        "ticketmaster.pl": {
+            "included_at_epoch": 1605506435.513332,
+            "included_at_iso": "2020-11-16T06:00:35.513332",
+            "last_retested_at_epoch": 1605506435.513332,
+            "last_retested_at_iso": "2020-11-16T06:00:35.513332",
             "status": "ACTIVE"
         },
         "tinypic.pl": {
@@ -20676,6 +20711,13 @@
             "included_at_iso": "2020-10-23T06:42:39.271826",
             "last_retested_at_epoch": 1603435359.271826,
             "last_retested_at_iso": "2020-10-23T06:42:39.271826",
+            "status": "ACTIVE"
+        },
+        "www.bankier.pl": {
+            "included_at_epoch": 1605506435.589122,
+            "included_at_iso": "2020-11-16T06:00:35.589122",
+            "last_retested_at_epoch": 1605506435.589122,
+            "last_retested_at_iso": "2020-11-16T06:00:35.589122",
             "status": "ACTIVE"
         },
         "www.bazarynek.pl": {
