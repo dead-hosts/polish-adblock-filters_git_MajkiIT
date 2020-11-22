@@ -5153,10 +5153,10 @@
             "status": "ACTIVE"
         },
         "fintek.pl": {
-            "included_at_epoch": 1603604991.170621,
-            "included_at_iso": "2020-10-25T05:49:51.170621",
-            "last_retested_at_epoch": 1603604991.227007,
-            "last_retested_at_iso": "2020-10-25T05:49:51.227007",
+            "included_at_epoch": 1606024961.90222,
+            "included_at_iso": "2020-11-22T06:02:41.902220",
+            "last_retested_at_epoch": 1606024961.955564,
+            "last_retested_at_iso": "2020-11-22T06:02:41.955564",
             "status": "ACTIVE"
         },
         "fireads.network": {
@@ -7561,10 +7561,17 @@
             "status": "INACTIVE"
         },
         "img.lzrikate.com": {
-            "included_at_epoch": 1603604991.272885,
-            "included_at_iso": "2020-10-25T05:49:51.272885",
-            "last_retested_at_epoch": 1603604991.272885,
-            "last_retested_at_iso": "2020-10-25T05:49:51.272885",
+            "included_at_epoch": 1606024962.001967,
+            "included_at_iso": "2020-11-22T06:02:42.001967",
+            "last_retested_at_epoch": 1606024962.001967,
+            "last_retested_at_iso": "2020-11-22T06:02:42.001967",
+            "status": "ACTIVE"
+        },
+        "img.ppe.pl": {
+            "included_at_epoch": 1606024962.093821,
+            "included_at_iso": "2020-11-22T06:02:42.093821",
+            "last_retested_at_epoch": 1606024962.093821,
+            "last_retested_at_iso": "2020-11-22T06:02:42.093821",
             "status": "ACTIVE"
         },
         "img.targeo.pl": {
@@ -11950,10 +11957,10 @@
             "status": "ACTIVE"
         },
         "napiprojekt.pl": {
-            "included_at_epoch": 1603604991.31777,
-            "included_at_iso": "2020-10-25T05:49:51.317770",
-            "last_retested_at_epoch": 1603604991.31777,
-            "last_retested_at_iso": "2020-10-25T05:49:51.317770",
+            "included_at_epoch": 1606024962.048122,
+            "included_at_iso": "2020-11-22T06:02:42.048122",
+            "last_retested_at_epoch": 1606024962.048122,
+            "last_retested_at_iso": "2020-11-22T06:02:42.048122",
             "status": "ACTIVE"
         },
         "napisy24.pl": {
@@ -15545,6 +15552,13 @@
             "included_at_iso": "2020-11-20T10:13:02.962087",
             "last_retested_at_epoch": 1605867182.962087,
             "last_retested_at_iso": "2020-11-20T10:13:02.962087",
+            "status": "ACTIVE"
+        },
+        "raupsica.net": {
+            "included_at_epoch": 1606024962.140104,
+            "included_at_iso": "2020-11-22T06:02:42.140104",
+            "last_retested_at_epoch": 1606024962.140104,
+            "last_retested_at_iso": "2020-11-22T06:02:42.140104",
             "status": "ACTIVE"
         },
         "rawicz24.pl": {
