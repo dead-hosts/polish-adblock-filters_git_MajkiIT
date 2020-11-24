@@ -777,6 +777,13 @@
             "last_retested_at_iso": "2020-11-20T08:32:36.958399",
             "status": "ACTIVE"
         },
+        "angelo.fernandonguyen.online": {
+            "included_at_epoch": 1606200466.360224,
+            "included_at_iso": "2020-11-24T06:47:46.360224",
+            "last_retested_at_epoch": 1606200466.360224,
+            "last_retested_at_iso": "2020-11-24T06:47:46.360224",
+            "status": "INACTIVE"
+        },
         "anglia.today": {
             "included_at_epoch": 1605861154.652658,
             "included_at_iso": "2020-11-20T08:32:34.652658",
@@ -3830,10 +3837,10 @@
             "status": "ACTIVE"
         },
         "e-dobrydom.pl": {
-            "included_at_epoch": 1603779815.152634,
-            "included_at_iso": "2020-10-27T06:23:35.152634",
-            "last_retested_at_epoch": 1603779815.152634,
-            "last_retested_at_iso": "2020-10-27T06:23:35.152634",
+            "included_at_epoch": 1606200466.081479,
+            "included_at_iso": "2020-11-24T06:47:46.081479",
+            "last_retested_at_epoch": 1606200466.081479,
+            "last_retested_at_iso": "2020-11-24T06:47:46.081479",
             "status": "ACTIVE"
         },
         "e-dukacja.pl": {
@@ -7407,10 +7414,10 @@
             "status": "ACTIVE"
         },
         "ibielany.pl": {
-            "included_at_epoch": 1603779815.224016,
-            "included_at_iso": "2020-10-27T06:23:35.224016",
-            "last_retested_at_epoch": 1603779815.224016,
-            "last_retested_at_iso": "2020-10-27T06:23:35.224016",
+            "included_at_epoch": 1606200466.128563,
+            "included_at_iso": "2020-11-24T06:47:46.128563",
+            "last_retested_at_epoch": 1606200466.128563,
+            "last_retested_at_iso": "2020-11-24T06:47:46.128563",
             "status": "ACTIVE"
         },
         "ibielsk.pl": {
@@ -11852,10 +11859,10 @@
             "status": "ACTIVE"
         },
         "mypolacy.nl": {
-            "included_at_epoch": 1603779815.290006,
-            "included_at_iso": "2020-10-27T06:23:35.290006",
-            "last_retested_at_epoch": 1603779815.378105,
-            "last_retested_at_iso": "2020-10-27T06:23:35.378105",
+            "included_at_epoch": 1606200466.247125,
+            "included_at_iso": "2020-11-24T06:47:46.247125",
+            "last_retested_at_epoch": 1606200466.449197,
+            "last_retested_at_iso": "2020-11-24T06:47:46.449197",
             "status": "INACTIVE"
         },
         "mysnet.pl": {
@@ -12486,6 +12493,13 @@
             "included_at_iso": "2020-11-20T10:12:44.099559",
             "last_retested_at_epoch": 1605867164.099559,
             "last_retested_at_iso": "2020-11-20T10:12:44.099559",
+            "status": "ACTIVE"
+        },
+        "nowykamieniarz.pl": {
+            "included_at_epoch": 1606200466.1749,
+            "included_at_iso": "2020-11-24T06:47:46.174900",
+            "last_retested_at_epoch": 1606200466.1749,
+            "last_retested_at_iso": "2020-11-24T06:47:46.174900",
             "status": "ACTIVE"
         },
         "nowyoutsourcing.pl": {
@@ -17190,6 +17204,13 @@
             "included_at_iso": "2020-11-20T10:13:11.011706",
             "last_retested_at_epoch": 1605867191.011706,
             "last_retested_at_iso": "2020-11-20T10:13:11.011706",
+            "status": "ACTIVE"
+        },
+        "stockwatch.pl": {
+            "included_at_epoch": 1606200466.290857,
+            "included_at_iso": "2020-11-24T06:47:46.290857",
+            "last_retested_at_epoch": 1606200466.290857,
+            "last_retested_at_iso": "2020-11-24T06:47:46.290857",
             "status": "ACTIVE"
         },
         "stomil.olsztyn.pl": {

@@ -8757,6 +8757,12 @@
         "server": "whois.dns.pl",
         "state": "future"
     },
+    "nowykamieniarz.pl": {
+        "epoch": 1611100800.0,
+        "expiration_date": "20-jan-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "nowyoutsourcing.pl": {
         "epoch": 1620864000.0,
         "expiration_date": "13-may-2021",
@@ -12045,6 +12051,12 @@
     "stepstone.pl": {
         "epoch": 1602547200.0,
         "expiration_date": "13-oct-2020",
+        "state": "future"
+    },
+    "stockwatch.pl": {
+        "epoch": 1623542400.0,
+        "expiration_date": "13-jun-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "stoczniowcy.pl": {
