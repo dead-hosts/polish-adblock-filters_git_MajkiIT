@@ -960,10 +960,10 @@
             "status": "ACTIVE"
         },
         "aranzujemy.co.pl": {
-            "included_at_epoch": 1603952479.225074,
-            "included_at_iso": "2020-10-29T06:21:19.225074",
-            "last_retested_at_epoch": 1603952479.225074,
-            "last_retested_at_iso": "2020-10-29T06:21:19.225074",
+            "included_at_epoch": 1606372847.208541,
+            "included_at_iso": "2020-11-26T06:40:47.208541",
+            "last_retested_at_epoch": 1606372847.208541,
+            "last_retested_at_iso": "2020-11-26T06:40:47.208541",
             "status": "ACTIVE"
         },
         "archiwum.wiesci.com.pl": {
@@ -15065,10 +15065,10 @@
             "status": "ACTIVE"
         },
         "pub.contexthub.net": {
-            "included_at_epoch": 1603952479.17043,
-            "included_at_iso": "2020-10-29T06:21:19.170430",
-            "last_retested_at_epoch": 1603952479.17043,
-            "last_retested_at_iso": "2020-10-29T06:21:19.170430",
+            "included_at_epoch": 1606372847.155402,
+            "included_at_iso": "2020-11-26T06:40:47.155402",
+            "last_retested_at_epoch": 1606372847.155402,
+            "last_retested_at_iso": "2020-11-26T06:40:47.155402",
             "status": "ACTIVE"
         },
         "pubads.g.doubleclick.net": {
