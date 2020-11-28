@@ -4997,6 +4997,12 @@
         "expiration_date": "01-jan-2020",
         "state": "future"
     },
+    "homebook.pl": {
+        "epoch": 1662422400.0,
+        "expiration_date": "06-sep-2022",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "hopaj.pl": {
         "epoch": 1616025600.0,
         "expiration_date": "18-mar-2021",
