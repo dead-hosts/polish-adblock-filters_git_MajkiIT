@@ -4670,10 +4670,10 @@
             "status": "ACTIVE"
         },
         "eurologistics.pl": {
-            "included_at_epoch": 1604296458.89169,
-            "included_at_iso": "2020-11-02T05:54:18.891690",
-            "last_retested_at_epoch": 1604296458.976469,
-            "last_retested_at_iso": "2020-11-02T05:54:18.976469",
+            "included_at_epoch": 1606716781.805159,
+            "included_at_iso": "2020-11-30T06:13:01.805159",
+            "last_retested_at_epoch": 1606716781.863113,
+            "last_retested_at_iso": "2020-11-30T06:13:01.863113",
             "status": "ACTIVE"
         },
         "evertiq.pl": {
@@ -7631,10 +7631,10 @@
             "status": "ACTIVE"
         },
         "indexww.com": {
-            "included_at_epoch": 1604296459.307708,
-            "included_at_iso": "2020-11-02T05:54:19.307708",
-            "last_retested_at_epoch": 1604296459.307708,
-            "last_retested_at_iso": "2020-11-02T05:54:19.307708",
+            "included_at_epoch": 1606716782.163047,
+            "included_at_iso": "2020-11-30T06:13:02.163047",
+            "last_retested_at_epoch": 1606716782.163047,
+            "last_retested_at_iso": "2020-11-30T06:13:02.163047",
             "status": "ACTIVE"
         },
         "info-ketrzyn24.pl": {
@@ -13175,10 +13175,10 @@
             "status": "ACTIVE"
         },
         "packaging-polska.pl": {
-            "included_at_epoch": 1604296459.044457,
-            "included_at_iso": "2020-11-02T05:54:19.044457",
-            "last_retested_at_epoch": 1604296459.044457,
-            "last_retested_at_iso": "2020-11-02T05:54:19.044457",
+            "included_at_epoch": 1606716781.909064,
+            "included_at_iso": "2020-11-30T06:13:01.909064",
+            "last_retested_at_epoch": 1606716781.909064,
+            "last_retested_at_iso": "2020-11-30T06:13:01.909064",
             "status": "ACTIVE"
         },
         "paczkow24.pl": {
@@ -13217,10 +13217,10 @@
             "status": "ACTIVE"
         },
         "panoramakutna.pl": {
-            "included_at_epoch": 1604296459.114537,
-            "included_at_iso": "2020-11-02T05:54:19.114537",
-            "last_retested_at_epoch": 1604296459.114537,
-            "last_retested_at_iso": "2020-11-02T05:54:19.114537",
+            "included_at_epoch": 1606716781.954323,
+            "included_at_iso": "2020-11-30T06:13:01.954323",
+            "last_retested_at_epoch": 1606716781.954323,
+            "last_retested_at_iso": "2020-11-30T06:13:01.954323",
             "status": "ACTIVE"
         },
         "pap.edu.pl": {
@@ -13921,6 +13921,13 @@
             "included_at_iso": "2020-11-20T10:13:55.432109",
             "last_retested_at_epoch": 1605867235.432109,
             "last_retested_at_iso": "2020-11-20T10:13:55.432109",
+            "status": "ACTIVE"
+        },
+        "polki.pl": {
+            "included_at_epoch": 1606716781.999564,
+            "included_at_iso": "2020-11-30T06:13:01.999564",
+            "last_retested_at_epoch": 1606716781.999564,
+            "last_retested_at_iso": "2020-11-30T06:13:01.999564",
             "status": "ACTIVE"
         },
         "pollster.pl": {
@@ -15051,10 +15058,10 @@
             "status": "ACTIVE"
         },
         "pszczoly.pl": {
-            "included_at_epoch": 1604296459.160961,
-            "included_at_iso": "2020-11-02T05:54:19.160961",
-            "last_retested_at_epoch": 1604296459.236754,
-            "last_retested_at_iso": "2020-11-02T05:54:19.236754",
+            "included_at_epoch": 1606716782.071493,
+            "included_at_iso": "2020-11-30T06:13:02.071493",
+            "last_retested_at_epoch": 1606716782.116748,
+            "last_retested_at_iso": "2020-11-30T06:13:02.116748",
             "status": "ACTIVE"
         },
         "pszczynska.pl": {

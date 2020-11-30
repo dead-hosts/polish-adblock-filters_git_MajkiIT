@@ -9780,6 +9780,12 @@
         "expiration_date": "23-sep-2023",
         "state": "future"
     },
+    "polki.pl": {
+        "epoch": 1732924800.0,
+        "expiration_date": "30-nov-2024",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "pollster.pl": {
         "epoch": 1611619200.0,
         "expiration_date": "26-jan-2021",

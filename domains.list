@@ -8,9 +8,9 @@
 ! Działa najlepiej z EasyList - pamiętaj aby zasubskrybować!
 !   Patronite ==> https://patronite.pl/polskiefiltry
 !   PayPal ==> https://www.paypal.com/pools/c/87zNJ8OJ3I
-! Last modified: 27 November 2020
+! Last modified: 28 November 2020
 ! Expires: 1 day
-! Version: 2020112703
+! Version: 2020112803
 ! Support:
 !   Email >> errorsfilters@certyficate.it
 !   Github >> https://github.com/MajkiIT/polish-ads-filter/issues
@@ -18,7 +18,7 @@
 ! License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ! Copyright © 2020 Certyficate IT
 ! Najnowsza wersja zawsze na: https://www.certyficate.it/adblock
-! v.2020112703 aktualizacja: ptk, 27 listopada 2020, 22:30:00
+! v.2020112803 aktualizacja: sob, 28 listopada 2020, 19:20:00
 !
 !
 !1#-----------------------General advert blocking filters-----------------------!
@@ -674,7 +674,7 @@ cryptonews.pl###text-10
 cryptonews.pl,wroclawskiejedzenie.pl###text-12
 cryptonews.pl,gobajka.pl###text-4
 cryptonews.pl##.post-content.section-html
-cryptonews.pl,histografy.pl,slupca.pl,zzapolowy.com,wrestleone.pl###text-9
+cryptonews.pl,histografy.pl,slupca.pl,zzapolowy.com###text-9
 cryptonews.pl,przekultura.pl###text-3
 cryptoprofit.pl###custom_html-2, #custom_html-4
 crystal-launcher.pl###adcnt
@@ -1081,7 +1081,6 @@ forum.drivecenter.pl##.rklm_forumlist
 forum.drivecenter.pl##.rklm_sidebar
 forum.dvhk.to##IMG[src*="/bannery/dvhk/"]
 forum.dvhk.to##IMG[width="400"][height="50"]
-forum.dvhk.to##[id^="f16"] IMG[src^="http://img.dvhk.to/"]
 forum.dvhk.to##[id^="f16"] IMG[src^="http://tvsat-sklep.com/baner/"]
 forum.ebiznesy.pl,operatorzy.pl###sidebar
 forum.elportal.pl##.scale-with-grid
@@ -1234,7 +1233,6 @@ glos24.pl##IMG[src^="/files/adv/"]
 glosgminny.pl###text-30
 gloskoninski.pl##.widget-area.hero-area
 glostorunia.pl,glosrzeszowa.pl,glosrybnika.pl##.theiaStickySidebar > .widget.widget-4, .theiaStickySidebar > .widget.widget-3, .entry_content
-gloswagrowiecki.pl###rt-top
 gloswielkopolski.pl##.partner
 gloswroclawia.pl##.column9.main-content.col_9_of_12.col > .row > .col_12_of_12.col > p
 gloswroclawia.pl##center > [href] > .animated.visible
@@ -1966,7 +1964,7 @@ migrelo.de###modMnNewLayerA, .newLayerBack.a.modMnNewLayerBack
 mikrokontroler.pl###text-3, .mb30.red.title-bg-line.title-border, #text-8, .mb30.orange.title-bg-line.title-border
 mikrokontroler.pl##TD[style*="background-image: url(\"http://mikrokontroler.pl/"]
 mikrokontroler.pl##[id^="block-simpleads-ad"]
-mikrokontroler.pl,24legnica.pl,polonia-peterborough.uk,24legnica.pl,bieganieuskrzydla.pl,aletorcik.pl,tvgorzow.pl,fakty.elblag.pl###text-5
+mikrokontroler.pl,24legnica.pl,polonia-peterborough.uk,24legnica.pl,bieganieuskrzydla.pl,aletorcik.pl,tvgorzow.pl###text-5
 milanos.pl#?#.post:-abp-contains(reklama)
 minecraft-list.pl##.smutnazabajpg_container.transparent_container, #a.pleaserinonoblokerino_display, div.gitjestgit_container
 minecraft.org.pl##.stone-module.well-sm.well:nth-of-type(4)
@@ -2450,7 +2448,6 @@ polskaniepodlegla.pl###section-id-1503913327338, #section-id-1530612923433
 polskaniepodlegla.pl###sppb-addon-1503648426950
 polskaniepodlegla.pl###sppb-addon-1511187487983
 polskatradycja.pl##.uk-grid > div[class^="uk-width-expand"] > div.uk-card:nth-of-type(2)
-polskiemiasta.tv###wartozobaczyc, #pole_reklama
 polski-tenis.pl##.hidden-xs
 polskiautohandel.pl##.header-middle
 polskiautohandel.pl##.panel.widget-2
@@ -2461,6 +2458,7 @@ polskieradio.com##.post-widget.widget:nth-of-type(2)
 polskieradio.com##.right-post > .title-section
 polskieradio.pl##.showBattleBanner
 polskieradio24.pl##.showBattleBanner.battle-banner-hp
+polki.pl##.player-container
 polskiinternet.com##IMG[src*="/banner/"]
 polskiobserwator.de###content-4 > p
 polskiprzemysl.com.pl##.banner-full-content
@@ -3574,7 +3572,7 @@ wyborcza.pl##.day-images
 wyborcza.pl##.right-content-holder > [class^="mod-generic"][class*="la-http\:\/\/wyborcza\.pl\/"] + #rectangle-splint
 wyborcza.pl##[class^="mod-generic"][class*="la-http\:\/\/wyborcza\.pl\/"]
 wykop.pl,demotywatory.pl,joemonster.org,mistrzowie.org##[id^="bmone2n-"]
-wylecz.to##.b970
+wylecz.to##[class] > .bottomSeen.topSeen
 wylecz.to##.display_detect.ifr, .cre, .daf8, div.col-md-3.col-sm-6.col-xs-12 > div[class] > div[style^="border-bottom: 20px"] > div[style]
 wylecz.to##[href^="/zez_click/"], #loc_145
 wylecz.to#?#.row div[class][style*="border-bottom:"][style*="max-height:"]:-abp-has(:scope > div[style]:-abp-contains(REKLAMA))
@@ -3895,7 +3893,6 @@ zywiecinfo.pl##.promoted
 ||ilawa24.pl/photos/skyscraper.jpg$image
 ||image.ceneostatic.pl/data/footer_widget/$image
 ||img.lzrikate.com^
-||img.dvhk.to^$image,domain=portal.dvhk.to
 ||img.targeo.pl/i/cache/a/$image,domain=mapa.targeo.pl
 ||indexww.com^
 ||info.elblag.pl/images/banerki$script,object
@@ -4314,8 +4311,8 @@ zywiecinfo.pl##.promoted
 @@||exs.pl^$domain=wpolityce.pl|wio.waw.pl
 @@||gazetabilgoraj.pl/wp-content/plugins/better-adsmanager/js/advertising.min.js$script
 @@||go.eu.bbelements.com/please/code|$domain=filmweb.pl
-@@||google-analytics.com^$domain=certyficate.it|liptonicetea.com|filmweb.pl|benefitcard.pl
-@@||googletagmanager.com/gtag/$script,domain=certyficate.it|benefitcard.pl
+@@||google-analytics.com^$domain=certyficate.it|liptonicetea.com|filmweb.pl
+@@||googletagmanager.com/gtag/$script,domain=certyficate.it
 @@||googletagmanager.com/gtm.js$script,domain=www.emag.pl|benchmark.pl|komputerswiat.pl|www.jabra.pl|plus.pl|expressilustrowany.pl|motofakty.pl|kurierlubelski.pl|stronakobiet.pl|ads.allegro.pl|skoda-auto.pl
 @@||googletagservices.com/tag/js/gpt.js$script,domain=wprost.pl
 @@||guce.advertising.com/collectIdentifiers?sessionId=
@@ -4324,7 +4321,6 @@ zywiecinfo.pl##.promoted
 @@||hotelscombined.com/SearchBox/$script,domain=mlecznepodroze.onet.pl
 @@||hub.com.pl^$subdocument,domain=poczta.interia.pl
 @@||js-agent.newrelic.com/$script,domain=portal.abczdrowie.pl
-@@||katowickisport.pl^$generichide
 @@||lokalna24.pl^*^LOKALNA24_logo_
 @@||lulektv.app.insyscd.net/Content/player/insysplayer/adTest.png$image,domain=lulektv.app.insyscd.net
 @@||myao.adocean.pl^$script,image,xmlhttprequest,domain=www.cyfrowypolsat.pl
