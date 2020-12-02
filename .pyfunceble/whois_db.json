@@ -1253,6 +1253,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "bogatynia.info.pl": {
+        "epoch": 1701907200.0,
+        "expiration_date": "07-dec-2023",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "bokser.org": {
         "epoch": 1625011200.0,
         "expiration_date": "30-jun-2021",
@@ -2727,6 +2733,12 @@
     "e-sadownictwo.pl": {
         "epoch": 1720828800.0,
         "expiration_date": "13-jul-2024",
+        "state": "future"
+    },
+    "e-sochaczew.pl": {
+        "epoch": 1612828800.0,
+        "expiration_date": "09-feb-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "e-stargard.pl": {
@@ -7077,6 +7089,12 @@
         "expiration_date": "26-apr-2021",
         "state": "future"
     },
+    "lubawka.info": {
+        "epoch": 1636848000.0,
+        "expiration_date": "14-nov-2021",
+        "server": "whois.afilias.net",
+        "state": "future"
+    },
     "lubelska.tv": {
         "epoch": 1626825600.0,
         "expiration_date": "21-jul-2021",
@@ -9951,6 +9969,12 @@
         "expiration_date": "24-dec-2021",
         "state": "future"
     },
+    "pomocdlafranka.pl": {
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "pomorska.pl": {
         "epoch": 1625356800.0,
         "expiration_date": "04-jul-2021",
@@ -11036,8 +11060,8 @@
         "state": "past"
     },
     "regionalna.pl": {
-        "epoch": 1605225600.0,
-        "expiration_date": "13-nov-2020",
+        "epoch": 1636761600.0,
+        "expiration_date": "13-nov-2021",
         "server": "whois.dns.pl",
         "state": "future"
     },
@@ -11972,6 +11996,12 @@
         "expiration_date": "10-jul-2021",
         "state": "future"
     },
+    "stadiony.net": {
+        "epoch": 1672272000.0,
+        "expiration_date": "29-dec-2022",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "stalenierdzewne.pl": {
         "epoch": 1636156800.0,
         "expiration_date": "06-nov-2021",
@@ -12058,6 +12088,12 @@
     "steam.io": {
         "epoch": 1628121600.0,
         "expiration_date": "05-aug-2021",
+        "state": "future"
+    },
+    "stella.net.pl": {
+        "epoch": 1629676800.0,
+        "expiration_date": "23-aug-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "stepstone.pl": {
@@ -12311,6 +12347,12 @@
     "swiatogloszen.net.pl": {
         "epoch": 1606953600.0,
         "expiration_date": "03-dec-2020",
+        "state": "future"
+    },
+    "swiatopon.info": {
+        "epoch": 1637798400.0,
+        "expiration_date": "25-nov-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "swiatoze.pl": {
@@ -15125,6 +15167,12 @@
     "zyczeniowo.pl": {
         "epoch": 1621382400.0,
         "expiration_date": "19-may-2021",
+        "state": "future"
+    },
+    "zyleta.info": {
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "zyrardowskie.pl": {
