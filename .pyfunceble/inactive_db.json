@@ -1491,6 +1491,13 @@
             "last_retested_at_iso": "2020-11-20T08:32:37.433051",
             "status": "ACTIVE"
         },
+        "bialogardinfo.pl": {
+            "included_at_epoch": 1607066459.629585,
+            "included_at_iso": "2020-12-04T07:20:59.629585",
+            "last_retested_at_epoch": 1607066459.629585,
+            "last_retested_at_iso": "2020-12-04T07:20:59.629585",
+            "status": "ACTIVE"
+        },
         "bialostoczak.pl": {
             "included_at_epoch": 1605867165.916669,
             "included_at_iso": "2020-11-20T10:12:45.916669",
@@ -1541,10 +1548,10 @@
             "status": "ACTIVE"
         },
         "bielski24.pl": {
-            "included_at_epoch": 1604642310.703863,
-            "included_at_iso": "2020-11-06T05:58:30.703863",
-            "last_retested_at_epoch": 1604642311.144101,
-            "last_retested_at_iso": "2020-11-06T05:58:31.144101",
+            "included_at_epoch": 1607066459.213856,
+            "included_at_iso": "2020-12-04T07:20:59.213856",
+            "last_retested_at_epoch": 1607066459.878203,
+            "last_retested_at_iso": "2020-12-04T07:20:59.878203",
             "status": "INACTIVE"
         },
         "bielskiedrogi.pl": {
@@ -2009,6 +2016,13 @@
             "last_retested_at_iso": "2020-11-20T08:32:39.245694",
             "status": "ACTIVE"
         },
+        "bstok.pl": {
+            "included_at_epoch": 1607066460.037646,
+            "included_at_iso": "2020-12-04T07:21:00.037646",
+            "last_retested_at_epoch": 1607066460.037646,
+            "last_retested_at_iso": "2020-12-04T07:21:00.037646",
+            "status": "ACTIVE"
+        },
         "budmatauto.pl": {
             "included_at_epoch": 1605861159.23708,
             "included_at_iso": "2020-11-20T08:32:39.237080",
@@ -2227,10 +2241,10 @@
             "status": "ACTIVE"
         },
         "cashowsky.pl": {
-            "included_at_epoch": 1604642310.751316,
-            "included_at_iso": "2020-11-06T05:58:30.751316",
-            "last_retested_at_epoch": 1604642311.189883,
-            "last_retested_at_iso": "2020-11-06T05:58:31.189883",
+            "included_at_epoch": 1607066459.260485,
+            "included_at_iso": "2020-12-04T07:20:59.260485",
+            "last_retested_at_epoch": 1607066459.921417,
+            "last_retested_at_iso": "2020-12-04T07:20:59.921417",
             "status": "INACTIVE"
         },
         "cba.pl": {
@@ -2752,10 +2766,10 @@
             "status": "ACTIVE"
         },
         "cowkrakowie.pl": {
-            "included_at_epoch": 1604642310.797823,
-            "included_at_iso": "2020-11-06T05:58:30.797823",
-            "last_retested_at_epoch": 1604642310.797823,
-            "last_retested_at_iso": "2020-11-06T05:58:30.797823",
+            "included_at_epoch": 1607066459.306466,
+            "included_at_iso": "2020-12-04T07:20:59.306466",
+            "last_retested_at_epoch": 1607066459.306466,
+            "last_retested_at_iso": "2020-12-04T07:20:59.306466",
             "status": "ACTIVE"
         },
         "cozadzien.pl": {
@@ -5475,10 +5489,10 @@
             "status": "ACTIVE"
         },
         "forum.dvhk.to": {
-            "included_at_epoch": 1604642310.869836,
-            "included_at_iso": "2020-11-06T05:58:30.869836",
-            "last_retested_at_epoch": 1604642311.005652,
-            "last_retested_at_iso": "2020-11-06T05:58:31.005652",
+            "included_at_epoch": 1607066459.352152,
+            "included_at_iso": "2020-12-04T07:20:59.352152",
+            "last_retested_at_epoch": 1607066459.443112,
+            "last_retested_at_iso": "2020-12-04T07:20:59.443112",
             "status": "INACTIVE"
         },
         "forum.ebiznesy.pl": {
@@ -6525,11 +6539,11 @@
             "status": "ACTIVE"
         },
         "gomoney.pl": {
-            "included_at_epoch": 1604642311.051762,
-            "included_at_iso": "2020-11-06T05:58:31.051762",
-            "last_retested_at_epoch": 1604642311.09811,
-            "last_retested_at_iso": "2020-11-06T05:58:31.098110",
-            "status": "INACTIVE"
+            "included_at_epoch": 1607066459.48836,
+            "included_at_iso": "2020-12-04T07:20:59.488360",
+            "last_retested_at_epoch": 1607066459.559841,
+            "last_retested_at_iso": "2020-12-04T07:20:59.559841",
+            "status": "ACTIVE"
         },
         "goniec.net": {
             "included_at_epoch": 1605861170.445355,
@@ -8958,6 +8972,13 @@
             "included_at_iso": "2020-11-20T08:32:35.879948",
             "last_retested_at_epoch": 1605861155.879948,
             "last_retested_at_iso": "2020-11-20T08:32:35.879948",
+            "status": "ACTIVE"
+        },
+        "kolobrzeginfo.pl": {
+            "included_at_epoch": 1607066459.74185,
+            "included_at_iso": "2020-12-04T07:20:59.741850",
+            "last_retested_at_epoch": 1607066459.74185,
+            "last_retested_at_iso": "2020-12-04T07:20:59.741850",
             "status": "ACTIVE"
         },
         "komixxy.pl": {
@@ -13076,6 +13097,13 @@
             "last_retested_at_iso": "2020-11-20T10:12:46.510654",
             "status": "ACTIVE"
         },
+        "ostrowczanie.info": {
+            "included_at_epoch": 1607066460.10539,
+            "included_at_iso": "2020-12-04T07:21:00.105390",
+            "last_retested_at_epoch": 1607066460.10539,
+            "last_retested_at_iso": "2020-12-04T07:21:00.105390",
+            "status": "ACTIVE"
+        },
         "ostrowiecnews.pl": {
             "included_at_epoch": 1605867166.536307,
             "included_at_iso": "2020-11-20T10:12:46.536307",
@@ -13678,6 +13706,13 @@
             "last_retested_at_iso": "2020-11-20T08:32:38.038599",
             "status": "ACTIVE"
         },
+        "plock.fm": {
+            "included_at_epoch": 1607066459.697885,
+            "included_at_iso": "2020-12-04T07:20:59.697885",
+            "last_retested_at_epoch": 1607066459.697885,
+            "last_retested_at_iso": "2020-12-04T07:20:59.697885",
+            "status": "ACTIVE"
+        },
         "plonskwsieci.pl": {
             "included_at_epoch": 1605861155.949485,
             "included_at_iso": "2020-11-20T08:32:35.949485",
@@ -13909,6 +13944,13 @@
             "last_retested_at_iso": "2020-11-20T10:13:27.644138",
             "status": "ACTIVE"
         },
+        "pojezierze24.pl": {
+            "included_at_epoch": 1607066459.811525,
+            "included_at_iso": "2020-12-04T07:20:59.811525",
+            "last_retested_at_epoch": 1607066459.811525,
+            "last_retested_at_iso": "2020-12-04T07:20:59.811525",
+            "status": "ACTIVE"
+        },
         "pokemon-go.pl": {
             "included_at_epoch": 1605867171.944754,
             "included_at_iso": "2020-11-20T10:12:51.944754",
@@ -14113,10 +14155,10 @@
             "status": "ACTIVE"
         },
         "polskifr.fr": {
-            "included_at_epoch": 1604642311.237077,
-            "included_at_iso": "2020-11-06T05:58:31.237077",
-            "last_retested_at_epoch": 1604642311.237077,
-            "last_retested_at_iso": "2020-11-06T05:58:31.237077",
+            "included_at_epoch": 1607066460.173331,
+            "included_at_iso": "2020-12-04T07:21:00.173331",
+            "last_retested_at_epoch": 1607066460.173331,
+            "last_retested_at_iso": "2020-12-04T07:21:00.173331",
             "status": "ACTIVE"
         },
         "polskiinternet.com": {
@@ -15197,6 +15239,13 @@
             "last_retested_at_iso": "2020-11-20T10:12:55.328574",
             "status": "ACTIVE"
         },
+        "pyrzyce.info": {
+            "included_at_epoch": 1607066460.216901,
+            "included_at_iso": "2020-12-04T07:21:00.216901",
+            "last_retested_at_epoch": 1607066460.216901,
+            "last_retested_at_iso": "2020-12-04T07:21:00.216901",
+            "status": "ACTIVE"
+        },
         "pyszne.pl": {
             "included_at_epoch": 1605867175.382641,
             "included_at_iso": "2020-11-20T10:12:55.382641",
@@ -16189,6 +16238,13 @@
             "included_at_iso": "2020-11-20T10:13:38.091422",
             "last_retested_at_epoch": 1605867218.091422,
             "last_retested_at_iso": "2020-11-20T10:13:38.091422",
+            "status": "ACTIVE"
+        },
+        "sarzyna.info": {
+            "included_at_epoch": 1607066459.968016,
+            "included_at_iso": "2020-12-04T07:20:59.968016",
+            "last_retested_at_epoch": 1607066459.968016,
+            "last_retested_at_iso": "2020-12-04T07:20:59.968016",
             "status": "ACTIVE"
         },
         "saskakepa.waw.pl": {
@@ -20216,6 +20272,13 @@
             "last_retested_at_iso": "2020-12-02T08:30:58.673797",
             "status": "ACTIVE"
         },
+        "wig.waw.pl": {
+            "included_at_epoch": 1607066460.287014,
+            "included_at_iso": "2020-12-04T07:21:00.287014",
+            "last_retested_at_epoch": 1607066460.287014,
+            "last_retested_at_iso": "2020-12-04T07:21:00.287014",
+            "status": "ACTIVE"
+        },
         "wikirose.pl": {
             "included_at_epoch": 1605867208.676584,
             "included_at_iso": "2020-11-20T10:13:28.676584",
@@ -21334,6 +21397,13 @@
             "included_at_iso": "2020-11-20T10:13:37.154059",
             "last_retested_at_epoch": 1605867217.154059,
             "last_retested_at_iso": "2020-11-20T10:13:37.154059",
+            "status": "ACTIVE"
+        },
+        "www.ogloszenia.tarnobrzeg.info": {
+            "included_at_epoch": 1607066460.354088,
+            "included_at_iso": "2020-12-04T07:21:00.354088",
+            "last_retested_at_epoch": 1607066460.354088,
+            "last_retested_at_iso": "2020-12-04T07:21:00.354088",
             "status": "ACTIVE"
         },
         "www.ogloszeniarolnicze.com.pl": {
