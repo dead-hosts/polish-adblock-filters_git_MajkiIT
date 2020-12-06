@@ -1883,6 +1883,13 @@
             "last_retested_at_iso": "2020-12-02T08:30:58.272349",
             "status": "ACTIVE"
         },
+        "bogucin.net": {
+            "included_at_epoch": 1607235141.385021,
+            "included_at_iso": "2020-12-06T06:12:21.385021",
+            "last_retested_at_epoch": 1607235141.385021,
+            "last_retested_at_iso": "2020-12-06T06:12:21.385021",
+            "status": "ACTIVE"
+        },
         "bokser.org": {
             "included_at_epoch": 1605861158.875845,
             "included_at_iso": "2020-11-20T08:32:38.875845",
@@ -2553,6 +2560,13 @@
             "included_at_iso": "2020-11-20T08:32:40.385756",
             "last_retested_at_epoch": 1605861160.405477,
             "last_retested_at_iso": "2020-11-20T08:32:40.405477",
+            "status": "ACTIVE"
+        },
+        "chtvl.chrzanow.pl": {
+            "included_at_epoch": 1607235141.466239,
+            "included_at_iso": "2020-12-06T06:12:21.466239",
+            "last_retested_at_epoch": 1607235141.466239,
+            "last_retested_at_iso": "2020-12-06T06:12:21.466239",
             "status": "ACTIVE"
         },
         "chwilowo.pl": {
@@ -7077,6 +7091,13 @@
             "last_retested_at_iso": "2020-11-20T08:32:35.727167",
             "status": "ACTIVE"
         },
+        "gwo24.pl": {
+            "included_at_epoch": 1607235141.509386,
+            "included_at_iso": "2020-12-06T06:12:21.509386",
+            "last_retested_at_epoch": 1607235141.509386,
+            "last_retested_at_iso": "2020-12-06T06:12:21.509386",
+            "status": "ACTIVE"
+        },
         "hack.pl": {
             "included_at_epoch": 1605861172.28421,
             "included_at_iso": "2020-11-20T08:32:52.284210",
@@ -7866,6 +7887,13 @@
             "included_at_iso": "2020-11-20T08:32:54.502234",
             "last_retested_at_epoch": 1605861174.502234,
             "last_retested_at_iso": "2020-11-20T08:32:54.502234",
+            "status": "ACTIVE"
+        },
+        "infoserwiselk.pl": {
+            "included_at_epoch": 1607235141.57969,
+            "included_at_iso": "2020-12-06T06:12:21.579690",
+            "last_retested_at_epoch": 1607235141.57969,
+            "last_retested_at_iso": "2020-12-06T06:12:21.579690",
             "status": "ACTIVE"
         },
         "infoship.pl": {
@@ -12521,6 +12549,13 @@
             "included_at_iso": "2020-11-20T10:12:44.075046",
             "last_retested_at_epoch": 1605867164.075046,
             "last_retested_at_iso": "2020-11-20T10:12:44.075046",
+            "status": "ACTIVE"
+        },
+        "nowosielce.pl": {
+            "included_at_epoch": 1607235141.647038,
+            "included_at_iso": "2020-12-06T06:12:21.647038",
+            "last_retested_at_epoch": 1607235141.647038,
+            "last_retested_at_iso": "2020-12-06T06:12:21.647038",
             "status": "ACTIVE"
         },
         "nowy-sacz.info": {
@@ -17214,10 +17249,10 @@
             "status": "ACTIVE"
         },
         "static*.mylead.global": {
-            "included_at_epoch": 1604815046.749695,
-            "included_at_iso": "2020-11-08T05:57:26.749695",
-            "last_retested_at_epoch": 1604815046.749695,
-            "last_retested_at_iso": "2020-11-08T05:57:26.749695",
+            "included_at_epoch": 1607235141.713737,
+            "included_at_iso": "2020-12-06T06:12:21.713737",
+            "last_retested_at_epoch": 1607235141.713737,
+            "last_retested_at_iso": "2020-12-06T06:12:21.713737",
             "status": "INVALID"
         },
         "static.biedronka.pl": {

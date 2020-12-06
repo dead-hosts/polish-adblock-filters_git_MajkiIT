@@ -1265,6 +1265,12 @@
         "server": "whois.dns.pl",
         "state": "future"
     },
+    "bogucin.net": {
+        "epoch": 1628726400.0,
+        "expiration_date": "12-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "bokser.org": {
         "epoch": 1625011200.0,
         "expiration_date": "30-jun-2021",
@@ -4846,6 +4852,12 @@
         "server": "whois.dns.pl",
         "state": "future"
     },
+    "gwo24.pl": {
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "hack.pl": {
         "epoch": 1621555200.0,
         "expiration_date": "21-may-2021",
@@ -5428,6 +5440,12 @@
     "infosecurity24.pl": {
         "epoch": 1584921600,
         "expiration_date": "23-mar-2020",
+        "state": "future"
+    },
+    "infoserwiselk.pl": {
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "infoship.pl": {
@@ -8781,6 +8799,12 @@
     "noworudzianin.pl": {
         "epoch": 1632182400.0,
         "expiration_date": "21-sep-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
+    "nowosielce.pl": {
+        "epoch": 1636070400.0,
+        "expiration_date": "05-nov-2021",
         "server": "whois.dns.pl",
         "state": "future"
     },
