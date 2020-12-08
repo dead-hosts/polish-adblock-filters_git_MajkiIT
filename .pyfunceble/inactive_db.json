@@ -3851,10 +3851,10 @@
             "status": "ACTIVE"
         },
         "dzwignice.info": {
-            "included_at_epoch": 1604989365.595697,
-            "included_at_iso": "2020-11-10T06:22:45.595697",
-            "last_retested_at_epoch": 1604989365.595697,
-            "last_retested_at_iso": "2020-11-10T06:22:45.595697",
+            "included_at_epoch": 1607409194.976762,
+            "included_at_iso": "2020-12-08T06:33:14.976762",
+            "last_retested_at_epoch": 1607409194.976762,
+            "last_retested_at_iso": "2020-12-08T06:33:14.976762",
             "status": "ACTIVE"
         },
         "e-blogi.pl": {
@@ -4016,6 +4016,13 @@
             "included_at_iso": "2020-11-20T08:32:43.550458",
             "last_retested_at_epoch": 1605861163.550458,
             "last_retested_at_iso": "2020-11-20T08:32:43.550458",
+            "status": "ACTIVE"
+        },
+        "e-tlumacze.net": {
+            "included_at_epoch": 1607409195.029606,
+            "included_at_iso": "2020-12-08T06:33:15.029606",
+            "last_retested_at_epoch": 1607409195.029606,
+            "last_retested_at_iso": "2020-12-08T06:33:15.029606",
             "status": "ACTIVE"
         },
         "e-warzywnictwo.pl": {
@@ -5244,10 +5251,10 @@
             "status": "ACTIVE"
         },
         "fkref.com": {
-            "included_at_epoch": 1604989366.393849,
-            "included_at_iso": "2020-11-10T06:22:46.393849",
-            "last_retested_at_epoch": 1604989366.393849,
-            "last_retested_at_iso": "2020-11-10T06:22:46.393849",
+            "included_at_epoch": 1607409195.826046,
+            "included_at_iso": "2020-12-08T06:33:15.826046",
+            "last_retested_at_epoch": 1607409195.826046,
+            "last_retested_at_iso": "2020-12-08T06:33:15.826046",
             "status": "ACTIVE"
         },
         "flarrow.pl": {
@@ -8625,10 +8632,10 @@
             "status": "ACTIVE"
         },
         "kalisz24.info.pl": {
-            "included_at_epoch": 1604989365.649423,
-            "included_at_iso": "2020-11-10T06:22:45.649423",
-            "last_retested_at_epoch": 1604989365.723659,
-            "last_retested_at_iso": "2020-11-10T06:22:45.723659",
+            "included_at_epoch": 1607409195.09995,
+            "included_at_iso": "2020-12-08T06:33:15.099950",
+            "last_retested_at_epoch": 1607409195.14274,
+            "last_retested_at_iso": "2020-12-08T06:33:15.142740",
             "status": "ACTIVE"
         },
         "kaliszak.pl": {
@@ -8989,10 +8996,10 @@
             "status": "ACTIVE"
         },
         "kolbuszowalokalnie.pl": {
-            "included_at_epoch": 1604989365.791901,
-            "included_at_iso": "2020-11-10T06:22:45.791901",
-            "last_retested_at_epoch": 1604989365.883622,
-            "last_retested_at_iso": "2020-11-10T06:22:45.883622",
+            "included_at_epoch": 1607409195.187858,
+            "included_at_iso": "2020-12-08T06:33:15.187858",
+            "last_retested_at_epoch": 1607409195.276921,
+            "last_retested_at_iso": "2020-12-08T06:33:15.276921",
             "status": "ACTIVE"
         },
         "kolniak24.pl": {
@@ -9787,10 +9794,10 @@
             "status": "ACTIVE"
         },
         "lesko.info": {
-            "included_at_epoch": 1604989365.929851,
-            "included_at_iso": "2020-11-10T06:22:45.929851",
-            "last_retested_at_epoch": 1604989365.929851,
-            "last_retested_at_iso": "2020-11-10T06:22:45.929851",
+            "included_at_epoch": 1607409195.320499,
+            "included_at_iso": "2020-12-08T06:33:15.320499",
+            "last_retested_at_epoch": 1607409195.320499,
+            "last_retested_at_iso": "2020-12-08T06:33:15.320499",
             "status": "ACTIVE"
         },
         "leszczynscy.nazwa.pl": {
@@ -13791,10 +13798,10 @@
             "status": "ACTIVE"
         },
         "pnt.info.pl": {
-            "included_at_epoch": 1604989365.975807,
-            "included_at_iso": "2020-11-10T06:22:45.975807",
-            "last_retested_at_epoch": 1604989365.975807,
-            "last_retested_at_iso": "2020-11-10T06:22:45.975807",
+            "included_at_epoch": 1607409195.363959,
+            "included_at_iso": "2020-12-08T06:33:15.363959",
+            "last_retested_at_epoch": 1607409195.407258,
+            "last_retested_at_iso": "2020-12-08T06:33:15.407258",
             "status": "ACTIVE"
         },
         "pobierak.jeja.pl": {
@@ -17571,10 +17578,10 @@
             "status": "ACTIVE"
         },
         "super-polska.pl": {
-            "included_at_epoch": 1604989366.023716,
-            "included_at_iso": "2020-11-10T06:22:46.023716",
-            "last_retested_at_epoch": 1604989366.09407,
-            "last_retested_at_iso": "2020-11-10T06:22:46.094070",
+            "included_at_epoch": 1607409195.450995,
+            "included_at_iso": "2020-12-08T06:33:15.450995",
+            "last_retested_at_epoch": 1607409195.494543,
+            "last_retested_at_iso": "2020-12-08T06:33:15.494543",
             "status": "ACTIVE"
         },
         "super-torent.pl": {
@@ -17739,10 +17746,10 @@
             "status": "ACTIVE"
         },
         "swiatrolnika.info": {
-            "included_at_epoch": 1604989366.162806,
-            "included_at_iso": "2020-11-10T06:22:46.162806",
-            "last_retested_at_epoch": 1604989366.162806,
-            "last_retested_at_iso": "2020-11-10T06:22:46.162806",
+            "included_at_epoch": 1607409195.538112,
+            "included_at_iso": "2020-12-08T06:33:15.538112",
+            "last_retested_at_epoch": 1607409195.538112,
+            "last_retested_at_iso": "2020-12-08T06:33:15.538112",
             "status": "ACTIVE"
         },
         "swiatseriali.pl": {
@@ -18026,10 +18033,10 @@
             "status": "ACTIVE"
         },
         "tarnobrzeg.info": {
-            "included_at_epoch": 1604989366.207713,
-            "included_at_iso": "2020-11-10T06:22:46.207713",
-            "last_retested_at_epoch": 1604989366.207713,
-            "last_retested_at_iso": "2020-11-10T06:22:46.207713",
+            "included_at_epoch": 1607409195.582411,
+            "included_at_iso": "2020-12-08T06:33:15.582411",
+            "last_retested_at_epoch": 1607409195.582411,
+            "last_retested_at_iso": "2020-12-08T06:33:15.582411",
             "status": "ACTIVE"
         },
         "tarnobrzeskie.eu": {
@@ -20062,6 +20069,13 @@
             "last_retested_at_iso": "2020-11-20T10:13:27.452592",
             "status": "ACTIVE"
         },
+        "wedleprawa.pl": {
+            "included_at_epoch": 1607409195.626194,
+            "included_at_iso": "2020-12-08T06:33:15.626194",
+            "last_retested_at_epoch": 1607409195.626194,
+            "last_retested_at_iso": "2020-12-08T06:33:15.626194",
+            "status": "ACTIVE"
+        },
         "weeb.tv": {
             "included_at_epoch": 1605867207.491022,
             "included_at_iso": "2020-11-20T10:13:27.491022",
@@ -20455,10 +20469,10 @@
             "status": "ACTIVE"
         },
         "wkielcach.info": {
-            "included_at_epoch": 1604989366.254124,
-            "included_at_iso": "2020-11-10T06:22:46.254124",
-            "last_retested_at_epoch": 1604989366.301611,
-            "last_retested_at_iso": "2020-11-10T06:22:46.301611",
+            "included_at_epoch": 1607409195.694143,
+            "included_at_iso": "2020-12-08T06:33:15.694143",
+            "last_retested_at_epoch": 1607409195.738717,
+            "last_retested_at_iso": "2020-12-08T06:33:15.738717",
             "status": "ACTIVE"
         },
         "wkikole.pl": {
@@ -21197,10 +21211,10 @@
             "status": "ACTIVE"
         },
         "www.interia.pl": {
-            "included_at_epoch": 1604989366.347171,
-            "included_at_iso": "2020-11-10T06:22:46.347171",
-            "last_retested_at_epoch": 1604989366.347171,
-            "last_retested_at_iso": "2020-11-10T06:22:46.347171",
+            "included_at_epoch": 1607409195.782522,
+            "included_at_iso": "2020-12-08T06:33:15.782522",
+            "last_retested_at_epoch": 1607409195.782522,
+            "last_retested_at_iso": "2020-12-08T06:33:15.782522",
             "status": "ACTIVE"
         },
         "www.jaslo4u.pl": {
