@@ -3025,10 +3025,10 @@
             "status": "ACTIVE"
         },
         "czest.info": {
-            "included_at_epoch": 1605161483.516941,
-            "included_at_iso": "2020-11-12T06:11:23.516941",
-            "last_retested_at_epoch": 1605161483.614901,
-            "last_retested_at_iso": "2020-11-12T06:11:23.614901",
+            "included_at_epoch": 1607582606.752036,
+            "included_at_iso": "2020-12-10T06:43:26.752036",
+            "last_retested_at_epoch": 1607582606.888675,
+            "last_retested_at_iso": "2020-12-10T06:43:26.888675",
             "status": "ACTIVE"
         },
         "czestochowanews.pl": {
@@ -3837,10 +3837,10 @@
             "status": "ACTIVE"
         },
         "dzierzgon.info.pl": {
-            "included_at_epoch": 1605161483.661699,
-            "included_at_iso": "2020-11-12T06:11:23.661699",
-            "last_retested_at_epoch": 1605161483.661699,
-            "last_retested_at_iso": "2020-11-12T06:11:23.661699",
+            "included_at_epoch": 1607582606.934289,
+            "included_at_iso": "2020-12-10T06:43:26.934289",
+            "last_retested_at_epoch": 1607582606.934289,
+            "last_retested_at_iso": "2020-12-10T06:43:26.934289",
             "status": "ACTIVE"
         },
         "dzisiajwgliwicach.pl": {
@@ -7336,6 +7336,13 @@
             "last_retested_at_iso": "2020-11-20T08:32:53.181997",
             "status": "ACTIVE"
         },
+        "hokej.net": {
+            "included_at_epoch": 1607582606.980711,
+            "included_at_iso": "2020-12-10T06:43:26.980711",
+            "last_retested_at_epoch": 1607582607.190586,
+            "last_retested_at_iso": "2020-12-10T06:43:27.190586",
+            "status": "ACTIVE"
+        },
         "holenderskiskun.pl": {
             "included_at_epoch": 1605861173.164829,
             "included_at_iso": "2020-11-20T08:32:53.164829",
@@ -10164,6 +10171,13 @@
             "last_retested_at_iso": "2020-11-20T10:12:51.468233",
             "status": "ACTIVE"
         },
+        "lpu24.pl": {
+            "included_at_epoch": 1607582607.259494,
+            "included_at_iso": "2020-12-10T06:43:27.259494",
+            "last_retested_at_epoch": 1607582607.259494,
+            "last_retested_at_iso": "2020-12-10T06:43:27.259494",
+            "status": "ACTIVE"
+        },
         "lsi-lublin.pl": {
             "included_at_epoch": 1605861184.68139,
             "included_at_iso": "2020-11-20T08:33:04.681390",
@@ -11949,6 +11963,13 @@
             "last_retested_at_iso": "2020-11-24T06:47:46.449197",
             "status": "INACTIVE"
         },
+        "myslenicka24.pl": {
+            "included_at_epoch": 1607582607.328433,
+            "included_at_iso": "2020-12-10T06:43:27.328433",
+            "last_retested_at_epoch": 1607582607.328433,
+            "last_retested_at_iso": "2020-12-10T06:43:27.328433",
+            "status": "ACTIVE"
+        },
         "mysnet.pl": {
             "included_at_epoch": 1605861192.97342,
             "included_at_iso": "2020-11-20T08:33:12.973420",
@@ -11978,10 +11999,10 @@
             "status": "ACTIVE"
         },
         "naczytniku.pl": {
-            "included_at_epoch": 1605161483.708913,
-            "included_at_iso": "2020-11-12T06:11:23.708913",
-            "last_retested_at_epoch": 1605161483.708913,
-            "last_retested_at_iso": "2020-11-12T06:11:23.708913",
+            "included_at_epoch": 1607582607.397309,
+            "included_at_iso": "2020-12-10T06:43:27.397309",
+            "last_retested_at_epoch": 1607582607.397309,
+            "last_retested_at_iso": "2020-12-10T06:43:27.397309",
             "status": "ACTIVE"
         },
         "nadmorski24.pl": {
@@ -13910,10 +13931,10 @@
             "status": "ACTIVE"
         },
         "podlasianin.com.pl": {
-            "included_at_epoch": 1605161483.849799,
-            "included_at_iso": "2020-11-12T06:11:23.849799",
-            "last_retested_at_epoch": 1605161483.98904,
-            "last_retested_at_iso": "2020-11-12T06:11:23.989040",
+            "included_at_epoch": 1607582607.535107,
+            "included_at_iso": "2020-12-10T06:43:27.535107",
+            "last_retested_at_epoch": 1607582607.630104,
+            "last_retested_at_iso": "2020-12-10T06:43:27.630104",
             "status": "ACTIVE"
         },
         "podlasie24.pl": {
@@ -17808,6 +17829,13 @@
             "last_retested_at_iso": "2020-11-20T08:33:07.986039",
             "status": "ACTIVE"
         },
+        "swietokrzyskie24.eu": {
+            "included_at_epoch": 1607582607.677316,
+            "included_at_iso": "2020-12-10T06:43:27.677316",
+            "last_retested_at_epoch": 1607582607.677316,
+            "last_retested_at_iso": "2020-12-10T06:43:27.677316",
+            "status": "ACTIVE"
+        },
         "swinoujskie.info": {
             "included_at_epoch": 1605867193.660552,
             "included_at_iso": "2020-11-20T10:13:13.660552",
@@ -19314,10 +19342,10 @@
             "status": "INACTIVE"
         },
         "twojzwolen.pl": {
-            "included_at_epoch": 1605161483.455041,
-            "included_at_iso": "2020-11-12T06:11:23.455041",
-            "last_retested_at_epoch": 1605161484.194587,
-            "last_retested_at_iso": "2020-11-12T06:11:24.194587",
+            "included_at_epoch": 1607582606.689911,
+            "included_at_iso": "2020-12-10T06:43:26.689911",
+            "last_retested_at_epoch": 1607582607.86247,
+            "last_retested_at_iso": "2020-12-10T06:43:27.862470",
             "status": "INACTIVE"
         },
         "tychy.info": {
@@ -19755,10 +19783,10 @@
             "status": "ACTIVE"
         },
         "vod.naekranie.pl": {
-            "included_at_epoch": 1605161483.756677,
-            "included_at_iso": "2020-11-12T06:11:23.756677",
-            "last_retested_at_epoch": 1605161483.803259,
-            "last_retested_at_iso": "2020-11-12T06:11:23.803259",
+            "included_at_epoch": 1607582607.442006,
+            "included_at_iso": "2020-12-10T06:43:27.442006",
+            "last_retested_at_epoch": 1607582607.488087,
+            "last_retested_at_iso": "2020-12-10T06:43:27.488087",
             "status": "ACTIVE"
         },
         "voltahorse.pl": {
@@ -20546,10 +20574,10 @@
             "status": "ACTIVE"
         },
         "wolanie.info": {
-            "included_at_epoch": 1605161484.241666,
-            "included_at_iso": "2020-11-12T06:11:24.241666",
-            "last_retested_at_epoch": 1605161484.289005,
-            "last_retested_at_iso": "2020-11-12T06:11:24.289005",
+            "included_at_epoch": 1607582607.908801,
+            "included_at_iso": "2020-12-10T06:43:27.908801",
+            "last_retested_at_epoch": 1607582607.955157,
+            "last_retested_at_iso": "2020-12-10T06:43:27.955157",
             "status": "ACTIVE"
         },
         "wolna-polska.pl": {
@@ -22331,10 +22359,10 @@
             "status": "ACTIVE"
         },
         "zkaszub.info": {
-            "included_at_epoch": 1605161484.339189,
-            "included_at_iso": "2020-11-12T06:11:24.339189",
-            "last_retested_at_epoch": 1605161484.339189,
-            "last_retested_at_iso": "2020-11-12T06:11:24.339189",
+            "included_at_epoch": 1607582608.003235,
+            "included_at_iso": "2020-12-10T06:43:28.003235",
+            "last_retested_at_epoch": 1607582608.003235,
+            "last_retested_at_iso": "2020-12-10T06:43:28.003235",
             "status": "ACTIVE"
         },
         "zlota7.pl": {
