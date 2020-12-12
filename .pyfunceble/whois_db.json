@@ -6013,6 +6013,12 @@
         "expiration_date": "29-jan-2021",
         "state": "future"
     },
+    "kalwaria24.pl": {
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "kamienskie.info": {
         "epoch": 1635552000.0,
         "expiration_date": "30-oct-2021",
@@ -8076,6 +8082,12 @@
     "mojradom.pl": {
         "epoch": 1629849600.0,
         "expiration_date": "25-aug-2021",
+        "state": "future"
+    },
+    "mojrzeszow.pl": {
+        "epoch": 1624579200.0,
+        "expiration_date": "25-jun-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "money.pl": {
@@ -10312,6 +10324,12 @@
         "epoch": 1635638400.0,
         "expiration_date": "31-oct-2021",
         "server": "whois.dns.pl",
+        "state": "future"
+    },
+    "powiatpolicki.info": {
+        "epoch": 1613865600.0,
+        "expiration_date": "21-feb-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "poznaniak.pl": {

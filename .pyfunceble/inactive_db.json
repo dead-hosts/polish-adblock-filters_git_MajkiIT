@@ -1842,10 +1842,10 @@
             "status": "ACTIVE"
         },
         "bobowa24.pl": {
-            "included_at_epoch": 1605333644.742316,
-            "included_at_iso": "2020-11-14T06:00:44.742316",
-            "last_retested_at_epoch": 1605333644.742316,
-            "last_retested_at_iso": "2020-11-14T06:00:44.742316",
+            "included_at_epoch": 1607760192.795265,
+            "included_at_iso": "2020-12-12T08:03:12.795265",
+            "last_retested_at_epoch": 1607760192.795265,
+            "last_retested_at_iso": "2020-12-12T08:03:12.795265",
             "status": "ACTIVE"
         },
         "bobrzanie.pl": {
@@ -6987,10 +6987,10 @@
             "status": "ACTIVE"
         },
         "gryfice24.online": {
-            "included_at_epoch": 1605333644.94074,
-            "included_at_iso": "2020-11-14T06:00:44.940740",
-            "last_retested_at_epoch": 1605333644.94074,
-            "last_retested_at_iso": "2020-11-14T06:00:44.940740",
+            "included_at_epoch": 1607760193.104274,
+            "included_at_iso": "2020-12-12T08:03:13.104274",
+            "last_retested_at_epoch": 1607760193.104274,
+            "last_retested_at_iso": "2020-12-12T08:03:13.104274",
             "status": "ACTIVE"
         },
         "grylogiczne.biz.pl": {
@@ -8652,6 +8652,13 @@
             "last_retested_at_iso": "2020-11-20T10:12:45.993433",
             "status": "ACTIVE"
         },
+        "kalwaria24.pl": {
+            "included_at_epoch": 1607760192.705106,
+            "included_at_iso": "2020-12-12T08:03:12.705106",
+            "last_retested_at_epoch": 1607760192.705106,
+            "last_retested_at_iso": "2020-12-12T08:03:12.705106",
+            "status": "ACTIVE"
+        },
         "kamienskie.info": {
             "included_at_epoch": 1605861178.248537,
             "included_at_iso": "2020-11-20T08:32:58.248537",
@@ -10109,10 +10116,10 @@
             "status": "ACTIVE"
         },
         "losice.info": {
-            "included_at_epoch": 1605333644.896259,
-            "included_at_iso": "2020-11-14T06:00:44.896259",
-            "last_retested_at_epoch": 1605333644.896259,
-            "last_retested_at_iso": "2020-11-14T06:00:44.896259",
+            "included_at_epoch": 1607760192.9256,
+            "included_at_iso": "2020-12-12T08:03:12.925600",
+            "last_retested_at_epoch": 1607760192.9256,
+            "last_retested_at_iso": "2020-12-12T08:03:12.925600",
             "status": "ACTIVE"
         },
         "lotto-centrum.com": {
@@ -10333,10 +10340,10 @@
             "status": "ACTIVE"
         },
         "luzna24.pl": {
-            "included_at_epoch": 1605333644.806951,
-            "included_at_iso": "2020-11-14T06:00:44.806951",
-            "last_retested_at_epoch": 1605333644.806951,
-            "last_retested_at_iso": "2020-11-14T06:00:44.806951",
+            "included_at_epoch": 1607760192.837403,
+            "included_at_iso": "2020-12-12T08:03:12.837403",
+            "last_retested_at_epoch": 1607760192.837403,
+            "last_retested_at_iso": "2020-12-12T08:03:12.837403",
             "status": "ACTIVE"
         },
         "luzyce.info": {
@@ -11576,6 +11583,13 @@
             "included_at_iso": "2020-11-20T10:13:15.117902",
             "last_retested_at_epoch": 1605867195.117902,
             "last_retested_at_iso": "2020-11-20T10:13:15.117902",
+            "status": "ACTIVE"
+        },
+        "mojrzeszow.pl": {
+            "included_at_epoch": 1607760192.969014,
+            "included_at_iso": "2020-12-12T08:03:12.969014",
+            "last_retested_at_epoch": 1607760192.969014,
+            "last_retested_at_iso": "2020-12-12T08:03:12.969014",
             "status": "ACTIVE"
         },
         "mon.services.tvn.pl": {
@@ -14651,6 +14665,13 @@
             "last_retested_at_iso": "2020-11-20T10:12:52.363824",
             "status": "ACTIVE"
         },
+        "powiatpolicki.info": {
+            "included_at_epoch": 1607760193.036729,
+            "included_at_iso": "2020-12-12T08:03:13.036729",
+            "last_retested_at_epoch": 1607760193.036729,
+            "last_retested_at_iso": "2020-12-12T08:03:13.036729",
+            "status": "ACTIVE"
+        },
         "poznan.naszemiasto.pl": {
             "included_at_epoch": 1605867172.335502,
             "included_at_iso": "2020-11-20T10:12:52.335502",
@@ -16059,10 +16080,10 @@
             "status": "ACTIVE"
         },
         "rrs24.net": {
-            "included_at_epoch": 1605333644.984976,
-            "included_at_iso": "2020-11-14T06:00:44.984976",
-            "last_retested_at_epoch": 1605333644.984976,
-            "last_retested_at_iso": "2020-11-14T06:00:44.984976",
+            "included_at_epoch": 1607760193.146717,
+            "included_at_iso": "2020-12-12T08:03:13.146717",
+            "last_retested_at_epoch": 1607760193.146717,
+            "last_retested_at_iso": "2020-12-12T08:03:13.146717",
             "status": "ACTIVE"
         },
         "rtbnowads.com": {
@@ -16227,10 +16248,10 @@
             "status": "ACTIVE"
         },
         "sad24.pl": {
-            "included_at_epoch": 1605333645.029863,
-            "included_at_iso": "2020-11-14T06:00:45.029863",
-            "last_retested_at_epoch": 1605333645.029863,
-            "last_retested_at_iso": "2020-11-14T06:00:45.029863",
+            "included_at_epoch": 1607760193.19112,
+            "included_at_iso": "2020-12-12T08:03:13.191120",
+            "last_retested_at_epoch": 1607760193.19112,
+            "last_retested_at_iso": "2020-12-12T08:03:13.191120",
             "status": "ACTIVE"
         },
         "sadeczanin.info": {
@@ -17543,10 +17564,10 @@
             "status": "ACTIVE"
         },
         "studio-mebli.eu": {
-            "included_at_epoch": 1605333645.07617,
-            "included_at_iso": "2020-11-14T06:00:45.076170",
-            "last_retested_at_epoch": 1605333645.07617,
-            "last_retested_at_iso": "2020-11-14T06:00:45.076170",
+            "included_at_epoch": 1607760193.237168,
+            "included_at_iso": "2020-12-12T08:03:13.237168",
+            "last_retested_at_epoch": 1607760193.237168,
+            "last_retested_at_iso": "2020-12-12T08:03:13.237168",
             "status": "ACTIVE"
         },
         "stw24.pl": {
@@ -18054,10 +18075,10 @@
             "status": "ACTIVE"
         },
         "targowek.info": {
-            "included_at_epoch": 1605333644.85279,
-            "included_at_iso": "2020-11-14T06:00:44.852790",
-            "last_retested_at_epoch": 1605333644.85279,
-            "last_retested_at_iso": "2020-11-14T06:00:44.852790",
+            "included_at_epoch": 1607760192.881875,
+            "included_at_iso": "2020-12-12T08:03:12.881875",
+            "last_retested_at_epoch": 1607760192.881875,
+            "last_retested_at_iso": "2020-12-12T08:03:12.881875",
             "status": "ACTIVE"
         },
         "tarnobrzeg.info": {
@@ -21932,10 +21953,10 @@
             "status": "ACTIVE"
         },
         "wysokomazowiecki24.pl": {
-            "included_at_epoch": 1605333645.119789,
-            "included_at_iso": "2020-11-14T06:00:45.119789",
-            "last_retested_at_epoch": 1605333645.119789,
-            "last_retested_at_iso": "2020-11-14T06:00:45.119789",
+            "included_at_epoch": 1607760193.281183,
+            "included_at_iso": "2020-12-12T08:03:13.281183",
+            "last_retested_at_epoch": 1607760193.281183,
+            "last_retested_at_iso": "2020-12-12T08:03:13.281183",
             "status": "ACTIVE"
         },
         "wyspagier.pl": {
