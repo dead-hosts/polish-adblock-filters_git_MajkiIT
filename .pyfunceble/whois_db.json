@@ -264,6 +264,12 @@
         "expiration_date": "22-aug-2025",
         "state": "future"
     },
+    "ads-analytic.com": {
+        "epoch": 1627344000.0,
+        "expiration_date": "27-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "adsb4track.com": {
         "epoch": 1636416000.0,
         "expiration_date": "09-nov-2021",
@@ -9487,6 +9493,12 @@
         "expiration_date": "25-feb-2021",
         "state": "future"
     },
+    "peachlandeu.com": {
+        "epoch": 1637366400.0,
+        "expiration_date": "20-nov-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "pebx.pl": {
         "epoch": 1618617600.0,
         "expiration_date": "17-apr-2021",
@@ -10775,6 +10787,12 @@
         "expiration_date": "31-mar-2022",
         "state": "future"
     },
+    "puzzleforum.pl": {
+        "epoch": 1614211200.0,
+        "expiration_date": "25-feb-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "pykownia.pl": {
         "epoch": 1637020800.0,
         "expiration_date": "16-nov-2021",
@@ -12012,6 +12030,12 @@
     "sport.pl": {
         "epoch": 1611100800.0,
         "expiration_date": "20-jan-2021",
+        "state": "future"
+    },
+    "sport32news.com": {
+        "epoch": 1639094400.0,
+        "expiration_date": "10-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "sportdziennik.com": {

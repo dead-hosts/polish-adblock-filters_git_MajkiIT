@@ -1,10 +1,10 @@
 {
     "/home/travis/build/dead-hosts/polish-adblock-filters_git_MajkiIT/domains.list": {
         "000webhostapp.com": {
-            "included_at_epoch": 1605506435.946994,
-            "included_at_iso": "2020-11-16T06:00:35.946994",
-            "last_retested_at_epoch": 1605506435.946994,
-            "last_retested_at_iso": "2020-11-16T06:00:35.946994",
+            "included_at_epoch": 1607926756.185672,
+            "included_at_iso": "2020-12-14T06:19:16.185672",
+            "last_retested_at_epoch": 1607926756.185672,
+            "last_retested_at_iso": "2020-12-14T06:19:16.185672",
             "status": "ACTIVE"
         },
         "100pompek.pl": {
@@ -411,6 +411,13 @@
             "included_at_iso": "2020-11-20T10:13:44.562271",
             "last_retested_at_epoch": 1605867224.562271,
             "last_retested_at_iso": "2020-11-20T10:13:44.562271",
+            "status": "ACTIVE"
+        },
+        "ads-analytic.com": {
+            "included_at_epoch": 1607926756.233182,
+            "included_at_iso": "2020-12-14T06:19:16.233182",
+            "last_retested_at_epoch": 1607926756.233182,
+            "last_retested_at_iso": "2020-12-14T06:19:16.233182",
             "status": "ACTIVE"
         },
         "ads.gry-online.pl": {
@@ -911,10 +918,10 @@
             "status": "ACTIVE"
         },
         "aparat.cam": {
-            "included_at_epoch": 1605506435.631402,
-            "included_at_iso": "2020-11-16T06:00:35.631402",
-            "last_retested_at_epoch": 1605506435.631402,
-            "last_retested_at_iso": "2020-11-16T06:00:35.631402",
+            "included_at_epoch": 1607926755.857845,
+            "included_at_iso": "2020-12-14T06:19:15.857845",
+            "last_retested_at_epoch": 1607926755.857845,
+            "last_retested_at_iso": "2020-12-14T06:19:15.857845",
             "status": "ACTIVE"
         },
         "api-content-generator.gazeta.pl": {
@@ -3116,10 +3123,10 @@
             "status": "ACTIVE"
         },
         "dansotant.xyz": {
-            "included_at_epoch": 1605506435.701225,
-            "included_at_iso": "2020-11-16T06:00:35.701225",
-            "last_retested_at_epoch": 1605506435.701225,
-            "last_retested_at_iso": "2020-11-16T06:00:35.701225",
+            "included_at_epoch": 1607926755.904147,
+            "included_at_iso": "2020-12-14T06:19:15.904147",
+            "last_retested_at_epoch": 1607926755.904147,
+            "last_retested_at_iso": "2020-12-14T06:19:15.904147",
             "status": "ACTIVE"
         },
         "darkw.pl": {
@@ -5832,10 +5839,10 @@
             "status": "ACTIVE"
         },
         "futbolhd.tv": {
-            "included_at_epoch": 1605506435.812698,
-            "included_at_iso": "2020-11-16T06:00:35.812698",
-            "last_retested_at_epoch": 1605506435.903684,
-            "last_retested_at_iso": "2020-11-16T06:00:35.903684",
+            "included_at_epoch": 1607926756.04412,
+            "included_at_iso": "2020-12-14T06:19:16.044120",
+            "last_retested_at_epoch": 1607926756.137941,
+            "last_retested_at_iso": "2020-12-14T06:19:16.137941",
             "status": "INACTIVE"
         },
         "futbolweb.pl": {
@@ -13475,6 +13482,13 @@
             "last_retested_at_iso": "2020-11-20T10:12:47.601627",
             "status": "ACTIVE"
         },
+        "peachlandeu.com": {
+            "included_at_epoch": 1607926756.374151,
+            "included_at_iso": "2020-12-14T06:19:16.374151",
+            "last_retested_at_epoch": 1607926756.374151,
+            "last_retested_at_iso": "2020-12-14T06:19:16.374151",
+            "status": "ACTIVE"
+        },
         "pebx.pl": {
             "included_at_epoch": 1605867253.970929,
             "included_at_iso": "2020-11-20T10:14:13.970929",
@@ -15316,6 +15330,13 @@
             "last_retested_at_iso": "2020-11-20T10:12:55.299132",
             "status": "ACTIVE"
         },
+        "puzzleforum.pl": {
+            "included_at_epoch": 1607926755.687322,
+            "included_at_iso": "2020-12-14T06:19:15.687322",
+            "last_retested_at_epoch": 1607926755.687322,
+            "last_retested_at_iso": "2020-12-14T06:19:15.687322",
+            "status": "ACTIVE"
+        },
         "pykownia.pl": {
             "included_at_epoch": 1605867175.328574,
             "included_at_iso": "2020-11-20T10:12:55.328574",
@@ -16227,10 +16248,10 @@
             "status": "ACTIVE"
         },
         "s.bankier.pl": {
-            "included_at_epoch": 1605506435.769512,
-            "included_at_iso": "2020-11-16T06:00:35.769512",
-            "last_retested_at_epoch": 1605506435.769512,
-            "last_retested_at_iso": "2020-11-16T06:00:35.769512",
+            "included_at_epoch": 1607926755.950813,
+            "included_at_iso": "2020-12-14T06:19:15.950813",
+            "last_retested_at_epoch": 1607926755.950813,
+            "last_retested_at_iso": "2020-12-14T06:19:15.950813",
             "status": "ACTIVE"
         },
         "s.click.aliexpress.com": {
@@ -17031,6 +17052,13 @@
             "last_retested_at_iso": "2020-11-20T10:13:10.033496",
             "status": "ACTIVE"
         },
+        "sport32news.com": {
+            "included_at_epoch": 1607926756.304175,
+            "included_at_iso": "2020-12-14T06:19:16.304175",
+            "last_retested_at_epoch": 1607926756.304175,
+            "last_retested_at_iso": "2020-12-14T06:19:16.304175",
+            "status": "ACTIVE"
+        },
         "sportdziennik.com": {
             "included_at_epoch": 1605867164.843541,
             "included_at_iso": "2020-11-20T10:12:44.843541",
@@ -17344,6 +17372,13 @@
             "included_at_iso": "2020-11-20T10:13:51.099715",
             "last_retested_at_epoch": 1605867231.099715,
             "last_retested_at_iso": "2020-11-20T10:13:51.099715",
+            "status": "ACTIVE"
+        },
+        "static.mailerlite.com": {
+            "included_at_epoch": 1607926755.997218,
+            "included_at_iso": "2020-12-14T06:19:15.997218",
+            "last_retested_at_epoch": 1607926755.997218,
+            "last_retested_at_iso": "2020-12-14T06:19:15.997218",
             "status": "ACTIVE"
         },
         "static.osemka.pl": {
@@ -18460,10 +18495,10 @@
             "status": "ACTIVE"
         },
         "ticketmaster.pl": {
-            "included_at_epoch": 1605506435.513332,
-            "included_at_iso": "2020-11-16T06:00:35.513332",
-            "last_retested_at_epoch": 1605506435.513332,
-            "last_retested_at_iso": "2020-11-16T06:00:35.513332",
+            "included_at_epoch": 1607926755.767556,
+            "included_at_iso": "2020-12-14T06:19:15.767556",
+            "last_retested_at_epoch": 1607926755.767556,
+            "last_retested_at_iso": "2020-12-14T06:19:15.767556",
             "status": "ACTIVE"
         },
         "tinypic.pl": {
@@ -20959,10 +20994,10 @@
             "status": "ACTIVE"
         },
         "www.bankier.pl": {
-            "included_at_epoch": 1605506435.589122,
-            "included_at_iso": "2020-11-16T06:00:35.589122",
-            "last_retested_at_epoch": 1605506435.589122,
-            "last_retested_at_iso": "2020-11-16T06:00:35.589122",
+            "included_at_epoch": 1607926755.811355,
+            "included_at_iso": "2020-12-14T06:19:15.811355",
+            "last_retested_at_epoch": 1607926755.811355,
+            "last_retested_at_iso": "2020-12-14T06:19:15.811355",
             "status": "ACTIVE"
         },
         "www.bazarynek.pl": {
