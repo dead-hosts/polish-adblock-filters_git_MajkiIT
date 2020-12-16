@@ -3690,10 +3690,10 @@
             "status": "ACTIVE"
         },
         "dtv24.pl": {
-            "included_at_epoch": 1605679415.145866,
-            "included_at_iso": "2020-11-18T06:03:35.145866",
-            "last_retested_at_epoch": 1605679415.145866,
-            "last_retested_at_iso": "2020-11-18T06:03:35.145866",
+            "included_at_epoch": 1608100296.431547,
+            "included_at_iso": "2020-12-16T06:31:36.431547",
+            "last_retested_at_epoch": 1608100296.431547,
+            "last_retested_at_iso": "2020-12-16T06:31:36.431547",
             "status": "ACTIVE"
         },
         "dukania.pl": {
@@ -5223,10 +5223,10 @@
             "status": "ACTIVE"
         },
         "fireads.network": {
-            "included_at_epoch": 1605679415.444044,
-            "included_at_iso": "2020-11-18T06:03:35.444044",
-            "last_retested_at_epoch": 1605679415.444044,
-            "last_retested_at_iso": "2020-11-18T06:03:35.444044",
+            "included_at_epoch": 1608100297.154256,
+            "included_at_iso": "2020-12-16T06:31:37.154256",
+            "last_retested_at_epoch": 1608100297.154256,
+            "last_retested_at_iso": "2020-12-16T06:31:37.154256",
             "status": "ACTIVE"
         },
         "firmy77.pl": {
@@ -6256,6 +6256,13 @@
             "included_at_iso": "2020-11-20T08:32:49.425257",
             "last_retested_at_epoch": 1605861169.425257,
             "last_retested_at_iso": "2020-11-20T08:32:49.425257",
+            "status": "ACTIVE"
+        },
+        "genapps.pl": {
+            "included_at_epoch": 1608100296.477952,
+            "included_at_iso": "2020-12-16T06:31:36.477952",
+            "last_retested_at_epoch": 1608100296.477952,
+            "last_retested_at_iso": "2020-12-16T06:31:36.477952",
             "status": "ACTIVE"
         },
         "geoforum.pl": {
@@ -7708,10 +7715,10 @@
             "status": "ACTIVE"
         },
         "info-ketrzyn24.pl": {
-            "included_at_epoch": 1605679415.204855,
-            "included_at_iso": "2020-11-18T06:03:35.204855",
-            "last_retested_at_epoch": 1605679415.204855,
-            "last_retested_at_iso": "2020-11-18T06:03:35.204855",
+            "included_at_epoch": 1608100296.551858,
+            "included_at_iso": "2020-12-16T06:31:36.551858",
+            "last_retested_at_epoch": 1608100296.551858,
+            "last_retested_at_iso": "2020-12-16T06:31:36.551858",
             "status": "ACTIVE"
         },
         "info.elblag.pl": {
@@ -8415,10 +8422,10 @@
             "status": "ACTIVE"
         },
         "jakodzyskacpieniadze.pl": {
-            "included_at_epoch": 1605679415.253193,
-            "included_at_iso": "2020-11-18T06:03:35.253193",
-            "last_retested_at_epoch": 1605679415.253193,
-            "last_retested_at_iso": "2020-11-18T06:03:35.253193",
+            "included_at_epoch": 1608100296.596268,
+            "included_at_iso": "2020-12-16T06:31:36.596268",
+            "last_retested_at_epoch": 1608100296.596268,
+            "last_retested_at_iso": "2020-12-16T06:31:36.596268",
             "status": "ACTIVE"
         },
         "jakusunac.pl": {
@@ -8716,10 +8723,10 @@
             "status": "ACTIVE"
         },
         "karnickie.info": {
-            "included_at_epoch": 1605679415.301415,
-            "included_at_iso": "2020-11-18T06:03:35.301415",
-            "last_retested_at_epoch": 1605679415.301415,
-            "last_retested_at_iso": "2020-11-18T06:03:35.301415",
+            "included_at_epoch": 1608100296.643275,
+            "included_at_iso": "2020-12-16T06:31:36.643275",
+            "last_retested_at_epoch": 1608100296.643275,
+            "last_retested_at_iso": "2020-12-16T06:31:36.643275",
             "status": "ACTIVE"
         },
         "kartuzy.info": {
@@ -13896,10 +13903,10 @@
             "status": "ACTIVE"
         },
         "pod24.info": {
-            "included_at_epoch": 1605679415.349227,
-            "included_at_iso": "2020-11-18T06:03:35.349227",
-            "last_retested_at_epoch": 1605679415.349227,
-            "last_retested_at_iso": "2020-11-18T06:03:35.349227",
+            "included_at_epoch": 1608100296.689797,
+            "included_at_iso": "2020-12-16T06:31:36.689797",
+            "last_retested_at_epoch": 1608100296.689797,
+            "last_retested_at_iso": "2020-12-16T06:31:36.689797",
             "status": "ACTIVE"
         },
         "podaj.to": {
@@ -14033,6 +14040,13 @@
             "included_at_iso": "2020-11-20T10:13:27.644138",
             "last_retested_at_epoch": 1605867207.644138,
             "last_retested_at_iso": "2020-11-20T10:13:27.644138",
+            "status": "ACTIVE"
+        },
+        "pojezierze.com.pl": {
+            "included_at_epoch": 1608100296.736307,
+            "included_at_iso": "2020-12-16T06:31:36.736307",
+            "last_retested_at_epoch": 1608100296.736307,
+            "last_retested_at_iso": "2020-12-16T06:31:36.736307",
             "status": "ACTIVE"
         },
         "pojezierze24.pl": {
@@ -14194,6 +14208,13 @@
             "included_at_iso": "2020-11-20T10:12:50.081503",
             "last_retested_at_epoch": 1605867170.081503,
             "last_retested_at_iso": "2020-11-20T10:12:50.081503",
+            "status": "ACTIVE"
+        },
+        "polski.fm": {
+            "included_at_epoch": 1608100296.807856,
+            "included_at_iso": "2020-12-16T06:31:36.807856",
+            "last_retested_at_epoch": 1608100296.807856,
+            "last_retested_at_iso": "2020-12-16T06:31:36.807856",
             "status": "ACTIVE"
         },
         "polskiautohandel.pl": {
@@ -14621,6 +14642,13 @@
             "included_at_iso": "2020-11-20T10:13:31.729409",
             "last_retested_at_epoch": 1605867211.729409,
             "last_retested_at_iso": "2020-11-20T10:13:31.729409",
+            "status": "ACTIVE"
+        },
+        "portalwrc.pl": {
+            "included_at_epoch": 1608100296.851832,
+            "included_at_iso": "2020-12-16T06:31:36.851832",
+            "last_retested_at_epoch": 1608100296.851832,
+            "last_retested_at_iso": "2020-12-16T06:31:36.851832",
             "status": "ACTIVE"
         },
         "poscigi.pl": {
@@ -15076,6 +15104,13 @@
             "included_at_iso": "2020-11-20T10:12:54.138984",
             "last_retested_at_epoch": 1605867174.138984,
             "last_retested_at_iso": "2020-11-20T10:12:54.138984",
+            "status": "ACTIVE"
+        },
+        "przeclaw24.pl": {
+            "included_at_epoch": 1608100296.923219,
+            "included_at_iso": "2020-12-16T06:31:36.923219",
+            "last_retested_at_epoch": 1608100296.923219,
+            "last_retested_at_iso": "2020-12-16T06:31:36.923219",
             "status": "ACTIVE"
         },
         "przedsiebiorcy.eu": {
@@ -19972,10 +20007,10 @@
             "status": "ACTIVE"
         },
         "warka24.pl": {
-            "included_at_epoch": 1605679415.396517,
-            "included_at_iso": "2020-11-18T06:03:35.396517",
-            "last_retested_at_epoch": 1605679415.396517,
-            "last_retested_at_iso": "2020-11-18T06:03:35.396517",
+            "included_at_epoch": 1608100296.991773,
+            "included_at_iso": "2020-12-16T06:31:36.991773",
+            "last_retested_at_epoch": 1608100297.03606,
+            "last_retested_at_iso": "2020-12-16T06:31:37.036060",
             "status": "ACTIVE"
         },
         "warszawawpigulce.pl": {
@@ -22566,6 +22601,13 @@
             "included_at_iso": "2020-11-20T10:13:01.066266",
             "last_retested_at_epoch": 1605867233.922337,
             "last_retested_at_iso": "2020-11-20T10:13:53.922337",
+            "status": "ACTIVE"
+        },
+        "zwa24.pl": {
+            "included_at_epoch": 1608100297.082901,
+            "included_at_iso": "2020-12-16T06:31:37.082901",
+            "last_retested_at_epoch": 1608100297.082901,
+            "last_retested_at_iso": "2020-12-16T06:31:37.082901",
             "status": "ACTIVE"
         },
         "zwiadowcahistorii.pl": {

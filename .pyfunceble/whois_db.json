@@ -4256,6 +4256,12 @@
         "expiration_date": "13-dec-2020",
         "state": "future"
     },
+    "genapps.pl": {
+        "epoch": 1659484800.0,
+        "expiration_date": "03-aug-2022",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "geoforum.pl": {
         "epoch": 1607644800.0,
         "expiration_date": "11-dec-2020",
@@ -9863,6 +9869,12 @@
         "expiration_date": "31-jul-2021",
         "state": "future"
     },
+    "pojezierze.com.pl": {
+        "epoch": 1638662400.0,
+        "expiration_date": "05-dec-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "pojezierze24.pl": {
         "epoch": 1613347200.0,
         "expiration_date": "15-feb-2021",
@@ -10285,6 +10297,12 @@
         "expiration_date": "25-jul-2021",
         "state": "future"
     },
+    "portalwrc.pl": {
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "poscigi.pl": {
         "epoch": 1666137600.0,
         "expiration_date": "19-oct-2022",
@@ -10596,6 +10614,12 @@
     "przeambitni.pl": {
         "epoch": 1692748800.0,
         "expiration_date": "23-aug-2023",
+        "state": "future"
+    },
+    "przeclaw24.pl": {
+        "epoch": 1619136000.0,
+        "expiration_date": "23-apr-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "przedszkola.edu.pl": {
@@ -15217,6 +15241,12 @@
     "zw.pl": {
         "epoch": 1634515200.0,
         "expiration_date": "18-oct-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
+    "zwa24.pl": {
+        "epoch": 1614556800.0,
+        "expiration_date": "01-mar-2021",
         "server": "whois.dns.pl",
         "state": "future"
     },
