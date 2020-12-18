@@ -2020,6 +2020,12 @@
         "expiration_date": "20-jul-2023",
         "state": "future"
     },
+    "czasciechanowa.pl": {
+        "epoch": 1625443200.0,
+        "expiration_date": "05-jul-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "czasdzieci.pl": {
         "epoch": 1622332800.0,
         "expiration_date": "30-may-2021",
@@ -4191,6 +4197,12 @@
     "gazetaslezanska.pl": {
         "epoch": 1609545600.0,
         "expiration_date": "02-jan-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
+    "gazetaslupecka.pl": {
+        "epoch": 1611187200.0,
+        "expiration_date": "21-jan-2021",
         "server": "whois.dns.pl",
         "state": "future"
     },
@@ -8886,6 +8898,12 @@
     "nowytydzien.pl": {
         "epoch": 1631145600.0,
         "expiration_date": "09-sep-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
+    "nowytygodniklobeski.pl": {
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
         "server": "whois.dns.pl",
         "state": "future"
     },
@@ -13672,6 +13690,18 @@
     "tygodnikoko.pl": {
         "epoch": 1621555200.0,
         "expiration_date": "21-may-2021",
+        "state": "future"
+    },
+    "tygodnikpiski.pl": {
+        "epoch": 1637107200.0,
+        "expiration_date": "17-nov-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
+    "tygodnikplus.com": {
+        "epoch": 1612310400.0,
+        "expiration_date": "03-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "tygodnikpodhalanski.pl": {

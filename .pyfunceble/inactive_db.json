@@ -2982,6 +2982,13 @@
             "last_retested_at_iso": "2020-11-20T08:32:41.395449",
             "status": "ACTIVE"
         },
+        "czasciechanowa.pl": {
+            "included_at_epoch": 1608272655.453196,
+            "included_at_iso": "2020-12-18T06:24:15.453196",
+            "last_retested_at_epoch": 1608272655.453196,
+            "last_retested_at_iso": "2020-12-18T06:24:15.453196",
+            "status": "ACTIVE"
+        },
         "czasdzieci.home.pl": {
             "included_at_epoch": 1605867225.97577,
             "included_at_iso": "2020-11-20T10:13:45.975770",
@@ -6165,6 +6172,13 @@
             "included_at_iso": "2020-11-20T10:14:08.969495",
             "last_retested_at_epoch": 1605867248.969495,
             "last_retested_at_iso": "2020-11-20T10:14:08.969495",
+            "status": "ACTIVE"
+        },
+        "gazetaslupecka.pl": {
+            "included_at_epoch": 1608272655.542553,
+            "included_at_iso": "2020-12-18T06:24:15.542553",
+            "last_retested_at_epoch": 1608272655.854521,
+            "last_retested_at_iso": "2020-12-18T06:24:15.854521",
             "status": "ACTIVE"
         },
         "gazetaspoleczna.pl": {
@@ -12654,6 +12668,13 @@
             "included_at_iso": "2020-11-20T10:12:57.702148",
             "last_retested_at_epoch": 1605867177.702148,
             "last_retested_at_iso": "2020-11-20T10:12:57.702148",
+            "status": "ACTIVE"
+        },
+        "nowytygodniklobeski.pl": {
+            "included_at_epoch": 1608272655.652334,
+            "included_at_iso": "2020-12-18T06:24:15.652334",
+            "last_retested_at_epoch": 1608272655.652334,
+            "last_retested_at_iso": "2020-12-18T06:24:15.652334",
             "status": "ACTIVE"
         },
         "nowywyszkowiak.pl": {
@@ -19495,6 +19516,20 @@
             "last_retested_at_iso": "2020-11-20T10:13:22.471090",
             "status": "ACTIVE"
         },
+        "tygodnikpiski.pl": {
+            "included_at_epoch": 1608272655.787021,
+            "included_at_iso": "2020-12-18T06:24:15.787021",
+            "last_retested_at_epoch": 1608272655.787021,
+            "last_retested_at_iso": "2020-12-18T06:24:15.787021",
+            "status": "ACTIVE"
+        },
+        "tygodnikplus.com": {
+            "included_at_epoch": 1608272655.719406,
+            "included_at_iso": "2020-12-18T06:24:15.719406",
+            "last_retested_at_epoch": 1608272655.719406,
+            "last_retested_at_iso": "2020-12-18T06:24:15.719406",
+            "status": "ACTIVE"
+        },
         "tygodnikpodhalanski.pl": {
             "included_at_epoch": 1605861154.479639,
             "included_at_iso": "2020-11-20T08:32:34.479639",
@@ -21551,6 +21586,13 @@
             "included_at_iso": "2020-11-20T10:13:35.789127",
             "last_retested_at_epoch": 1605867215.948519,
             "last_retested_at_iso": "2020-11-20T10:13:35.948519",
+            "status": "ACTIVE"
+        },
+        "www.nowemiasto.com.pl": {
+            "included_at_epoch": 1608272655.60912,
+            "included_at_iso": "2020-12-18T06:24:15.609120",
+            "last_retested_at_epoch": 1608272655.60912,
+            "last_retested_at_iso": "2020-12-18T06:24:15.609120",
             "status": "ACTIVE"
         },
         "www.o2.pl": {
