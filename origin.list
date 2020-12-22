@@ -8,9 +8,9 @@
 ! Działa najlepiej z EasyList - pamiętaj aby zasubskrybować!
 !   Patronite ==> https://patronite.pl/polskiefiltry
 !   PayPal ==> https://www.paypal.com/pools/c/87zNJ8OJ3I
-! Last modified: 18 December 2020
+! Last modified: 21 December 2020
 ! Expires: 1 day
-! Version: 2020121801
+! Version: 2020122102
 ! Support:
 !   Email >> errorsfilters@certyficate.it
 !   Github >> https://github.com/MajkiIT/polish-ads-filter/issues
@@ -18,7 +18,7 @@
 ! License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ! Copyright © 2020 Certyficate IT
 ! Najnowsza wersja zawsze na: https://www.certyficate.it/adblock
-! v.2020121801 aktualizacja: ptk, 18 grudnia 2020, 08:05:00
+! v.2020122102 aktualizacja: pon, 21 grudnia 2020, 12:48:00
 !
 !
 !1#-----------------------General advert blocking filters-----------------------!
@@ -830,6 +830,7 @@ dzisiajwgliwicach.pl##.entry > [href]
 dzisiajwgliwicach.pl##img[src*="Baner-590x300-"]
 dzwignice.info##[class^="adSlider"], .whiteBox.aBox, .udtBox.whiteBox
 e-blogi.pl##a[href="#"]
+e-chorzow.com##.a-single, .col-md-8.site-heading-sidebar
 e-dobrydom.pl###slideshow_xl, #custom_html-15, #custom_html-10, #custom_html-13, #custom_html-12, #custom_html-11, #custom_html-16
 e-fvat.pl###box5
 e-grajewo.pl##.logoitems
@@ -1468,7 +1469,6 @@ inpost.pl##.after-search-banner.topbannerresultsSearch
 instalacjebudowlane.pl###belka, #panel
 instalki.pl###PushangoAlert
 instalki.pl###banner
-instalki.pl##.only_desktop
 instalki.pl##DIV > DIV[style^="width: 90%; padding: 15px"]
 instalki.pl##option[value$="dm=1"]
 instalki.pl,kanonierzy.com##[class^="banner"]
@@ -2094,9 +2094,6 @@ motoryzacja.interia.pl##div#articleObjectSeeAlso1
 motoshop24.pl##tr:nth-of-type(32)
 motoshop24.pl##tr:nth-of-type(31)
 moviesroom.pl###screening, #frame
-mpcforum.pl##.gamehag, #elNavSecondary_17
-mpcforum.pl##.ipsBox.ipsWidget_vertical.ipsWidget:nth-of-type(5)
-mpcforum.pl##.ipsDataItem_meta > p:nth-of-type(2)
 mpolska24.pl##.mpRek
 mragowo24.info##.ads, .mod_nieruchomosci
 mserwery.pl##div.panel-default.panel:nth-of-type(1)
@@ -2620,7 +2617,7 @@ przeambitni.pl,magazynt3.pl,ccnews.pl###mvp-leader-wrap
 przeclaw24.pl##div.art-nostyle, .custompolecamy
 przedsiebiorcy.eu##.so-panel[data-index="5"]
 przedszkola.edu.pl##.sidebar__widget:nth-of-type(2)
-przegladkoninski.pl##[id*="advertise"]
+przegladkoninski.pl##[id*="advertise"], .banertopplayer2
 przegladoponiarski.pl,informacjelodzkie.pl,gryfice24.online,mojeinfo24.pl##.banners
 przegladpiaseczynski.pl###Mod134, #Mod137, #Mod138, #Mod140, #Mod141, #Mod142, #Mod143
 przegladsportowy.pl###region-item20927
@@ -2639,6 +2636,7 @@ pszczynska.pl,polskicaravaning.pl,4run.pl,eglos.pl,wiadomoscikosmetyczne.pl,asta
 pudelek.tv,wp.tv,interaktywnie.com##[src^="http://adv.wp.pl"]
 pukawka.pl##.partnerzy
 pulsmiasta.tv##.punica-ads-1-widget
+pulspowiatu.pl##.elementor-swiper
 pultusk24.pl##.row:nth-of-type(11)
 pultusk24.pl##.row:nth-of-type(7)
 pultusk24.pl##div.row:nth-of-type(3)
@@ -4125,6 +4123,7 @@ zywiecinfo.pl##.promoted
 ||s.bankier.pl^
 ||s-nk.pl/files/offers/$subdocument
 ||sadeczanin.info/sites/default/files/journos/user14/2020/*.gif$image
+||sadeczanin.info/sites/default/files/wsb_0.png
 ||satkurier.pl/getRandomBanner
 ||satkurier.pl/laravel/banery/
 ||sekabet105.com/*banners*/$subdocument

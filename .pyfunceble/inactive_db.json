@@ -3885,6 +3885,13 @@
             "last_retested_at_iso": "2020-12-20T06:33:12.587340",
             "status": "ACTIVE"
         },
+        "e-chorzow.com": {
+            "included_at_epoch": 1608618081.119114,
+            "included_at_iso": "2020-12-22T06:21:21.119114",
+            "last_retested_at_epoch": 1608618081.119114,
+            "last_retested_at_iso": "2020-12-22T06:21:21.119114",
+            "status": "ACTIVE"
+        },
         "e-dobrydom.pl": {
             "included_at_epoch": 1606200466.081479,
             "included_at_iso": "2020-11-24T06:47:46.081479",
@@ -15307,6 +15314,13 @@
             "included_at_iso": "2020-12-20T06:33:16.939448",
             "last_retested_at_epoch": 1608445996.939448,
             "last_retested_at_iso": "2020-12-20T06:33:16.939448",
+            "status": "ACTIVE"
+        },
+        "pulspowiatu.pl": {
+            "included_at_epoch": 1608618081.232005,
+            "included_at_iso": "2020-12-22T06:21:21.232005",
+            "last_retested_at_epoch": 1608618081.232005,
+            "last_retested_at_iso": "2020-12-22T06:21:21.232005",
             "status": "ACTIVE"
         },
         "pultusk24.pl": {
