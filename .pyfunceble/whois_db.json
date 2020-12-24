@@ -267,6 +267,12 @@
         "expiration_date": "22-aug-2025",
         "state": "future"
     },
+    "adrestymczasowy.pl": {
+        "epoch": 1619395200.0,
+        "expiration_date": "26-apr-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "ads-analytic.com": {
         "epoch": 1627344000.0,
         "expiration_date": "27-jul-2021",
@@ -1705,6 +1711,12 @@
         "expiration_date": "16-jan-2023",
         "state": "future"
     },
+    "chojnakulturalnie.pl": {
+        "epoch": 1633910400.0,
+        "expiration_date": "11-oct-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "chojnice.com": {
         "epoch": 1622505600.0,
         "expiration_date": "01-jun-2021",
@@ -1924,6 +1936,12 @@
     "crafted.pl": {
         "epoch": 1595980800,
         "expiration_date": "29-jul-2020",
+        "state": "future"
+    },
+    "craftlista.pl": {
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "craftportal.pl": {
@@ -6360,6 +6378,12 @@
         "expiration_date": "22-may-2021",
         "state": "future"
     },
+    "kocham.wielun.pl": {
+        "epoch": 1639872000.0,
+        "expiration_date": "19-dec-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
     "kociesprawy.pl": {
         "epoch": 1636329600.0,
         "expiration_date": "08-nov-2021",
@@ -7278,6 +7302,12 @@
     "lubelska.tv": {
         "epoch": 1626825600.0,
         "expiration_date": "21-jul-2021",
+        "state": "future"
+    },
+    "lubelszczyzna.info": {
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "lubiegrac.pl": {
@@ -14614,6 +14644,12 @@
         "state": "future"
     },
     "wiescimiedzychodzkie.pl": {
+        "epoch": 1636761600.0,
+        "expiration_date": "13-nov-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
+    "wiescipolickie.pl": {
         "epoch": 1636761600.0,
         "expiration_date": "13-nov-2021",
         "server": "whois.dns.pl",

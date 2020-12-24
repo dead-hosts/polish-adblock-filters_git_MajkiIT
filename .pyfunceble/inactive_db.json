@@ -413,6 +413,13 @@
             "last_retested_at_iso": "2020-12-20T06:49:43.228717",
             "status": "ACTIVE"
         },
+        "adrestymczasowy.pl": {
+            "included_at_epoch": 1608790928.100542,
+            "included_at_iso": "2020-12-24T06:22:08.100542",
+            "last_retested_at_epoch": 1608790928.100542,
+            "last_retested_at_iso": "2020-12-24T06:22:08.100542",
+            "status": "ACTIVE"
+        },
         "ads-analytic.com": {
             "included_at_epoch": 1607926756.233182,
             "included_at_iso": "2020-12-14T06:19:16.233182",
@@ -785,10 +792,10 @@
             "status": "ACTIVE"
         },
         "angelo.fernandonguyen.online": {
-            "included_at_epoch": 1606200466.360224,
-            "included_at_iso": "2020-11-24T06:47:46.360224",
-            "last_retested_at_epoch": 1606200466.360224,
-            "last_retested_at_iso": "2020-11-24T06:47:46.360224",
+            "included_at_epoch": 1608790929.005521,
+            "included_at_iso": "2020-12-24T06:22:09.005521",
+            "last_retested_at_epoch": 1608790929.005521,
+            "last_retested_at_iso": "2020-12-24T06:22:09.005521",
             "status": "INACTIVE"
         },
         "anglia.today": {
@@ -2513,6 +2520,13 @@
             "last_retested_at_iso": "2020-12-20T06:33:17.051888",
             "status": "ACTIVE"
         },
+        "chojnakulturalnie.pl": {
+            "included_at_epoch": 1608790928.380662,
+            "included_at_iso": "2020-12-24T06:22:08.380662",
+            "last_retested_at_epoch": 1608790928.862744,
+            "last_retested_at_iso": "2020-12-24T06:22:08.862744",
+            "status": "ACTIVE"
+        },
         "chojnice.com": {
             "included_at_epoch": 1608445997.061775,
             "included_at_iso": "2020-12-20T06:33:17.061775",
@@ -2805,6 +2819,13 @@
             "included_at_iso": "2020-12-20T06:33:17.580048",
             "last_retested_at_epoch": 1608445997.580048,
             "last_retested_at_iso": "2020-12-20T06:33:17.580048",
+            "status": "ACTIVE"
+        },
+        "craftlista.pl": {
+            "included_at_epoch": 1608790928.174088,
+            "included_at_iso": "2020-12-24T06:22:08.174088",
+            "last_retested_at_epoch": 1608790928.174088,
+            "last_retested_at_iso": "2020-12-24T06:22:08.174088",
             "status": "ACTIVE"
         },
         "craftportal.pl": {
@@ -3239,6 +3260,13 @@
             "included_at_iso": "2020-12-20T06:33:36.658498",
             "last_retested_at_epoch": 1608446016.658498,
             "last_retested_at_iso": "2020-12-20T06:33:36.658498",
+            "status": "ACTIVE"
+        },
+        "deblin24.eu": {
+            "included_at_epoch": 1608790928.243334,
+            "included_at_iso": "2020-12-24T06:22:08.243334",
+            "last_retested_at_epoch": 1608790928.243334,
+            "last_retested_at_iso": "2020-12-24T06:22:08.243334",
             "status": "ACTIVE"
         },
         "deblinnews.pl": {
@@ -3893,10 +3921,10 @@
             "status": "ACTIVE"
         },
         "e-dobrydom.pl": {
-            "included_at_epoch": 1606200466.081479,
-            "included_at_iso": "2020-11-24T06:47:46.081479",
-            "last_retested_at_epoch": 1606200466.081479,
-            "last_retested_at_iso": "2020-11-24T06:47:46.081479",
+            "included_at_epoch": 1608790928.286909,
+            "included_at_iso": "2020-12-24T06:22:08.286909",
+            "last_retested_at_epoch": 1608790928.286909,
+            "last_retested_at_iso": "2020-12-24T06:22:08.286909",
             "status": "ACTIVE"
         },
         "e-dukacja.pl": {
@@ -7477,10 +7505,10 @@
             "status": "ACTIVE"
         },
         "ibielany.pl": {
-            "included_at_epoch": 1606200466.128563,
-            "included_at_iso": "2020-11-24T06:47:46.128563",
-            "last_retested_at_epoch": 1606200466.128563,
-            "last_retested_at_iso": "2020-11-24T06:47:46.128563",
+            "included_at_epoch": 1608790928.333618,
+            "included_at_iso": "2020-12-24T06:22:08.333618",
+            "last_retested_at_epoch": 1608790928.333618,
+            "last_retested_at_iso": "2020-12-24T06:22:08.333618",
             "status": "ACTIVE"
         },
         "ibielsk.pl": {
@@ -8974,6 +9002,13 @@
             "last_retested_at_iso": "2020-12-20T06:33:36.110718",
             "status": "ACTIVE"
         },
+        "kocham.wielun.pl": {
+            "included_at_epoch": 1608790928.451045,
+            "included_at_iso": "2020-12-24T06:22:08.451045",
+            "last_retested_at_epoch": 1608790928.451045,
+            "last_retested_at_iso": "2020-12-24T06:22:08.451045",
+            "status": "ACTIVE"
+        },
         "kociesprawy.pl": {
             "included_at_epoch": 1608446936.063281,
             "included_at_iso": "2020-12-20T06:48:56.063281",
@@ -10225,6 +10260,13 @@
             "included_at_iso": "2020-12-20T06:48:56.183324",
             "last_retested_at_epoch": 1608446936.183324,
             "last_retested_at_iso": "2020-12-20T06:48:56.183324",
+            "status": "ACTIVE"
+        },
+        "lubelszczyzna.info": {
+            "included_at_epoch": 1608790928.519616,
+            "included_at_iso": "2020-12-24T06:22:08.519616",
+            "last_retested_at_epoch": 1608790928.519616,
+            "last_retested_at_iso": "2020-12-24T06:22:08.519616",
             "status": "ACTIVE"
         },
         "lubiegrac.pl": {
@@ -11957,10 +11999,10 @@
             "status": "ACTIVE"
         },
         "mypolacy.nl": {
-            "included_at_epoch": 1606200466.247125,
-            "included_at_iso": "2020-11-24T06:47:46.247125",
-            "last_retested_at_epoch": 1606200466.449197,
-            "last_retested_at_iso": "2020-11-24T06:47:46.449197",
+            "included_at_epoch": 1608790928.770235,
+            "included_at_iso": "2020-12-24T06:22:08.770235",
+            "last_retested_at_epoch": 1608790929.14321,
+            "last_retested_at_iso": "2020-12-24T06:22:09.143210",
             "status": "INACTIVE"
         },
         "myslenicka24.pl": {
@@ -12608,10 +12650,10 @@
             "status": "ACTIVE"
         },
         "nowykamieniarz.pl": {
-            "included_at_epoch": 1606200466.1749,
-            "included_at_iso": "2020-11-24T06:47:46.174900",
-            "last_retested_at_epoch": 1606200466.1749,
-            "last_retested_at_iso": "2020-11-24T06:47:46.174900",
+            "included_at_epoch": 1608790928.724586,
+            "included_at_iso": "2020-12-24T06:22:08.724586",
+            "last_retested_at_epoch": 1608790928.724586,
+            "last_retested_at_iso": "2020-12-24T06:22:08.724586",
             "status": "ACTIVE"
         },
         "nowyoutsourcing.pl": {
@@ -17445,10 +17487,10 @@
             "status": "ACTIVE"
         },
         "stockwatch.pl": {
-            "included_at_epoch": 1606200466.290857,
-            "included_at_iso": "2020-11-24T06:47:46.290857",
-            "last_retested_at_epoch": 1606200466.290857,
-            "last_retested_at_iso": "2020-11-24T06:47:46.290857",
+            "included_at_epoch": 1608790928.815827,
+            "included_at_iso": "2020-12-24T06:22:08.815827",
+            "last_retested_at_epoch": 1608790928.815827,
+            "last_retested_at_iso": "2020-12-24T06:22:08.815827",
             "status": "ACTIVE"
         },
         "stomil.olsztyn.pl": {
@@ -20412,6 +20454,13 @@
             "last_retested_at_iso": "2020-12-20T06:33:13.025359",
             "status": "ACTIVE"
         },
+        "wiescipolickie.pl": {
+            "included_at_epoch": 1608790928.935556,
+            "included_at_iso": "2020-12-24T06:22:08.935556",
+            "last_retested_at_epoch": 1608790928.935556,
+            "last_retested_at_iso": "2020-12-24T06:22:08.935556",
+            "status": "ACTIVE"
+        },
         "wiescirolnicze.pl": {
             "included_at_epoch": 1608446967.076294,
             "included_at_iso": "2020-12-20T06:49:27.076294",
@@ -21441,6 +21490,13 @@
             "last_retested_at_iso": "2020-12-20T06:49:33.987216",
             "status": "ACTIVE"
         },
+        "www.meblarstwo.eu": {
+            "included_at_epoch": 1608790928.588303,
+            "included_at_iso": "2020-12-24T06:22:08.588303",
+            "last_retested_at_epoch": 1608790928.679391,
+            "last_retested_at_iso": "2020-12-24T06:22:08.679391",
+            "status": "ACTIVE"
+        },
         "www.meczenazywo.pl": {
             "included_at_epoch": 1608446994.14852,
             "included_at_iso": "2020-12-20T06:49:54.148520",
@@ -22412,6 +22468,13 @@
             "included_at_iso": "2020-12-20T06:49:13.841054",
             "last_retested_at_epoch": 1608446981.061187,
             "last_retested_at_iso": "2020-12-20T06:49:41.061187",
+            "status": "ACTIVE"
+        },
+        "ziemiastrzelecka.strzelce.pl": {
+            "included_at_epoch": 1608790929.05089,
+            "included_at_iso": "2020-12-24T06:22:09.050890",
+            "last_retested_at_epoch": 1608790929.18924,
+            "last_retested_at_iso": "2020-12-24T06:22:09.189240",
             "status": "ACTIVE"
         },
         "ziemniak-bonin.pl": {
