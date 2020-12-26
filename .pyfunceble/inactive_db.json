@@ -974,10 +974,10 @@
             "status": "ACTIVE"
         },
         "aranzujemy.co.pl": {
-            "included_at_epoch": 1606372847.208541,
-            "included_at_iso": "2020-11-26T06:40:47.208541",
-            "last_retested_at_epoch": 1606372847.208541,
-            "last_retested_at_iso": "2020-11-26T06:40:47.208541",
+            "included_at_epoch": 1608963819.793619,
+            "included_at_iso": "2020-12-26T06:23:39.793619",
+            "last_retested_at_epoch": 1608963819.793619,
+            "last_retested_at_iso": "2020-12-26T06:23:39.793619",
             "status": "ACTIVE"
         },
         "archiwum.wiesci.com.pl": {
@@ -7386,10 +7386,10 @@
             "status": "ACTIVE"
         },
         "homebook.pl": {
-            "included_at_epoch": 1606543673.230649,
-            "included_at_iso": "2020-11-28T06:07:53.230649",
-            "last_retested_at_epoch": 1606543673.230649,
-            "last_retested_at_iso": "2020-11-28T06:07:53.230649",
+            "included_at_epoch": 1608963819.647001,
+            "included_at_iso": "2020-12-26T06:23:39.647001",
+            "last_retested_at_epoch": 1608963819.647001,
+            "last_retested_at_iso": "2020-12-26T06:23:39.647001",
             "status": "ACTIVE"
         },
         "hopaj.pl": {
@@ -15296,10 +15296,10 @@
             "status": "ACTIVE"
         },
         "pub.contexthub.net": {
-            "included_at_epoch": 1606372847.155402,
-            "included_at_iso": "2020-11-26T06:40:47.155402",
-            "last_retested_at_epoch": 1606372847.155402,
-            "last_retested_at_iso": "2020-11-26T06:40:47.155402",
+            "included_at_epoch": 1608963819.747558,
+            "included_at_iso": "2020-12-26T06:23:39.747558",
+            "last_retested_at_epoch": 1608963819.747558,
+            "last_retested_at_iso": "2020-12-26T06:23:39.747558",
             "status": "ACTIVE"
         },
         "pubads.g.doubleclick.net": {
@@ -19356,10 +19356,10 @@
             "status": "ACTIVE"
         },
         "twoje-strony.pl": {
-            "included_at_epoch": 1606543673.324957,
-            "included_at_iso": "2020-11-28T06:07:53.324957",
-            "last_retested_at_epoch": 1606543673.324957,
-            "last_retested_at_iso": "2020-11-28T06:07:53.324957",
+            "included_at_epoch": 1608963819.700436,
+            "included_at_iso": "2020-12-26T06:23:39.700436",
+            "last_retested_at_epoch": 1608963819.700436,
+            "last_retested_at_iso": "2020-12-26T06:23:39.700436",
             "status": "ACTIVE"
         },
         "twojecentrum.pl": {
