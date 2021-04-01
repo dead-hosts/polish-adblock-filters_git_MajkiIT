@@ -1,0 +1,13 @@
+{
+    "checker_type": "AVAILABILITY",
+    "destination": "origin.list",
+    "hash": "ac9c3f4b931ef64530ac2a4d1ad0ba4bb5dbe4d236309acd192a29ba",
+    "line_number": 5233,
+    "output_dir": "/home/runner/work/polish-adblock-filters_git_MajkiIT/polish-adblock-filters_git_MajkiIT/output/origin.list",
+    "previous_hash": "ac9c3f4b931ef64530ac2a4d1ad0ba4bb5dbe4d236309acd192a29ba",
+    "session_id": "9b455f3fb651b78576a9bd31",
+    "source": "origin.list",
+    "subject": "origin.list",
+    "subject_type": "domain",
+    "type": "file"
+}
