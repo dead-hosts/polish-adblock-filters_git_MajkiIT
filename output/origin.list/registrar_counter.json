@@ -1,0 +1,20 @@
+{
+    "counter": {
+        "1API GmbH": 1,
+        "Key-Systems GmbH": 2,
+        "Key-Systems, LLC": 1,
+        "NetArt Registrar Sp. z o.o.": 4,
+        "OVH sas": 1,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
+        "total": 10
+    },
+    "percentage": {
+        "1API GmbH": 10.0,
+        "Key-Systems GmbH": 20.0,
+        "Key-Systems, LLC": 10.0,
+        "NetArt Registrar Sp. z o.o.": 40.0,
+        "OVH sas": 10.0,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 10.0,
+        "total": 100.0
+    }
+}
