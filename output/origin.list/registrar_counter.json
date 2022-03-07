@@ -1,20 +1,24 @@
 {
     "counter": {
-        "1API GmbH": 1,
-        "Key-Systems GmbH": 2,
+        "1API GmbH": 6,
+        "CSC Corporate Domains, Inc.": 1,
+        "Key-Systems GmbH": 3,
         "Key-Systems, LLC": 1,
-        "NetArt Registrar Sp. z o.o.": 4,
+        "NetArt Registrar Sp. z o.o.": 5,
+        "OVH SAS": 2,
         "OVH sas": 1,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
-        "total": 10
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
+        "total": 21
     },
     "percentage": {
-        "1API GmbH": 10.0,
-        "Key-Systems GmbH": 20.0,
-        "Key-Systems, LLC": 10.0,
-        "NetArt Registrar Sp. z o.o.": 40.0,
-        "OVH sas": 10.0,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 10.0,
-        "total": 100.0
+        "1API GmbH": 28.571428571428573,
+        "CSC Corporate Domains, Inc.": 4.761904761904762,
+        "Key-Systems GmbH": 14.285714285714286,
+        "Key-Systems, LLC": 4.761904761904762,
+        "NetArt Registrar Sp. z o.o.": 23.80952380952381,
+        "OVH SAS": 9.523809523809524,
+        "OVH sas": 4.761904761904762,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 9.523809523809524,
+        "total": 99.99999999999999
     }
 }
