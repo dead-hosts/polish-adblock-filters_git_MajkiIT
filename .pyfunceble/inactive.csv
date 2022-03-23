@@ -1460,3 +1460,4 @@ github,AVAILABILITY,origin.list,2022-03-22 06:07:25.627033
 "/:\/\/[\w\W]{5,15}\.[a-z]{2,3}:[0-9]{3,4}\//$domain=vidoza.net",AVAILABILITY,origin.list,2022-03-22 06:09:18.871957
 "@@||www.googletagmanager.com/gtag/js$script,domain=www.geselle.pl|heydoc.pl",AVAILABILITY,origin.list,2022-03-22 06:09:20.630507
 "@@||www.googletagmanager.com/gtm.js$script,domain=geselle.pl",AVAILABILITY,origin.list,2022-03-22 06:09:24.044937
+"24wspolnota.pl,kociewiak.pl,cooltura24.co.uk,halogorlice.info,dziennikpowiatowy.pl,tczewska.pl,wejherowo24.info,koscierzyna24.info,tvsudecka.pl,nasztomaszow.pl,www.sandomierztv.pl,korso24.pl,boleslawiec.tv,tarnowska.tv,olesnica24.com,sejny.info,lokalna.news,bp24.pl,dzienniknowy.pl",AVAILABILITY,origin.list,2022-03-23 05:08:38.647542
