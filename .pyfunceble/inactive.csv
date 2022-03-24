@@ -1,7 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-"24wspolnota.pl,kociewiak.pl,cooltura24.co.uk,halogorlice.info,dziennikpowiatowy.pl,tczewska.pl,wejherowo24.info,koscierzyna24.info,tvsudecka.pl,nasztomaszow.pl,www.sandomierztv.pl,korso24.pl,boleslawiec.tv,tarnowska.tv,olesnica24.com,sejny.info,lokalna.news,bp24.pl,dzienniknowy.pl",AVAILABILITY,origin.list,2022-03-23 05:08:38.647542
-||partner.rankomat.pl/tracking/,AVAILABILITY,origin.list,2022-03-23 06:29:46.936561
-"||zamioculcas2.org/$image,domain=budujesz.info",AVAILABILITY,origin.list,2022-03-23 06:30:01.402287
 "/affiliates/$image,domain=www.pasazer.com",AVAILABILITY,origin.list,2022-03-23 06:37:57.995022
 "/baners/$image,domain=raciborz24.pl",AVAILABILITY,origin.list,2022-03-23 06:37:58.188397
 /banery/*110x90,AVAILABILITY,origin.list,2022-03-23 06:37:58.338267
@@ -1463,3 +1460,6 @@ github,AVAILABILITY,origin.list,2022-03-23 06:51:32.533578
 "/:\/\/[\w\W]{5,15}\.[a-z]{2,3}:[0-9]{3,4}\//$domain=vidoza.net",AVAILABILITY,origin.list,2022-03-23 06:57:05.155756
 "@@||www.googletagmanager.com/gtm.js$script,domain=geselle.pl",AVAILABILITY,origin.list,2022-03-23 06:57:05.471528
 "@@||www.googletagmanager.com/gtag/js$script,domain=www.geselle.pl|heydoc.pl",AVAILABILITY,origin.list,2022-03-23 06:57:05.698849
+||partner.rankomat.pl/tracking/,AVAILABILITY,origin.list,2022-03-24 06:36:51.673892
+"24wspolnota.pl,kociewiak.pl,cooltura24.co.uk,halogorlice.info,dziennikpowiatowy.pl,tczewska.pl,wejherowo24.info,koscierzyna24.info,tvsudecka.pl,nasztomaszow.pl,www.sandomierztv.pl,korso24.pl,boleslawiec.tv,tarnowska.tv,olesnica24.com,sejny.info,lokalna.news,bp24.pl,dzienniknowy.pl",AVAILABILITY,origin.list,2022-03-24 06:36:52.020871
+"||zamioculcas2.org/$image,domain=budujesz.info",AVAILABILITY,origin.list,2022-03-24 06:36:53.037315
