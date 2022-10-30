@@ -1,0 +1,32 @@
+{
+    "counter": {
+        "007Names, Inc.": 1,
+        "GoDaddy.com, LLC": 2,
+        "Key-Systems GmbH": 5,
+        "MarkMonitor Inc.": 1,
+        "NameSilo, LLC": 2,
+        "NetArt Registrar Sp. z o.o.": 9,
+        "OVH": 2,
+        "OVH SAS": 2,
+        "OVH sas": 4,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 4,
+        "Sav.com LLC": 1,
+        "eNom, LLC": 2,
+        "total": 35
+    },
+    "percentage": {
+        "007Names, Inc.": 2.857142857142857,
+        "GoDaddy.com, LLC": 5.714285714285714,
+        "Key-Systems GmbH": 14.285714285714286,
+        "MarkMonitor Inc.": 2.857142857142857,
+        "NameSilo, LLC": 5.714285714285714,
+        "NetArt Registrar Sp. z o.o.": 25.714285714285715,
+        "OVH": 5.714285714285714,
+        "OVH SAS": 5.714285714285714,
+        "OVH sas": 11.428571428571429,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 11.428571428571429,
+        "Sav.com LLC": 2.857142857142857,
+        "eNom, LLC": 5.714285714285714,
+        "total": 100.00000000000001
+    }
+}
