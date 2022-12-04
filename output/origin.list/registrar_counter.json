@@ -1,0 +1,40 @@
+{
+    "counter": {
+        "Ascio Technologies, Inc. Danmark - Filial af Ascio technologies, Inc. USA": 1,
+        "Dynadot LLC": 2,
+        "Dynadot16 LLC": 1,
+        "GoDaddy.com, LLC": 1,
+        "Key-Systems GmbH": 2,
+        "Key-Systems LLC": 1,
+        "NameCheap, Inc.": 3,
+        "NameSilo, LLC": 1,
+        "NetArt Registrar Sp. z o.o.": 1,
+        "Network Solutions, LLC": 1,
+        "OVH": 3,
+        "OVH sas": 2,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 3,
+        "Reliable Software, Ltd": 1,
+        "Tucows": 1,
+        "Vautron Rechenzentrum AG": 1,
+        "total": 25
+    },
+    "percentage": {
+        "Ascio Technologies, Inc. Danmark - Filial af Ascio technologies, Inc. USA": 4.0,
+        "Dynadot LLC": 8.0,
+        "Dynadot16 LLC": 4.0,
+        "GoDaddy.com, LLC": 4.0,
+        "Key-Systems GmbH": 8.0,
+        "Key-Systems LLC": 4.0,
+        "NameCheap, Inc.": 12.0,
+        "NameSilo, LLC": 4.0,
+        "NetArt Registrar Sp. z o.o.": 4.0,
+        "Network Solutions, LLC": 4.0,
+        "OVH": 12.0,
+        "OVH sas": 8.0,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 12.0,
+        "Reliable Software, Ltd": 4.0,
+        "Tucows": 4.0,
+        "Vautron Rechenzentrum AG": 4.0,
+        "total": 100.0
+    }
+}
