@@ -1,16 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-www.brief.pl,AVAILABILITY,origin.list,2023-05-30 05:12:57.955719
-www.cgm.pl,AVAILABILITY,origin.list,2023-05-30 05:13:01.708744
-www.elondyn.co.uk,AVAILABILITY,origin.list,2023-05-30 05:13:10.690462
-www.igrit.pl,AVAILABILITY,origin.list,2023-05-30 05:13:13.299564
-www.grymel.pl,AVAILABILITY,origin.list,2023-05-30 05:13:13.876580
-www.ikrotoszyn.pl,AVAILABILITY,origin.list,2023-05-30 05:13:14.528642
-www.pch24.pl,AVAILABILITY,origin.list,2023-05-30 05:13:29.054669
-www.nowawrzesnia.pl,AVAILABILITY,origin.list,2023-05-30 05:13:29.254954
-www.optymalizacja.com,AVAILABILITY,origin.list,2023-05-30 05:13:30.204946
-www.wykop.pl,AVAILABILITY,origin.list,2023-05-30 05:14:17.286450
-wss.analyticacdn.com,AVAILABILITY,origin.list,2023-05-30 05:16:43.888441
-kronikiwsi.powiatgostyn.pl,AVAILABILITY,origin.list,2023-05-30 05:16:43.924694
 "24wspolnota.pl,kociewiak.pl,cooltura24.co.uk,halogorlice.info,dziennikpowiatowy.pl,tczewska.pl,wejherowo24.info,koscierzyna24.info,tvsudecka.pl,nasztomaszow.pl,www.sandomierztv.pl,korso24.pl,boleslawiec.tv,tarnowska.tv,olesnica24.com,sejny.info,lokalna.news,bp24.pl",AVAILABILITY,origin.list,2023-05-31 05:14:30.221538
 "300polityka.pl,meczyki.pl,pepsieliot.com,gazeta-wiesci.pl,ino-24.pl",AVAILABILITY,origin.list,2023-05-31 05:14:30.419163
 pinvazo.com,AVAILABILITY,origin.list,2023-05-31 05:14:30.444280
@@ -1527,3 +1515,14 @@ https://www.paypal.com/pools/c/87zNJ8OJ3I,AVAILABILITY,origin.list,2023-05-31 05
 mypolacy.nl,AVAILABILITY,origin.list,2023-05-31 05:19:04.234956
 lsk.plps.pl,AVAILABILITY,origin.list,2023-05-31 05:19:11.382345
 belchatow.bai.pl,AVAILABILITY,origin.list,2023-05-31 05:19:19.951686
+www.grymel.pl,AVAILABILITY,origin.list,2023-06-01 05:21:46.925511
+www.brief.pl,AVAILABILITY,origin.list,2023-06-01 05:21:47.962494
+www.cgm.pl,AVAILABILITY,origin.list,2023-06-01 05:21:47.988841
+www.elondyn.co.uk,AVAILABILITY,origin.list,2023-06-01 05:21:48.786816
+www.pch24.pl,AVAILABILITY,origin.list,2023-06-01 05:21:49.469643
+www.ikrotoszyn.pl,AVAILABILITY,origin.list,2023-06-01 05:21:50.401609
+www.nowawrzesnia.pl,AVAILABILITY,origin.list,2023-06-01 05:21:50.856234
+www.optymalizacja.com,AVAILABILITY,origin.list,2023-06-01 05:21:51.050447
+wss.analyticacdn.com,AVAILABILITY,origin.list,2023-06-01 05:21:51.296938
+www.wykop.pl,AVAILABILITY,origin.list,2023-06-01 05:21:51.223606
+kronikiwsi.powiatgostyn.pl,AVAILABILITY,origin.list,2023-06-01 05:21:52.345542
