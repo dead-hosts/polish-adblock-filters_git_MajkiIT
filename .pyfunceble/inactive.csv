@@ -1,15 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-www.grymel.pl,AVAILABILITY,origin.list,2023-06-01 05:21:46.925511
-www.brief.pl,AVAILABILITY,origin.list,2023-06-01 05:21:47.962494
-www.cgm.pl,AVAILABILITY,origin.list,2023-06-01 05:21:47.988841
-www.elondyn.co.uk,AVAILABILITY,origin.list,2023-06-01 05:21:48.786816
-www.pch24.pl,AVAILABILITY,origin.list,2023-06-01 05:21:49.469643
-www.ikrotoszyn.pl,AVAILABILITY,origin.list,2023-06-01 05:21:50.401609
-www.nowawrzesnia.pl,AVAILABILITY,origin.list,2023-06-01 05:21:50.856234
-www.optymalizacja.com,AVAILABILITY,origin.list,2023-06-01 05:21:51.050447
-wss.analyticacdn.com,AVAILABILITY,origin.list,2023-06-01 05:21:51.296938
-www.wykop.pl,AVAILABILITY,origin.list,2023-06-01 05:21:51.223606
-kronikiwsi.powiatgostyn.pl,AVAILABILITY,origin.list,2023-06-01 05:21:52.345542
 www.igrit.pl,AVAILABILITY,origin.list,2023-06-02 05:13:10.211887
 "24wspolnota.pl,kociewiak.pl,cooltura24.co.uk,halogorlice.info,dziennikpowiatowy.pl,tczewska.pl,wejherowo24.info,koscierzyna24.info,tvsudecka.pl,nasztomaszow.pl,www.sandomierztv.pl,korso24.pl,boleslawiec.tv,tarnowska.tv,olesnica24.com,sejny.info,lokalna.news,bp24.pl",AVAILABILITY,origin.list,2023-06-02 05:15:28.034102
 "300polityka.pl,meczyki.pl,pepsieliot.com,gazeta-wiesci.pl,ino-24.pl",AVAILABILITY,origin.list,2023-06-02 05:15:28.808921
@@ -1527,3 +1516,11 @@ mypolacy.nl,AVAILABILITY,origin.list,2023-06-02 05:22:16.177308
 https://www.paypal.com/pools/c/87zNJ8OJ3I,AVAILABILITY,origin.list,2023-06-02 05:22:16.312076
 lsk.plps.pl,AVAILABILITY,origin.list,2023-06-02 05:22:23.181977
 belchatow.bai.pl,AVAILABILITY,origin.list,2023-06-02 05:22:31.739969
+www.grymel.pl,AVAILABILITY,origin.list,2023-06-03 05:13:59.940636
+www.brief.pl,AVAILABILITY,origin.list,2023-06-03 05:14:02.106658
+www.pch24.pl,AVAILABILITY,origin.list,2023-06-03 05:14:02.460001
+www.cgm.pl,AVAILABILITY,origin.list,2023-06-03 05:14:03.962405
+www.elondyn.co.uk,AVAILABILITY,origin.list,2023-06-03 05:14:19.909442
+wss.analyticacdn.com,AVAILABILITY,origin.list,2023-06-03 05:14:25.196070
+kronikiwsi.powiatgostyn.pl,AVAILABILITY,origin.list,2023-06-03 05:14:44.176234
+www.wykop.pl,AVAILABILITY,origin.list,2023-06-03 05:15:07.117922
