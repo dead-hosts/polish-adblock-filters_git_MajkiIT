@@ -1,11 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-www.pch24.pl,AVAILABILITY,origin.list,2023-06-05 05:15:06.253905
-wss.analyticacdn.com,AVAILABILITY,origin.list,2023-06-05 05:15:07.881253
-www.grymel.pl,AVAILABILITY,origin.list,2023-06-05 05:15:08.127314
-kronikiwsi.powiatgostyn.pl,AVAILABILITY,origin.list,2023-06-05 05:15:09.457785
-www.wykop.pl,AVAILABILITY,origin.list,2023-06-05 05:15:10.733193
-www.cgm.pl,AVAILABILITY,origin.list,2023-06-05 05:15:11.568380
-www.elondyn.co.uk,AVAILABILITY,origin.list,2023-06-05 05:15:13.400333
 www.brief.pl,AVAILABILITY,origin.list,2023-06-06 05:13:51.455972
 "24wspolnota.pl,kociewiak.pl,cooltura24.co.uk,halogorlice.info,dziennikpowiatowy.pl,tczewska.pl,wejherowo24.info,koscierzyna24.info,tvsudecka.pl,nasztomaszow.pl,www.sandomierztv.pl,korso24.pl,boleslawiec.tv,tarnowska.tv,olesnica24.com,sejny.info,lokalna.news,bp24.pl",AVAILABILITY,origin.list,2023-06-06 05:16:28.552996
 www.ikrotoszyn.pl,AVAILABILITY,origin.list,2023-06-06 05:16:29.340156
@@ -1527,3 +1520,10 @@ https://www.paypal.com/pools/c/87zNJ8OJ3I,AVAILABILITY,origin.list,2023-06-06 05
 mypolacy.nl,AVAILABILITY,origin.list,2023-06-06 05:25:59.542865
 lsk.plps.pl,AVAILABILITY,origin.list,2023-06-06 05:26:06.920655
 belchatow.bai.pl,AVAILABILITY,origin.list,2023-06-06 05:26:14.594581
+wss.analyticacdn.com,AVAILABILITY,origin.list,2023-06-07 05:14:32.182203
+www.pch24.pl,AVAILABILITY,origin.list,2023-06-07 05:14:32.268601
+kronikiwsi.powiatgostyn.pl,AVAILABILITY,origin.list,2023-06-07 05:14:33.464777
+www.wykop.pl,AVAILABILITY,origin.list,2023-06-07 05:14:33.895837
+www.grymel.pl,AVAILABILITY,origin.list,2023-06-07 05:14:35.346439
+www.cgm.pl,AVAILABILITY,origin.list,2023-06-07 05:14:38.530332
+www.elondyn.co.uk,AVAILABILITY,origin.list,2023-06-07 05:14:39.212318
