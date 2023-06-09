@@ -1,11 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-wss.analyticacdn.com,AVAILABILITY,origin.list,2023-06-07 05:14:32.182203
-www.pch24.pl,AVAILABILITY,origin.list,2023-06-07 05:14:32.268601
-kronikiwsi.powiatgostyn.pl,AVAILABILITY,origin.list,2023-06-07 05:14:33.464777
-www.wykop.pl,AVAILABILITY,origin.list,2023-06-07 05:14:33.895837
-www.grymel.pl,AVAILABILITY,origin.list,2023-06-07 05:14:35.346439
-www.cgm.pl,AVAILABILITY,origin.list,2023-06-07 05:14:38.530332
-www.elondyn.co.uk,AVAILABILITY,origin.list,2023-06-07 05:14:39.212318
 "24wspolnota.pl,kociewiak.pl,cooltura24.co.uk,halogorlice.info,dziennikpowiatowy.pl,tczewska.pl,wejherowo24.info,koscierzyna24.info,tvsudecka.pl,nasztomaszow.pl,www.sandomierztv.pl,korso24.pl,boleslawiec.tv,tarnowska.tv,olesnica24.com,sejny.info,lokalna.news,bp24.pl",AVAILABILITY,origin.list,2023-06-08 05:15:11.920470
 "300polityka.pl,meczyki.pl,pepsieliot.com,gazeta-wiesci.pl,ino-24.pl",AVAILABILITY,origin.list,2023-06-08 05:15:12.620074
 "auto-motor-i-sport.pl,menshealth.pl,womenshealth.pl,runners-world.pl,motocykl-online.pl",AVAILABILITY,origin.list,2023-06-08 05:15:14.205180
@@ -1527,3 +1520,13 @@ mypolacy.nl,AVAILABILITY,origin.list,2023-06-08 05:24:50.078717
 https://www.paypal.com/pools/c/87zNJ8OJ3I,AVAILABILITY,origin.list,2023-06-08 05:24:52.674655
 lsk.plps.pl,AVAILABILITY,origin.list,2023-06-08 05:24:58.245080
 belchatow.bai.pl,AVAILABILITY,origin.list,2023-06-08 05:25:06.460807
+aff.mediarotate.com,AVAILABILITY,origin.list,2023-06-09 05:08:22.198983
+zas.mylead.global,AVAILABILITY,origin.list,2023-06-09 05:15:12.876953
+www.locomobit.pl,AVAILABILITY,origin.list,2023-06-09 05:15:47.332021
+sooloaph.com,AVAILABILITY,origin.list,2023-06-09 05:17:09.397907
+wss.analyticacdn.com,AVAILABILITY,origin.list,2023-06-09 05:17:36.153796
+www.pch24.pl,AVAILABILITY,origin.list,2023-06-09 05:17:36.531786
+www.wykop.pl,AVAILABILITY,origin.list,2023-06-09 05:17:43.850898
+www.grymel.pl,AVAILABILITY,origin.list,2023-06-09 05:17:45.610898
+www.cgm.pl,AVAILABILITY,origin.list,2023-06-09 05:17:48.348622
+www.elondyn.co.uk,AVAILABILITY,origin.list,2023-06-09 05:17:51.356238
