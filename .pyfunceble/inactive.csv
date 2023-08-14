@@ -1,11 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-quantcast.mgr.consensu.org,AVAILABILITY,origin.list,2023-08-12 05:11:11.323583
-spolecznosci.mgr.consensu.org,AVAILABILITY,origin.list,2023-08-12 05:11:11.432735
-opsonew3org.sg,AVAILABILITY,origin.list,2023-08-12 05:11:11.716802
-darksidebox.xyz,AVAILABILITY,origin.list,2023-08-12 05:11:11.917209
-www.locomobit.pl,AVAILABILITY,origin.list,2023-08-12 05:11:11.969152
-thiksikr.com,AVAILABILITY,origin.list,2023-08-12 05:11:12.123939
-www.brief.pl,AVAILABILITY,origin.list,2023-08-12 05:11:18.232925
 "24wspolnota.pl,kociewiak.pl,cooltura24.co.uk,halogorlice.info,dziennikpowiatowy.pl,tczewska.pl,wejherowo24.info,koscierzyna24.info,tvsudecka.pl,nasztomaszow.pl,www.sandomierztv.pl,korso24.pl,boleslawiec.tv,tarnowska.tv,olesnica24.com,sejny.info,lokalna.news,bp24.pl",AVAILABILITY,origin.list,2023-08-13 05:11:05.317940
 pinvazo.com,AVAILABILITY,origin.list,2023-08-13 05:11:05.495710
 "300polityka.pl,meczyki.pl,pepsieliot.com,gazeta-wiesci.pl,ino-24.pl",AVAILABILITY,origin.list,2023-08-13 05:11:06.191197
@@ -1526,3 +1519,10 @@ www.elondyn.co.uk,AVAILABILITY,origin.list,2023-08-13 05:18:26.403368
 lsk.plps.pl,AVAILABILITY,origin.list,2023-08-13 05:18:32.098342
 ||click.aliexpress.com^$domain=~pepper.pl|~click.aliexpress.com,AVAILABILITY,origin.list,2023-08-13 05:19:01.975148
 belchatow.bai.pl,AVAILABILITY,origin.list,2023-08-13 05:19:26.712212
+quantcast.mgr.consensu.org,AVAILABILITY,origin.list,2023-08-14 05:13:47.828082
+spolecznosci.mgr.consensu.org,AVAILABILITY,origin.list,2023-08-14 05:13:47.884382
+opsonew3org.sg,AVAILABILITY,origin.list,2023-08-14 05:13:48.265979
+darksidebox.xyz,AVAILABILITY,origin.list,2023-08-14 05:13:48.355543
+www.locomobit.pl,AVAILABILITY,origin.list,2023-08-14 05:13:48.465570
+thiksikr.com,AVAILABILITY,origin.list,2023-08-14 05:13:48.836477
+www.brief.pl,AVAILABILITY,origin.list,2023-08-14 05:13:56.358169
