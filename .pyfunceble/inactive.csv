@@ -1,11 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-quantcast.mgr.consensu.org,AVAILABILITY,origin.list,2023-08-14 05:13:47.828082
-spolecznosci.mgr.consensu.org,AVAILABILITY,origin.list,2023-08-14 05:13:47.884382
-opsonew3org.sg,AVAILABILITY,origin.list,2023-08-14 05:13:48.265979
-darksidebox.xyz,AVAILABILITY,origin.list,2023-08-14 05:13:48.355543
-www.locomobit.pl,AVAILABILITY,origin.list,2023-08-14 05:13:48.465570
-thiksikr.com,AVAILABILITY,origin.list,2023-08-14 05:13:48.836477
-www.brief.pl,AVAILABILITY,origin.list,2023-08-14 05:13:56.358169
 "24wspolnota.pl,kociewiak.pl,cooltura24.co.uk,halogorlice.info,dziennikpowiatowy.pl,tczewska.pl,wejherowo24.info,koscierzyna24.info,tvsudecka.pl,nasztomaszow.pl,www.sandomierztv.pl,korso24.pl,boleslawiec.tv,tarnowska.tv,olesnica24.com,sejny.info,lokalna.news,bp24.pl",AVAILABILITY,origin.list,2023-08-15 05:11:57.101295
 pinvazo.com,AVAILABILITY,origin.list,2023-08-15 05:11:57.287157
 "300polityka.pl,meczyki.pl,pepsieliot.com,gazeta-wiesci.pl,ino-24.pl",AVAILABILITY,origin.list,2023-08-15 05:11:57.398762
@@ -1526,3 +1519,10 @@ lsk.plps.pl,AVAILABILITY,origin.list,2023-08-15 05:14:34.680457
 www.cgm.pl,AVAILABILITY,origin.list,2023-08-15 05:14:37.183318
 www.elondyn.co.uk,AVAILABILITY,origin.list,2023-08-15 05:14:39.343550
 belchatow.bai.pl,AVAILABILITY,origin.list,2023-08-15 05:14:50.344860
+quantcast.mgr.consensu.org,AVAILABILITY,origin.list,2023-08-16 05:13:29.222541
+spolecznosci.mgr.consensu.org,AVAILABILITY,origin.list,2023-08-16 05:13:29.597638
+opsonew3org.sg,AVAILABILITY,origin.list,2023-08-16 05:13:29.762870
+darksidebox.xyz,AVAILABILITY,origin.list,2023-08-16 05:13:29.830366
+www.locomobit.pl,AVAILABILITY,origin.list,2023-08-16 05:13:29.929063
+thiksikr.com,AVAILABILITY,origin.list,2023-08-16 05:13:30.111691
+www.brief.pl,AVAILABILITY,origin.list,2023-08-16 05:13:38.134137
